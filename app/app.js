@@ -467,8 +467,10 @@
       <div id="tr"></div>
       <p class="legend"><span>Machine translation</span> marks entries filled in by AI where Wiktionary has no translation yet. Select a translation to copy it; use ☆ to keep a language at the top of every page.</p>
       <div class="detail">
-        <section><h2>Meaning</h2><ol class="defs">${(doc.definitions || []).map((d) => `<li>${esc(d)}</li>`).join("")}</ol>
-          <p class="small muted">Definitions and native translations from <a href="${esc(doc.source)}" rel="noopener">Wiktionary</a>. Spotted a mistake? <a class="js-suggest" href="https://github.com/MethodoxTech/Multilingualism/issues/new" rel="noopener">Suggest a correction</a>, or fix it on Wiktionary, which this site rebuilds from.</p>
+        <section><h2>English definitions</h2>
+          <p class="small muted">These definitions may cover several senses. The translations above use the meaning shown under the headword.</p>
+          <ol class="defs">${(doc.definitions || []).map((d) => `<li>${esc(d)}</li>`).join("")}</ol>
+          <p class="small muted">Definitions and source translations from <a href="${esc(doc.source)}" rel="noopener">Wiktionary</a>. For machine translations, import errors or display problems, <a class="js-suggest" href="https://github.com/MethodoxTech/Multilingualism/issues/new" rel="noopener">suggest a correction</a> on GitHub. Errors in Wiktionary's own translation tables can be corrected at the source entry.</p>
           ${doc.otherSenses.length ? `<h2 style="margin-top:28px">Other meanings</h2>${doc.otherSenses.map((s, i) => otherSense(s, i)).join("")}` : ""}
         </section>
         <section><h2>Nearby words</h2><ul class="near" id="near"><li class="muted">…</li></ul>
@@ -581,7 +583,8 @@
       <div class="page-head">
         <p class="crumbs"><a href="/languages">Languages</a> / ${esc(region ? region.name : "")}</p>
         <h1 class="headword" lang="${langAttr(code)}" dir="auto" style="font-family:var(--text);font-weight:650">${esc(L.native)}</h1>
-        <p class="lede">${esc(L.name)}: ${fmt(total)} English words and phrases translated, ${ai ? `${fmt(wk)} from Wiktionary and ${fmt(ai)} by machine translation${agree ? ` (in a spot check, machine translations matched Wiktionary for ${agree.matched} of ${agree.checked} words)` : ""}` : "all from Wiktionary so far"}.</p>
+        <p class="lede">${esc(L.name)}: ${fmt(total)} English words and phrases translated, ${ai ? `${fmt(wk)} from Wiktionary and ${fmt(ai)} by machine translation` : "all from Wiktionary so far"}.</p>
+        ${agree && ai ? `<p class="small muted">Automated string comparison: ${agree.matched} matches in ${agree.checked} Wiktionary-covered control words. This is not an independent accuracy estimate. <a href="/about">How the comparison works</a>.</p>` : ""}
         <p class="small links"><a href="?format=json">View as JSON</a><a href="${esc(dataURL("langs/" + code + ".json"))}" rel="noopener">Raw data file</a></p>
       </div>
       <div class="list-tools">
@@ -725,16 +728,17 @@
       <p class="lede">A fast, open alternative to word-in-many-languages sites, built from Wiktionary and published as plain files.</p></div>
       <div class="prose">
       <h2>Where the translations come from</h2>
-      <p>${fmt(m.counts.wiktionary)} translations come from the English Wiktionary's translation tables, written by volunteer contributors, as extracted by <a href="https://kaikki.org/" rel="noopener">kaikki.org</a> (Wiktextract). For each headword the site shows the most widely translated sense, with other senses listed below it.</p>
+      <p>${fmt(m.counts.wiktionary)} translations come from the English Wiktionary's translation tables, written by volunteer contributors, as extracted by <a href="https://kaikki.org/" rel="noopener">kaikki.org</a> (Wiktextract). For each headword the site shows a selected sense, with other available senses listed below it. Check the meaning under the headword: the selected sense is not necessarily the most common or the most widely translated.</p>
       <p>Where Wiktionary has no translation for a language, the gap is filled by machine translation (${fmt(m.counts.machine)} entries) and labelled “Machine translation” on the page and <code>"src": "ai"</code> in the data. Translations the model flagged as uncertain say so. Treat these as a starting point, especially for languages with few online resources.</p>
       <p>Headwords were chosen by everyday frequency (from <a href="https://github.com/rspeer/wordfreq" rel="noopener">wordfreq</a>) among Wiktionary entries that have translation tables, plus common phrases. Categories come from <a href="https://wordnet.princeton.edu/" rel="noopener">Princeton WordNet</a>.</p>
-      ${ag.length ? `<h2>How reliable are the machine translations?</h2>
-      <p>To check, the machine translator was also given a hidden sample of words that Wiktionary already covers. The table shows how often its single answer matched one of Wiktionary's translations, ignoring punctuation, accents and short inflectional endings. A mismatch is often still a valid synonym or spelling, so these numbers are a floor, not an error rate.</p>
-      <table class="ref"><thead><tr><th>Language</th><th>Matched</th></tr></thead><tbody>
+      ${ag.length ? `<h2>Automated comparison with Wiktionary</h2>
+      <p>The machine translator was also given a small control sample of words that Wiktionary already covers. The table counts answers accepted by a string comparison that ignores punctuation and diacritics, and also accepts strings with up to two extra trailing characters. These rules can accept words with different meanings and reject valid synonyms.</p>
+      <p>The controls come from Wiktionary-covered words, rather than a random sample of the machine translations served here. These figures measure automated string agreement; they are not an independent accuracy estimate or a guaranteed lower bound on accuracy. Independent review of the translations in context is still needed.</p>
+      <table class="ref"><thead><tr><th>Language</th><th>String matches / controls</th></tr></thead><tbody>
       ${ag.map((l) => `<tr><td><a href="/lang/${l.code}">${esc(l.name)}</a></td><td>${l.controlAgreement.matched} of ${l.controlAgreement.checked}</td></tr>`).join("")}</tbody></table>` : ""}
       <h2>Corrections</h2>
-      <p>To report a wrong or awkward translation, especially a machine translation, use <a class="js-suggest" href="https://github.com/MethodoxTech/Multilingualism/issues/new" rel="noopener">Suggest a correction</a> at the bottom of any page. It opens an issue on GitHub, prefilled with the word or language you were viewing.</p>
-      <p>You can also fix or add translations on Wiktionary: every word page links to its Wiktionary entry. The site is rebuilt from new Wiktionary data, and a Wiktionary translation replaces any machine translation for the same word and language.</p>
+      <p>To report a wrong or awkward translation, imported example text, script problem or display error, use <a class="js-suggest" href="https://github.com/MethodoxTech/Multilingualism/issues/new" rel="noopener">Suggest a correction</a> at the bottom of any page. It opens an issue on GitHub, prefilled with the word or language you were viewing.</p>
+      <p>For errors in Wiktionary's own translation tables, every word page links to the source entry so it can be improved there. When the data is rebuilt, a Wiktionary translation replaces any machine translation for the same word, sense and language.</p>
       <h2>Sources and licence</h2>
       <ul>${m.sources.map((s) => `<li>${s.url ? `<a href="${esc(s.url)}" rel="noopener">${esc(s.name)}</a>` : esc(s.name)}${s.license ? ` (${esc(s.license)})` : ""}</li>`).join("")}</ul>
       <p>Data version ${esc(m.version)}. Source code and data: <a href="https://github.com/MethodoxTech/Multilingualism" rel="noopener">GitHub</a>.</p>
