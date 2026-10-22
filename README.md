@@ -11,10 +11,10 @@ How to say English words and phrases in 108 languages, with romanizations. A fas
 Every file under `data/` is available from jsDelivr. Pin a commit for immutable, fast-cached URLs:
 
 ```
-https://cdn.jsdelivr.net/gh/Charles-Zhang-Claude/Multilingualism@<commit>/data/meta.json
-https://cdn.jsdelivr.net/gh/Charles-Zhang-Claude/Multilingualism@<commit>/data/index.json
-https://cdn.jsdelivr.net/gh/Charles-Zhang-Claude/Multilingualism@<commit>/data/words/thank_you.json
-https://cdn.jsdelivr.net/gh/Charles-Zhang-Claude/Multilingualism@<commit>/data/langs/ja.json
+https://cdn.jsdelivr.net/gh/MethodoxTech/Multilingualism@<commit>/data/meta.json
+https://cdn.jsdelivr.net/gh/MethodoxTech/Multilingualism@<commit>/data/index.json
+https://cdn.jsdelivr.net/gh/MethodoxTech/Multilingualism@<commit>/data/words/thank_you.json
+https://cdn.jsdelivr.net/gh/MethodoxTech/Multilingualism@<commit>/data/langs/ja.json
 ```
 
 | File | Contains |
@@ -52,7 +52,7 @@ A Wiktionary translation always takes precedence over a machine translation for 
 
 ## Corrections
 
-Spotted a wrong or awkward translation? Use “Suggest a correction” at the bottom of any page, which opens a [GitHub issue](https://github.com/Charles-Zhang-Claude/Multilingualism/issues) prefilled with the word or language you were looking at. Fixes to machine translations land in `sources/machine/`; fixes to Wiktionary-sourced translations are best made on Wiktionary itself, and arrive here on the next rebuild.
+Spotted a wrong or awkward translation? Use “Suggest a correction” at the bottom of any page, which opens a [GitHub issue](https://github.com/MethodoxTech/Multilingualism/issues) prefilled with the word or language you were looking at. Fixes to machine translations land in `sources/machine/`; fixes to Wiktionary-sourced translations are best made on Wiktionary itself, and arrive here on the next rebuild.
 
 ## Licence
 

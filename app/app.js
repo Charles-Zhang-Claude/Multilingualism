@@ -137,7 +137,7 @@
   }
 
   /* Footer "Suggest a correction": opens a new GitHub issue, prefilled with the word or language being viewed. */
-  const ISSUES = "https://github.com/Charles-Zhang-Claude/Multilingualism/issues/new";
+  const ISSUES = "https://github.com/MethodoxTech/Multilingualism/issues/new";
   function setSuggestLink(name, arg) {
     const a = document.getElementById("suggest-fix");
     if (!a) return;
@@ -736,7 +736,7 @@
       <p>Wiktionary is the place to fix or add translations: every word page links to its Wiktionary entry. The site is rebuilt from new Wiktionary data, and a Wiktionary translation replaces any machine translation for the same word and language.</p>
       <h2>Sources and licence</h2>
       <ul>${m.sources.map((s) => `<li>${s.url ? `<a href="${esc(s.url)}" rel="noopener">${esc(s.name)}</a>` : esc(s.name)}${s.license ? ` (${esc(s.license)})` : ""}</li>`).join("")}</ul>
-      <p>Data version ${esc(m.version)}. Source code and data: <a href="https://github.com/Charles-Zhang-Claude/Multilingualism" rel="noopener">GitHub</a>.</p>
+      <p>Data version ${esc(m.version)}. Source code and data: <a href="https://github.com/MethodoxTech/Multilingualism" rel="noopener">GitHub</a>.</p>
       </div>`;
   };
 
