@@ -5,6 +5,8 @@ abandon	напушта	napušta	h	to give up control of, surrender
 abandoned	напуштен	napušten	h	no longer maintained, forsaken, deserted
 abbreviation	кратенка	kratenka	h	act or result of shortening or reducing
 abc	азбука	azbuka	h	primer for learning the alphabet
+ablative_case	аблатив	ablativ	h	grammatical case used to indicate movement away from something, removal, separation, source
+abnormal	абнормален	abnormalen	h	not conforming to rule or system
 aboard	на брод	na brod	h	on board
 about_to	на пат да	na pat da	h	indicating imminence
 above	над	nad	h	in or to a higher place
@@ -12,19 +14,23 @@ abroad	во странство	vo stranstvo	h	in foreign countries
 absolute	апсолутен	apsoluten	h	free from limitations or conditions
 absolutely	апсолутно	apsolutno	h	in an absolute manner
 absorb	апсорбира	apsorbira	h	(physics, chemistry) to take up by chemical or physical action
+absorption	апсорпција	apsorpcija	h	act or process of absorbing or sucking in anything
 abstract	апстракт	apstrakt	h	an abridgement or summary
 abundant	изобилен	izobilen	h	fully sufficient; plentiful
 abuse	злоупотреба	zloupotreba	h	corrupt practice
+ac	наизменична струја	naizmenična struja	h	alternating current
 academic	академски	akademski	h	belonging to an academy or other higher institution of learning
 accelerate	забрзува	zabrzuva	h	to cause to move faster
 acceptable	прифатлив	prifatliv	h	capable, worthy or sure of being accepted
 acceptance	прифаќање	prifakjanje	h	act of accepting
+accessory	помошен	pomošen	l	having a supplementary function
 accommodate	сместува	smestuva	h	to render fit or suitable
 accompany	придружува	pridružuva	h	to attend as a companion
 accomplish	постигнува	postignuva	h	to finish successfully
 accomplished	извршен	izvršen	h	completed
 accordingly	соодветно	soodvetno	h	agreeably; correspondingly; suitably; in a manner conformable
 achieve	постигнува	postignuva	h	(transitive) to carry out or conclude (something, as a task) successfully — see also realize
+acne	акне	akne	h	a skin condition
 acoustic	акустичен	akustičen	h	pertaining to hearing or the science of sounds
 acquisition	стекнување	steknuvanje	h	act or process of acquiring
 acre	ајкер	ajker	l	unit of surface area
@@ -41,6 +47,7 @@ adapt	приспособува	prisposobuva	h	to make suitable
 adapted	прилагоден	prilagoden	h	having been subject to alteration
 add	собира	sobira	h	to perform the arithmetical operation of addition, to add up
 additionally	дополнително	dopolnitelno	h	by way of addition
+adhesive_tape	леплива лента	lepliva lenta	h	adhesive tape generally
 adjacent	соседен	soseden	h	lying next to, close, or contiguous; neighboring
 adjust	прилагодува	prilagoduva	h	to modify
 adjustment	прилагодување	prilagoduvanje	h	result of adjusting, small change
@@ -48,6 +55,7 @@ administrative	административен	administrativen	h	of or relating t
 admiration	восхит	voshit	h	adoration; appreciation
 admission	прием	priem	h	the act or practice of admitting
 admit	прима	prima	h	allow to enter
+adolescent	адолесцентен	adolescenten	h	characteristic of adolescence
 adopt	посвојува	posvojuva	h	to take by choice into relationship, as, child, heir, friend, citizen
 adoption	посвојување	posvojuvanje	h	act of adopting, or state of being adopted
 adrenaline	адреналин	adrenalin	h	the compound epinephrine
@@ -98,7 +106,7 @@ alternative_medicine	алтернативна медицина	alternativna medi
 altitude	надморска височина	nadmorska visočina	h	distance measured upwards
 altogether	сосема	sosema	h	without exception; wholly; completely
 amazing	зачудувачки	začuduvački	h	causing wonder and amazement
-amazon	амазонка	amazonka	h	tall, strong, athletic woman
+amazon	Амазонка	Amazonka	h	Mythological female warrior
 ambition	амбиција	ambicija	h	desire
 ambitious	амбициозен	ambiciozen	h	possessing, or controlled by, ambition
 amino_acid	аминокиселина	aminokiselina	h	any organic compound containing amino and carboxylic acid
@@ -106,14 +114,20 @@ amongst	меѓу	medju	h	Used to denote a mingling or intermixing
 an	еден	eden	l	indefinite article
 anal	анален	analen	h	of, related to, intended for or involving the anus
 anal_sex	анален секс	analen seks	h	sex involving the anus
+analog	аналоген	analogen	h	represented by a continuously variable physical quantity
 analogy	аналогија	analogija	h	relationship of resemblance or equivalence
 anarchism	анархизам	anarhizam	h	belief that proposes the absence and abolition of government in all forms
 anatomy	анатомија	anatomija	h	art of studying the different parts of any organized body
 ancient_rome	Антички Рим	Antički Rim	h	civilization associated with Rome from the 9th century BC to the 5th century AD
 anemia	анемија	anemija	h	medical condition with decreased oxygen transport
 angeles	Ангелес	Angeles	h	city in the Philippines
+anglican_communion	Англиканска заедница	Anglikanska zaednica	h	worldwide network of churches
+anna	ана	ana	h	former unit of Indian currency
 announce	објавува	objavuva	h	give public notice
+annoy	нервира	nervira	h	to disturb or irritate
+annoyed	нервиран	nerviran	h	troubled, irritated by something unwanted or unliked; vexed
 annually	годишно	godišno	h	once every year
+anorexia_nervosa	анорексија нервоза	anoreksija nervoza	h	eating disorder characterized by self-starvation due to an irrational fear of gaining weight
 antarctic_peninsula	Антарктички Полуостров	Antarktički Poluostrov	h	the northernmost part of the mainland of Antarctica
 anthology	антологија	antologija	h	collection of literary works
 anti	против	protiv	h	opposed
@@ -126,6 +140,7 @@ anyone	било кој	bilo koj	h	anybody
 anytime	во секое време	vo sekoe vreme	h	at any time
 anyway	како и да е	kako i da e	h	used to indicate change of subject
 anywhere	каде било	kade bilo	h	in or at any location
+apocalypse	Апокалипса	Apokalipsa	h	book of the Bible
 apollo	Аполон	Apolon	h	the son of Zeus
 apparent	очигледен	očigleden	h	visible
 apparently	очигледно	očigledno	h	(archaic) plainly
@@ -157,6 +172,7 @@ as_soon_as_possible	што побргу	što pobrgu	h	as soon as is possible
 asbestos	азбест	azbest	h	any of several fibrous mineral forms of magnesium silicate
 ashamed	засрамен	zasramen	h	feeling shame or guilt
 aside	настрана	nastrana	h	to or on one side
+assemble	склопува	sklopuva	h	to put together
 assess	проценува	procenuva	h	to determine the value of
 assessment	проценка	procenka	l	act of assessing a tax
 asset	вредност	vrednost	l	something or someone of any value
@@ -166,6 +182,7 @@ assist	помага	pomaga	h	to help
 assistant	помошен	pomošen	h	having a subordinate or auxiliary position
 associate	придружен	pridružen	h	joined with others and having equal or near equal status
 associated	поврзан	povrzan	h	person or thing connected with something
+assumed	лажен	lažen	h	intended to deceive; fictitious
 assure	уверува	uveruva	h	to make sure and secure
 astronomical_unit	астрономска единица	astronomska edinica	h	measure of distance
 at_last	конечно	konečno	h	after a long time; eventually
@@ -209,11 +226,15 @@ awesome	восхитувачки	voshituvački	l	causing awe or terror
 aye_aye	ај-ај	aj-aj	l	nocturnal quadruped
 b	роден	roden	h	born
 background	позадина	pozadina	h	computing: computer background
+backward	наназад	nanazad	l	in the direction towards the back
 backyard	заден двор	zaden dvor	h	yard to the rear of a house
 badly	лошо	loše	h	in a bad manner
 balanced	урамнотежен	uramnotežen	h	even
+balearic_islands	Балеарски Острови	Balearski Ostrovi	h	group of Mediterranean islands
+bali	Бали	Bali	h	island of Indonesia
 ballot	гласачко ливче	glasačko livče	h	paper used for vote-casting — see also ballot paper
 balls	јајца	jajca	h	slang for testicles
+baltimore	Балтимор	Baltimor	h	city in central Maryland, USA
 band	опсег	opseg	h	part of radio spectrum
 bang	прасок	prasok	h	a sudden percussive noise
 banking	банкарство	bankarstvo	h	occupation
@@ -229,7 +250,9 @@ bass	бас	bas	h	low in pitch
 beam	греда	greda	h	large piece of timber or iron
 bearing	носечки	nosečki	h	carrying weight or load
 beating	тепање	tepanje	h	action of the verb to beat
+beaufort_scale	Бофорова скала	Boforova skala	h	measure for the intensity of the wind
 becoming	станување	stanuvanje	h	The act or process by which something becomes
+behalf	име	ime	l	behalf
 believe	верува	veruva	h	to accept as true
 ben	масло од моринга	maslo od moringa	l	oil of ben
 bend	свиткува	svitkuva	h	to cause to shape into a curve
@@ -301,15 +324,20 @@ broke	без пари	bez pari	h	lacking money; bankrupt
 broker	посредник	posrednik	h	mediator between a buyer and seller
 brooklyn	Бруклин	Bruklin	h	borough of New York City
 brown_bear	кафеава мечка	kafeava mečka	h	Ursus arctos
+bruise	натепа	natepa	l	strike (a person), giving them a bruise
 brutal	брутален	brutalen	h	savagely violent
 buck	мажјак	mažjak	l	male deer, goat, etc.
 buddy	другар	drugar	h	friend or casual acquaintance
+buenos_aires	Буенос Ајрес	Buenos Ajres	h	capital of Argentina
 buffer	бафер	bafer	h	someone or something that buffs
 bulk	поголем дел	pogolem del	h	major part of something
+bum	задник	zadnik	h	informal: butt(ocks) specifically
 bunch	куп	kup	h	a group of similar things
+bunsen_burner	Бунзенов горилник	Bunzenov gorilnik	h	small laboratory gas burner
 burger	бургер	burger	h	informal: hamburger
 buried	погребан	pogreben	h	Placed in a grave at a burial
 burning	жежок	žežok	h	so hot as to seem to burn (something)
+burnt	изгорен	izgoren	h	damaged or injured by fire or heat
 burst	пукнува	puknuva	h	to cause to burst
 bust	крши	krši	h	to break something
 butterfly_effect	ефект на пеперутка	efekt na peperutka	h	technical notion of sensitive dependence on initial conditions in chaos theory
@@ -326,6 +354,7 @@ calling	призвание	prizvanie	h	strong urge (to become or do something)
 cam	брегаст диск	bregast disk	l	mechanical part
 camping	кампување	kampuvanje	h	recreational activity
 campus	кампус	kampus	h	grounds or property of a school, etc.
+canaan	Ханаан	Hanaan	h	historic region
 cancel	поништува	poništuva	h	cross out
 cancelled	откажан	otkažan	h	No longer planned or scheduled
 cannot	не може	ne može	h	cannot — see also can, not
@@ -334,15 +363,20 @@ canon	канон	kanon	h	group of literary works accepted as representative
 capacity	капацитет	kapacitet	h	the ability to hold, receive, or absorb
 cape_of_good_hope	Ртот на добрата надеж	Rtot na dobrata nadež	h	a cape in southwestern South Africa
 capitol	Капитол	Kapitol	h	legislative building in Washington, D.C.
+capsule	капсула	kapsula	l	botany: seed-case
 capture	заробување	zarobuvanje	h	act of capturing
 cardinal	кардинален	kardinalen	h	of fundamental importance
 carefully	внимателно	vnimatelno	h	in a careful manner
 caribbean	карипски	karipski	h	pertaining to the sea and region bounded by the American continent and the West Indies
+caring	грижлив	grižliv	h	kind, sensitive, empathetic
+carol	божиќна песна	božiḱna pesna	h	song of joy
 carrying_pole	коромисло	koromislo	l	a yoke of wood or bamboo, used by people to carry a load
 cashier	отпушта	otpušta	h	to dismiss from service
 cast	лее	lee	h	to make by pouring into a mould
 casting	леење	leenje	h	manufacturing process using a mold
 casual	случаен	slučaen	h	happening by chance
+casualty	жртва	žrtva	h	person
+catalan	Каталонец	Katalonec	h	person from Catalonia
 catalyst	катализатор	katalizator	h	substance which increases the rate of a chemical reaction without being consumed in the process
 catch	фаќање	fakjanje	h	the act of catching a ball
 cathedral	катедрален	katedralen	h	relating to the office of a bishop or an archbishop
@@ -358,6 +392,7 @@ celestial	небесен	nebesen	h	of, relating to, or located in the sky or out
 centre	Центар	Centar	h	administrative region of France
 ceo	извршен директор	izvršen direktor	h	chief executive officer
 ceramic	керамички	keramički	h	of or pertaining to ceramic as material
+cerebral_cortex	мозочна кора	mozočna kora	h	layer of the brain
 ceres	Церера	Cerera	h	asteroid
 certification	сертификација	sertifikacija	h	act of certifying
 challenger	предизвикувач	predizvikuvač	h	one who challenges
@@ -365,12 +400,15 @@ challenging	предизвикувачки	predizvikuvački	h	difficult; hard to
 change	се пресоблекува	se presoblekuva	h	to replace one's own clothing
 change_one_s_mind	се предомислува	se predomisluva	h	to decide differently than one had decided before
 chaos_theory	теорија на хаосот	teorija na haosot	h	study of chaos or disorder in systems; one of such theories
+chaotic	хаотичен	haotičen	h	filled with chaos
 characteristic	карактеристичен	karakterističen	h	being a distinguishing feature
 charming	очарувачки	očaruvački	h	pleasant, charismatic
 charter	повелба	povelba	h	document creating an institution, and defining its purposes and privileges
 chase	гонење	gonenje	h	action of the verb "to chase"
 chat	разговара	razgovara	h	be engaged in informal conversation
+cheating	измама	izmama	h	act of deception, fraud, trickery, imposture, or imposition
 chemical_element	хемиски елемент	hemiski element	h	any one of the simplest chemical substances that cannot be decomposed in a chemical reaction
+chicken_pox	сипаници	sipanici	h	disease
 chili	чили	čili	h	spicy fresh or dried fruit of capsicum
 chip	парченце	parčence	h	small piece broken off
 cholera	колера	kolera	h	infectious disease
@@ -385,6 +423,7 @@ church_of_scotland	Шкотска црква	Škotska crkva	h	national Presbyter
 cincinnati	Синсинати	Sinsinati	h	city in Ohio
 cinnamon	цимет	cimet	h	Cinnamomum verum
 circuit	струјно коло	strujno kolo	h	enclosed path of electric current
+circulatory_system	циркулаторен систем	cirkulatoren sistem	h	parts of an animal body which circulate the blood around the body
 civic	граѓански	gragjanski	h	Having to do with a city or the people who live there
 claim	барање	baranje	h	demand of ownership
 clarify	разјаснува	razjasnuva	h	(transitive) to make clear or bright by freeing from impurities
@@ -408,11 +447,13 @@ cloth	ткаенина	tkaenina	h	fabric
 clue	трага	traga	h	information that may lead one to a certain point or conclusion
 co	друштво	društvo	l	company
 coastal	крајбрежен	krajbrežen	h	relating to the coast
+coaster	крајбрежен брод	krajbrežen brod	l	merchant vessel that stays in coastal waters
 cobra	кобра	kobra	h	venomous snake
 cock	мажјак	mažjak	l	any male bird
 coffee_pot	џезве	džezve	h	pot for coffee
 cognitive	когнитивен	kognitiven	h	relating to mental functions
-coke	кокс	koks	h	coal product
+coke	Кока-Кола	Koka-Kola	h	Coca-Cola
+collaborate	соработува	sorabotuva	h	to work together on a piece of work
 collaboration	соработка	sorabotka	h	act of collaborating
 collapse	се урива	se uriva	h	to fall down suddenly; to cave in
 collected	сталожен	staložen	h	Cool-headed, emotionally stable, in focus
@@ -443,6 +484,7 @@ commonwealth	комонвелт	komonvelt	l	form of government
 communicate	комуницира	komunicira	h	to impart information or knowledge of; to make known, to tell
 compact	договор	dogovor	h	agreement or contract
 compatible	компатибилен	kompatibilen	h	capable of easy interaction
+competent	компетентен	kompetenten	h	skilled
 competitive	конкурентен	konkurenten	h	of or pertaining to competition
 complain	се жали	se žali	h	to express feelings of pain, dissatisfaction, or resentment
 complement	комплемент	komplement	h	4. something which complements
@@ -459,6 +501,7 @@ composition	состав	sostav	h	mixture or compound
 compound	ограден простор	ograden prostor	l	enclosure within which workers, prisoners, or soldiers are confined
 compound_word	сложенка	složenka	h	word composed of others
 comprehensive	сеопфатен	seopfaten	h	broadly or completely covering
+compulsory	задолжителен	zadolžitelen	h	mandatory — see also mandatory, obligatory
 computer_security	компјутерска безбедност	kompjuterska bezbednost	h	branch of computer science
 computing	пресметување	presmetuvanje	l	action of using a computer
 concentrate	концентрира	koncentrira	h	bring to, or direct toward, a common center
@@ -492,6 +535,7 @@ considerable	значителен	značitelen	h	worth considering
 considering	со оглед на	so ogled na	h	given the circumstances; all in all; all things considered
 consistency	доследност	doslednost	h	reliability or uniformity; the quality of being consistent
 consistent	доследен	dosleden	h	of a regularly occurring, dependable nature
+consistently	доследно	dosledno	h	in a consistent manner
 console	конзола	konzola	h	video games: device dedicated to playing video games
 constant	константен	konstanten	h	unchanged through time
 construct	конструкција	konstrukcija	h	something constructed from parts
@@ -501,6 +545,7 @@ contain	содржи	sodrži	h	hold inside
 container	контејнер	kontejner	h	an item in which objects, materials or data can be stored or transported
 contest	спор	spor	l	controversy
 context	контекст	kontekst	h	circumstances or settings
+continental	континентален	kontinentalen	h	of or relating to a continent or continents
 continuation	продолжување	prodolžuvanje	h	act or state of continuing
 continued	непрекинат	neprekinat	h	uninterrupted
 continuity	континуитет	kontinuitet	h	lack of interruption
@@ -521,6 +566,7 @@ conventional	конвенционален	konvencionalen	h	following an accepted
 conversion	претворање	pretvoranje	h	the act of having converted something or someone
 convert	претвора	pretvora	h	transform (something) into another form, substance, state, or product
 convey	пренесува	prenesuva	h	to carry
+cookbook	готварска книга	gotvarska kniga	h	book of cooking recipes
 cooked	зготвен	zgotven	h	of food, that has been prepared by cooking
 cooking	готвење	gotvenje	h	1. the process of preparing food by using heat
 cool	прохладен	prohladen	h	having a slightly low temperature
@@ -529,6 +575,8 @@ coordinate	координата	koordinata	h	mathematics, cartography: a number 
 coordination	координација	koordinacija	h	the act of coordinating, making different people or things work together for a goal or effect
 cop	фаќа	fakja	h	to capture, to take (informal)
 cope	се справува	se spravuva	h	to deal effectively with something
+cops	полиција	policija	h	law enforcement
+cor_anglais	англиски рог	angliski rog	h	woodwind instrument
 coral	корал	koral	h	species or colony
 core	јадро	jadro	h	heart of a thing
 corporate	корпоративен	korporativen	h	of, or relating to an institution; institutional
@@ -568,10 +616,13 @@ crowd	се тиска	se tiska	l	to press together in numbers
 crown_prince	престолонаследник	prestolonaslednik	h	next king
 crucial	клучен	klučen	h	extremely important
 cruel	суров	surov	h	that intentionally causes pain and suffering
+crusade	Крстоносен поход	Krstonosen pohod	h	campaigns by Christian forces to the Holy Land
 crying	што плаче	što plače	l	that cries
+cue	знак	znak	h	action or event that is a signal to do something
 cum	со	so	l	Translations
 cunning	лукав	lukav	h	sly
 cure	лек	lek	h	method, device or medication that restores good health
+curl	коврџа	kovrdža	h	curving lock of hair
 currently	моментално	momentalno	h	at this moment
 curriculum	наставна програма	nastavna programa	h	set of courses and coursework
 curved	закривен	zakriven	h	having a curve or curves
@@ -590,6 +641,7 @@ dark_energy	темна енергија	temna energija	h	hypothetical form of en
 darling	миленик	milenik	h	often used as an affectionate term of address: person who is very dear to one
 data_warehouse	складиште на податоци	skladište na podatoci	h	collection of data
 dating	излегување	izleguvanje	l	a form of romantic courtship
+dative_case	датив	dativ	h	case used to express direction towards an indirect object
 day_off	слободен ден	sloboden den	h	a day of vacation etc.
 days	денови	denovi	l	life
 dc	еднонасочна струја	ednonasočna struja	h	direct current
@@ -602,6 +654,7 @@ debris	урнатини	urnatini	h	rubble, wreckage, scattered remains of someth
 debt	долг	dolg	h	action, state of mind, or object one has an obligation to perform for another
 debut	деби	debi	h	a performer's first-time performance to the public
 decided	решен	rešen	h	determined
+decisive	одлучувачки	odlučuvački	h	having the power or quality of deciding a question or controversy
 declare	изјавува	izjavuva	h	to make a declaration
 decline	опаѓање	opagjanje	h	downward movement, fall
 decrease	се намалува	se namaluva	h	become smaller
@@ -615,6 +668,7 @@ defined	дефиниран	definiran	h	having a definition or value
 delete	брише	briše	h	to remove
 deliberately	намерно	namerno	h	intentionally
 delicate	кревок	krevok	l	easily damaged or requiring careful handling
+delighted	воодушевен	vooduševen	h	Greatly pleased
 delta	делта	delta	h	fourth letter of modern Greek alphabet
 dementia	деменција	demencija	h	progressive decline in cognitive function
 demonstrate	демонстрира	demonstrira	h	to show how to use something
@@ -622,6 +676,7 @@ denial	негирање	negiranje	h	assertion of untruth
 dental	забен	zaben	h	phonetics
 denver	Денвер	Denver	h	capital of Colorado
 deny	негира	negira	h	to assert that something is not true
+deoxyribonucleic_acid	дезоксирибонуклеинска киселина	dezoksiribonukleinska kiselina	h	deoxyribonucleic acid
 depart	заминува	zaminuva	h	to leave
 deposit	депозит	depozit	h	money given as an initial payment
 depressed	депресивен	depresiven	h	severely despondent and unhappy
@@ -641,9 +696,11 @@ developed	развиен	razvien	h	(of a country) not primitive; not third world
 devoted	предан	predan	h	vowed; dedicated; consecrated
 devotion	посветеност	posvetenost	h	the act or state of devoting or being devoted
 diabetes	дијабетес	dijabetes	h	A group of metabolic diseases
+diabetes_mellitus	шеќерна болест	šeḱerna bolest	h	medical disorder
 diagram	дијаграм	dijagram	h	plan, drawing, sketch or outline to show workings or parts relationships
 dial	бројчаник	brojčanik	h	graduated, circular scale over which a needle moves
 diana	Дијана	Dijana	h	Roman goddess
+dictatorship_of_the_proletariat	диктатура на пролетаријатот	diktatura na proletarijatot	h	a socio-political power
 diesel_engine	дизел мотор	dizel motor	h	type of engine
 differ	се разликува	se razlikuva	h	not to have the same characteristics
 differently	поинаку	poinaku	h	in a different way
@@ -670,6 +727,7 @@ distinguish	разликува	razlikuva	h	to see someone or something as differ
 distinguished	угледен	ugleden	h	celebrated, well-known or eminent because of past achievements; prestigious
 distribute	распределува	raspredeluva	h	to divide into portions and dispense
 distribution	дистрибуција	distribucija	h	act of distribution or being distributed
+disturb	вознемирува	voznemiruva	h	confuse or irritate
 dive	нурнува	nurnuva	h	to swim under water
 diverse	разновиден	raznoviden	h	consisting of different elements — see also various
 diversity	разновидност	raznovidnost	h	quality of being diverse; difference
@@ -716,12 +774,14 @@ due	должен	dolžen	h	1. owed or owing, to be paid by the stated time
 dumb	глупав	glupav	h	stupid
 duo	дуо	duo	h	twosome, especially musicians
 during	за време на	za vreme na	h	within a given time interval
+dusty	прашлив	prašliv	h	covered with dust
 dvd	ДВД	DVD	h	digital video disc
 dwell	живее	živee	h	live, reside
 dying	што умира	što umira	l	approaching death
 dynamic	динамичен	dinamičen	h	not steady; in motion
 dynamics	динамика	dinamika	h	branch of mechanics
 e	е	e	h	name of the letter E, e
+ear_lobe	ушна ресичка	ušna resička	h	a part of the ear
 earlier	претходен	prethoden	h	occurring previously
 earnings	заработка	zarabotka	h	wages, money earned, income
 ease	леснотија	lesnotija	h	comfort — see also comfort
@@ -730,7 +790,7 @@ eastern_orthodox_church	Источноправославна црква	Istočno
 eating	за јадење	za jadenie	h	suitable to be eaten without cooking
 economist	економист	ekonomist	h	expert in economics
 economy	економија	ekonomija	h	effective management of the resources of a community or system
-ed	издание	izdanie	h	edition
+ed	Одделение за итна помош	Oddelenie za itna pomoš	l	emergency department
 edit	промена	promena	l	a change to the text of a document
 editing	уредување	ureduvanje	h	an act or instance of something being edited
 editorial	уредувачки	ureduvački	h	of or relating to an editor, editing, or an editorial
@@ -766,6 +826,7 @@ elsewhere	на друго место	na drugo mesto	h	in some other place
 em	ем	em	h	name of the letter M, m
 embargo	ембарго	embargo	h	an order by the government prohibiting ships from leaving port
 embarrassing	непријатен	neprijaten	h	causing embarrassment
+embroidery	везење	vezenje	h	art
 emergency	итен случај	iten slučaj	h	situation requiring urgent assistance
 emotional	емотивен	emotiven	h	characterised by emotion
 emotional_intelligence	емоционална интелигенција	emocionalna inteligencija	h	ability
@@ -777,6 +838,7 @@ en	ен	en	h	name of the letter N, n
 encounter	наидува	naiduva	h	meet (someone) or find (something), especially unexpectedly
 encourage	охрабрува	ohrabruva	h	mentally support or motivate
 encouragement	охрабрување	ohrabruvanje	h	the act of encouraging
+encouraging	охрабрувачки	ohrabruvački	h	giving courage, confidence or hope
 endure	издржува	izdržuva	h	to continue despite obstacles
 engage	ангажира	angažira	h	to engross or hold the attention of someone
 engaged	свршен	svršen	h	agreed to be married
@@ -805,13 +867,16 @@ established	утврден	utvrden	h	having been in existence for some time and 
 establishment	основање	osnovanje	h	the act of establishing
 estimate	проценка	procenka	h	rough calculation or guess
 ethnicity	етничка припадност	etnička pripadnost	h	characteristics of an ethnic group
+eurasian_teal	крцкавка	krckavka	l	Anas crecca
+eurasian_woodcock	шумска шљука	šumska šljuka	l	Scolopax rusticola
 evaluate	оценува	ocenuva	h	to draw conclusions from by examining
 eve	навечерие	navečerie	h	day or night before
 ever	секогаш	sekogaš	h	always
 everyday	секојдневен	sekojdneven	h	appropriate for ordinary use, rather than for special occasions
 evident	евидентен	evidenten	h	obviously true
 evolution	еволуција	evolucija	h	general: a gradual process of development
-ex	икс	iks	h	name of the letter X, x
+evolutionary	еволутивен	evolutiven	h	of or relating to evolution
+ex	екс	eks	h	colloquial: former partner or spouse
 exactly	точно	točno	h	in an exact manner
 exceed	надминува	nadminuva	h	to be larger, greater than something else or than expected or desirable
 except	исклучува	isklučuva	h	to exclude
@@ -828,6 +893,7 @@ expense	трошок	trošok	h	a spending or consuming; disbursement; expenditur
 experimental	експериментален	eksperimentalen	h	of or pertaining to an experiment
 expert	стручен	stručen	h	extraordinarily capable or knowledgeable
 explicit	експлицитен	ekspliciten	h	very specific
+explicitly	експлицитно	eksplicitno	h	in an explicit manner
 explorer	истражувач	istražuvač	h	person who explores
 export	извозен	izvozen	h	of or relating to exportation or exports
 expose	изложува	izložuva	h	to reveal, uncover, make visible, bring to light, introduce to
@@ -842,6 +908,7 @@ extra	дополнителен	dopolniten	h	beyond what is due, usual
 extract	екстракт	ekstrakt	h	something extracted
 extreme	краен	kraen	h	of a place, the most remote, farthest or outermost
 extremely	крајно	krajno	h	to an extreme degree
+eye_socket	очна дупка	očna dupka	h	socket of eye
 ezekiel	Езекиел	Ezekiel	h	book of the Bible
 ezra	Ездра	Ezdra	h	book of the Bible
 f	женски	ženski	h	feminine — see also feminine
@@ -874,6 +941,7 @@ federal	федерален	federalen	h	pertaining to a league or treaty; derived
 feeling	чувствителен	čuvstvitelen	h	emotionally sensitive
 fell	соборува	soboruva	l	to make something fall
 feminist	феминистички	feministički	h	relating to or in accordance with feminism
+ferris_wheel	панорамско тркало	panoramsko trkalo	h	ride at a fair consisting of large wheel
 fertile	плоден	ploden	h	of land, etc.: capable of growing abundant crops
 fertility	плодност	plodnost	h	the condition, or the degree of being fertile
 fewer	помалку	pomalku	h	comparative of few; a smaller number
@@ -891,6 +959,8 @@ fill	полни	polni	h	add contents to, so it is full
 filled	полн	poln	h	that is now full
 filling	заситувачки	zasituvački	h	of food, that satisfies the appetite by filling the stomach
 film	превлека	prevleka	l	thin layer
+filming	снимање	snimanje	h	the action of the verb "to film"
+filthy	валкан	valkan	h	covered with filth; very dirty
 final	завршен испит	završen ispit	h	test or examination given at the end of a term or class
 finale	финале	finale	h	grand end of something, especially a show or a piece of music
 finals	финале	finale	h	contest that narrows a field of contestants
@@ -902,6 +972,7 @@ finish	крај	kraj	h	end
 finished	завршен	završen	h	processed or perfected
 finn	Финец	Finec	h	national of Finland
 fired	отпуштен	otpušten	h	dismissed
+firing	пукање	pukanje	h	discharge
 fiscal_year	фискална година	fiskalna godina	h	accounting period of one year
 fisher	рибар	ribar	h	person who fishes
 fishing_net	рибарска мрежа	ribarska mreža	h	net used for fishing
@@ -925,6 +996,7 @@ fold	превиткува	previtkuva	h	bend (thin material) over
 folk	народ	narod	h	inhabitants of a region
 folk_medicine	народна медицина	narodna medicina	h	traditional medical practices developed and used by non-physicians
 follow	следи	sledi	h	to go or come after in physical space
+fond	наклонет	naklonet	l	affectionate
 foot_and_mouth_disease	шап	šap	h	foot-and-mouth disease
 footage	снимен материјал	snimen materijal	h	amount of film that has been used
 footprint	отпечаток од стапало	otpečatok od stapalo	h	the impression of the foot
@@ -957,6 +1029,7 @@ forward	преден	preden	h	at the front
 foster	хранителски	hranitelski	h	providing parental care to unrelated children
 foul	валкан	valkan	h	covered with, or containing, extraneous matter
 found	основа	osnova	h	to start an organization
+founded	основан	osnovan	l	having a basis
 fracture	фрактура	fraktura	h	act of breaking, or something broken
 franchise	право на глас	pravo na glas	h	right to vote at a public election
 freeze	замрзнува	zamrznuva	h	to become solid due to low temperature
@@ -995,9 +1068,11 @@ gender_identity	родов идентитет	rodov identitet	h	person's sense o
 general_election	општи избори	opšti izbori	h	election held in all or most constituencies within a region or nation
 generally	општо	opšto	h	popularly or widely
 generate	генерира	generira	h	bring into being
+generic	генерички	generički	l	very comprehensive
 generosity	великодушност	velikodušnost	h	trait of being willing to donate
 genetic	генетски	genetski	h	relating to genetics or genes
 genie	џин	džin	h	an unseen being in Muslim theology
+genitive_case	генитив	genitiv	h	grammatical case used to express a relationship of origin or possession
 genome	геном	genom	h	complete genetic information of an organism
 gentle	нежен	nežen	h	tender and amiable
 gently	нежно	nežno	h	in a gentle manner
@@ -1011,6 +1086,7 @@ ghetto	гето	geto	h	area of a city where people of an ethnic group are concen
 give_up	се откажува	se otkažuva	h	surrender
 given	со оглед на	so ogled na	h	considering, taking into account
 giving	великодушен	velikodušen	h	generous
+glans_penis	глава на пенисот	glava na penisot	h	conical vascularized body forming the extremity of the penis
 glow	сјае	sjae	h	to emit heat and light without a flame
 glucose	глукоза	glukoza	h	simple monosaccharide sugar
 go_away	оди си	odi si	h	interjection
@@ -1019,13 +1095,16 @@ god_willing	Ако Бог даде	Ako Bog dade	h	God willing
 goddamn	проклето	prokleto	h	an expression of anger, surprise, or frustration
 going	посетува	posetuva	h	attending habitually or regularly
 gold	златен	zlaten	h	made of gold, golden
+golden_jackal	обичен шакал	običen šakal	l	Canis aureus
 gone	отсутен	otsuten	h	away, having left
 good_for_nothing	бескорисен	beskoristen	l	useless, worthless
 good_friday	Велики петок	Veliki petok	h	The Friday before Easter Sunday, the commemoration of the day on which Christ was crucified
 good_luck	среќа	srekja	h	positive fortune
+gore	згрутчена крв	zgrutčena krv	l	thick blood
 gorilla	горила	gorila	h	ape
 grab	грабнува	grabnuva	h	(transitive) to seize
 graduation	дипломирање	diplomiranje	h	the action or process of graduating
+grand_duchy_of_lithuania	Големо Кнежевство Литванско	Golemo Knežestvo Litvansko	l	former European state
 grant	доделува	dodeluva	h	to give over
 granted	се разбира	se razbira	h	used to concede a point
 graphic	графички	grafički	h	drawn, pictorial
@@ -1045,12 +1124,14 @@ guess	погодува	pogoduva	h	to reach an unconfirmed conclusion
 guidance	насочување	nasočuvanje	h	the act or process of guiding
 guinea	гинеја	ginea	h	coin worth 21 shillings
 gut	стомак	stomak	h	abdomen
+gutter	олук	oluk	h	prepared channel in a surface
 ha	ха	ha	h	a representation of laughter
 habitat	хабитат	habitat	h	natural conditions in which a plant or animal lives
 half_past	и пол	i pol	h	"half past one" as example of usage in other languages
 halfway	на половина пат	na polovina pat	h	midway
 hall	ходник	hodnik	h	corridor or a hallway
 halo	ореол	oreol	h	luminous disc around the heads of saints
+hamas	Хамас	Hamas	h	Palestinian militant group
 hamburg	Хамбург	Hamburg	h	city and state of Germany
 hampshire	Хемпшир	Hempšir	h	county in the south of England
 handling	ракување	rakuvanje	h	touching, controlling, managing with the hands
@@ -1067,6 +1148,7 @@ harness	појас	pojas	l	restraint or support
 harry	пустоши	pustoši	l	To strip; to lay waste
 harsh	груб	grub	h	rough
 hash	хаш	haš	l	chopped food, especially meat and potatoes
+hashtag	хаштаг	haštag	h	a tag with a hash sign
 hatch	отвор	otvor	l	1. horizontal door
 hate	омраза	omraza	h	negative interaction in Internet
 hawaiian	хавајски	havajski	h	of or having to do with the culture of the US state of Hawaii
@@ -1076,7 +1158,9 @@ heads	глава	glava	h	side of coin
 healing	заздравување	zazdravuvanje	h	process of regeneration — see also recovery
 hearing	со слух	so sluh	l	able to hear
 heartbeat	отчукување на срцето	otčukuvanje na srceto	h	one pulsation of the heart
+heath	ерика	erika	l	shrub of the family Ericaceae
 heavily	силно	silno	h	in a heavy manner
+hellenic_republic	Хеленска Република	Helenska Republika	h	official name of Greece
 helpful	корисен	koristen	h	furnishing help; giving aid; useful
 henry	хенри	henri	h	SI unit for electrical inductance
 here_and_there	тука-таму	tuka-tamu	h	in one place and another
@@ -1092,6 +1176,7 @@ hindu	хиндуистички	hinduistički	h	of or relating to Hinduism
 hinduism	хиндуизам	hinduizam	h	religion
 hire	нововработен	novovraboten	l	a person who has been hired
 historic	историски	istoriski	h	having significance in history
+historically	историски	istoriski	h	in a historic manner
 hiv	ХИВ	HIV	h	human immunodeficiency virus
 hmm	хмм	hmm	h	indicating thinking or pondering
 ho	хо	ho	h	nautical: attention grabber
@@ -1133,21 +1218,27 @@ i_m_gay	Јас сум геј	Jas sum gej	h	I'm gay
 i_m_jewish	Јас сум Евреин	Jas sum Evrein	h	I'm Jewish (ethnic)
 icelandic	исландски	islandski	h	language
 icon	икона	ikona	h	image
+id	ид	id	l	id
 idle	беспослен	besposlen	h	not turned to appropriate use, not occupied, of time with little activity
+igneous_rock	магматска карпа	magmatska karpa	h	one of the major groups of rock that makes up the crust of the Earth
 illustration	илустрација	ilustracija	h	that which illustrates
 imaginary_number	имагинарен број	imaginaren broj	h	number of the form bi
 immediate	моментален	momentalen	h	without delay
 immediately	веднаш	vednaš	h	in an immediate manner
+immense	огромен	ogromen	h	huge, gigantic, very large
 immune	имун	imun	h	of or pertaining to the immune system
 immune_system	имунолошки систем	imunološki sistem	h	system that protects the body from foreign material and organisms
 impact	удар	udar	h	a collision
 impeachment	импичмент	impičment	h	act of impeaching or charging a public official with misconduct
 implement	спроведува	sproveduva	h	bring about
 implementation	спроведување	sproveduvanje	h	process of moving an idea from concept to reality
+imply	подразбира	podrazbira	h	to have as a consequence
 impose	наметнува	nametnuva	h	to apply, enforce, or establish (something) with authority
+impress	импресионира	impresionira	h	(transitive) affect (someone) strongly and often favourably
 impressed	импресиониран	impresioniran	h	strongly affected, especially favourably
 impressive	импресивен	impresiven	h	making, or tending to make, an impression; having power to impress
 improved	подобрен	podobren	h	that has been made better
+impulse	импулс	impuls	h	sudden force that impels
 in_other_words	со други зборови	so drugi zborovi	h	stated or interpreted another way
 in_vain	залудно	zaludno	h	without success
 incentive	поттик	pottik	h	something that motivates
@@ -1165,6 +1256,9 @@ indication	индикација	indikacija	h	a fact that shows that something ex
 indigenous	домороден	domoroden	h	born or engendered in, native to a land or region
 indirect	индиректен	indirekten	h	not direct
 industrial	индустриски	industriski	h	of or relating to industry
+infamous	озлогласен	ozloglasen	h	having a bad reputation
+infectious	заразен	zarazen	h	transmitted between persons as illness
+inferior	инфериорен	inferioren	h	of lower quality
 infinity	бесконечност	beskonečnost	h	endlessness, unlimitedness, absence of end or limit
 inflammation	воспаление	vospalenie	h	medical condition
 info	инфо	info	h	abbreviation for “information”
@@ -1241,6 +1335,7 @@ james	Јаков	Jakov	h	book of the Bible
 japan	лакира	lakira	l	to varnish (something) with japan
 jasmine	јасмин	jasmin	h	plant of genus Jasminum
 jasper	јаспис	jaspis	h	precious stone
+javelin_throw	фрлање копје	frlanje kopje	h	athletic event where a javelin is thrown
 jeep	џип	džip	h	vehicle
 jelly	желе	žele	h	sweet gelatinous substance derived from fruit juices and pectin
 jerk	трзај	trzaj	h	quick, often unpleasant tug or shake
@@ -1256,6 +1351,7 @@ jonathan	Јонатан	Jonatan	h	biblical character
 jr	помладиот	pomladiot	l	junior, postnominal title used by a son sharing the same name as the father
 judges	Судии	Sudii	h	book of the Bible
 judgment	судење	sudenje	l	act of judging
+juicy	сочен	sočen	h	containing juice
 jumper	скокач	skokač	h	someone or something that jumps
 junction	спојување	spojuvanje	h	the act of joining
 junior	помлад	pomlad	h	younger
@@ -1320,6 +1416,7 @@ lease	закуп	zakup	h	contract granting use or occupation of property
 least	најмал	najmal	h	of two or more animals or plants with the same name: the smaller or smallest
 leave	си заминува	si zaminuva	h	to depart (intransitive)
 lebanese_republic	Либанска Република	Libanska Republika	h	official name of Lebanon
+leeds	Лидс	Lids	h	city in England
 legacy	оставнина	ostavnina	h	money or property bequeathed to someone in a will
 legally	законски	zakonski	h	as permitted by law
 legendary	легендарен	legendaren	h	of or pertaining to a legend
@@ -1330,10 +1427,12 @@ legitimate	законит	zakonit	h	lawful
 leisure	слободно време	slobodno vreme	h	freedom provided
 lent	Велигденски пост	Veligdenski post	h	Christian period of penitence before Easter
 lesbian	лезбејски	lezbejski	h	of a woman: preferring women partners
+lesser_black_backed_gull	мал црногрб галеб	mal crngrb galeb	l	Larus fuscus
 let_s	ајде да	ajde da	h	let us; forming first-person plural imperative
 let_s_go	Ајде	Ajde	h	hortative of go
 level	рамен	ramen	h	same height at all places
 leverage	полуга	poluga	l	force compounded by means of a lever rotating around a pivot
+lewis	Луис	Luis	h	Isle of Lewis
 lgbt	ЛГБТ	LGBT	h	lesbian, gay, bisexual, transgender or transsexual
 liability	обврска	obvrska	h	debt
 liberal	либерален	liberalen	h	generous, permitting liberty, willing to give unsparingly
@@ -1344,6 +1443,7 @@ likewise	исто така	isto taka	h	in like manner
 linear	линеарен	linearen	h	having the form of a line
 links	голф терен	golf teren	h	golf course
 listening	што слуша	što sluša	l	of something that listens
+litigation	парничење	parničenje	h	conduct of a lawsuit
 litter	простирка	prostirka	h	bedding for animals
 live	живее	živee	h	have permanent residence
 lively	живахен	živahen	h	full of life
@@ -1351,6 +1451,8 @@ living	жив	živ	h	having life
 living_fossil	жива фосила	živa fosila	h	species believed extinct but later found living
 lo	еве	eve	l	look, see, behold
 loaded	наполнет	napolnet	h	(of a projectile weapon) armed
+locate	поставува	postavuva	l	to place; to set in a particular spot or position
+locative_case	локатив	lokativ	h	case used to indicate place, or the place where, or wherein
 locked	заклучен	zaključen	h	that has been locked (with a key)
 locker	ормарче	ormarče	h	storage compartment
 logo	лого	logo	h	visual symbol or emblem that acts as a trademark or a means of identification of an entity
@@ -1379,6 +1481,8 @@ ma_am	госпоѓо	gospogjo	h	chiefly used as a form of address: contraction o
 machine_language	машински јазик	mašinski jazik	h	set of instructions for a computer
 machine_learning	машинско учење	mašinsko učenje	h	field of study
 machine_translation	машински превод	mašinski prevod	h	act of translating something by means of a machine
+machinery	машинерија	mašinerija	h	machines constituting a production apparatus
+magistrate	магистрат	magistrat	l	judicial officer
 magnetic	магнетен	magneten	h	of, relating to, caused by, or operating by magnetism
 mainly	главно	glavno	h	chiefly; certainly for the most part
 mainstream	општоприфатен	opštoprifaten	h	used or accepted broadly; common, usual or conventional
@@ -1392,6 +1496,7 @@ malaysian	малезиски	maleziski	h	Pertaining to Malaysia
 male	машки	maški	h	belonging to the sex which typically produces sperm, or the gender typically associated with it
 manage	успева	uspeva	h	to succeed at an attempt
 mandatory	задолжителен	zadolžitelen	h	obligatory — see also obligatory, compulsory
+manhattan	Менхетн	Menhetn	h	borough
 manifest	очигледен	očigleden	h	evident to the senses, especially to the sight; apparent
 manly	мажествен	mažestven	h	having the characteristics of a man
 manor	имение	imenie	h	landed estate
@@ -1406,12 +1511,17 @@ marked	приметен	primeten	h	significant; notable
 marry	се жени	se ženi	h	to take a husband or wife
 marsh	мочулиште	močulište	h	area of low, wet land
 martin	ластовица	lastovica	l	bird
+marvel	восхитува	voshituva	l	become filled with wonderment
 mary	Мари	Mari	l	city in Turkmenistan
+mary_magdalene	Марија Магдалена	Marija Magdalena	h	female disciple of Jesus
 masculine	машки	maški	h	having male qualities, not feminine or effeminate
+mashed_potatoes	пире од компири	pire od kompiri	h	dish
 massive	масивен	masiven	h	of great size, significance or import; overwhelming
 mat	отирач	otirač	h	foot wiping device or floor covering
 mate	партнер	partner	h	of breeding animal: sexual partner
 math	математика	matematika	h	short form of mathematics
+maturity	зрелост	zrelost	h	state of being mature, ready or ripe
+maundy_thursday	Велики Четврток	Veliki Četvrtok	h	Thursday before Easter
 max	макс.	maks.	h	abbreviation for maximum
 maximum	максимум	maksimum	h	highest limit
 may	смее	smee	h	have permission to
@@ -1425,15 +1535,19 @@ mechanical_energy	механичка енергија	mehanička energija	h	mech
 median	медијана	medijana	h	statistics: measure of central tendency
 medical	медицински	medicinski	h	of the practice of medicine
 medication	лекови	lekovi	h	one or all the medicines regularly taken by a patient
+melancholy	меланхолија	melanholija	h	Sadness or depression
 melt	се топи	se topi	h	intransitive: (of a solid) to become a liquid
+meltdown	топење на јадрото	topenje na jadroto	h	severe uncontrolled overheating and melting of the fuel in the core of a nuclear reactor
 memorable	незаборавен	nezaboraven	h	worthy of being remembered
 memorial	споменик	spomenik	h	structure
 mental_disorder	ментално растројство	mentalno rastrojstvo	h	behavioral pattern
 mentally	ментално	mentalno	h	in a mental manner
 meow	мјау	mjau	h	cry of a cat
+mere	само	samo	l	just, only; no more than
 merely	само	samo	h	only, just, and nothing more
 mesh	мрежа	mreža	h	structure
 metabolism	метаболизам	metabolizam	h	complete set of chemical reactions that occur in living cells
+metallic	метален	metalen	h	related to metal
 methodology	методологија	metodologija	h	the study of methods used in a field
 miami	Мајами	Majami	h	city in Florida, United States
 mid	среден	sreden	h	occupying a middle position; middle
@@ -1447,6 +1561,7 @@ minimal	минимален	minimalen	h	the smallest possible amount, quantity, o
 minimum	минимум	minimum	h	lowest limit
 minor	второстепен	vtorostepen	h	lesser in importance
 miserable	мизерен	mizeren	h	in a state of misery
+misleading	заблудувачки	zabluduvački	h	tending to mislead
 miss	промашува	promašuva	h	to fail to hit
 missing	исчезнат	isčeznat	l	not able to be located
 mission	мисија	misija	h	religious evangelism
@@ -1461,8 +1576,10 @@ modify	изменува	izmenuva	h	to change part of
 module	модул	modul	h	self-contained component of a system
 molecular	молекуларен	molekularen	h	relating to molecules
 molecular_genetics	молекуларна генетика	molekularna genetika	h	a field of biology
+molotov_cocktail	молотовов коктел	molotov koktel	h	simple incendiary bomb
 momentum	импулс	impuls	h	product of mass and velocity
 monitoring	следење	sledenje	h	Surveillance or continuous or regular observation
+morale	морал	moral	h	the capacity of people to maintain belief in an institution or a goal, or even in oneself and others
 more_or_less	приближно	približno	h	approximately
 moreover	згора на тоа	zgora na toa	h	in addition to what has been said
 mormon	мормон	mormon	h	member of The Church of Jesus Christ of Latter-day Saints
@@ -1472,6 +1589,7 @@ mostly	најчесто	najčesto	h	for the most part
 mount	ридче	ridče	l	palmistry: prominence
 moving	движечки	dvižečki	l	that moves or move
 mumbai	Мумбаи	Mumbai	h	state capital of Maharashtra — see also Bombay
+mung_bean	мунг грав	mung grav	l	seed of Vigna radiata
 mutation	мутација	mutacija	h	heritable change in genetic material
 myriad	десет илјади	deset iljadi	h	ten thousand — see also ten thousand
 mysterious	мистериозен	misteriozen	h	of unknown origin
@@ -1496,6 +1614,7 @@ nectar	нектар	nektar	h	drink of the gods
 negative	негативен	negativen	h	not positive or neutral; bad; undesirable; unfavourable
 negro	црн	crn	l	offensive: relating to the black ethnicity
 neither	ниту еден	nitu eden	h	not one of two; not either
+nerd	штребер	štreber	l	intellectual, skillful person, generally introverted
 neutron_star	неутронска ѕвезда	neutronska dzvezda	h	star composed of neutrons
 new_moon	млада месечина	mlada mesečina	h	phase of moon when in conjunction with sun
 new_orleans	Њу Орлеанс	Nju Orleans	h	city
@@ -1506,6 +1625,7 @@ next_to	до	do	h	beside; alongside
 nice	пријатен	prijaten	h	pleasant, satisfactory
 nick	засек	zasek	h	small cut in a surface
 nigerian	Нигериец	Nigeriec	h	person
+nike	Ника	Nika	h	Greek goddess of victory
 nile	Нил	Nil	h	river
 ninety_nine	деведесет и девет	devedeset i devet	h	cardinal number 99
 ninety_seven	деведесет и седум	devedeset i sedum	h	97
@@ -1517,8 +1637,10 @@ no_problem	нема проблем	nema problem	h	easy
 nobody	никој	nikoj	h	unimportant person
 node	јазол	jazol	l	astronomy: where the orbit of a planet intersects the ecliptic
 nomination	номинација	nominacija	h	an act or instance of nominating
+nominative_case	номинатив	nominativ	h	case used to indicate the subject
 non_governmental_organization	невладина организација	nevladina organizacija	h	organization with no direct government control
 none	ништо	ništo	h	not any thing
+nonprofit	непрофитен	neprofiten	h	not seeking to produce a profit
 nope	не	ne	l	informal "no"
 nor	ниту	nitu	h	nor
 norm	норма	norma	h	that which is normal
@@ -1527,6 +1649,7 @@ norman	Норманец	Normanec	h	a person from Normandy
 norwegian	Норвежанец	Norvežanec	h	native of Norway
 notable	значаен	značaen	h	worthy of notice; remarkable
 notice	забележување	zabeležuvanje	h	act of observing
+notify	известува	izvestuva	h	(transitive) to give (someone) notice of (something)
 nova_scotia	Нова Скотија	Nova Skotija	h	province in eastern Canada
 now	сегашен	segašen	h	present; current
 now_and_then	од време на време	od vreme na vreme	h	(idiomatic) sometimes; occasionally; intermittently
@@ -1537,13 +1660,14 @@ nude	гол	gol	h	without clothing or other covering
 numb	вкочанет	vkočanet	h	physically unable to feel
 nursery	јасли	jasli	h	place where the pre-school children of working parents are supervised during the day — see also nursery school
 nursing	што дои	što doi	l	lactating
-o	о	o	h	name of the letter O, o
+o	о	o	h	a vocative particle
 oak	даб	dab	h	wood
 obesity	дебелина	debelina	h	act or state of being obese
 obey	послушува	poslušuva	h	to do as ordered by
 objection	приговор	prigovor	h	act of objecting
 observe	набљудува	nabljuduva	h	to follow
 observer	набљудувач	nabljuduvač	h	one who makes observations, monitors or takes notice
+obsessed	опседнат	opsednat	h	Intensely preoccupied with or by a given topic or emotion; driven by a specified obsession
 obsession	опсесија	opsesija	h	compulsive or irrational preoccupation — see also idée fixe
 obsolete	застарен	zastaren	h	no longer in use
 occasional	повремен	povremen	h	limited to certain occasions; not very often
@@ -1569,6 +1693,7 @@ ongoing	тековен	tekoven	h	continuing, permanent
 online	онлајн	onlajn	h	connected to a network
 only_child	единец	edinec	h	person who has no siblings
 onto	врз	vrz	h	upon; on top of
+oops	упс	ups	h	acknowledging a minor mistake
 op	автор на објавата	avtor na objavata	l	(internet) original poster
 opening	воведен	voveden	l	adjective
 operate	работи	raboti	h	to perform a work or labour
@@ -1606,15 +1731,18 @@ overall	севкупен	sevkupen	h	all-encompassing
 overhead	надземен	nadzemen	l	located above
 overnight	преку ноќ	preku nokj	h	throughout the night
 overseas	прекуокеански	prekuokeanski	h	abroad
+overthrow	соборува	soboruva	h	to bring about the downfall of
 overtime	прекувремена работа	prekuvremena rabota	h	worktime
 overview	преглед	pregled	h	brief summary, as of a book or a presentation
 overwhelming	неодолив	neodoliv	h	overpowering
 owe	должи	dolži	h	to be under an obligation
 ox	вол	vol	h	an adult castrated male of cattle
 oxide	оксид	oksid	h	binary compound of oxygen
+oxidizing_agent	оксидатор	oksidator	h	any substance that oxidizes, or receives electrons from, another
 p	стр.	str.	h	page
 p_m	попладне	popladne	h	after noon
 packed	спакуван	spakuvan	h	put into a package
+pad	подлога	podloga	l	flattened mass of anything soft
 pagan	пагански	paganski	h	relating to non-main world religions
 paid	платен	platen	h	not free of charge
 palladium	паладиум	paladium	l	a safeguard
@@ -1626,6 +1754,7 @@ papers	документи	dokumenti	h	official documents or identification
 paranoia	параноја	paranoja	h	a psychotic disorder characterized by delusions of persecution
 particular	одреден	odreden	h	specific; discrete; concrete
 particularly	особено	osobeno	h	especially
+partition	поделба	podelba	h	action which divides a thing into parts, or separates one thing from another
 partnership	партнерство	partnerstvo	h	state of being associated with a partner
 pass	поминува	pominuva	h	to go by, over, or through
 pass_away	почива	počiva	h	to die (euphemistic)
@@ -1638,7 +1767,7 @@ patrol	патрола	patrola	h	going of the rounds
 pause	паузира	pauzira	h	to take a temporary rest or break
 pavilion	павилјон	paviljon	h	ornate tent
 pawn	залог	zalog	h	item sold to a pawn shop
-pc	парче	parče	h	piece
+pc	персонален компјутер	personalen kompjuter	h	initialism of personal computer
 pea	грашок	grašok	h	edible seed
 peer	се загледува	se zagleduva	h	to look with difficulty or as if searching
 people_s_democratic_republic_of_algeria	Народна Демократска Република Алжир	Narodna Demokratska Republika Alžir	h	official name of Algeria
@@ -1651,6 +1780,7 @@ perfectly	совршено	sovršeno	h	with perfection
 perform	извршува	izvršuva	h	transitive: to do (something)
 permanent	траен	traen	h	without end
 permanently	трајно	trajno	h	in a permanent manner
+perry	пери	peri	l	Beverage from pears
 persecution	прогонство	progonstvo	h	the act of persecuting
 personally	лично	lično	h	in a personal manner
 personnel	персонал	personal	h	members of an organization
@@ -1660,6 +1790,7 @@ peter	кур	kur	l	slang: penis — see also penis
 petition	петиција	peticija	h	formal, written request made to an official person
 pharmaceutical	фармацевтски	farmacevtski	h	of, or relating to pharmacy or pharmacists
 philadelphia	Филаделфија	Filadelfija	h	largest city in Pennsylvania
+philosopher_s_stone	филозофски камен	filozofski kamen	h	supposed substance able to turn base metals into gold or silver
 photo	фотографира	fotografira	h	to take a photograph
 physical	физички	fizički	h	having to do with the material world; tangible
 physically	физички	fizički	h	in a physical manner
@@ -1669,6 +1800,7 @@ pile	куп	kup	h	mass of things heaped together; heap
 pink	розова боја	rozova boja	h	pale red colour
 pioneer	пионер	pioner	h	one who goes before
 pip	пип	pip	l	respiratory disease in birds
+piracy	пиратерија	piraterija	h	robbery at sea
 pitch	смола	smola	h	sticky, gummy substance secreted by trees
 pitch_black	црн како смола	crn kako smola	h	of the blackest black
 plain	прост	prost	h	ordinary; lacking adornment or ornamentation
@@ -1681,10 +1813,12 @@ pleased	задоволен	zadovolen	h	happy, content
 pledge	се заколнува	se zakolnuva	h	to make a solemn promise
 plot	заплет	zaplet	h	course of a story
 plural	множински	množinski	h	more than one
+po	По	Po	h	longest river in Italy
 po_valley	Долина на По	Dolina na Po	h	large plain in northern Italy
 pod	мешунка	mešunka	h	seed case
 point	запирка	zapirka	h	arithmetic: decimal point (note: many languages use a comma (',') rather than a dot as a decimal point, and hence the translations into these languages reflect 
 pointed	шилест	šilest	h	sharp at one end
+pointer	показалка	pokazalka	h	anything that points or is used for pointing
 points	скретница	skretnica	h	movable rails used to switch a train from one track to another
 pole	столб	stolb	h	long and slender object for construction or support
 polish	политура	politura	h	substance used to polish
@@ -1692,6 +1826,7 @@ politically	политички	politički	h	in a political manner
 poll	анкета	anketa	h	a survey of a particular group — see also survey
 pollen	полен	polen	h	fine granular substance produced in flowers
 polymer	полимер	polimer	h	molecule
+polymerase_chain_reaction	верижна реакција на полимераза	verižna reakcija na polimeraza	h	technique in molecular biology for creating multiple copies of DNA from a sample
 pool	базен	bazen	h	body of water
 pop	газиран сок	gaziran sok	h	soda pop
 porcupine	бодликава свиња	bodlikava svinja	l	rodent of the family Hystricidae
@@ -1699,6 +1834,7 @@ pornography	порнографија	pornografija	h	depiction of sexual subject 
 portable	пренослив	prenosliv	h	able to be carried or moved
 portal	портал	portal	h	entry point
 portfolio	папка	papka	l	case for carrying papers etc.
+portmanteau_word	збор-куфер	zbor-kufer	l	word which combines the meaning of two words
 portuguese_republic	Португалска Република	Portugalska Republika	h	official name of Portugal
 pose	позира	pozira	h	1. (transitive) To place in an attitude or fixed position, for the sake of effect.
 positive	позитивен	pozitiven	h	legal: formally laid down
@@ -1713,6 +1849,7 @@ pp	стр.	str.	h	pages
 practical	практичен	praktičen	h	based on practice or action rather than theory or hypothesis
 practically	практично	praktično	h	In practice, in effect
 practise	вежба	vežba	h	to repeat an activity as a way of improving one's skill
+precision	прецизност	preciznost	h	the state of being precise or exact; exactness
 preferred	претпочитан	pretpočitan	h	Translations
 preliminary	прелиминарен	preliminaren	h	in preparation for the main matter
 premier	водечки	vodečki	h	foremost, very first or very highest in quality or degree
@@ -1722,6 +1859,7 @@ presentation	презентација	prezentacija	h	act of presenting
 presidency	претседателство	pretsedatelstvo	h	office or role of president
 presidential	претседателски	pretsedatelski	h	pertaining to a president or presidency
 press_release	соопштение за јавност	soopštenie za javnost	h	official written media statement
+presumably	веројатно	verojatno	h	able to be sensibly presumed
 pretend	се преправа	se preprava	h	1. (intransitive or with 'that' clause or 'to' infinitive) To speak or behave so as to give a false or simulated appearance.
 pretty	симпатичен	simpatičen	h	especially of women and children: pleasant, attractive
 prevention	превенција	prevencija	h	The act of preventing or hindering
@@ -1749,17 +1887,22 @@ productivity	продуктивност	produktivnost	h	state of being productiv
 professional	професионалец	profesionalec	h	person who belongs to a profession
 profile	профил	profil	h	outermost shape
 progressive	прогресивен	progresiven	h	favouring or promoting progress; advanced
+projection	проекција	proekcija	h	something which projects
+promised	ветен	veten	l	predicted; expected
 promising	ветувачки	vetuvački	h	showing promise, and likely to develop in a desirable fashion
 promote	унапредува	unapreduva	h	raise someone to a more important, responsible, or remunerative job or rank
 prompt	брз	brz	h	quick
+prop	потпирач	potpirač	l	object placed against or under another, to support it
 properly	правилно	pravilno	h	in a proper manner
 proportion	пропорција	proporcija	h	quantity that is part of the whole
 propose	предлага	predlaga	h	to suggest a plan or course of action
+prosecution	кривично гонење	krivično gonenje	h	the institution of legal proceedings against a person
 prospect	поглед	pogled	h	region which the eye overlooks at one time
 prostate	простата	prostata	h	prostate gland — see also prostate gland
 protagonist	протагонист	protagonist	h	main character
 protect	штити	štiti	h	to keep safe
 protected	заштитен	zaštiten	h	defended
+protective	заштитнички	zaštitnički	h	serving, intended or wishing to protect
 protocol	протокол	protokol	h	rule, guideline etc which guides diplomatic behaviour
 proton	протон	proton	h	positively charged nucleon
 prototype	прототип	prototip	h	original form or object which is a basis for other forms or objects
@@ -1778,8 +1921,11 @@ psychologist	психолог	psiholog	h	expert in the field of psychology
 publication	објавување	objavuvanje	h	act of publishing
 publicly	јавно	javno	h	in an open and public manner — see also in public
 publish	објавува	objavuva	h	to issue something (usually printed work) for sale and distribution
+publishing	издаваштво	izdavaštvo	h	the industry of publishing
 pudding	пудинг	puding	h	boiled or steamed cake or dessert
 pulled	кинат	kinat	l	of fine pieces of cooked meat torn from the bone.
+pulp	пулпа	pulpa	h	center of a fruit
+pun	се игра со зборови	se igra so zborovi	l	to make or tell a pun
 punching_bag	боксерска вреќа	bokserska vrekja	h	tough bag punched or kicked when practising sports such as boxing or martial arts
 punk	панк	pank	h	short form of punk rock
 pure	чист	čist	h	free of flaws or imperfections
@@ -1788,10 +1934,13 @@ pursuit	потера	potera	h	act of pursuing
 push_up	склек	sklek	l	supporting
 q	дама	dama	h	playing card
 qatar	Катар	Katar	h	country in West Asia
+qr_code	QR-код	QR-kod	h	2-D barcode
 quail	се плаши	se plaši	l	to shrink or waver; to become fearful or doubtful
 qualified	квалификуван	kvalifikuvan	h	meeting requirements
 qualify	опишува	opišuva	l	to describe or characterize something by listing its qualities
+quantitative	квантитативен	kvantitativen	h	of a measurement based on some quantity or number rather than on some quality
 quantum	квант	kvant	h	quantity
+quantum_entanglement	квантна заплетканост	kvantna zapletkanost	h	quantum mechanical phenomenon
 quantum_field_theory	квантна теорија на полето	kvantna teorija na poleto	h	theory of quantum fields
 quantum_state	квантна состојба	kvantna sostojba	h	any of the possible states of a quantum mechanical system
 quarter	тримесечје	trimesečje	h	period of three months
@@ -1816,6 +1965,7 @@ range	планински венец	planinski venec	h	line of mountains, buildin
 rank	смрдлив	smrdliv	h	having a very strong and bad odor
 ranking	рангиран	rangiran	l	having a specified rank
 rapidly	брзо	brzo	h	with speed
+rapper	рапер	raper	h	performer of rap music, or one who raps
 rash	исхитрен	ishitren	h	acting too quickly without considering the consequences and risks — see also hasty, crazy, impulsive, inconsiderate, precipitate, imprudent, precipitous
 rate	стапка	stapka	h	the proportional relationship between one amount, value etc. and another
 rates	комунален данок	komunalen danok	l	a local government tax on property
@@ -1825,6 +1975,7 @@ re	во врска со	vo vrska so	h	regarding
 reach	стигнува	stignuva	h	to arrive at by effort
 react	реагира	reagira	h	to act in response
 real_number	реален број	realen broj	h	limit of a convergent sequence of rational numbers
+realism	реализам	realizam	h	concern for fact or reality
 realistic	реалистичен	realističen	h	expressed or represented as being accurate
 realize	сфаќа	sfakja	h	(''transitive'') to become aware of or understand (a fact or situation)
 rear	одгледува	odgleduva	h	to bring up to maturity
@@ -1866,6 +2017,7 @@ relation	релација	relacija	h	mathematics: set of ordered tuples, a Boole
 relative	релативен	relativen	h	conditional; depending on something else
 relatively	релативно	relativno	h	proportionally
 relax	олабавува	olabavuva	l	(transitive) to make something loose
+relaxed	опуштен	opušten	h	having an easy-going mood
 relay	штафета	štafeta	h	athletics discipline
 release	ослободување	osloboduvanje	h	event of setting free
 reliability	доверливост	doverlivost	h	quality of being reliable
@@ -1880,9 +2032,11 @@ remains	останки	ostanki	h	what is left after a person (or any organism) d
 remarkable	извонреден	izvonreden	h	worthy of being remarked
 remedy	лек	lek	h	something that corrects or counteracts
 remind	потсетува	potsetuva	h	cause one to experience a memory; bring to a person's notice
+remix	ремикс	remiks	h	rearrangement of an older piece of music
 removal	отстранување	otstranuvanje	h	the process of moving, or the fact of being removed
 remove	отстранува	otstranuva	h	to take away
 render	прави	pravi	l	to cause to become
+renovation	реновирање	renoviranje	h	act or process of renovating
 repeat	повторува	povtoruva	h	do or say again
 repeated	повторен	povtoren	h	said or done again
 repeatedly	повеќепати	povekjepati	h	done several times
@@ -1906,7 +2060,7 @@ republic_of_malta	Република Малта	Republika Malta	h	official name 
 republic_of_poland	Република Полска	Republika Polska	h	official name of Poland
 republic_of_singapore	Република Сингапур	Republika Singapur	h	official name of Singapore
 republic_of_the_philippines	Република Филипини	Republika Filipini	h	official name of the Philippines
-republican	републикански	republikanski	h	favoring a republic as form of government, favoring republicanism
+republican	републикански	republikanski	h	pertaining to the Republican Party
 require	бара	bara	h	to demand of (someone)
 resemble	личи на	liči na	h	to be like or similar to something else
 reservation	резерва	rezerva	l	limiting qualification
@@ -1915,6 +2069,7 @@ residential	станбен	stanben	h	of or pertaining to a place of personal res
 resign	поднесува оставка	podnesuva ostavka	h	quit a job or position
 resolution	резолуција	rezolucija	h	statement of intent
 resolve	решава	rešava	h	to find a solution to
+respectful	учтив	učtiv	h	characterized by respect
 respective	соодветен	soodveten	h	referencing two or more things as individuals
 respectively	соодветно	soodvetno	h	in a relative manner
 respond	одговара	odgovara	h	to say something in return
@@ -1940,6 +2095,7 @@ ride	вози	vozi	h	to transport oneself by sitting on and directing a horse, b
 ridge	гребен	greben	h	line along which two sloping surfaces meet
 ridiculous	апсурден	apsurden	h	foolish, absurd
 right_now	токму сега	tokmu sega	h	at this precise moment
+rigid	крут	krut	h	rigorous, unbending
 ring	прстен	prsten	h	circumscribing object
 rio_de_janeiro	Рио де Жанеиро	Rio de Žaneiro	h	municipality
 rip	раскинува	raskinuva	h	to divide or separate the parts of
@@ -1958,7 +2114,7 @@ roger	примено	primeno	l	received
 roll	тркала	trkala	h	to cause something to revolve by turning over and over
 rolling	тркалачки	trkalački	h	moving by turning over repeatedly
 roman	римски	rimski	l	upright
-romance	љубовна врска	ljubovna vrska	h	intimate relationship, love affair
+romance	Романски јазици	Romanski jazici	l	group of languages and cultures which are derived from Vulgar Latin
 romans	Римјаните	Rimjanite	h	book of the Bible
 romantic	романтичен	romantičen	h	concerned with, or conducive to, romance and love
 rome_wasn_t_built_in_a_day	Рим не е изграден за еден ден	Rim ne e izgraden za eden den	h	it takes a long time to create something complicated or impressive
@@ -1968,6 +2124,7 @@ roughly	грубо	grubo	h	in a rough manner
 routine	рутина	rutina	h	course of action to be followed regularly; a standard procedure
 royal_family	кралско семејство	kralsko semejstvo	h	family of the ruling sovereign of a country or state
 rub	втривање	vtrivanje	h	act of rubbing
+rubbish	глупости	gluposti	h	nonsense
 rue	каење	kaenje	h	repentance, regret
 ruling	владејачки	vladejački	h	that rules
 running	трчачки	trčački	l	moving by running
@@ -1981,10 +2138,12 @@ said	споменат	spomenat	h	mentioned earlier
 sailing	пловечки	plovečki	l	travelling by ship
 sailing_ship	едрен брод	edren brod	h	type of ship
 sake	ради	radi	l	cause, interest or account
+salaam_alaikum	селам алејкум	selam alejkum	l	peace be upon you (Muslim greeting)
 salon	салон	salon	h	large room
 samsung	Самсунг	Samsung	h	South Korean conglomerate company
 san	сан	san	l	letter of the Archaic Greek alphabet
 sanction	одобрение	odobrenie	l	approval, by an authority, that makes something valid
+sarah	Сара	Sara	h	Translations
 sarcasm	сарказам	sarkazam	h	derision, facetiousness
 sat	саб.	sab.	h	abbreviation of Saturday
 satan	Сатана	Satana	h	the Devil
@@ -1994,9 +2153,11 @@ saxon	Сакс	Saks	h	member of Saxon tribe
 scale	скала	skala	h	sequence for measurement
 scan	скенира	skenira	h	create an image of something with the use of a scanner
 scandinavian_peninsula	Скандинавски Полуостров	Skandinavski Poluostrov	h	peninsula in Northern Europe — see also Scandinavia
+scanner	скенер	skener	h	device which scans documents
 scare	страв	strav	h	minor fright
 scent	мирис	miris	h	distinctive odour or smell
 scheme	план	plan	h	systematic plan of future action
+schizoid_personality_disorder	шизоидно растројство на личноста	šizoidno rastrojstvo na ličnosta	h	personality disorder
 scholar	учењак	učenjak	h	specialist in a particular branch of knowledge
 science	наука	nauka	h	particular discipline or branch of learning
 scientist	научник	naučnik	h	one whose activities make use of the scientific method
@@ -2004,9 +2165,11 @@ scoop	лопатка	lopatka	l	any cup- or bowl-shaped object
 scope	опсег	opseg	h	breadth, depth or reach of a subject; extent of applicability or relevance
 score	резултат	rezultat	h	number of points earned
 scotch	шкотски јазик	škotski jazik	h	Lowland Scots language
+scots	шкотски	škotski	l	Lowland Scots language
 scrap	отпадок	otpadok	l	small piece, fragment
 screenshot	снимка од екран	snimka od ekran	h	image of computer screen output
 script	текст	tekst	l	writing; written document
+sea_buckthorn	морски трн	morski trn	l	shrub of the genus Hippophae
 sea_lion	морски лав	morski lav	h	member of the Otariidae family
 seattle	Сиетл	Sietl	h	city in the state of Washington, USA
 secondary	секундарен	sekundaren	h	succeeding first
@@ -2027,6 +2190,7 @@ selfish	себичен	sebičen	h	holding one's self-interest as the standard fo
 selling	продавање	prodavanje	h	action of the verb "to sell"
 semester	семестар	semestar	h	half of school year
 semi	полуерекција	poluerekcija	l	semi-erection
+seminar	семинар	seminar	h	class held for advanced studies
 senior	постар	postar	h	older
 sensible	разумен	razumen	h	acting with or showing good judgement
 sensitive	чувствителен	čuvstvitelen	h	responsive to stimuli
@@ -2051,6 +2215,7 @@ severe	тежок	težok	h	very bad or intense
 sexual_assault	сексуален напад	seksualen napad	h	sexual assault
 sexual_reproduction	полово размножување	polovo razmnožuvanje	h	process whereby a new organism created by combining the genetic material of two organisms
 sexuality	сексуалност	seksualnost	h	that which is characterized or distinguished by sex
+sexually	сексуално	seksualno	h	with respect to intercourse
 sexually_transmitted_disease	полово пренослива болест	polovo prenosliva bolest	h	disease contracted through sexual contact — see also venereal disease, STD
 shall	ќе	kje	h	indicating the simple future tense
 shallow	плиток	plitok	h	having little depth and significantly less deep than wide
@@ -2059,6 +2224,7 @@ shared	споделен	spodelen	h	used by multiple agents
 sharing	споделување	spodeluvanje	l	a common point
 shed	одвојува	odvojuva	l	to part or divide
 sheer	прозрачен	prozračen	h	very thin or transparent
+shiny	сјаен	sjaen	h	reflecting light
 shitty	усран	usran	l	very bad, miserable
 shock	удар	udar	h	sudden, heavy impact
 shock_wave	ударен бран	udaren bran	h	powerful compression wave
@@ -2066,6 +2232,7 @@ shocked	шокиран	šokiran	h	surprised, startled, confused
 shocking	шокантен	šokanten	h	inspiring shock; startling
 shooting	бодежен	bodežen	l	of a pain: sudden and darting
 shooting_star	ѕвезда падалка	dzvezda padalka	h	meteor
+shortcut	кратенка	kratenka	h	path
 shortly	наскоро	naskoro	h	in a short or brief time or manner
 shot	изматен	izmaten	l	worn out
 shot_put	фрлање на куглата	frlanje na kuglata	h	athletics event
@@ -2081,6 +2248,7 @@ significantly	значително	značitelno	h	in a significant manner: notabl
 sim_card	СИМ-картичка	SIM-kartička	h	small, removable card which stores mobile phone data
 similarly	слично	slično	h	in a similar style or manner
 simply	едноставно	ednostavno	h	in a simple manner
+simulation	симулација	simulacija	h	something which simulates
 simultaneously	истовремено	istovremeno	h	occurring at the same time
 since	оттогаш	otogaš	h	from a specified time in the past
 single	единствен	edinstven	h	not accompanied by anything else
@@ -2089,6 +2257,7 @@ singular	единечен	edinečen	l	being only one of larger population
 sink	потопува	potopuva	h	cause (ship, etc) to sink
 sir	господине	gospodine	h	address to any male, especially if his name or proper address is unknown
 siren	сирена	sirena	h	nymph of Greek mythology
+sirius	Сириус	Sirius	h	Translations
 sister_in_law	балдаза	baldaza	h	wife's sister
 site	локација	lokacija	h	place where anything is fixed; situation; local position
 sitting	квачење	kvačenje	l	incubation of eggs; the clutch of eggs under a brooding bird
@@ -2102,17 +2271,20 @@ skilled	вешт	vešt	h	having or showing skill
 skin_cancer	рак на кожата	rak na kožata	h	malignant growth on the skin
 skip	скока	skoka	h	move by hopping on alternate feet
 sky_blue	небесно сино	nebesno sino	h	light blue — see also dark blue, blue
+slam	тресне	tresne	l	to shut with sudden force and noise
 sleeping	спален	spalen	h	used for sleep; used to produce sleep
 slice	кришка	kriška	h	thin, broad piece cut off
 slide	се лизга	se lizga	h	to cause to move in continuous contact with a surface
 slight	незначителен	neznačitelen	h	small in amount, insignificant
 slope	падина	padina	h	area of ground that tends evenly upward or downward
+slovak_republic	Словачка Република	Slovačka Republika	h	official name of Slovakia
 smallpox	вариола	variola	l	disease
 smart	боде	bode	h	to hurt or sting
 smash	тресок	tresok	l	sound of a violent impact
 smoked	пушен	pušen	h	of food, preserved by treatment with smoke
 smoking	чадечки	čadečki	l	giving off smoke
 snap	пукот	pukot	l	quick breaking or cracking sound or the action of producing such a sound
+sneak	измамник	izmamnik	l	a cheat; con artist; trickster
 so	за да	za da	h	in order that
 so_far	досега	dosega	h	until now; previously; yet
 so_that	за да	za da	h	in order to
@@ -2132,6 +2304,8 @@ sony	Сони	Soni	h	An international electronics and media company based in Tok
 sorry	жал ми е	žal mi e	l	repentant, apologetic
 south_korean	Јужнокореец	Južnokoreec	h	person from or descended from South Korea
 southeast_asia	Југоисточна Азија	Jugoistočna Azija	h	a subregion of Asia
+soviet	Советец	Sovetec	l	citizen
+spacecraft	вселенски брод	vselenski brod	h	vehicle that travels through space
 span	педа	peda	l	Any of various units of length approximating the full width of an open hand
 spare	резервен	rezerven	h	being over and above what is necessary
 spark_plug	свеќичка	svekjička	h	part of an internal combustion engine
@@ -2140,6 +2314,7 @@ specific	специфичен	specifičen	h	explicit or definite
 specifically	конкретно	konkretno	h	for a specific purpose or reason
 spectacle	спектакл	spektakl	h	something exciting or extraordinary
 spectacular	спектакуларен	spektakularen	h	amazing or worthy of special attention
+speculation	спекулација	spekulacija	l	process of thinking or meditation
 speed_bump	лежечки полицаец	ležečki policaec	h	transverse ridge in the road
 speed_of_light	брзина на светлината	brzina na svetlinata	h	the speed of electromagnetic radiation in a perfect vacuum
 spell	магија	magija	l	magical incantation
@@ -2152,16 +2327,20 @@ spin	се врти	se vrti	h	to turn around quickly
 spirits	жестоки пијалаци	žestoki pijalaci	h	strong alcoholic drink derived from fermentation and distillation
 split	цепи	cepi	h	divide along a more or less straight line
 spoil	расипува	rasipuva	h	to ruin
+spoiled	размазен	razmazen	h	(of a person, usually a child) having a selfish or greedy character due to pampering
 spoken	говорен	govoren	h	expressed in speech
 spokesman	портпарол	portparol	h	one who speaks as the voice of a group of people
+sporting	спортски	sportski	h	pertaining to sports
 spot	дамка	damka	h	a round or irregular patch of a different color
 spotlight	рефлектор	reflektor	h	a bright lamp, especially one used to illuminate the center of attention on a stage
+spotted	дамкосан	damkosan	l	discoloured by spots; stained
 spray	спреј	sprej	h	fine, gentle, dispersed mist of liquid
 spring	скока	skoka	h	to move or burst forth
 squadron	ескадрон	eskadron	h	army: body of cavalry
 squash	сквош	skvoš	h	the sport
 squat	здепест	zdepest	h	relatively short or low and thick or broad
-st	шт	št	h	expressing a sudden desire for silence
+sri_jayawardenepura_kotte	Шри Џајаварденепура Коте	Šri Džajavardenepura Kote	h	the administrative capital of Sri Lanka
+st	Св.	Sv.	h	abbreviation of Saint
 stab	удар со нож	udar so nož	h	act of stabbing
 stability	стабилност	stabilnost	h	condition of being stable
 stack	купче	kupče	h	pile of identical objects
@@ -2170,6 +2349,7 @@ stall	преграда	pregrada	l	compartment for a single animal in a stable or
 stance	став	stav	h	manner, pose, or posture in which one stands
 standing	стоен	stoen	l	water
 staple	основна намирница	osnovna namirnica	h	basic or essential supply
+star_anise	звездест анис	zvezdest anis	h	a plant, Illicium verum
 star_fruit	карамбола	karambola	h	fruit
 star_of_david	Давидова ѕвезда	Davidova dzvezda	h	symbol of Jewish identity and Judaism
 stare	зјапа	zjapa	h	to look fixedly
@@ -2192,8 +2372,10 @@ stole	штола	štola	l	ecclesiastical garment
 storage	складирање	skladiranje	h	act or state
 store	продавница	prodavnica	h	place where items may be kept
 strain	сој	soj	h	race, lineage, pedigree
+strait_of_messina	Месински Теснец	Mesinski Tesnec	h	narrow section of water between Sicily and mainland Italy
 strap	ремен	remen	h	a long, narrow, pliable strip of leather, cloth, or the like
 strategic	стратешки	strateški	h	of or pertaining to strategy
+streak	црта	crta	l	irregular line
 streaming	стриминг	striming	h	computing
 strengthen	зајакнува	zajaknuva	h	to make strong or stronger
 stressed	стресиран	stresiran	h	stressed-out
@@ -2201,6 +2383,7 @@ stretch	растега	rastega	h	to lengthen by pulling
 strict	строг	strog	h	governed or governing by exact rules
 string_theory	теорија на струни	teorija na struni	h	candidate unified theory of all physical forces and particles
 strip	лента	lenta	h	long, thin piece of land or material
+stripe	пруга	pruga	h	long straight region of a colour
 strongly	силно	silno	h	in a strong or powerful manner
 structural	структурен	strukturen	h	of, relating to, or having structure
 stuck	заглавен	zaglaven	h	trapped and unable to move
@@ -2216,6 +2399,7 @@ submit	се покорува	se pokoruva	h	to yield or give way to another
 subsequent	следен	sleden	h	following in time
 subsequently	подоцна	podocna	h	subsequently
 subsidiary	дополнителен	dopolniten	h	auxiliary or supplemental
+subsidy	субвенција	subvencija	h	financial support
 substantial	суштински	suštinski	l	having substance, actually existing
 substitute	заменува	zamenuva	h	to use in place of something else
 subtle	суптилен	suptilen	h	of an argument or concept, words, etc.: requiring one to distinguish between fine points, especially if it is difficult to do so; difficult to grasp; not easily
@@ -2226,9 +2410,11 @@ succession	последователност	posledovatelnost	l	following in sequ
 successor	наследник	naslednik	h	person or thing that immediately follows another
 such	таков	takov	h	used to make a comparison with something implied by context
 suck	цицање	cicanje	h	instance of drawing something into one's mouth by inhaling
+sucker	сисач	sisač	l	someone or something that sucks
 sue	тужи	tuži	h	to file a legal action
 suffer	страда	strada	h	undergo hardship
 suffering	што страда	što strada	l	experiencing pain
+suffice	стига	stiga	l	be enough, sufficient, adequate
 sufficient	доволен	dovolen	h	enough, adequate
 suggest	сугерира	sugerira	h	to ask for without demanding
 suite	свита	svita	h	retinue or company of attendants
@@ -2242,10 +2428,12 @@ support	поддржува	poddržuva	h	to keep from falling
 supported	поддржан	poddržan	h	helped or aided
 supposed	наводен	navoden	h	presumed to be true, but without proof
 surf	прибој	priboj	h	waves that break
+surfing	сурфање	surfanje	h	sport
 surgical	хируршки	hirurški	h	of or relating to surgery
 surprised	изненаден	iznenaden	h	caused to feel surprise
 surprising	изненадувачки	iznenaduvački	h	that is or are a surprise
 surrounding	опкружува	opkružuva	h	gerund of 'surround'
+surroundings	околина	okolina	h	area surrounding someone or something
 surveillance	надзор	nadzor	h	observation of individuals or groups of individuals
 survey	истражување	istražuvanje	l	act of surveying
 suspended	суспендиран	suspendiran	h	interrupted or delayed
@@ -2266,6 +2454,7 @@ syracuse	Сиракуза	Sirakuza	h	city in New York state
 syrian	сириски	siriski	h	of, from, or pertaining to Syria, the Syrian people or Syrian culture
 syrian_arab_republic	Сириска Арапска Република	Siriska Arapska Republika	h	official name of Syria
 systematic	систематски	sistematski	h	carried out using a planned, ordered procedure
+tablet	плочка	pločka	l	slab of clay
 tackle	риболовна опрема	ribolovna oprema	h	fishing: angling gear
 tactical	тактички	taktički	h	of or relating to tactics
 taken	занесен	zanesen	h	infatuated, fond of or attracted to
@@ -2283,6 +2472,7 @@ tear	кине	kine	h	to rend
 technical	технички	tehnički	h	pertaining to the useful or mechanic arts
 technically	технички	tehnički	h	based on precise facts, which however may be contrary to common misbelief or to a traditional name
 technician	техничар	tehničar	h	occupation
+techno	техно	tehno	h	style of music
 tee	те	te	l	name of the letter T, t
 temper	расположение	raspoloženie	h	tendency to be of a certain type of mood
 temptation	искушение	iskušenie	h	act of tempting
@@ -2305,6 +2495,7 @@ them	нив	niv	h	third personal plural pronoun used after a preposition or as t
 themselves	тие самите	tie samite	h	emphatic: they
 there_be	постои	postoi	h	to exist
 there_is_nothing_new_under_the_sun	Нема ништо ново под сонцето	Nema ništo novo pod sonceto	h	there is nothing new
+thereby	со тоа	so toa	h	by that
 therefore	затоа	zatoa	h	consequently; by consequence — see also consequently, ergo, so, whence, thus
 thesis	теза	teza	h	proposition or statement supported by arguments
 thirty_eight	триесет и осум	trieset i osum	h	38
@@ -2318,6 +2509,7 @@ thirty_three	триесет и три	trieset i tri	h	33
 thirty_two	триесет и два	trieset i dva	h	32
 this_morning	утрово	utrovo	h	during the morning of today
 thorough	темелен	temelen	h	detailed
+thoroughly	темелно	temelno	h	in a thorough or complete manner
 those	тие	tie	h	plural of that
 though	сепак	sepak	h	however
 threatened	загрозен	zagrozen	h	at risk of becoming endangered
@@ -2325,10 +2517,13 @@ throughout	низ	niz	h	in every part of; all through
 throw_away	фрла	frla	h	discard or dispose of
 thrust	прободување	proboduvanje	l	an attack with a sword
 thug	насилник	nasilnik	h	someone who treats others violently or roughly
+thyroid_gland	штитна жлезда	štitna žlezda	h	large butterfly-shaped endocrine gland
 tickle	гделање	gdelanje	h	act of tickling
 tidy	уреден	ureden	h	arranged neatly
 tie	нерешен резултат	nerešen rezultat	h	sports: tie score
+tied	поврзан	povrzan	l	closely associated
 tier	ниво	nivo	h	layer or rank
+tierra_del_fuego	Огнена Земја	Ognena Zemja	h	archipelago between Chile and Argentina
 tight	стегнат	stegnat	h	firmly held together
 timber	дрвена граѓа	drvena gragja	h	trees considered as a source of wood
 time_zone	временска зона	vremenska zona	h	range of longitudes where a common standard time is used
@@ -2337,6 +2532,7 @@ timing	тајминг	tajming	h	the regulation of the pace
 timothy	Тимотеј	Timotej	h	books in the New Testament
 tip	врв	vrv	h	extreme end of something
 tire	се умори	se umoruva	l	to become sleepy
+titan	Титан	Titan	h	mythological giant
 titus	Тит	Tit	h	book of the Bible
 to_be_continued	Продолжува	Prodolžuva	l	story continues in next episode
 today_s	денешен	denešen	h	relating to, or produced today
@@ -2372,6 +2568,7 @@ transmission	пренос	prenos	h	act of transmitting
 transparency	транспарентност	transparentnost	h	quality of being transparent; transparence
 transport	превезува	prevezuva	h	carry or bear from one place to another
 trapped	заробен	zaroben	h	caught in a trap
+travelling	патување	patuvanje	h	action of travelling
 treasurer	благајник	blagajnik	l	government official in charge of the Treasury
 treat	третира	tretira	h	to handle, deal with or behave towards in a specific way
 treatment	третман	tretman	h	process or manner of treating
@@ -2383,7 +2580,9 @@ trivial	тривијален	trivijalen	h	of little significance or value
 trouble	неволја	nevolja	h	distressful or dangerous situation
 true	вистинит	vistinit	h	concurring with a given set of facts
 truly	навистина	navistina	h	in accordance with the facts
+trustworthy	доверлив	doverliv	h	reliable
 trying	тежок	težok	l	Difficult to endure; arduous
+tub	каца	kaca	h	broad, flat-bottomed vessel
 tube	цевка	cevka	h	a pipe
 tuition	настава	nastava	h	training or instruction provided by a teacher or tutor
 turn	се врти	se vrti	h	intransitive: move around an axis through itself
@@ -2392,6 +2591,7 @@ tv	ТВ	TV	h	abbreviation for television
 twice	двапати	dvapati	h	two times
 twin_towers	Кули близначки	Kuli bliznački	h	the two main buildings of the World Trade Center
 twist	торзија	torzija	l	twisting force
+twitch	трзање	trzanje	h	1. brief, small (sometimes involuntary) movement out of place and then back again
 type	тип	tip	h	grouping based on shared characteristics
 typical	типичен	tipičen	h	capturing the overall sense of a thing
 typically	типично	tipično	h	in a typical manner
@@ -2417,11 +2617,15 @@ unless	освен ако	osven ako	h	except on a specified condition
 unlike	различен	različen	h	dissimilar
 unlikely	малку веројатен	malku verojaten	h	not likely
 unprecedented	без преседан	bez presedan	h	never before seen or done, without precedent
+unstable	нестабилен	nestabilen	h	not stable
 upcoming	претстоен	pretstoen	h	of the relatively near future
 upper_arm	надлактица	nadlaktica	h	section of an arm
+ups	УПС	UPS	h	(initialism) uninterruptible power supply
 upset	вознемирен	voznemiren	h	angry, distressed, unhappy
 upside_down	наопаку	naopaku	h	inverted
+upstairs	горен	goren	l	located on a higher floor of a building
 urban_legend	урбана легенда	urbana legenda	h	dubious story
+urdu	урду	urdu	h	the Indo-Iranian language
 usage	употреба	upotreba	h	habit or accepted practice
 username	корисничко име	korisničko ime	h	a person's identification on an individual computer system
 usually	обично	obično	h	most of the time
@@ -2429,6 +2633,7 @@ utility	корисност	korisnost	h	state or condition of being useful
 utter	целосен	celosen	h	to the furthest or most extreme extent — see also absolute, total
 vaccine	вакцински	vakcinski	l	of, pertaining to, caused by, or characteristic of cowpox
 vacuum	вакуум	vakuum	h	region of space that contains no matter
+vain	суетен	sueten	h	overly proud of one's appearance
 valuable	вреден	vreden	h	having a great value
 value_added_tax	данок на додадена вредност	danok na dodadena vrednost	h	tax levied on added value of an exchange — see also VAT
 variable	променлив	promenliv	h	able to vary
@@ -2436,14 +2641,18 @@ variant	варијантен	varijanten	l	showing variety, diverse
 variation	варијација	varijacija	h	the act or state of varying
 variety	сорта	sorta	h	specific variation of something
 vary	варира	varira	h	to change something with time or a similar parameter
+vas_deferens	семеновод	semenovod	l	vas deferens
 vast	огромен	ogromen	h	very large or wide (literally or figuratively)
+vat	ДДВ	DDV	h	initialism for value-added tax — see also value added tax
 vector	вектор	vektor	h	directed quantity
 veil	превез	prevez	l	something to hide an object
 venture	потфат	potfat	h	a risky or daring undertaking or journey
 verify	потврдува	potvrduva	h	to substantiate or prove the truth of something
 versus	наспроти	nasproti	h	in opposition to
 veteran	ветеран	veteran	h	person with long experience
+veto	вето	veto	h	political right
 via	виа	via	l	small hole in a printed circuit board
+victorian	викторијански	viktorijanski	h	of or relating to the reign of Queen Victoria or that period
 viking	Викинг	Viking	h	One of the Scandinavian seafaring warriors
 vine	лоза	loza	h	any similar climbing or trailing plant
 vinyl	винил	vinil	h	univalent radical
@@ -2452,6 +2661,7 @@ violent	насилен	nasilen	h	involving extreme force or motion
 viral	вирусен	virusen	h	relating to a virus in biological sense
 virtually	практично	praktično	h	almost
 visual	визуелен	vizuelen	h	related to or affecting the vision
+vocative_case	вокатив	vokativ	h	case of address
 voiced	звучен	zvučen	h	sounded with vibration of the vocal cords
 voluntary	доброволен	dobrovolen	h	done, given, or acting of one's own free will
 w	З	Z	l	west
@@ -2459,6 +2669,7 @@ wade	гази	gazi	h	to walk through water or something that impedes progress
 waiting	чекање	čekanje	h	the act of staying or remaining in expectation
 walker	пешак	pešak	h	person who walks
 walking	жив	živ	l	incarnate as a human
+wall_socket	штекер	šteker	h	electricity power point
 wanted	посакуван	posakuvan	h	desired
 wanting	што недостасува	što nedostasuva	l	absent or lacking
 warmth	топлина	toplina	h	moderate heat; sensation of being warm
@@ -2476,6 +2687,7 @@ way	начин	način	h	method or manner
 wealthy	богат	bogat	h	rich
 wearing	носив	nosiv	l	intended to be worn
 weather_station	метеоролошка станица	meteorološka stanica	h	station for meteorological observations
+wee	мал	mal	h	small, little
 weed	плевел	plevel	h	unwanted plant
 weekly	неделно	nedelno	h	once every week
 weigh	мери	meri	h	to determine the weight of an object
@@ -2487,6 +2699,7 @@ what_s_up	Што има	Što ima	h	How are you?
 what_the_fuck	што по ѓаволите	što po gjavolite	l	intensive form of what
 whatever	каков и да е	kakov i da e	l	regardless of the … that; for any … that
 when_in_rome_do_as_the_romans_do	Кога си во Рим, живеј како Римјаните	Koga si vo Rim, živej kako Rimjanite	l	behave as those around do
+when_the_cat_s_away_the_mice_will_play	кога мачката ја нема, глувците играат	koga mačkata ja nema, gluvcite igraat	h	in the absence of a controlling entity, subordinates will take advantage of circumstances
 whenever	секогаш кога	sekogaš koga	h	1. at any time that
 where_there_is_a_will_there_is_a_way	Каде има волја, има и пат	Kade ima volja, ima i pat	h	if someone wants or wills something strongly enough, a way can be found
 whereas	додека	dodeka	h	it being the case that…
@@ -2497,22 +2710,27 @@ white_blood_cell	бела крвна клетка	bela krvna kletka	h	cytology: 
 whoever	кој и да е	koj i da e	h	any person or persons that
 wholesale	големопродажба	golemoprodažba	h	sale of products, often in large quantities, to retailers or other merchants
 wildlife	диви животни	divi životni	h	animals in their natural environment
+will_o_the_wisp	блуден оган	bluden ogan	l	strange light
 will_you_marry_me	Ќе се омажиш ли за мене	Kje se omažiš li za mene	l	marriage proposal
 wink	намигнува	namignuva	h	to blink with only one eye as a message, signal, or suggestion
 winning	победнички	pobednički	h	that constitutes a win
+wit	духовитост	duhovitost	h	Spoken humour, particularly that thought of quickly
 with	со	so	h	with
 withdraw	повлекува	povlekuva	h	to draw or pull (something) aside, away, or back from its original position or situation
 withdrawal	повлекување	povlekuvanje	h	receiving from someone's care what one has earlier entrusted to them
 within	во	vo	h	spatially enclosed by
 witness	сведоштво	svedoštvo	l	attestation of a fact or event
 woke	будан	buden	l	alert to what is happening
+wolf_in_sheep_s_clothing	волк во овча кожа	volk vo ovča koža	h	someone or something harmful or threatening but disguised as something peaceful or pleasant
 women	Жените	Ženite	h	4th sura of the Qur'an
 won_t	нема да	nema da	h	contraction of “will not”
+wont	навика	navika	h	habitual way of doing things
 woo	се додворува	se dodvoruva	h	to endeavor to gain someone's affection/support
 words	расправија	raspravija	h	angry debate or conversation
 working	работа	rabota	h	operation; action
 workout	тренинг	trening	h	an exercise session; a period of physical exercise
 works	фабрика	fabrika	h	a factory
+worn	излитен	izliten	h	damaged and shabby from too much use
 worried	загрижен	zagrižen	h	thinking about unpleasant things that have happened or that might happen
 worrying	загрижувачки	zagrižuvački	h	inducing worry
 worth	вреден	vreden	h	equal in value to
@@ -2521,6 +2739,7 @@ would	би	bi	h	indicating a possible (but not definite) future action or state
 wounded	ранет	ranet	h	suffering from a wound
 wrap	завиткува	zavitkuva	h	to enclose completely in fabric, paper, etc
 wrestling	борење	borenje	h	sport — see also freestyle wrestling
+wrinkle	брчка	brčka	h	furrow in a smooth surface
 wrist	зглоб на раката	zglob na rakata	h	joint where the hand is attached to the arm
 wrong	погрешен	pogrešen	h	incorrect
 wtf	што по ѓаволите	što po gjavolite	l	What the fuck
@@ -2530,11 +2749,17 @@ yeah	да	da	l	yes
 yell	вика	vika	h	shout (verb)
 yellow	жолта боја	žolta boja	h	color
 yep	аха	aha	h	informal "yes"
+yiddish	јидиш	jidiš	h	of or pertaining to the Yiddish language
 yield	отстапува	otstapuva	h	to give way
 yo	еј	ej	l	greeting similar to hi
 yorkshire	Јоркшир	Jorkšir	h	former large county
 younger	помлад	pomlad	h	in an earlier period of life
 younger_brother	помлад брат	pomlad brat	h	single-word translations
+youngest	најмлад	najmlad	h	superlative form of young
 yours	твој	tvoj	h	possessive pronoun, singular
 yourself	себеси	sebesi	h	(reflexive) your own self
+yup	аха	aha	l	(informal) yes
 zealand	Зеланд	Zeland	l	Danish island
+zen	зен	zen	h	denomination of Buddhism
+zion	Сион	Sion	h	hill ("mount") in Israel
+zoom	зуење	zuenje	l	humming noise from something moving very fast

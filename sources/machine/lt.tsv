@@ -4,8 +4,13 @@ a_few	keli		h	a small number of
 a_m	prieš pietus		h	before noon
 abandon	apleisti		h	to give up control of, surrender
 abandoned	apleistas		h	no longer maintained, forsaken, deserted
+abbreviation	santrumpa		h	act or result of shortening or reducing
+abc	elementorius		h	primer for learning the alphabet
+ablative_case	ablatyvas		h	grammatical case used to indicate movement away from something, removal, separation, source
 able	gabus		h	skillful
+abnormal	nenormalus		h	not conforming to rule or system
 aboard	laive		l	on board
+abolish	panaikinti		h	to end a law, system, institution, custom or practice
 about	apie		h	on every side of
 above	virš		h	in or to a higher place
 abroad	užsienyje		h	in foreign countries
@@ -13,9 +18,11 @@ absent	nesantis		h	being away from a place
 absolute	absoliutus		h	free from limitations or conditions
 absolutely	absoliučiai		h	in an absolute manner
 absorb	sugerti		h	(physics, chemistry) to take up by chemical or physical action
+absorption	sugertis		h	act or process of absorbing or sucking in anything
 abstract	santrauka		h	an abridgement or summary
 absurd	absurdiškas		h	contrary to reason or propriety
 abundance	gausa		h	ample sufficiency
+ac	kintamoji srovė		h	alternating current
 academic	akademinis		h	belonging to an academy or other higher institution of learning
 accelerate	pagreitinti		h	to cause to move faster
 accent	kirčio ženklas		h	orthography: mark to indicate stress
@@ -25,59 +32,87 @@ acceptance	priėmimas		h	act of accepting
 accepted	priimtas		h	generally approved, believed, or recognized
 access	prieiga		h	way or means of approaching
 accessible	prieinamas		h	easy of access or approach
+accessory	papildomas		h	having a supplementary function
 accidental	atsitiktinis		h	happening by chance
 accidentally	netyčia		h	unexpectedly
+accommodate	pritaikyti		h	to render fit or suitable
+accomplish	pasiekti		h	to finish successfully
+accomplished	užbaigtas		h	completed
+accordingly	atitinkamai		h	agreeably; correspondingly; suitably; in a manner conformable
+accountability	atskaitomybė		h	state of being accountable
+accountable	atskaitingas		h	obliged to answer for one’s deeds
 accuracy	tikslumas		h	state of being accurate
 accusation	kaltinimas		h	act of accusing or charging with a crime
 accused	kaltinamasis		h	defendant
+ache	skaudėti		h	be in pain
 achieve	pasiekti		h	(transitive) to carry out or conclude (something, as a task) successfully — see also realize
 achievement	pasiekimas		h	act of achieving or performing
+achilles_heel	Achilo kulnas		h	vulnerability in an otherwise strong situation
 acknowledge	pripažinti		h	to admit the knowledge of
+acoustic	akustinis		h	pertaining to hearing or the science of sounds
 acquire	įsigyti		h	to get
+acquired	įgytas		h	medicine: developed after birth
 acquisition	įsigijimas		h	act or process of acquiring
 acre	akras		h	unit of surface area
 across	kitapus		h	on the opposite side
 act	poelgis		h	deed
 acting	laikinai einantis pareigas		h	temporarily assuming the duties or authority
 action	veiksmas		h	something done so as to accomplish a purpose
+activate	aktyvuoti		h	to put into operation
 active	aktyvus		h	in action
+actively	aktyviai		h	in an active manner
 activist	aktyvistas		h	one who is politically active
 actual	faktinis		h	existing in act or reality, not just potentially
 actually	iš tikrųjų		h	In act or in fact; really; in truth; positively
 acute	aštrus		h	intense, sensitive, sharp — see also intense, sensitive, sharp
 ad	reklama		h	clipping of advertisement — see also advertisement
 adapt	pritaikyti		h	to make suitable
+adapted	pritaikytas		h	having been subject to alteration
 add	sudėti		h	to perform the arithmetical operation of addition, to add up
 addict	narkomanas		h	person who is addicted, especially to a harmful drug
 addiction	priklausomybė		h	the state of being addicted
 addition	sudėtis		h	act of adding
 additional	papildomas		h	Supplemental or added to
+additionally	be to		h	by way of addition
 adequate	pakankamas		h	equal to some requirement
+adhesive_tape	lipni juosta		h	adhesive tape generally
 adjacent	gretimas		h	lying next to, close, or contiguous; neighboring
+adjust	sureguliuoti		h	to modify
 adjustment	koregavimas		h	result of adjusting, small change
 administrative	administracinis		h	of or relating to administering or administration
 admiration	susižavėjimas		h	adoration; appreciation
 admire	žavėtis		h	regard with wonder and delight
+admission	priėmimas		h	the act or practice of admitting
 admit	įleisti		h	allow to enter
+adolescent	paauglio		l	characteristic of adolescence
 adopt	įvaikinti		h	to take by choice into relationship, as, child, heir, friend, citizen
 adoption	įvaikinimas		h	act of adopting, or state of being adopted
+adorable	mielas		h	befitting of being adored
+adore	dievinti		h	worship
+adrenaline	adrenalinas		h	the compound epinephrine
 advance	žengti pirmyn		l	to accelerate the growth or progress; to further; to forward
 advanced	pažengęs		h	at or close to state of the art
 advantage	pranašumas		h	any condition, circumstance, opportunity, or means, particularly favorable to success
+adversary	priešininkas		h	opponent
+advisory	patariamasis		h	able to give advice
 advocate	gynėjas		h	person who argues the case of another
 aerial	oro		h	taking place in the air
 aesthetic	estetinis		h	concerned with beauty
 affair	reikalas		h	that which is done or is to be done
 affect	paveikti		h	to influence or alter
 affected	paveiktas		h	influenced or changed by something
+affection	prieraišumas		h	feeling of love or strong attachment
 afford	leisti sau		h	to incur, stand, or bear
 affordable	įperkamas		h	able to be afforded
 afraid	bijantis		h	impressed with fear or apprehension; in fear; apprehensive
 after	po		h	behind; later in time; following
+aftermath	padariniai		h	that which happens after, that which follows
 afterwards	vėliau		h	at a later or succeeding time
 against	prieš		h	in a contrary direction to
 age	amžius		h	particular period of time in history
+aged	pagyvenęs		h	old — see also old
 agent	agentas		h	law: one who acts in place of another
+ages	amžiai		l	a long time
 aggregate	visuma		h	a mass, assemblage, or sum of particulars
 ago	prieš		h	past; gone by; since
 agree	sutikti		h	to be in harmony about an opinion; be in unison or concord; be united
@@ -93,13 +128,19 @@ air_conditioning	oro kondicionavimas		h	the state of temperature and humidity pr
 aircraft	orlaivis		h	machine capable of atmospheric flight
 al_qaeda	Al Qaeda		h	the global network of militant Islamic extremists.
 alabama	alabamai		l	tribe
+alan	alanas		h	member of a Sarmatian tribe
 alarm	pavojaus signalas		h	notice of approaching danger
 alas	deja		h	exclamation of sorrow, etc.
 alberta	Alberta		h	province
+alcoholism	alkoholizmas		h	chronic disease
+aleppo	Alepas		h	city in Syria
 alert	budrus		h	attentive
+algerian	alžyrietis		h	person from Algeria
 alien	ateivis		h	person, etc. from outside
+alike	panašus		h	having resemblance; similar
 all_saints_day	Visų šventųjų diena		h	feast day
 alleged	tariamas		h	asserted
+allegedly	tariamai		h	according to allegation
 allies	Sąjungininkai		h	in WWII
 allow	leisti		h	to let one have
 allowed	leidžiamas		h	permitted, authorized
@@ -108,22 +149,34 @@ almighty	visagalis		h	unlimited in might
 alone	vienas		h	by oneself
 along	išilgai		h	by the length of; in a line with the length of; lengthwise next to
 alongside	šalia		h	along the side; by the side; side by side; abreast — see also side by side, abreast
+alps	Alpės		h	a mountain range in Western Europe
 alter	pakeisti		h	to change the form or structure of
 alternate	kintamas		h	being or succeeding by turns
 alternative	alternatyvus		h	relating to a choice
 although	nors		h	in spite of the fact that
+altitude	aukštis		h	distance measured upwards
+altogether	visiškai		h	without exception; wholly; completely
+aluminium_oxide	aliuminio oksidas		h	alumina, Al2O3
 amazing	stulbinantis		h	causing wonder and amazement
-amazon	amazonė		h	tall, strong, athletic woman
+amazon	amazonė		h	Mythological female warrior
+ambiguous	dviprasmiškas		h	open to multiple interpretations
 ambition	ambicija		h	desire
 ambitious	ambicingas		h	possessing, or controlled by, ambition
+ambush	pasala		h	act
 amendment	pataisa		h	correction or addition to a law
+amino_acid	aminorūgštis		h	any organic compound containing amino and carboxylic acid
 among	tarp		h	of a person or thing: in the midst of and surrounded by (other people or things)
+amongst	tarp		h	Used to denote a mingling or intermixing
 amusement	pramoga		h	entertainment
 an	vienas		l	indefinite article
+analog	analoginis		h	represented by a continuously variable physical quantity
+analogy	analogija		h	relationship of resemblance or equivalence
 analyze	analizuoti		h	to subject to analysis
 angeles	Anhelesas		l	city in the Philippines
 animated_cartoon	animacinis filmas		h	animated media
+anna	ana		l	former unit of Indian currency
 announce	paskelbti		h	give public notice
+annoyed	susierzinęs		h	troubled, irritated by something unwanted or unliked; vexed
 annoying	erzinantis		h	causing irritation or annoyance
 annual	metinis		h	happening once a year
 annually	kasmet		h	once every year
@@ -133,31 +186,44 @@ antique	antikvarinis		h	old; out of date
 anxiety	nerimas		h	concern
 anxious	nerimaujantis		h	having a feeling of anxiety or disquietude; extremely concerned, especially about something that will happen in the future or that is unknown
 any	nors kiek		h	at all
+anybody	svarbus asmuo		l	(colloquial) a person of consideration or standing
 anyone	bet kas		h	anybody
 anything	kas nors		h	any thing of any kind
 anyway	šiaip ar taip		h	used to indicate change of subject
 anywhere	bet kur		h	in or at any location
 apart	atskirai		h	separately, in regard to space or company
+apathy	apatija		h	lack of emotion or motivation
 apocalypse	apokalipsė		h	revealing or revelation
+apollo	Apolonas		h	the son of Zeus
+apostle	apaštalas		h	missionary or leader of a mission
 apparent	akivaizdus		h	visible
 apparently	akivaizdžiai		h	(archaic) plainly
 appeal	apeliacija		h	application to a superior court or judge for a decision or order by an inferior court of judge to be reviewed and overturned
 appear	pasirodyti		h	to come or be in sight; to be in view; to become visible
 appearance	atsiradimas		h	the act of appearing or coming into sight
+appendix	priedas		h	text added to the end of a book or an article
 apple_juice	obuolių sultys		h	the juice of apples, often used as a drink
+applicable	taikytinas		h	suitable for application; relevant
 applied	taikomasis		h	put into practical use
 apply	uždėti		h	to lay or place; to put (one thing to another)
 appointment	paskyrimas		h	act of appointing; designation of a person to hold an office
+appreciation	įvertinimas		h	a just valuation or estimate of merit, worth, weight, etc.; recognition of excellence
 approach	artėti		h	1. (intransitive) to come or go near, in place or time
 appropriate	pasisavinti		h	to take to oneself in exclusion of others
 approved	patvirtintas		h	having received approval
+aquarius	Vandenis		h	constellation
+aquatic	vandens		h	relating to water; living in or near water, taking place in water
 ar	er		h	name of the letter R, r
+arabian_peninsula	Arabijos pusiasalis		h	peninsula in West Asia
 arbitrary	savavališkas		h	based on individual discretion or judgment
 arc	lankas		h	geometry: part of a curve
+arcade	arkada		h	row of arches
 arch	arka		h	inverted U shape
+architectural	architektūrinis		h	pertaining to architecture
 arctic	Arkties		h	pertaining to the northern polar region of the planet
 are	aras		h	unit of area
 argue	ginčytis		h	to debate, disagree, or discuss opposing or differing viewpoints
+aries	Avinas		h	constellation
 arise	keltis		h	get up, stand up
 arizona	Arizona		h	a state of the United States of America
 arm_wrestling	rankų lenkimas		h	a sport
@@ -165,6 +231,7 @@ armed	ginkluotas		h	equipped, especially with a weapon
 arms	herbas		h	heraldic design
 around	aplink		h	forming a circle or closed curve containing
 arrange	sutvarkyti		h	to set up, organise; to put in order
+arrogance	arogancija		h	act or habit of arrogating, or making undue claims in an overbearing manner
 arrogant	arogantiškas		h	having excessive pride
 arthritis	artritas		h	inflammation of a joint
 artistic	meniškas		h	having creative skill
@@ -180,7 +247,9 @@ aspect	aspektas		h	2. the way something appears
 ass	asilas		h	animal — see also donkey
 assassin	žudikas		h	one who intentionally kills a person, especially a professional who kills a public figure
 assassination	nužudymas		h	murder
+assemble	surinkti		h	to put together
 assembly	susirinkimas		h	congregation of people
+assess	įvertinti		h	to determine the value of
 assessment	mokesčio apskaičiavimas		h	act of assessing a tax
 asset	vertybė		h	something or someone of any value
 assets	turtas		h	any property or object of value that one possesses
@@ -191,18 +260,26 @@ associate	asocijuotas		h	joined with others and having equal or near equal statu
 associated	susijęs		h	person or thing connected with something
 association	asociacija		h	group of persons associated for a common purpose
 assume	daryti prielaidą		h	to suppose to be true
+assumed	netikras		h	intended to deceive; fictitious
 assumption	prielaida		h	supposition
+assure	užtikrinti		h	to make sure and secure
 at_all	visiškai		l	to the slightest degree, in any way
 at_last	galų gale		h	after a long time; eventually
 at_least	bent		h	at a lower limit
 at_most	daugiausia		h	at the most; at a maximum or upper limit
 at_once	tuo pat metu		h	at the same time
+athletic	atletinis		h	having to do with athletes
+athletics	atletika		h	(chiefly US) physical activities such as sports and games requiring stamina, fitness, and skill
 atlanta	Atlanta		h	capital and largest city of the State of Georgia
 atlantic	Atlanto		h	pertaining to the Atlantic Ocean
+atmospheric	atmosferinis		h	relating to the atmosphere
 atomic	atominis		h	of, or employing nuclear energy or processes
+attach	pritvirtinti		h	to fasten, to join to
+attached	prisegtas		h	connected, joined
 attachment	prisirišimas		h	strong bonding towards or with
 attempt	bandyti		h	to try
 attend	lankyti		h	(''ambitransitive'') to be present at or regularly go to
+attendance	dalyvavimas		h	act of attending; state of being present
 attitude	laikysena		h	position of the body or way of carrying oneself
 attorney	advokatas		h	lawyer
 attract	traukti		h	pull without touching
@@ -211,12 +288,18 @@ attractive	patrauklus		h	having the quality of attracting by inherent force
 attribute	požymis		h	characteristic or quality
 audio	garso		h	focused on audible sound
 audit	auditas		h	examination in general
+auditorium	auditorija		h	large room for public meetings or performances
 august	didingas		h	awe-inspiring, majestic, noble, venerable
+aurora	pašvaistė		h	atmospheric phenomenon
 authentic	autentiškas		h	of undisputed origin
+authoritarian	autoritarinis		h	of, or relating to, absolute obedience to an authority
 authorities	valdžios institucijos		h	all senses
+authorization	autorizacija		h	act of authorizing
 automatically	automatiškai		h	In an automatic manner
 autonomous	autonominis		h	self-governing — see also independent, autonomic
 autonomous_vehicle	autonominė transporto priemonė		h	vehicle
+auxiliary	pagalbinis		h	helping; giving assistance or support
+avatar	avataras		h	personification or simulacrum
 average	vidurkis		h	arithmetic mean
 avoid	vengti		h	to keep away from
 awake	nemiegantis		h	conscious
@@ -225,20 +308,32 @@ aware	budrus		h	vigilant, on one's guard
 awareness	sąmoningumas		h	the state of consciousness
 away	šalin		l	from a place; hence
 awful	siaubingas		h	very bad
+axle	ašis		h	the pin or spindle on which a wheel revolves, or which revolves with a wheel
 b	gimęs		h	born
+babylon	Babilonas		h	capital of Babylonia
 back	užpakalinis		h	near the rear
 backbone	stuburas		h	series of vertebrae that encloses the spinal cord
 background	fonas		h	computing: computer background
 backup	atsarginė kopija		h	copy of file or record
+backward	atgalinis		h	in the direction towards the back
+backyard	kiemas		h	yard to the rear of a house
 badly	blogai		h	in a bad manner
 bail	užstatas		h	security
 bait	jaukas		h	substance used in catching animals
 balance	pusiausvyra		h	awareness of both viewpoints
+balanced	subalansuotas		h	even
+balearic_islands	Balearų salos		h	group of Mediterranean islands
 ballot	balsavimo biuletenis		h	paper used for vote-casting — see also ballot paper
+baltimore	Baltimorė		h	city in central Maryland, USA
 band	dažnių juosta		h	part of radio spectrum
 bang	trenksmas		h	a sudden percussive noise
+bangs	kirpčiukai		h	hair that hangs down over the forehead
 bank_account	banko sąskaita		h	fund deposited by a customer for safekeeping in a bank
+banking	bankininkystė		h	occupation
+bankrupt	bankrutavęs		h	having been legally declared insolvent
 banner	vėliava		h	flag
+barbecue	grilis		h	cooking instrument
+barbed_wire	spygliuota viela		h	twisted strands of steel wire
 barber	kirpėjas		h	person whose profession is cutting (usually male) customers' hair and beards
 bare	nuogas		h	naked, uncovered
 barefoot	basas		h	wearing nothing on the feet
@@ -246,6 +341,7 @@ barely	vos		h	by a small margin
 bargain	sandėris		h	agreement or contract concerning sale of property
 barn_swallow	kaimo kregždė		h	species of swallow
 barrier	užtvara		h	structure that bars passage
+bars	grotos		h	grating, grill, grid
 base	pagrindas		h	1. something from which other things extend
 based	pagrįstas		h	founded on
 basic	pagrindinis		h	necessary, essential for life or some process
@@ -254,7 +350,9 @@ basin	dubuo		h	wide bowl for washing
 basis	pagrindas		h	starting point for an argument
 bass	žemas		h	low in pitch
 bastard	niekšas		h	contemptible etc. person
-batman	ordinaras		h	servant to an army officer — see also orderly
+batch	partija		h	quantity of baked goods made at one time
+batman	Batmanas		l	a city in Turkey
+baton	vadovo lazda		l	military staff of office
 bay_leaf	lauro lapas		h	herb
 bbc	BBC		h	British Broadcasting Corporation
 bc	prieš Kristų		h	before Christ — see also BCE
@@ -268,6 +366,8 @@ because_of	dėl		h	on account of, by reason of, for the purpose of
 becoming	tapsmas		h	The act or process by which something becomes
 before	prieš		h	earlier than
 beg	elgetauti		h	to request the help of someone, often in the form of money
+behalf	vardu		l	behalf
+behold	išvysti		h	to see, to look at
 beige	smėlio spalva		h	colour
 belfast	Belfastas		h	capital of Northern Ireland
 believer	tikintysis		h	person who believes
@@ -288,21 +388,31 @@ better	geresnis		h	comparative of the adjectives good or well
 better_late_than_never	geriau vėliau nei niekada		h	it's better to do something late, than to never do it at all
 between	tarp		h	in the position or interval that separates two things
 beyond	anapus		h	further away than
+biased	šališkas		h	exhibiting bias; prejudiced
+bibliography	bibliografija		h	section of a written work
 bid	įsakyti		h	to issue a command
 big_bang	Didysis sprogimas		h	cosmic event
+big_dipper	Grįžulo Ratai		h	bright circumpolar asterism of the northern sky
 big_mac	Big Mac		h	burger
 bilingual	dvikalbis		h	speaking two languages
 bill	įstatymo projektas		h	draft of a law
+billboard	reklaminis stendas		h	large advertisement along side of highway
 billionaire	milijardierius		h	wealth exceeding one billion (10<sup>9</sup>)
 bin	dėžė		h	container used for storage
 binary	dvejetainis		h	being in a state of one of two mutually exclusive conditions such as on or off
 bind	surišti		h	transitive to tie or fasten tightly together, with a cord, band, ligature, chain, etc.
+binding	įpareigojantis		h	imposing stipulations or requirements that must be honoured
+biodiversity	biologinė įvairovė		h	diversity of flora and fauna
 biological	biologinis		h	of biology
+biologist	biologas		h	student of biology; one versed in the science of biology
 bird_of_prey	plėšrusis paukštis		h	carnivorous bird
+birds_of_a_feather_flock_together	Panašus prie panašaus limpa		h	people of similar character, etc. tend to associate
 bisexual	biseksualus		h	sexually attracted to both men and women
 bit_by_bit	po truputį		h	a small amount at a time
 bitcoin	bitkoinas		h	decentralized cryptocurrency using blockchain technology; unit of the cryptocurrency
+bizarre	keistas		h	strangely unconventional
 black_box	juodoji dėžė		h	recorders in an aircraft
+black_caraway	juodgrūdė		l	Nigella sativa — see also nigella
 black_magic	juodoji magija		h	magic derived from evil forces
 blackberry	gervuogė		h	shrub
 blame	kaltė		h	state of having caused a bad event
@@ -310,10 +420,14 @@ blank	bespalvis		l	(archaic) without color
 blast	vėjo gūsis		h	violent gust of wind
 bleeding	kraujuojantis		h	losing blood
 blend	mišinys		h	mixture
+blender	trintuvas		h	machine
 bless	laiminti		h	confer blessing on
 blessed	palaimintas		h	having divine aid, or protection, or other blessing
 blessing	palaiminimas		h	divine or supernatural aid or reward
+blind_man_s_buff	aklė		l	game where someone is blindfolded and tries to catch the others
+blindness	aklumas		h	condition of being blind
 blink	mirksėti		h	to close and reopen both eyes quickly
+bliss	palaima		h	perfect happiness
 block	luitas		h	substantial often approximately cuboid piece
 blogger	tinklaraštininkas		h	contributor to a blog
 blond	šviesiaplaukis		h	of a pale golden colour
@@ -332,22 +446,31 @@ bob	siūbuoti		l	move vertically at surface of water
 bodily	kūniškas		h	relating to the body
 bodyguard	asmens sargybinis		h	person responsible for protecting someone
 boil	votis		h	accumulation of pus
+boiler	katilas		h	device for heating circulating water
 boiling_point	virimo temperatūra		h	temperature at which a liquid boils
 bold	drąsus		h	courageous, daring
 bond	obligacija		h	finance: documentary obligation to pay a sum or to perform a contract
 bonus	priedas		h	something extra that is good
+boo	bu		h	loud exclamation intended to scare someone
+booking	rezervacija		h	reservation for a service
 boom	dundėti		h	to make a loud, resonant sound
 boost	postūmis		h	push from behind
 booth	kioskas		h	a small stall for the display and sale of goods
+booty	grobis		h	plunder
+booze	alkoholis		h	any alcoholic beverage
 bore	gręžti		h	to make a hole
 bored	nuobodžiaujantis		h	suffering from boredom
 boring	gręžimas		h	the act or process of drilling holes.
 born	gimęs		h	given birth to
 bosnia	Bosnija		h	short for 'Bosnia and Herzegovina'
+bot	gylys		l	larva of a botfly
 bother	trukdyti		h	to annoy, to disturb, to be troublesome to
 bottle_cap	butelio kamštelis		h	closure used to seal bottles
 bottle_opener	butelių atidarytuvas		h	device to open bottles removing the cap
 bottom	apačia		h	lowest part
+boulder	riedulys		h	large mass of stone
+boulevard	bulvaras		h	broad, landscaped thoroughfare
+bounce	atšokti		h	to change direction of motion after hitting an obstacle
 bound	įpareigotas		h	obliged to
 bowel	žarna		h	large intestine
 boxer	boksininkas		h	participant in a boxing match
@@ -357,11 +480,14 @@ brand	prekės ženklas		h	name, symbol, logo
 brand_new	visiškai naujas		h	utterly new
 breach	spraga		h	a gap or opening made by breaking or battering
 breakdown	gedimas		h	failure, particularly one which is mechanical in nature
+breakthrough	proveržio		l	characterized by major progress
 breast_milk	motinos pienas		h	milk produced by humans
 breathing	kvėpavimas		h	act of respiration
 breed	veistis		h	to sexually produce offspring
 bride_price	išpirka už nuotaką		l	sum paid to the family of the bride
 brief	trumpas		h	of short duration
+briefly	trumpai		h	in a brief manner
+brigade	brigada		h	military unit
 brilliant	spindintis		h	shining brightly
 brisbane	Brisbenas		h	Capital of Queensland, Australia
 bro	brolau		h	used to address a male
@@ -370,24 +496,32 @@ broad_bean	pupa		h	''Vicia faba''
 broadcast	plačiai paskleistas		l	cast or scattered widely
 broke	bankrutavęs		h	lacking money; bankrupt
 broken	sulūžęs		h	not whole; fragmented
+brooklyn	Bruklinas		h	borough of New York City
 brother_in_law	svainis		h	husband of the sister of one's wife
 brotherhood	brolija		h	state of being brothers or a brother
+bruise	sumušti		l	strike (a person), giving them a bruise
 buck	ožys		l	male deer, goat, etc.
 buckle	sagtis		h	metal clasp with a hinged tongue or a spike
 buddhist	budistinis		h	of, relating to, or practicing Buddhism
 buddy	bičiulis		h	friend or casual acquaintance
+buffer	poliruotojas		l	someone or something that buffs
 bulb	svogūnėlis		h	bulb-shaped underground portion of a plant
 bulk	didžioji dalis		h	major part of something
 bully	skriaudikas		l	a person who is intentionally cruel to others
 bullying	patyčios		h	act of intimidating a person
+bum	užpakalis		h	informal: butt(ocks) specifically
 bump	dunkstelėjimas		h	a light blow or jolting collision
 bunch	pluoštas		h	a group of similar things
 bundle	ryšulys		h	group of objects held together by wrapping or tying
+bunker	bunkeris		h	hardened shelter designed to protect the inhabitants from falling bombs or other attacks
+bunsen_burner	Bunzeno degiklis		h	small laboratory gas burner
 burden	našta		h	heavy load
+burger	mėsainis		h	informal: hamburger
 burial	palaidojimas		h	interment
 buried	palaidotas		h	Placed in a grave at a burial
 burmese	birmiečių		h	of or relating to Burma
 burning	deginantis		h	so hot as to seem to burn (something)
+burnt	apdegęs		h	damaged or injured by fire or heat
 burst	sprogdinti		h	to cause to burst
 bust	sudaužyti		h	to break something
 butler	liokajus		l	manservant having charge of wines and liquors
@@ -397,11 +531,13 @@ buzz	zvimbimas		h	continuous humming noise
 by	per		l	indicates a means
 by_chance	atsitiktinai		h	unexpected(ly); accidental(ly)
 bye	laisvas ratas		l	The position of a person or team in a tournament or competition who draws no opponent in a particular round so advances to the next round unopposed
-c	apie		h	abbreviation of circa
+bypass	aplinkkelis		h	road
+c	do		l	musical note
 cabin	trobelė		h	small dwelling, especially one made of logs
 calculus	skaičiavimas		l	formal mathematical system
 calling	pašaukimas		h	strong urge (to become or do something)
 calm	ramus		h	free from anger and anxiety
+cam	kumštelis		h	mechanical part
 camping	stovyklavimas		h	recreational activity
 campus	kampusas		h	grounds or property of a school, etc.
 can_i_come_in	ar galima įeiti		h	phrase
@@ -410,53 +546,74 @@ can_i_smoke	ar galima rūkyti		h	phrase
 can_opener	konservų atidarytuvas		h	device used to open tin cans
 canaan	Kanaanas		h	historic region
 cancel	išbraukti		h	cross out
+cancelled	atšauktas		h	No longer planned or scheduled
 cane	nendrė		h	slender flexible stem of plants such as bamboo
 cannot	negalėti		h	cannot — see also can, not
+canoe	kanoja		h	small long and narrow boat
 canon	kanonas		h	group of literary works accepted as representative
 cant	žargonas		h	jargon of a particular class or subgroup
 canteen	valgykla		h	small cafeteria or snack bar
 cap	kepurė		h	head covering
+capability	gebėjimas		h	the power or ability to generate an outcome
 capable	pajėgus		h	able and efficient
 capacity	talpa		h	the ability to hold, receive, or absorb
 cape_of_good_hope	Gerosios Vilties kyšulys		h	a cape in southwestern South Africa
 capitalist	kapitalistinis		h	supporting or endorsing capitalism
+capsule	sėklų dėžutė		l	botany: seed-case
+captivity	nelaisvė		h	state of being captive
 capture	sugavimas		h	act of capturing
 caravan	karavanas		h	convoy or procession
+cardiac	širdies		h	pertaining to the heart
 cardinal	kardinalus		h	of fundamental importance
 care	priežiūra		h	close attention, concern or responsibility
 careful	atsargus		h	cautious
 carefully	atsargiai		h	in a careful manner
 careless	neatidus		h	not giving sufficient attention or thought
 caribbean	Karibų		h	pertaining to the sea and region bounded by the American continent and the West Indies
+caring	rūpestingas		h	kind, sensitive, empathetic
+carol	giesmė		h	song of joy
 carrier	nešėjas		h	person or object that carries someone or something else
 carry	nešti		h	to transport by lifting
 carry_out	įvykdyti		h	to fulfill — see also fulfill, realize
+carter	vežikas		h	person who transports a load on an animal-drawn cart
 cartoon	karikatūra		h	humorous drawing or strip
 case	atvejis		h	actual event, situation, or fact
 cash_register	kasos aparatas		h	machine
+cashew_nut	anakardžių riešutas		h	the seed of the cashew tree
 cashier	atleisti		h	to dismiss from service
 cast	lieti		h	to make by pouring into a mould
+casting	liejimas		h	manufacturing process using a mold
 casual	atsitiktinis		h	happening by chance
+casualty	nukentėjusysis		h	person
 catalyst	katalizatorius		h	substance which increases the rate of a chemical reaction without being consumed in the process
 catch	pagavimas		h	the act of catching a ball
 cathedral	katedrinis		h	relating to the office of a bishop or an archbishop
 catholic	visuotinis		h	universal
+cauldron	katilas		h	large bowl-shaped pot
 caution	perspėjimas		h	precept or warning against evil or danger
+cavity	ertmė		h	hole or hollow depression
 cd	CD		h	abbreviation of compact disc — see also compact disc
 cease	nustoti		h	intransitive
 celebrate	švęsti		h	extol or honour in a solemn manner
+celebrated	garsus		h	famous or widely praised
 celebration	šventimas		h	formal performance of a solemn rite
+celestial	dangaus		h	of, relating to, or located in the sky or outer space
 celtic	keltų kalbos		h	branch of languages
 centre	Centro regionas		h	administrative region of France
+centrifugal_force	išcentrinė jėga		h	force
 ceo	vykdomasis direktorius		h	chief executive officer
 ceramic	keraminis		h	of or pertaining to ceramic as material
 ceremony	ceremonija		h	official gathering to celebrate
 certain	tikras		h	sure, positive, not doubting
 certainly	tikrai		h	without doubt, surely
+certification	sertifikavimas		h	act of certifying
 chain_reaction	grandininė reakcija		h	type of nuclear reaction
+challenger	pretendentas		h	one who challenges
+challenging	sudėtingas		h	difficult; hard to do
 chamber	kambarys		h	room or set of rooms
 chamber_pot	naktipuodis		h	a container used for urination and defecation — see also urinal, chemical toilet
 changing_room	rūbinė		h	1. room in gym, sports center, etc.
+chaotic	chaotiškas		h	filled with chaos
 characteristic	būdingas		h	being a distinguishing feature
 charge	ataka		h	military: ground attack
 chariot	kovos vežimas		h	vehicle used in warfare
@@ -466,58 +623,83 @@ charming	žavingas		h	pleasant, charismatic
 chart	diagrama		h	non-narrative presentation of data
 charter	chartija		h	document creating an institution, and defining its purposes and privileges
 chat	šnekučiuotis		h	be engaged in informal conversation
+cheating	sukčiavimas		h	act of deception, fraud, trickery, imposture, or imposition
 check	patikra		h	inspection or examination
 cheer	šūksnis		h	a cry of "hurrah", "hurray", "yeah", or some other word expressing joy
 chemical_element	cheminis elementas		h	any one of the simplest chemical substances that cannot be decomposed in a chemical reaction
 chi	chi		h	Greek letter
 chief	vadovas		h	leader of group, etc.
 child_labour	vaikų darbas		h	work performed by children
+child_prodigy	vunderkindas		h	talented young person
 chili_pepper	čili paprika		h	fruit
 chill	šaltukas		h	moderate, but uncomfortable coldness
 china	porcelianas		h	porcelain tableware
 chinese_character	kinų rašmuo		h	CJKV character
 chip	skeveldra		h	small piece broken off
+cholesterol	cholesterolis		h	an essential component of mammalian cell membranes
+chop	kepsnys		h	cut of meat
 chord	styga		h	straight line
 chosen	išrinktas		h	picked
 chronic	lėtinis		h	that continues over an extended period of time
+chuck	mentė		h	meat from the shoulder of a cow
 cigarette_case	portsigaras		h	small flat case
 cinderella	Pelenė		h	fairy tale
 cinnamon	cinamonas		h	Cinnamomum verum
 circuit	elektros grandinė		h	enclosed path of electric current
 circular	apskritas		h	of or relating to a circle
+circulation	cirkuliacija		h	act of moving in a circle
+civic	pilietinis		h	Having to do with a city or the people who live there
 civil	pilietinis		h	related to people and government office as opposed to military or religion
 claim	pretenzija		h	demand of ownership
 clan	klanas		h	group having common ancestor
+clap	plojimas		h	The act of striking the palms of the hands, or any two surfaces, together
+clarify	paaiškinti		h	(transitive) to make clear or bright by freeing from impurities
+clarity	aiškumas		h	the state or measure of being clear
+clash	trenksmas		l	loud sound
 classic	klasikinis		h	exemplary of a particular style
 classical	klasikinis		h	literature, etc.
 clause	sakinys		l	grammar: group of words which include a subject and any necessary predicate
+cleaning	valymas		h	action in which something is cleaned
 clear	skaidrus		h	transparent in colour
 clearly	aiškiai		h	in a clear manner
+clergy	dvasininkija		h	people trained to officiate at religious ceremonies and services
 click	spustelėjimas		h	act of pressing a button on a computer mouse
 climb	lipti		h	to ascend, to go up
 clinical	klinikinis		h	of or pertaining to a clinic
 clip	prisegti		h	to grip tightly
+cloak	apsiaustas		h	cape
 clock_face	ciferblatas		h	the surface of a clock that contains the dial and hands
+clone	klonas		h	living organism (originally a plant)
 closed	uždarytas		h	not open
 closely	glaudžiai		h	in a close manner
 closer	artimesnis		h	Translations
 closet	spinta		h	furniture
+closing	uždarymas		h	the act by which something is closed
 closure	užbaigimas		h	event signifying an ending
 cloth	audinys		h	fabric
+clothes_peg	skalbinių segtukas		h	an object used to attach wet laundry to a clothesline
 clove	gvazdikėlis		h	spice
 clue	užuomina		h	information that may lead one to a certain point or conclusion
+clumsy	nerangus		h	awkward, lacking coordination, not graceful, not dextrous
 cluster	sankaupa		h	bunch or group of several discrete items that are close to each other
 clutch	suspausti		h	to grip or grasp tightly
 co	bendrovė		h	company
 coach	karieta		h	wheeled vehicle drawn by horse power — see also carriage
 coach_driver	vežikas		h	driver of a horse-drawn coach
+coastal	pakrantės		h	relating to the coast
+coaster	pakrančių laivas		h	merchant vessel that stays in coastal waters
 cobra	kobra		h	venomous snake
 coca_cola	Coca-Cola		h	particular carbonated soft drink
 cocaine	kokainas		h	the narcotic
 cock	patinas		h	any male bird
+cocoa	kakava		h	partially fermented seeds of cocoa tree
 coconut_palm	kokosinė palmė		h	Cocos nucifera
+cocoon	kokonas		h	protective case spun by the larvae of some insects
 code	kodas		h	set of rules for converting information
 cognitive	pažintinis		h	relating to mental functions
+coil	ritė		h	something wound
+coke	Coca-Cola		h	Coca-Cola
+cola	kola		h	drink
 collaboration	bendradarbiavimas		h	act of collaborating
 collapse	sugriūti		h	to fall down suddenly; to cave in
 collar	antkaklis		h	device for restraining animal
@@ -528,12 +710,14 @@ collision	susidūrimas		h	instance of colliding
 colonial	kolonijinis		h	of or pertaining to a colony
 colored	spalvotas		h	having a color
 colorful	spalvingas		h	possessing prominent and varied colors
+columbia	Kolumbija		h	poetic: America
 combat	kova		h	a battle; a fight
 combination	derinys		h	act of combining
 combine	sujungti		h	bring two or more things or activities together
 combined	bendras		l	resulting from adding together
 come_back	sugrįžti		h	(''intransitive'') To return to a place
 come_on	išeiti į sceną		h	to appear on a stage or in a performance
+comeback	sugrįžimas		h	return to fame etc.
 comedian	komikas		h	entertainer
 comfort	patogumas		h	contentment, ease
 comic	komiškas		h	related to comedy
@@ -555,22 +739,28 @@ compact	sutartis		h	agreement or contract
 compact_disc	kompaktinis diskas		h	optical disc used to store data
 comparable	palyginamas		h	able to be compared
 comparative	lyginamasis		h	of or relating to comparison
+compatible	suderinamas		h	capable of easy interaction
 compensation	kompensacija		h	act or principle of compensating
 compete	varžytis		h	to contend
+competent	kompetentingas		h	skilled
 competitive	konkurencinis		h	of or pertaining to competition
 competitor	konkurentas		h	person against whom one is competing
 complain	skųstis		h	to express feelings of pain, dissatisfaction, or resentment
+complement	papildymas		h	4. something which complements
 complete	baigti		h	to finish
 completed	užbaigtas		h	finished
 completely	visiškai		h	in a complete manner
+completion	užbaigimas		h	making complete; conclusion
 complex	kompleksinis		h	in mathematics
 complex_number	kompleksinis skaičius		h	number of the form a + bi
 compliance	atitiktis		h	act of complying
 compliment	komplimentas		h	expression of praise, congratulation or respect
 component	komponentas		h	smaller, self-contained part of larger entity
+composed	ramus		h	showing composure
 composition	kompozicija		h	mixture or compound
 compound	aptvaras		h	enclosure within which workers, prisoners, or soldiers are confined
 comprehensive	išsamus		h	broadly or completely covering
+compulsory	privalomas		h	mandatory — see also mandatory, obligatory
 computer_security	kompiuterių saugumas		h	branch of computer science
 computing	skaičiavimas		l	action of using a computer
 con	trūkumas		h	disadvantage of something
@@ -580,7 +770,9 @@ concern	rūpestis		h	that which affects one’s welfare or happiness
 concerned	susirūpinęs		h	showing concern
 concerning	nerimą keliantis		h	causing concern
 concert	suderinti		h	to plan together
+conclude	baigti		h	to end
 conclusion	pabaiga		h	end, final part
+condemn	pasmerkti		h	to strongly criticise or denounce; to excoriate
 conduct	elgesys		h	act or method of controlling or directing
 confess	prisipažinti		h	to admit to the truth
 confidence	pasitikėjimas		h	quality of trusting
@@ -588,10 +780,13 @@ confident	pasitikintis		h	being very sure of or positive about something
 confidential	konfidencialus		h	meant to be kept secret within a certain circle
 configuration	konfigūracija		h	relative positions of a set of things
 confirmed	užkietėjęs		h	having a settled habit; inveterate or habitual
+confuse	supainioti		h	to puzzle, perplex, baffle, bewilder somebody
 confused	sutrikęs		h	unable to think clearly or understand
 confusing	painus		h	difficult to understand
 confusion	sumaištis		h	lack of clarity or order
+congregation	tikinčiųjų bendruomenė		h	religious gathering of people in a place of worship
 congress	kongresas		h	conference
+congressman	Kongreso narys		h	member of congress
 connect	sujungti		h	to join two or more pieces
 connected	jungus		l	topology: cannot be partitioned into two nonempty open sets
 connecticut	Konektikutas		h	a state of the United States of America
@@ -600,27 +795,41 @@ conscious	sąmoningas		h	alert, awake
 consecutive	iš eilės einantis		h	following, in succession, without interruption
 consensus	konsensusas		h	general agreement
 consequence	pasekmė		h	that which follows something on which it depends
+consequently	todėl		h	as a result or consequence
 conservation	apsauga		h	The act of preserving, guarding, or protecting
 conservative	konservatorius		h	political conservative
 considerable	didelis		h	worth considering
 consideration	svarstymas		h	process of considering
 considering	atsižvelgiant į aplinkybes		l	given the circumstances; all in all; all things considered
 consist	susidėti		h	to be composed (of)
+consistency	nuoseklumas		h	reliability or uniformity; the quality of being consistent
 consistent	nuoseklus		h	of a regularly occurring, dependable nature
+consistently	nuosekliai		h	in a consistent manner
 console	konsolė		h	video games: device dedicated to playing video games
 conspiracy	sąmokslas		h	an agreement to break the law
 constant	pastovus		h	unchanged through time
+constipation	vidurių užkietėjimas		h	state of bowels
 constitutional	konstitucinis		h	relating to a legal or political constitution
+construct	darinys		h	something constructed from parts
 constructed_language	dirbtinė kalba		h	artificially created language
+consume	vartoti		h	1. use up
 consumption	suvartojimas		h	the act of consuming something
 contact	kontaktas		h	an act of touching physically
 contact_lens	kontaktinis lęšis		h	thin lens placed directly on the eye
 contain	talpinti		h	hold inside
 container	konteineris		h	an item in which objects, materials or data can be stored or transported
+contamination	užteršimas		h	the act or process of contaminating
+contempt	panieka		h	a feeling or attitude
 content	patenkintas		h	satisfied
 contest	ginčas		h	controversy
 context	kontekstas		h	circumstances or settings
+continental	žemyninis		h	of or relating to a continent or continents
+continuation	tęsinys		h	act or state of continuing
 continued	nenutrūkstamas		h	uninterrupted
+continuity	tęstinumas		h	lack of interruption
+continuously	nuolat		h	without pause
+contractor	rangovas		h	A person or company that constructs or improves buildings or structures
+contrary	priešingas		h	opposite; in an opposite direction; in opposition; adverse
 contrast	kontrastas		h	difference that makes colours more or less distinguishable
 contribute	prisidėti		h	to give something, that is or becomes part of a larger whole
 contribution	indėlis		h	something given or offered that adds to a larger whole
@@ -635,16 +844,25 @@ convention	suvažiavimas		h	meeting or a gathering
 conventional	įprastinis		h	following an accepted principle
 conversion	pavertimas		h	the act of having converted something or someone
 convert	paversti		h	transform (something) into another form, substance, state, or product
+convey	gabenti		h	to carry
 conviction	įsitikinimas		h	firmly held belief
 convince	įtikinti		h	to make someone believe, or feel sure about something
 convinced	įsitikinęs		h	in a state of believing, especially from evidence
+convincing	įtikinamas		h	effective as proof or evidence
+convoy	konvojus		h	merchant ships sailing in company under the protection of naval vessels
+cooked	išvirtas		l	of food, that has been prepared by cooking
 cooking	maisto gaminimas		h	1. the process of preparing food by using heat
 cool	vėsus		h	having a slightly low temperature
 cooling	vėsinantis		h	that cools
 cooperate	bendradarbiauti		h	to work together
+cooperative	bendradarbiaujantis		h	ready to work with another
 coordinate	koordinatė		h	mathematics, cartography: a number representing the position of a point along a line, arc, or similar one-dimensional figure
+coordination	koordinavimas		h	the act of coordinating, making different people or things work together for a goal or effect
+coordinator	koordinatorius		h	one who coordinates
 cop	sučiupti		h	to capture, to take (informal)
 cope	susidoroti		h	to deal effectively with something
+cops	policija		h	law enforcement
+cor_anglais	anglų ragas		h	woodwind instrument
 cord	virvelė		h	length of twisted strands
 core	šerdis		h	heart of a thing
 corn	grūdas		h	grain or seed of a cereal crop
@@ -652,12 +870,16 @@ corporate	korporatyvinis		h	of, or relating to an institution; institutional
 corporation	korporacija		h	body corporate with legal personality
 correction	taisymas		h	act of correcting
 correctly	teisingai		h	in a correct manner
+correlation	koreliacija		h	measure of relationship
+correspondence	susirašinėjimas		h	reciprocal exchange of civilities, especially by letters
 correspondent	atitinkantis		h	conforming
+corresponding	atitinkamas		h	that have a similar relationship
 corrupt	korumpuotas		h	in a depraved state
 costume	kostiumas		h	dress of a particular country, period or people
 cottage	nameliukas		h	a small house; a cot; a hut
 couch	sofa		h	furniture for seating of more than one person
 counsel	konsultacija		h	consultation
+counselor	konsultantas		h	professional who counsels people
 counter	žetonas		l	object used in counting
 countless	nesuskaičiuojamas		h	too many to count, innumerable
 coupon	kuponas		h	section of a ticket giving the holder some entitlement
@@ -665,6 +887,8 @@ course	kursas		h	education: learning program
 courtesy	mandagumas		h	polite behavior
 coverage	aprėptis		h	amount by which something or someone is covered
 covered	uždengtas		h	overlaid or enclosed within something
+covering	danga		h	that which covers something
+cowardly	bailus		h	showing cowardice
 cowboy	kaubojus		h	person who tends cattle
 crack	įtrūkti		h	to form cracks
 craft	meistriškumas		h	skill in one's work
@@ -672,12 +896,18 @@ crap	brokas		h	something of poor quality
 crash	trenksmas		h	loud sound
 creative	kūrybingas		h	having the ability to create
 creativity	kūrybingumas		h	quality or ability to create or invent something
+credibility	patikimumas		h	reputation impacting one's ability to be believed
 credit	tikėti		h	to believe
+creed	tikėjimas		h	that which is believed
 creek	įlankėlė		h	small inlet or bay
+creepy	šiurpus		h	producing a fearful sensation
+crest	viršūnė		h	summit of a hill or mountain ridge
 criminal	nusikalstamas		h	being against the law
 crimson	tamsiai raudona		h	deep, slightly bluish red
 critic	kritikas		h	person who appraises the works of others
 critical	kritinis		h	relating to criticism
+criticize	kritikuoti		h	to find fault
+crooked	kreivas		h	having one or more bends or angles
 crop	pasėlis		h	plant grown for any economic purpose
 crossing	sankryža		h	intersection where roads, lines, or tracks cross
 crowd	susigrūsti		h	to press together in numbers
@@ -685,19 +915,29 @@ crowded	perpildytas		h	containing a dense pack or mass of something
 crown	momuo		h	topmost part of the head — see also scalp
 crown_prince	sosto įpėdinis		h	next king
 crucial	lemiamas		h	extremely important
+crude	žaliavinis		h	being in a natural state
 cruelty	žiaurumas		h	indifference to suffering
 cruise	kruizas		h	sea voyage
+crusade	kryžiaus žygis		h	campaigns by Christian forces to the Holy Land
 crush	simpatija		h	love or infatuation or its object (often short-lived or unrequited)
 crust	pluta		h	outermost layer of a planet
 crying	verkiantis		h	that cries
-cue	kū		h	name of the letter Q, q
+cub	jauniklis		h	the young of certain animals
+cuban	kubietis		h	a person from Cuba
+cue	ženklas		h	action or event that is a signal to do something
 cult	kultas		h	subset of worship
 cultural	kultūrinis		h	pertaining to culture
 cum	su		l	Translations
+curb	bordiūras		h	concrete along the edge of a road
 cure	vaistas		h	method, device or medication that restores good health
+curl	garbana		h	curving lock of hair
+curly	garbanotas		h	having curls
+curriculum	mokymo programa		h	set of courses and coursework
+curved	išlenktas		h	having a curve or curves
 custody	globa		h	legal right to take care of something or somebody
 cut	pjauti		h	to divide with a sharp instrument
 cute	mielas		h	having features mainly attributed to infants and small or cuddly animals
+cutter	kateris		h	heavy-duty motor boat for official use
 cutting	pjovimas		h	action of the verb to cut
 cycle	ciklas		h	complete rotation
 d	miręs		h	died
@@ -705,6 +945,9 @@ d_oh	ach		l	expression of frustration
 daily	kasdienis		h	that occurs every day
 dairy	pieno produktai		h	products produced from milk
 dale	slėnis		h	valley
+damages	žalos atlyginimas		h	money awarded to a claimant
+dammit	po galais		h	expression of anger or disappointment
+damned	prakeiktas		h	god-forsaken
 dance_floor	šokių aikštelė		h	an area for dancing
 dancing	šokis		h	activity of dancing
 dare	išdrįsti		h	to have courage
@@ -715,6 +958,7 @@ dated	datuotas		h	marked with a date
 dating	pasimatymai		h	a form of romantic courtship
 dative_case	naudininko linksnis		h	case used to express direction towards an indirect object
 days	dienos		l	life
+dc	nuolatinė srovė		h	direct current
 de	diferencialinė lygtis		h	initialism of differential equation
 dead_end	aklavietė		h	street or path that goes nowhere
 deadline	galutinis terminas		h	date on or before which something must be completed
@@ -731,13 +975,18 @@ decay	irimas		h	process or result of being gradually decomposed
 deceased	velionis		h	no longer alive
 decent	padorus		h	showing integrity, fairness, moral uprightness
 decided	ryžtingas		h	determined
+decisive	lemiamas		h	having the power or quality of deciding a question or controversy
 declare	paskelbti		h	to make a declaration
 decline	nuosmukis		h	downward movement, fall
+decoration	puošimas		h	act of adorning
 decree	dekretas		h	edict or law
 dedicated	atsidavęs		h	devoted, loyal, conscientious
+dedication	dedikacija		h	note prefixed to a work of art
 deed	darbas		h	action
 deeply	giliai		h	to a deep extent
+defamation	šmeižtas		h	act of injuring another's reputation by any slanderous communication
 default	įsipareigojimų nevykdymas		h	finance: condition of failing to meet an obligation
+defeated	nugalėtas		h	subjugated, beaten, overcome
 defect	defektas		h	fault or malfunction
 defendant	atsakovas		h	person prosecuted or sued, the accused
 defensive	gynybinis		h	intended for defence; protective
@@ -746,49 +995,68 @@ defined	apibrėžtas		h	having a definition or value
 definitely	neabejotinai		h	without question and beyond doubt
 degree	laipsnis		h	academic award
 deity	dievybė		h	a god or goddess
+delaware	Delaveras		h	US state
 delay	vėlavimas		h	period of time before an event occurs; act of delaying
 delete	ištrinti		h	to remove
 deliberate	tyčinis		h	intentional
 deliberately	tyčia		h	intentionally
+delicate	trapus		h	easily damaged or requiring careful handling
 delight	džiaugsmas		h	joy, pleasure
+delighted	sužavėtas		h	Greatly pleased
 deliver	išvaduoti		h	to set free
 delivery	pristatymas		h	act of conveying something
 delta	delta		h	fourth letter of modern Greek alphabet
 demonstrate	demonstruoti		h	to show how to use something
 dental	dantinis		h	phonetics
+denver	Denveris		h	capital of Colorado
 depart	išvykti		h	to leave
 depend	priklausyti		h	be contingent or conditioned
+dependence	priklausomybė		h	state of being dependent
 dependent	priklausomas		h	relying upon; depending upon
 deposit	avansas		h	money given as an initial payment
+depot	sandėlis		h	warehouse or similar storage facility
 depressed	prislėgtas		h	severely despondent and unhappy
+derby	derbis		h	horse race
+derivative	išvestinis		h	obtained by derivation
 descend	leistis		h	to physically move or pass from a higher to a lower place or position
+descendant	kilęs		h	descending from (an ancestor)
 descent	nusileidimas		h	instance of descending
 description	aprašymas		h	account in words
 design	projektas		h	plan
+desirable	pageidautinas		h	suitable to be desired
 desk	rašomasis stalas		h	table for writing and reading
 desktop	stalviršis		h	the top surface of a desk
 despair	nusivilti		h	to despair of
 desperate	nevilties apimtas		l	filled with despair
 destination	paskirties vieta		h	the place set for the end of a journey, or to which something is sent
 destruction	sunaikinimas		h	act of destroying
+destructive	destruktyvus		h	causing destruction; damaging
 detailed	detalus		h	characterized by attention to detail and thoroughness of treatment
 detect	aptikti		h	to discover or find by careful search, examination, or probing
+detention	sulaikymas		h	act or state
 determination	ryžtas		l	act of determining, or the state of being determined
 determine	nustatyti		h	to set the limits of
 determined	ryžtingas		h	decided or resolute
 detroit	Detroitas		h	largest city and former capital of Michigan
 developed	išsivystęs		h	(of a country) not primitive; not third world
 developing	besivystantis		h	of a country
+devoted	atsidavęs		h	vowed; dedicated; consecrated
+devotion	atsidavimas		h	the act or state of devoting or being devoted
 diabetes	diabetas		h	A group of metabolic diseases
 diagram	schema		h	plan, drawing, sketch or outline to show workings or parts relationships
+dial	ciferblatas		h	graduated, circular scale over which a needle moves
+diana	Diana		h	Roman goddess
+diaspora	diaspora		h	dispersion of any group of people
 diet	mityba		h	food a person or animal consumes
 differ	skirtis		h	not to have the same characteristics
+differently	kitaip		h	in a different way
 difficulty	sunkumas		h	state of being difficult
 digest	virškinti		h	to separate food in the alimentary canal
 digit	skaitmuo		h	numeral
 digital	pirštinis		l	having to do or performed with a finger
 dilemma	dilema		h	circumstance in which a choice must be made between two alternatives
 dimension	matmuo		h	measure of spatial extent
+dip	įdubimas		h	lower section of a road or geological feature
 direct	tiesioginis		h	straight, constant, without interruption
 directly	tiesiogiai		h	in a direct manner
 director_general	generalinis direktorius		h	executive officer
@@ -796,21 +1064,37 @@ directory	žinynas		h	list of names, addresses etc.
 dirt	purvas		h	unclean matter
 disability	neįgalumas		h	legal incapacity or incompetency
 disabled	neįgalus		h	having a disability
+disappearance	dingimas		h	action of disappearing or vanishing
+disappoint	nuvilti		h	to displease by underperforming etc
+disappointing	nuviliantis		h	that disappoints or disappoint
+discharge	įvykdyti		h	to accomplish or complete, as an obligation
+disclosure	atskleidimas		h	the act of revealing something
 discount	atskaičiuoti		h	to deduct from an account, debt, charge, and the like
+discourse	diskursas		h	verbal exchange or conversation
+discretion	diskretiškumas		h	the quality of being discreet or circumspect
 discuss	aptarti		h	to converse or debate concerning a particular topic
 disgrace	nešlovė		h	condition of being out of favor
 disgust	šlykštinti		l	to cause an intense dislike for something
+dislike	nemėgimas		h	feeling of distaste
+dismiss	atleisti		h	to discharge
 displacement	poslinkis		h	physics: vector quantity which denotes distance with a directional component
 display	pasirodymas		l	spectacle
+disrespect	nepagarba		h	lack of respect
+dissertation	disertacija		h	formal exposition of a subject
 distant	tolimas		h	far off
+distilled_water	distiliuotas vanduo		h	water that has been purified by distillation
 distinct	aiškus		h	very clear
+distinction	skirtumas		h	that which distinguishes; a single occurrence of a determining factor or feature, the fact of being divided; separation, discrimination
 distinguish	atskirti		h	to see someone or something as different from others
 distinguished	iškilus		h	celebrated, well-known or eminent because of past achievements; prestigious
 distress	vargas		l	(cause of) discomfort
+distribute	išdalyti		h	to divide into portions and dispense
 distribution	paskirstymas		h	act of distribution or being distributed
 dive	nardyti		h	to swim under water
 diverse	įvairus		h	consisting of different elements — see also various
 diversity	įvairovė		h	quality of being diverse; difference
+divided	padalytas		h	separated or split into pieces
+diving	nardymas		h	practice of swimming underwater
 division	dalijimas		h	act or process of dividing anything
 do_you_have_children	ar turi vaikų		h	do you have children?
 do_you_love_me	ar tu mane myli		h	do you love me?
@@ -822,9 +1106,12 @@ domain	apibrėžimo sritis		h	(mathematics) the set on which a function is defin
 domestic	buitinis		h	of or relating to the home
 domestic_violence	smurtas artimoje aplinkoje		h	violence committed in a domestic setting
 dominant	dominantė		h	tone of a musical scale
+dominate	dominuoti		h	to govern, rule or control by superior authority or power
 don	donas		h	mafia boss
 don_t	nedaryti		l	do not
 done	baigtas		h	In a state of having completed or finished an activity
+donor	donoras		h	one who donates
+dormitory	bendrabutis		l	room for sleeping
 double	dvigubas		h	made up of two matching or complementary elements
 double_chin	dvigubas smakras		h	a layer of fat under the chin
 down	žemyn		h	from a high to a low position, downwards
@@ -836,13 +1123,19 @@ drag	pasipriešinimas		h	resistance of the air or some other fluid
 dragon_fruit	pitaja		h	fruit
 drama	drama		h	composition
 dramatic	dramatiškas		h	of or relating to the drama
+dressed	apsirengęs		h	having clothes on
 dressing	tvarstis		h	material applied to a wound
 dressing_gown	chalatas		h	item of clothing
 dressing_table	tualetinis staliukas		h	low table equipped with mirror for dressing and makeup
+dried	išdžiovintas		h	without water or moisture
 drill	gręžti		h	to make a hole
 drinking	gėrimas		h	act or session by which drink is consumed
+drip	lašėti		h	to fall one drop at a time
+driven	varomas		h	(mechanical sense)
 driving	varomasis		h	that drives
+drizzle	dulkti		h	to rain lightly
 drove	banda		h	number of cattle driven to market or new pastures
+drummer	būgnininkas		h	one who plays the drums
 du_a	dua		l	(Islam) private prayer by an individual — see also prayer
 dual	dvejopas		h	double
 dubai	Dubajus		h	emirate
@@ -854,7 +1147,12 @@ duel	dvikova		h	combat between two persons
 dull	bukas		h	lacking the ability to cut easily; not sharp
 dump	sąvartynas		h	a place where waste or garbage is left
 dump_truck	savivartis		h	heavy truck for carrying loose, bulk cargo
+dungeon	požemis		h	underground prison or vault
+duo	duetas		h	twosome, especially musicians
 during	per		h	within a given time interval
+dusty	dulkėtas		h	covered with dust
+dwell	gyventi		h	live, reside
+dwelling	būstas		h	house or place in which a person lives
 dye	dažai		h	a colourant, especially one that has an affinity to the substrate to which it is applied
 dying	mirštantis		h	approaching death
 dynamics	dinamika		h	branch of mechanics
@@ -868,10 +1166,12 @@ earnings	pajamos		h	wages, money earned, income
 ease	patogumas		h	comfort — see also comfort
 easter_egg	velykinis margutis		h	a dyed or decorated egg
 eating	valgomas		h	suitable to be eaten without cooking
+ebony	juodmedis		h	wood
 economist	ekonomistas		h	expert in economics
 economy	ekonomika		h	effective management of the resources of a community or system
-ed	leidimas		h	edition
+ed	skubios pagalbos skyrius		h	emergency department
 edit	pataisymas		h	a change to the text of a document
+editing	redagavimas		h	an act or instance of something being edited
 edition	leidimas		h	literary work
 editor	redaktorius		h	person who edits
 editorial	redakcinis		h	of or relating to an editor, editing, or an editorial
@@ -881,18 +1181,23 @@ educational	edukacinis		h	of or pertaining to education
 effect	poveikis		h	result of an action
 effective	veiksmingas		h	having the power to produce a required effect or effects
 effectively	efektyviai		h	in an efficient or effective manner; with powerful effect
+effectiveness	veiksmingumas		h	property
 efficiency	efektyvumas		h	extent to which a resource is used for the intended purpose
 efficient	efektyvus		h	making good use of resources
 ego	ego		h	psychoanalytic ego
 eh	ar ne		h	used as a tag question
+eid_al_fitr	Ramadano pabaigos šventė		l	religious festival
 eight_hundred	aštuoni šimtai		h	cardinal number 800
 eighty_eight	aštuoniasdešimt aštuoni		h	88
+eighty_six	aštuoniasdešimt šeši		h	cardinal number 86
 either	bet kuris		h	each of two
 el	l raidė		h	name of the letter L, l
 elaborate	išsamus		h	detailed
 elder	vyresnis		h	greater than another in age or seniority
 elderly	pagyvenęs		h	old
 elect	išrinktasis		h	One chosen or set apart
+electoral	rinkimų		h	of, or relating to elections
+electorate	rinkėjai		h	collective people of a country, state, or electoral district who are entitled to vote
 electrical_engineering	elektrotechnika		h	branch of engineering
 electrician	elektrikas		h	tradesman who works with electrical equipment
 electronic_cigarette	elektroninė cigaretė		h	electronic cigarette
@@ -903,29 +1208,40 @@ eligible	tinkamas		h	meeting the necessary requirements to participate in or be 
 eliminate	sunaikinti		h	completely destroy
 elite	elitinis		h	of high birth or social position
 else	kitas		h	other
+elsewhere	kitur		h	in some other place
 em	em raidė		h	name of the letter M, m
+embargo	embargas		h	an order by the government prohibiting ships from leaving port
+embarrassed	sutrikęs		h	Having a feeling of shameful discomfort
 embarrassing	gėdingas		h	causing embarrassment
+embroidery	siuvinėjimas		h	art
+emerge	išnirti		h	to come into view
 emergency	ekstremali situacija		h	situation requiring urgent assistance
 emotion	emocija		h	person's internal state of being
 emotional	emocinis		h	characterised by emotion
+empathy	empatija		h	intellectual identification with another person
 emphasis	akcentas		h	special weight or forcefulness given to something considered important
 emphasize	pabrėžti		h	stress
 employ	įdarbinti		h	to give someone work
+employed	dirbantis		h	working
 employment	darbas		h	occupation or work for which one is used, and often paid
 en	en raidė		h	name of the letter N, n
 encounter	sutikti		h	meet (someone) or find (something), especially unexpectedly
+encouragement	padrąsinimas		h	the act of encouraging
 end_of_the_world	pasaulio pabaiga		h	end of the world
+endeavor	pastangos		h	a sincere attempt
 ending	pabaiga		h	termination or conclusion
 enforcement	įgyvendinimas		l	act of enforcing; compulsion
 engage	sudominti		h	to engross or hold the attention of someone
 engaged	sužadėtas		h	agreed to be married
 engineering	inžinerija		h	application of science to the needs of humanity
 english	sukimas		l	spinning or rotary motion around the vertical axis
+enhance	sustiprinti		h	augment or make something greater — see also augment, boost, upgrade, improve, develop, potentiate
 enjoy	mėgautis		h	to receive pleasure or satisfaction from something
 enlightenment	nušvitimas		h	act of enlightening, state of being enlightened
 enormous	milžiniškas		h	extremely large
 ensure	užtikrinti		h	make sure or certain
 entertain	linksminti		h	to amuse
+entertaining	linksmas		h	amusing
 enthusiastic	entuziastingas		h	with zealous fervor; excited, motivated
 entire	visas		h	whole
 entitled	turintis teisę		h	having a right to something
@@ -936,6 +1252,7 @@ episode	epizodas		h	incident or action connected with a series of events
 equally	vienodai		h	in an equal manner
 equity	teisingumas		h	justice, impartiality and fairness
 equivalent	lygiavertis		h	similar or identical in value
+erosion	erozija		h	the result of having being eroded
 escort	palydovas		h	accompanying person
 especially	ypač		h	particularly
 essential	būtinas		h	necessary
@@ -948,6 +1265,8 @@ estimate	apytikris įvertinimas		h	rough calculation or guess
 eternal	amžinas		h	lasting forever
 ethics	etika		h	standards of conduct
 eu	ES		h	European Union — see also European Union, EUSSR
+eurasian_teal	kirkliukas		h	Anas crecca
+evaluate	įvertinti		h	to draw conclusions from by examining
 evaluation	įvertinimas		h	assessment
 even	lygus		h	equal
 even_though	nors		h	although
@@ -957,9 +1276,13 @@ everyday	kasdieniškas		h	appropriate for ordinary use, rather than for special 
 everyone	visi		h	every person
 everything	viskas		h	all the things
 everywhere	visur		h	at all places
-ex	iksas		h	name of the letter X, x
+evident	akivaizdus		h	obviously true
+evolutionary	evoliucinis		h	of or relating to evolution
+ex	buvęs partneris		h	colloquial: former partner or spouse
 exactly	tiksliai		h	in an exact manner
 examine	apžiūrėti		h	to observe or inspect carefully or critically
+exceed	viršyti		h	to be larger, greater than something else or than expected or desirable
+excellence	puikumas		h	the quality of being excellent
 except	išskirti		h	to exclude
 exceptional	išskirtinis		h	forming an exception
 excess	perteklius		h	state of surpassing limits
@@ -975,6 +1298,7 @@ execute	įvykdyti mirties bausmę		h	to kill as punishment
 execution	įvykdymas		h	act of executing or the state of being executed
 executive	vykdomasis		h	designed for execution
 exhaust	išsekinti		h	to draw or let out wholly; to drain off completely
+exhausted	išsekęs		h	very tired
 exhibit	eksponuoti		h	display or show (something) for others to see
 existing	esamas		h	that exists
 expand	plėsti		h	(transitive) to increase the extent, number, volume or scope of
@@ -982,15 +1306,22 @@ expansion	plėtra		h	act of expanding
 expect	tikėtis		h	to look for, look forward to, anticipate
 expectation	lūkestis		h	that which is expected or looked for
 expected	laukiamas		h	anticipated; thought to be about to arrive or occur
+expedition	ekspedicija		h	An important enterprise, implying a change of place
 expense	išlaidos		h	a spending or consuming; disbursement; expenditure
 experienced	patyręs		h	having experience
 experimental	eksperimentinis		h	of or pertaining to an experiment
 expert	išmanantis		l	extraordinarily capable or knowledgeable
+expertise	kompetencija		h	great skill or knowledge
+explicit	aiškus		h	very specific
+explicitly	aiškiai		h	in an explicit manner
 explode	sprogti		h	to explode (intransitive)
 exploit	žygdarbis		h	heroic or extraordinary deed
 exploitation	išnaudojimas		h	act of exploiting
 explore	tyrinėti		h	to examine or investigate something systematically
+explorer	tyrinėtojas		h	person who explores
 export	eksporto		h	of or relating to exportation or exports
+exposed	neapsaugotas		h	open and unprotected
+exposition	paroda		h	action of putting something out to public view
 exposure	ekspozicija		l	the condition of being exposed, uncovered, or unprotected
 express	greitasis		h	moving or operating quickly
 expression	posakis		h	particular way of phrasing an idea
@@ -999,24 +1330,33 @@ extended	pratęstas		h	longer in length or extension; elongated
 extension	pratęsimas		h	act of extending or the state of being extended
 extensive	platus		h	wide
 extent	apimtis		h	range of values or locations
+exterior	išorinis		h	relating to the outside parts or surface
 external	išorinis		h	outside of something
+extinction	išnykimas		h	the action of making or becoming extinct
 extra	papildomas		h	beyond what is due, usual
 extract	ištrauka		h	something extracted
 extreme	kraštutinis		h	of a place, the most remote, farthest or outermost
 extremely	nepaprastai		h	to an extreme degree
 eye_for_an_eye	akis už akį		h	compensation for an injury
 f	moteriškoji giminė		h	feminine — see also feminine
+fa	fa		h	fourth note of a major scale
+fabulous	pasakiškas		h	of the nature of a fable; unhistorical
 face_to_face	akis į akį		h	in person
 facebook	Facebook		l	a reference book or electronic directory
+facial	veido		h	of the face
+facilitate	palengvinti		h	to make easy or easier
 facility	įrenginys		l	physical means or contrivance for doing something
+facing	apdaila		h	The most external portion of exterior siding
 factor	veiksnys		h	integral part
 faculty	fakultetas		h	division of a university
+fade	beskonis		l	tasteless
 fail	nepavykti		h	intransitive: be unsuccessful
 failed	nesėkmingas		h	unsuccessful
 faint	silpnas		h	lacking distinctness, hardly perceptible
 fair	dailus		h	pretty or attractive
 fairly	teisingai		h	in a fair manner
 fake	netikras		h	not real
+falkland_islands	Folklando salos		h	British overseas territory in the South Atlantic
 fallen	kritęs		h	having dropped by the force of gravity
 falls	krioklys		h	waterfall
 familiar	pažįstamas		h	known to one
@@ -1029,14 +1369,17 @@ faster	pasninkautojas		h	one who fasts
 fatal	lemtingas		h	proceeding from fate
 fate	lemtis		h	destiny
 father_in_law	uošvis		h	one's spouse's father
+fatty	riebus		h	containing fat
 fatty_acid	riebalų rūgštis		h	acid
 fault	defektas		h	defect
 favor	paslauga		h	kind or helpful deed
 favourite	mėgstamiausias		h	preferred
 fbi	FTB		h	Federal Bureau of Investigation
+feasible	įgyvendinamas		h	that can be done in practice
 feast	puota		h	large, often ceremonial meal
 feat	žygdarbis		h	an accomplishment that's relatively rare or difficult
 feature	ypatybė		h	important or main item
+featured	išryškintas		l	displayed with special treatment
 feces	išmatos		h	digested waste material discharged from the bowels
 fed_up	pabodęs		h	frustrated
 federal	federalinis		h	pertaining to a league or treaty; derived from an agreement or covenant between parties, especially between nations
@@ -1046,7 +1389,12 @@ feel	čiuopti		h	transitive: to sense by touch
 feeling	jautrus		h	emotionally sensitive
 fell	kirsti		h	to make something fall
 fellow	bendražygis		h	companion; comrade — see also companion, comrade, friend
+fencing	fechtavimasis		h	sport
+ferris_wheel	apžvalgos ratas		h	ride at a fair consisting of large wheel
+fertility	vaisingumas		h	the condition, or the degree of being fertile
 fewer	mažiau		h	comparative of few; a smaller number
+fibre	pluoštas		h	single elongated piece of material
+fictional	išgalvotas		h	invented, as opposed to real
 field_marshal	feldmaršalas		h	highest military rank after the commander-in-chief
 fierce	nuožmus		h	extremely violent, severe, ferocious or savage
 fifty_eight	penkiasdešimt aštuoni		h	cardinal number
@@ -1058,12 +1406,16 @@ fifty_two	penkiasdešimt du		h	cardinal number
 fighter	naikintuvas		h	aircraft type
 fighting	kovojantis		h	engaged in a fight
 figure	iliustracija		h	drawing
+filipino	filipinietis		h	citizen or inhabitant of the Philippines
 fill_out	užpildyti		h	to complete a form
 filled	užpildytas		h	that is now full
 filling	sotus		h	of food, that satisfies the appetite by filling the stomach
 film	plėvelė		h	thin layer
+filming	filmavimas		h	the action of the verb "to film"
 filth	purvas		h	dirt
+filthy	purvinas		h	covered with filth; very dirty
 final	baigiamasis egzaminas		h	test or examination given at the end of a term or class
+finale	finalas		h	grand end of something, especially a show or a piece of music
 finally	pagaliau		h	at last
 finals	finalas		h	contest that narrows a field of contestants
 financial	finansinis		h	related to finances
@@ -1072,29 +1424,43 @@ fine	aukštos kokybės		h	of superior quality
 fine_arts	vaizduojamieji menai		h	purely aesthetic arts
 finish	pabaiga		h	end
 finished	išbaigtas		h	processed or perfected
+finite	baigtinis		h	having an end or limit
 fire_station	gaisrinė		h	building for firefighters
+fired	atleistas		h	dismissed
+firing	šaudymas		h	discharge
 firm	firma		h	business partnership
 firstly	pirmiausia		h	in the first place
+fiscal	fiskalinis		h	related to the treasury
 fiscal_year	finansiniai metai		h	accounting period of one year
 fisher	žvejys		h	person who fishes
 fishing	žvejyba		h	act or sport of catching fish
 fit	tinkamas		h	suitable, proper
 fitness	kūno rengyba		h	cultivation of an attractive and healthy physique
+fitting	tinkamas		h	appropriate, suitable — see also appropriate, suitable, adequate, apt, convenient, favorable, opportune
 fix	taisyti		h	to mend or repair
 fixed	pastovus		h	not changing, not able to be changed, staying the same
 flash	blykstelėti		h	to cause to shine
 flexibility	lankstumas		h	quality of being flexible
 flexible	lankstus		h	easily bent without breaking
+flip	apsivertimas		h	maneuver which rotates an object end-over-end
+floppy_disk	diskelis		h	flexible disk used for storing digital data
+floral	gėlių		h	of or pertaining to flowers
 flow	tėkmė		h	the movement of a fluid
+fluent	sklandus		h	able to speak a language accurately and confidently
 fluid	skystis		h	any state of matter which can flow
+flush	pabaidyti		h	to cause to take flight from concealment
 flush_toilet	unitazas		h	toilet that uses water to remove waste
+flying_saucer	skraidanti lėkštė		h	disc-shaped unidentified flying object
 focus	židinys		h	in mathematics
+focused	susitelkęs		h	directing all one's efforts towards a goal
 folk	liaudis		l	inhabitants of a region
 folk_music	liaudies muzika		h	music originating from a specific region
 following	sekantis		h	next in sequence or time
+fond	prisirišęs		h	affectionate
 font	krikštykla		h	a receptacle in church for holy water
 food_chain	mitybos grandinė		h	feeding relationship between species
 footage	filmuota medžiaga		h	amount of film that has been used
+footprint	pėdsakas		h	the impression of the foot
 for_free	nemokamai		h	without paying
 for_god_s_sake	dėl Dievo meilės		h	exclamation of anger, surprise, or impatience
 forbidden	draudžiamas		h	not allowed
@@ -1104,6 +1470,7 @@ forces	pajėgos		h	troops
 forecast	prognozuoti		h	estimate future conditions
 foreign_language	užsienio kalba		h	any language other than that spoken by the people of a specific place
 foreign_minister	užsienio reikalų ministras		h	cabinet official
+foreman	brigadininkas		h	leader of a work crew
 forever	amžinai		h	for all time, for all eternity; for an infinite amount of time
 forgotten	užmirštas		h	of which knowledge has been lost, which is no longer remembered
 form	forma		h	shape or visible structure
@@ -1112,6 +1479,7 @@ format	formatas		h	layout of a document
 formation	formavimas		h	act of assembling a group or structure
 former	buvęs		h	previous
 formerly	anksčiau		h	at some time in the past
+forth	pirmyn		h	forward in time, place or degree
 fortune	likimas		h	destiny
 forty_five	keturiasdešimt penki		h	45
 forty_four	keturiasdešimt keturi		h	44
@@ -1124,8 +1492,10 @@ forty_two	keturiasdešimt du		h	Cardinal number
 forum	forumas		h	place for discussion
 forward	priekinis		h	at the front
 foster	globos		h	providing parental care to unrelated children
+foul	nešvarus		h	covered with, or containing, extraneous matter
 found	įsteigti		h	to start an organization
 foundation	įkūrimas		h	act of founding
+founded	pagrįstas		h	having a basis
 fraction	trupmena		h	part of a whole
 fracture	lūžis		h	act of breaking, or something broken
 fragment	fragmentas		h	portion or segment of an object
@@ -1133,14 +1503,21 @@ frame	įrėminti		h	add a decorative border to a picture
 framework	karkasas		h	the arrangement of support beams that represent a buildings general shape and size
 franchise	rinkimų teisė		h	right to vote at a public election
 frank	atviras		h	bluntly honest
+frankly	atvirai		h	in a frank, open or (too) honest manner
+freak	keistuolis		h	nonconformist, especially in appearance, sexual orientation, gender identity, or business practices
 free	laisvas		h	unconstrained
 free_time	laisvalaikis		h	time when one is not working
 freeze	užšalti		h	to become solid due to low temperature
+freezing	labai šaltas		h	very cold
+freight	krovinių gabenimas		h	transportation of goods
 french	pjaustyti juostelėmis		h	prepare food by cutting it into strips
+french_guiana	Prancūzijos Gviana		h	overseas department
 frequency	dažnis		h	number of occurrences divided by time
 frequently	dažnai		h	at frequent intervals
+freshman	pirmakursis		h	a person of either sex entering the first year of an institution
 friction	trintis		h	The rubbing of one object or surface against another
 fried	keptas		h	cooked by frying
+fringe	kutai		h	decorative border
 from_now_on	nuo šiol		h	from now, indefinitely
 from_time_to_time	kartkartėmis		h	occasionally
 frost	šerkšnas		h	cover of minute ice crystals
@@ -1148,6 +1525,7 @@ frozen	užšalęs		h	having undergone freezing
 frustration	nusivylimas		h	act of frustrating
 fucked	sugedęs		l	broken
 fucking	dulkinimasis		l	an act of sexual intercourse
+fulfill	įvykdyti		h	to carry out — see also carry out, realize
 fully	pilnai		h	in a full manner
 functional	funkcionalus		h	in good working order
 functional_group	funkcinė grupė		h	characteristic grouping of elements
@@ -1156,25 +1534,38 @@ funding	finansavimas		h	money provided as funds
 funds	lėšos		h	financial resources
 funnel	piltuvas		h	utensil used to guide poured liquids
 funny	linksmas		h	amusing; comical
+furnace	krosnis		h	device for heating in a factory, melting metals, etc
 further	skatinti		h	to encourage growth; to support progress or growth of something; to promote
 furthermore	be to		h	In addition; besides; what's more; used to denote additional information
+fury	įniršis		h	extreme anger
 fuse	dagtis		h	wick or cord used to convey flame to an explosive
 fusion	sintezė		h	nuclear reaction in which nuclei combine
 gain	įgyti		h	acquire
+gale	vėtra		h	meteorology: a very strong wind
+gallon	galonas		h	a unit of volume used for liquids
 gamble	rizika		h	a risk undertaken with a potential gain
+gamma	gama		h	third letter of the Greek alphabet
 gang	gauja		h	a company of persons
 gap	tarpas		h	opening made by breaking or parting
 garlic_bread	česnakinė duona		h	bread topped with garlic
+garment	drabužis		h	single item of clothing
 gas_chamber	dujų kamera		h	a sealed chamber in which people are executed with gas
+gas_turbine	dujų turbina		h	gas turbine
+gastric_acid	skrandžio rūgštis		h	acidic secretion of the stomach
 gathering	sambūris		h	get-together, social function
 gauge	matuoklis		h	a measure; a standard of measure; an instrument to determine dimensions, distance, or capacity; a standard
 gear	pavara		h	a particular combination or choice of interlocking gears
+gee	oho		h	exclamation of surprise or pleasure
 gemini	Dvyniai		h	constellation
 general_election	visuotiniai rinkimai		h	election held in all or most constituencies within a region or nation
 generally	apskritai		h	popularly or widely
 generate	generuoti		h	bring into being
+generic	bendrinis		h	very comprehensive
+generosity	dosnumas		h	trait of being willing to donate
 generous	dosnus		h	noble in behaviour, magnanimous
 genetic	genetinis		h	relating to genetics or genes
+genghis_khan	Čingischanas		h	Genghis Khan
+genie	džinas		h	an unseen being in Muslim theology
 genitive_case	kilmininko linksnis		h	grammatical case used to express a relationship of origin or possession
 gentle	švelnus		h	tender and amiable
 gentleman	džentelmenas		h	man of breeding
@@ -1188,46 +1579,63 @@ get_up	atsikelti		h	to rise from one's bed
 get_well_soon	greitai pasveik		h	expressing hope that someone recovers soon
 getting	gavimas		h	act of obtaining or acquiring
 gig	pasirodymas		h	performing engagement by a musician or musical group; job or role for a performer
+gigantic	gigantiškas		h	very large
 gill	žiauna		h	breathing organ of fish
 ginger	imbieras		h	spice
 give_me	duok man		h	expression of preference
 give_up	pasiduoti		h	surrender
 given	atsižvelgiant į		h	considering, taking into account
 giving	dosnus		h	generous
+glance	žvilgtelėti		h	to look briefly at (something)
+glitter	blizgesys		h	bright, sparkling light; brilliant and showy luster; brilliancy
 global	globalus		h	concerning all parts of the world
 glorious	šlovingas		h	exhibiting attributes, qualities, or acts that are worthy of or receive glory
 glory	šlovė		h	great beauty or splendour
+glow	švytėti		h	to emit heat and light without a flame
 go_away	eik šalin		h	interjection
 god_bless_you	Telaimina jus Dievas		h	said as a short prayer for the recipient
 god_knows	Dievas žino		h	only known to God; only known to the gods
 god_willing	duok Dieve		h	God willing
 goddamn	po velnių		h	an expression of anger, surprise, or frustration
+godfather	krikštatėvis		h	man present at the christening of a baby who promises to help raise the child in a Christian manner
 going	lankantis		l	attending habitually or regularly
 gold	auksinis		h	made of gold, golden
 golden	auksinis		h	made of, or relating to, gold
+goldfish	auksinė žuvelė		h	fish
+goldsmith	auksakalys		h	person who makes things out of gold
 gone	išėjęs		h	away, having left
 good_for_nothing	niekam tikęs		h	useless, worthless
 good_luck	sėkmė		h	positive fortune
-google	paieška Google		l	Internet search performed on the Google search engine
+goodwill	geranoriškumas		h	favorably disposed attitude
+google	Google		h	Google
+gore	sukrešėjęs kraujas		l	thick blood
+gorge	tarpeklis		h	deep, narrow passage with steep, rocky sides
 gorgeous	žavingas		h	very beautiful
 gorilla	gorila		h	ape
+governance	valdysena		h	the process, or the power, of governing; government or administration; control and monitoring
 governmental	vyriausybinis		h	relating to a government
 grab	čiupti		h	(transitive) to seize
 grace	padėkos malda		h	short prayer of thanks before or after a meal
 gradually	palaipsniui		h	in gradual manner
 graduate	absolventas		h	from a university
+graduation	baigimas		h	the action or process of graduating
+grammatical	gramatiškas		h	acceptable as determined by the rules of the grammar
 grand	didžiulis		h	of large size or extent
 grandma	močiutė		h	grandmother (informal) — see also granny
 grandpa	senelis		h	grandfather (informal)
 grant	suteikti		h	to give over
+granted	tiesa		l	used to concede a point
 graphic	grafinis		h	drawn, pictorial
+graphite	grafitas		h	form of carbon
 gravity	rimtumas		h	quality of being deeply serious and solemn, especially in a dignified manner; serious or solemn thing — see also seriousness, solemnity
 great_grandmother	prosenelė		h	mother of one's grandparent
 great_wall_of_china	Didžioji Kinijos siena		h	Chinese fortification
 greater	didesnis		h	of two things, the larger in size, value, importance etc
+greatly	labai		h	to a great extent or degree
 greed	godumas		h	selfish desire for more than is needed
 greedy	godus		h	having greed; consumed by selfish desires
 greenhouse_effect	šiltnamio efektas		h	process by which a planet is warmed by its atmosphere
+greens	žalumynai		h	leaves of certain edible green plants
 grid	tinklelis		h	rectangular array of squares or rectangles of equal size, such as in a crossword puzzle
 grill	grotelės		h	grating, grid
 grocery_store	maisto prekių parduotuvė		h	a store where groceries can be purchased, especially a supermarket
@@ -1245,7 +1653,11 @@ guinea	gvinėja		h	coin worth 21 shillings
 guinea_bissau	Bisau Gvinėja		h	Republic of Guinea-Bissau
 gun	šaunamasis ginklas		h	portable, short weapon, for hand use
 guru	guru		h	spiritual teacher
+gut	pilvas		h	abdomen
+guts	viduriai		h	entrails
+gutter	latakas		h	prepared channel in a surface
 guy	vaikinas		h	male, man
+gymnastics	gimnastika		h	a sport
 gypsy	čigonas		h	any itinerant person, or any person suspected of making a living from dishonest practices or theft
 ha	ha		h	a representation of laughter
 habitat	buveinė		h	natural conditions in which a plant or animal lives
@@ -1255,50 +1667,71 @@ hairy	plaukuotas		h	of a person
 half_brother	brolis iš tėvo pusės		l	male half-sibling
 half_moon	pusmėnulis		h	the moon in its first or last quarter
 half_past	pusė		l	"half past one" as example of usage in other languages
+halfway	pusiaukelėje		h	midway
 hall	koridorius		h	corridor or a hallway
 halo	aureolė		h	luminous disc around the heads of saints
+halt	sustabdyti		h	to stop either temporarily or permanently
+hamas	Hamas		h	Palestinian militant group
 hamlet	viensėdis		h	small village
 handful	sauja		h	amount held in hand
 handling	tvarkymas		h	touching, controlling, managing with the hands
 handsome	gražus		h	of man: attractive
+handy	patogus		h	easy to use
 hang	kabėti		h	to be or remain suspended
 hanging	kabantis		h	suspended
 happening	judrus		h	of a place: busy, lively
 happily	laimingai		h	in a happy manner
+harassment	priekabiavimas		h	persistent attacks and criticism causing worry and distress
 hard_disk	kietasis diskas		h	recording disk in a drive unit
 harm	žala		h	injury; hurt; damage
 harmful	žalingas		h	likely to be damaging
+harmless	nekenksmingas		h	incapable of causing harm or danger
 harness	pakinktai		h	restraint or support
 harry	niokoti		h	To strip; to lay waste
 harsh	šiurkštus		h	rough
+hart	elnias		h	male deer
 harvest	pjūtis		h	season of gathering the ripened crop
+hash	mėsos ir bulvių troškinys		l	chopped food, especially meat and potatoes
+hashtag	grotažymė		h	a tag with a hash sign
 hat_trick	hat-trikas		l	three achievements in a single game, competition, season, etc.
+hatch	liukas		h	1. horizontal door
 hate	neapykanta		h	negative interaction in Internet
 have_sex	mylėtis		h	take part in a sexual act
 haven	uostas		h	harbour
 hawaiian	havajiečių		h	of or having to do with the culture of the US state of Hawaii
+hazard	pavojus		h	the chance of suffering harm
 head_of_government	vyriausybės vadovas		h	chief officer of the executive branch of a government
+headed	turintis galvą		l	having a head with specified characteristics
+header	antraštė		h	upper portion of a page layout
 heading	antraštė		h	title
 headphones	ausinės		h	pair of speakers worn over or in the ears so only the wearer can hear the sound
 heads	herbas		h	side of coin
 heal	gydyti		h	make better
+healing	gijimas		h	process of regeneration — see also recovery
 health_care	sveikatos apsauga		h	prevention, treatment, and management of illnesses
 hearing	girdintis		h	able to hear
 hearing_aid	klausos aparatas		h	hearing assistance device
+heartbeat	širdies dūžis		h	one pulsation of the heart
 hearts	širdys		h	the card suit (♥)
+heath	viržis		h	shrub of the family Ericaceae
 heavenly	dangiškas		h	of or related to the celestial abode of God or the gods
+heavily	sunkiai		h	in a heavy manner
 hebrew	hebrajų		h	pertaining to the people
+helm	vairas		h	tiller (or, in a large ship, the wheel) which is used to control the rudder of a marine vessel; entire steering apparatus of a vessel
 helpful	naudingas		h	furnishing help; giving aid; useful
 helpless	bejėgis		h	unable to defend oneself — see also defenseless
 hemp	kanapė		h	Cannabis sativa
 hence	todėl		h	from here
 henry	henris		h	SI unit for electrical inductance
 her	jos		h	belonging to
+herald	pasiuntinys		h	a messenger, especially one bringing important news
 herb	prieskoninė žolė		h	plant used to flavour food
 herd	banda		h	a number of domestic animals assembled together under the watch or ownership of a keeper
+herd_immunity	kolektyvinis imunitetas		h	form of indirect protection against a disease
 here_and_there	šen bei ten		h	in one place and another
 here_you_are	prašom		h	said when handing something over
 heritage	paveldas		h	property
+heroic	herojiškas		h	of or relating to a hero or heroine
 hers	jos		h	that which belongs to her
 herself	save		h	(as intensifier) she
 hey	ei		h	exclamation to get attention
@@ -1308,17 +1741,24 @@ highly	labai		h	in a high or esteemed manner
 hilarious	labai juokingas		h	very funny; causing great merriment and laughter
 him	jam		h	dative / indirect object
 himself	save		h	(reflexive) male person as the previously mentioned object
+hinder	trukdyti		h	to make difficult to accomplish
 hindu	induistinis		h	of or relating to Hinduism
 hint	užuomina		h	clue
 hip	klubas		h	joint
 hire	samdinys		h	a person who has been hired
 historic	istorinis		h	having significance in history
+historical_linguistics	istorinė kalbotyra		h	the scientific study of language change
+historically	istoriškai		h	in a historic manner
+hmm	hmm		h	indicating thinking or pondering
 ho	ei		l	nautical: attention grabber
+hockey_puck	ritulys		h	puck used in hockey
+holder	laikiklis		h	a thing that holds
 holding	turimas turtas		h	something that one owns, especially stocks and bonds
 hole_punch	skylamušys		h	tool
 holiday	šventė		h	day on which a festival, religious event, or national celebration is traditionally observed
 home_page	pradžios puslapis		h	main or first page of a website
 homeless	benamis		h	lacking a permanent residence
+homemade	naminis		h	made at home
 hometown	gimtasis miestas		h	place of birth or residence
 homicide	žmogžudystė		h	the killing of one person by another
 honest	sąžiningas		h	scrupulous with regard to telling the truth
@@ -1326,9 +1766,12 @@ honestly	sąžiningai		h	in an honest manner
 honesty	sąžiningumas		h	quality of being honest
 honey_bee	medunešė bitė		h	honey bee
 honeymoon	medaus mėnuo		h	period of time immediately following a marriage
+honolulu	Honolulu		h	the capital of Hawaii
 honor	garbė		h	recognition of importance or spiritual value; respect
+honorable	garbingas		h	worthy of respect
 honour_killing	garbės žmogžudystė		h	murder as a cultural practice
 hood	gobtuvas		h	covering for the head attached to a larger garment such as a jacket or cloak
+hoop	lankas		h	circular band of metal used to bind a barrel
 hop	šuolis		h	a short jump
 hopefully	tikėkimės		h	it is hoped that
 horny	raguotas		h	having horns
@@ -1336,11 +1779,13 @@ horrible	baisybė		h	terrifying thing
 hose	žarna		h	flexible tube
 hostile	priešiškas		h	belonging or appropriate to an enemy
 hot	karštas		h	of the weather
+hound	skalikas		h	dog, hunting dog
 house_sparrow	naminis žvirblis		h	Passer domesticus
 household	namų ūkis		h	those living in the same residence
 housing	būstas		h	activity of enclosing or providing residence
 how_much	kiek kainuoja		h	what is the cost/price?
 however	kad ir kaip		h	5. in any way that one likes or chooses
+hp	arklio galia		h	horsepower
 hub	stebulė		h	central part of a wheel
 huge	didžiulis		h	very large
 huh	ką		h	expressing doubt or confusion
@@ -1348,8 +1793,10 @@ hull	luobelė		h	outer covering of a fruit or seed
 human	žmogiškas		h	of or belonging to the species Homo sapiens
 human_right	žmogaus teisė		h	basic right that all humans should be guaranteed
 human_trafficking	prekyba žmonėmis		h	criminal activity in which people are recruited, etc. to serve an exploitative purpose
+humanitarian	humanitarinis		h	concerned with people's welfare
 humility	nuolankumas		h	characteristic of being humble
 hundred_thousand	šimtas tūkstančių		h	100,000 — see also lakh
+hung	pakabintas		h	suspended by hanging
 hunting	medžioklė		h	chasing and killing animals for sport or to use its parts
 hurry	skubėjimas		h	rushed action
 hurt	sužeisti		h	to cause physical pain and/or injury
@@ -1373,62 +1820,93 @@ i_m_pregnant	aš nėščia		h	I'm pregnant
 i_m_sick	aš sergu		h	I'm sick/ill
 i_m_sorry	atsiprašau		h	I'm sorry, I apologize
 i_must_go	turiu eiti		h	I must go
+iced_coffee	ledinė kava		h	beverage
 icon	ikona		h	image
+id	id		l	id
 ideal	idealus		h	being optimal
 identical	identiškas		h	bearing full likeness
 identification	identifikavimas		h	act of identifying, or proving to be the same
 identify	atpažinti		h	to establish the identity of someone or something
 identity	tapatybė		h	the sameness some individuals share to make up the same kind or universal
+idle	neveiklus		h	not turned to appropriate use, not occupied, of time with little activity
 ignorant	neišprusęs		h	characterized by ignorance
 illinois	Ilinojus		h	a state of the United States of America
+illiterate	neraštingas		h	unable to read and write
+illustration	iliustracija		h	that which illustrates
 image	vaizdas		h	graphical representation
 imaginary_number	menamasis skaičius		h	number of the form bi
 immediate	neatidėliotinas		h	without delay
+immense	milžiniškas		h	huge, gigantic, very large
+immortality	nemirtingumas		h	condition of not being susceptible to death
+immune	imuninis		h	of or pertaining to the immune system
 immune_system	imuninė sistema		h	system that protects the body from foreign material and organisms
 immunity	imunitetas		h	the quality of being resistant to infection
 impact	smūgis		h	a collision
 imperial	imperinis		h	related to an empire
 implement	įgyvendinti		h	bring about
+imply	reikšti		h	to have as a consequence
 import	importas		h	something brought in from a foreign country
 importance	svarba		h	quality or condition of being important or worthy of note
+impose	primesti		h	to apply, enforce, or establish (something) with authority
+impress	sužavėti		h	(transitive) affect (someone) strongly and often favourably
 impressed	sužavėtas		h	strongly affected, especially favourably
 impressive	įspūdingas		h	making, or tending to make, an impression; having power to impress
 imprisonment	įkalinimas		h	confinement
 improve	tobulinti		h	to make something better
 improved	patobulintas		h	that has been made better
 improvement	pagerinimas		h	act of improving
+impulse	impulsas		h	sudden force that impels
 in	viduje		l	contained by
 in_any_case	bet kuriuo atveju		h	at any rate
 in_order_to	kad		h	as a means of achieving the specified aim
 in_other_words	kitaip tariant		h	stated or interpreted another way
 in_vain	veltui		h	without success
+inappropriate	netinkamas		h	not appropriate or suitable
+incentive	paskata		h	something that motivates
 incident	incidentas		h	event causing interruption or crisis
 include	įtraukti		h	to bring into as a part or member
+inclusion	įtraukimas		h	addition or annex to a group, set or total
 income_tax	pajamų mokestis		h	tax levied on income
+incomplete	nepilnas		h	not complete
 incorrect	neteisingas		h	erroneous
 increase	didėti		h	become larger
 increasing	didėjantis		h	on the increase
+increasingly	vis labiau		h	increasing in amount or intensity
 incredible	neįtikėtinas		h	too implausible to be credible
+incredibly	neįtikėtinai		h	In an incredible manner
+incumbent	dabartinis		h	being the current holder of an office or a title
 indeed	išties		h	modal: truly; in fact; actually
 independence	nepriklausomybė		h	state or quality of being independent
 independence_day	Nepriklausomybės diena		h	annual celebration
+independently	savarankiškai		h	in an independent manner
 indiana	Indiana		h	US state
 indication	požymis		h	a fact that shows that something exists or may happen
 indicator	rodiklis		h	pointer
 indigenous	vietinis		h	born or engendered in, native to a land or region
+indigo	indigo		h	colour
+indirect	netiesioginis		h	not direct
 indonesian	Indonezijos		h	referring to Indonesia
 industrial	pramoninis		h	of or relating to industry
 inevitable	neišvengiamas		h	impossible to avoid or prevent
+inevitably	neišvengiamai		h	in a manner that this impossible to avoid
+infamous	liūdnai pagarsėjęs		h	having a bad reputation
+infectious	užkrečiamas		h	transmitted between persons as illness
+inferior	prastesnis		h	of lower quality
 infinite	begalinis		h	boundless, endless
 influential	įtakingas		h	having considerable influence
+info	informacija		h	abbreviation for “information”
+informal	neformalus		h	not formal or ceremonious
 information_security	informacijos saugumas		h	protection of information and information systems
+informed	informuotas		h	instructed; having knowledge of a fact or area of education
 infrared	infraraudonoji spinduliuotė		h	radiation of a wavelength between 700 nm and 1 mm
 infrastructure	infrastruktūra		h	underlying base or foundation especially for an organization or system
 ingredient	ingredientas		h	substance present in a mixture
 inheritance	paveldėjimas		h	passing of title
+inhuman	nežmoniškas		h	cruel and savage, not humane
 initially	pradžioje		h	at the beginning
 initiative	iniciatyvinis		h	serving to initiate
 inner	vidinis		h	being or occurring inside
+innocence	nekaltumas		h	absence of responsibility for a crime
 innocent	nekaltas		h	pure, free from sin, untainted
 innovative	novatoriškas		h	characterized by the creation of new ideas or things
 input	įvestis		h	data fed into a process
@@ -1450,32 +1928,50 @@ institution	institucija		h	established organisation
 instruction	nurodymas		h	act of instructing, teaching, or furnishing with knowledge; information
 instructor	instruktorius		h	one who instructs; a teacher
 insult	įžeisti		h	to be insensitive, insolent, or rude to (someone)
+intact	nepaliestas		h	untouched
+integer	sveikasis skaičius		h	a number that is not a fraction
 integral	sudėtinis		h	constituting a whole together with other parts or factors; not omittable or removable
+integrated	integruotas		h	composed and coordinated to form a whole
 integrity	doroviškumas		h	steadfast adherence to a strict moral or ethical code
 intellectual	intelektualinis		h	belonging to, or performed by, the intellect; mental or cognitive
 intended	numatytas		h	planned
 intense	intensyvus		h	extreme or very high or strong in degree
 intensity	intensyvumas		h	quality of being intense
 intent	ketinimas		h	something that is intended
+intentional	tyčinis		h	intended or planned; done deliberately or voluntarily
+inter	palaidoti		h	bury in a grave
 interact	sąveikauti		h	act upon each other
 interaction	sąveika		h	situation or occurrence in which two or more objects or events act upon one another
 interactive	interaktyvus		h	acting with each other
+intercourse	lytiniai santykiai		h	sexual intercourse
 interested	susidomėjęs		h	having or showing interest
 interface	sąsaja		h	point of interconnection between entities
 interference	trukdymas		h	act of interfering with something, or something that interferes
+interim	laikinas		h	transitional
 interior	vidinis		h	having to do with the inner part of something
+intermediate	tarpinis		h	being between two extremes, or in the middle of a range
 internal	vidaus		h	inside of something
+interpret	aiškinti		h	to explain or tell the meaning of
 interpretation	interpretacija		h	act of interpreting
 intervention	intervencija		h	act of intervening
 intimate	artimas		h	closely acquainted; familiar
 introduce	supažindinti		h	to cause someone to be acquainted
+invalid	negaliojantis		h	not valid
+invent	išrasti		h	design a new process or mechanism
+invented	išgalvotas		h	fictional, made up
 inventory	atsargos		h	stock of an item on hand at a particular location or business
 invest	investuoti		h	to spend money, time, and effort into something
 investigate	tirti		h	(''transitive'') to inquire into, study
+involve	įtraukti		h	to cause or engage (someone or something) to become connected or implicated, or to participate, in some activity or situation
 involved	įsitraukęs		h	associated with others, be or be made a participant
+involvement	įsitraukimas		h	the act of involving or state of being involved
 ion	jonas		h	atom or group of atoms bearing an electrical charge
 iowa	Ajova		h	A state in the Midwestern US
 iraqi	Irako		h	of, from or pertaining to Iraq
+ironic	ironiškas		h	characterized by irony
+irregular	netaisyklingas		h	non-standard
+irrelevant	nesvarbus		h	not related, not applicable, unimportant, not connected
+irresponsible	neatsakingas		h	lacking a sense of responsibility
 is	Islamo valstybė		h	Islamic State, abbreviation — see also Islamic State
 isis	ISIS		h	Islamic State of Iraq and Syria
 isle_of_man	Meno sala		h	island
@@ -1493,10 +1989,14 @@ jade	nefritas		h	gem
 jail	kalėjimas		h	place for short-term confinement
 japan	lakuoti		h	to varnish (something) with japan
 jasmine	jazminas		h	plant of genus Jasminum
+jeep	džipas		h	vehicle
+jehovah_s_witnesses	Jehovos liudytojai		h	denomination
+jelly	želė		h	sweet gelatinous substance derived from fruit juices and pectin
 jerk	truktelėjimas		h	quick, often unpleasant tug or shake
 jersey	megztinis		h	garment knitted from wool, worn over the upper body
 jet	srovė		h	stream of fluid
 jewellery	papuošalai		h	personal ornamentation
+jimmy	šokoladiniai pabarstukai		h	chocolate sprinkles used as a topping
 job	užduotis		h	task
 joe	Džo		h	stereotypical male given name
 john	prostitutės klientas		h	prostitute's client
@@ -1505,49 +2005,68 @@ joke	anekdotas		h	amusing story
 joker	juokdarys		h	person who makes jokes
 jonathan	Jonatanas		h	biblical character
 journal	dienoraštis		h	diary or daily record
+jr	jaunesnysis		h	junior, postnominal title used by a son sharing the same name as the father
 judgement_day	Paskutinis teismas		h	final trial of all humankind at the end of the world
 judgment	sprendimas		h	act of judging
 judicial	teisminis		h	of or relating to a court of law
+judo	dziudo		h	Japanese martial art
+juicy	sultingas		h	containing juice
+jumper	šuolininkas		h	someone or something that jumps
 junction	sujungimas		h	the act of joining
 junior	jaunesnysis		h	younger
 junk	šlamštas		h	miscellaneous items of little value
 jury	prisiekusieji		h	law: group in a court of law
 just	teisingas		h	factually fair, correct
 just_now	ką tik		h	very close to the present moment
+justified	pagrįstas		h	having a justification
 k	karalius		h	playing card
 kansas	Kanzasas		h	US state
+kashmir	Kašmyras		h	region
 kay	ka		h	name of the letter K, k
 keen	uolus		h	showing a quick and ardent responsiveness or willingness
+keeper	sargas		h	person who keeps something
 keeping	priežiūra		h	charge or care
 kentucky	Kentukis		h	US state
 kid	vaikas		h	child (colloq.)
 kidnap	pagrobti		h	to seize and detain a person unlawfully
 killing	mirtinas		h	lethal, deadly, fatal
+kindle	uždegti		h	to start (a fire)
 kindness	gerumas		h	being kind
 kit	ekipuotė		h	equipment of a soldier
 kitty	kačiukas		h	(informal) young cat — see also kitten
+kneel	atsiklaupti		h	to stoop down and rest on the knee
 knock	beldimas		h	abrupt rapping sound
 know	pažinti		h	be acquainted or familiar with
 know_it_all	išmanėlis		l	one who obnoxiously claims to be knowledgeable on a subject
 knowing	sumanus		l	intelligent
 known	žinomas		h	whom other people know; renowned, famous
+kong	kongas		l	set of four identical tiles
 la	la		h	sixth note of a major scale
 labour	darbas		h	work
 lace	nėriniai		h	fabric
 lack	stoka		h	deficiency, need
 lad	vaikinas		h	a boy or young man
 lance	ietis		h	weapon of war
+landmark	orientyras		h	recognizable feature
 landslide	nuošliauža		h	natural disaster
 lane	skersgatvis		h	passageway
 language_family	kalbų šeima		h	set of languages
 lap	keliai		h	upper legs of a seated person
 largely	daugiausia		h	in a widespread or large manner
+larva	lerva		h	an animal in such stage of growth — see also tadpole
+latch	užsklęsti		h	to close with a latch
 later	vėliau		h	more late
 latest	naujausias		h	most recent
+latin_alphabet	lotynų abėcėlė		h	the 26-letter alphabet
 latter	pastarasis		h	relating to or being the second of two items
+latvian	latvių		h	pertaining to Latvia or the Latvian language
+laughing	juokimasis		h	the action of the verb to laugh
 launch	paleisti		h	throw, hurl, let fly, propel with force
 laundry	skalbimas		h	laundering; washing
+laurel	lauras		h	Laurus nobilis
+lavender	levanda		h	plant
 lay	dėti		h	to place something down in a position of rest
+layout	maketas		h	structured arrangement of items
 leadership	lyderystė		h	capacity to lead
 leading	vadovaujantis		h	providing guidance
 leak	nuotėkis		h	crack, crevice, fissure, or hole which admits water or other fluid, or lets it escape
@@ -1555,12 +2074,15 @@ lean	palinkti		h	to incline
 leap	šokti		h	to jump — see also jump
 learned	išsilavinęs		h	having much learning
 learning	mokymasis		h	action of the verb
+lease	nuoma		h	contract granting use or occupation of property
+leash	pavadėlis		h	long cord for dogs
 least	mažiausias		h	of two or more animals or plants with the same name: the smaller or smallest
 leave	išeiti		h	to depart (intransitive)
 led	šviesos diodas		h	LED — see also light-emitting diode
 lee	užuovėja		h	protected cove or harbor, out of the wind
 legacy	palikimas		h	money or property bequeathed to someone in a will
 legal	teisinis		h	relating to the law or to lawyers
+legally	teisėtai		h	as permitted by law
 legendary	legendinis		h	of or pertaining to a legend
 legion	gausus		h	numerous
 legislation	įstatymų leidyba		h	the act of legislating
@@ -1570,10 +2092,14 @@ legitimate	teisėtas		h	lawful
 leisure	laisvalaikis		h	freedom provided
 lemonade	limonadas		h	still beverage
 lender	skolintojas		h	one who lends, especially money
+leo	Liūtas		h	Someone with a Leo star sign
 lesbian	lesbietiškas		h	of a woman: preferring women partners
 less	mažiau		h	to a smaller extent or degree
 let_alone	jau nekalbant apie		h	to say nothing of
 let_s	eime		l	let us; forming first-person plural imperative
+lethal	mirtinas		h	of, pertaining to, or causing death; deadly; mortal; fatal
+leverage	svertas		h	force compounded by means of a lever rotating around a pivot
+lewis	Lewiso sala		l	Isle of Lewis
 lgbt	LGBT		h	lesbian, gay, bisexual, transgender or transsexual
 liability	skola		h	debt
 liberal	liberalus		h	generous, permitting liberty, willing to give unsparingly
@@ -1590,24 +2116,32 @@ lime	kalkės		h	inorganic material containing calcium
 limited	ribotas		h	with certain limits placed upon it
 linear	tiesinis		h	having the form of a line
 linen	drobė		h	thread or cloth made from flax fiber
+lining	pamušalas		h	covering for the inside of something
 links	golfo laukas		h	golf course
 linux	Linux		h	operating system
 lipstick	lūpų dažai		h	make-up for the lips
 liquor	stiprusis alkoholis		l	strong alcoholic drink derived from fermentation and distillation
 listening	klausantis		h	of something that listens
+lit	apšviestas		h	Lighted
 literacy	raštingumas		h	ability to read and write
+literal	pažodinis		h	exactly as stated; read or understood without interpretation
 literally	pažodžiui		h	in a literal manner
+litigation	bylinėjimasis		h	conduct of a lawsuit
 litter	kraikas		h	bedding for animals
 little_finger	mažasis pirštas		h	outermost and smallest finger of the hand
 little_girl	mergaitė		h	a female child
+lively	gyvybingas		h	full of life
 living	gyvas		h	having life
 living_room	svetainė		h	room in a private house
+lo	štai		h	look, see, behold
 load	našta		h	burden
 loaded	užtaisytas		h	(of a projectile weapon) armed
 lobby	vestibiulis		h	entryway or waiting area; vestibule
+locate	nustatyti vietą		h	to place; to set in a particular spot or position
 location	vieta		h	place
 lockdown	karantinas		l	emergency confinement
 locked	užrakintas		h	that has been locked (with a key)
+locker	spintelė		h	storage compartment
 lodge	loža		h	local chapter of freemasons
 logo	logotipas		h	visual symbol or emblem that acts as a trademark or a means of identification of an entity
 long_ago	seniai		h	at a time in the distant past
@@ -1621,6 +2155,7 @@ loss	praradimas		h	the result of no longer possessing something
 lost	pasiklydęs		h	unable to find one's way
 lot	partija		h	separate portion; number of things taken collectively
 loudly	garsiai		h	in a loud manner
+lounge	ilsėtis		h	to relax
 love_letter	meilės laiškas		h	letter about the author's love
 love_triangle	meilės trikampis		h	situation in which two people vie for the love of a third
 lovely	žavus		h	beautiful; charming; very pleasing in form, looks, tone, or manner
@@ -1629,17 +2164,23 @@ loving	mylintis		h	expressing a large amount of love
 low_tide	atoslūgis		h	the tide at its lowest level
 lower	žemesnis		h	more towards the bottom
 ltd	UAB		h	Translations
+luckily	laimei		h	in a lucky manner
 lucky	laimingas		h	of people, having good fortune
+lump	gumulas		h	something that protrudes, sticks out, or sticks together; a cluster or blob; a mound, hill, or group
+lunar	mėnulio		h	of, pertaining to, or resembling the Moon
 lunar_calendar	mėnulio kalendorius		h	a calendar that measures the passage of the year according to the phases of the moon
 lust	geismas		h	strong desire, especially of a sexual nature
 luxury	prabanga		h	very wealthy and comfortable surroundings
+lydia	Lidija		h	biblical woman
 lying	gulėjimas		h	act of keeping low to the ground
 lyrics	dainos žodžiai		h	the words to a song
 m	metras		h	metre
 ma	mama		h	colloquial form of mother
 ma_am	ponia		h	chiefly used as a form of address: contraction of madam — see also madam
 machine_translation	mašininis vertimas		h	act of translating something by means of a machine
+machinery	mašinos		h	machines constituting a production apparatus
 magical	magiškas		h	relating to magic
+magistrate	magistratas		l	judicial officer
 magnetic	magnetinis		h	of, relating to, caused by, or operating by magnetism
 magnificent	didingas		h	grand, elegant or splendid in appearance
 magnitude	dydis		h	size, etc.
@@ -1659,12 +2200,17 @@ make_love	mylėtis		h	to engage in sexual intercourse — see also copulate
 make_up	sudaryti		h	to constitute, to compose
 maker	gamintojas		h	one who makes
 making	gaminimas		h	act — see also workmanship, construction
+malay	malajų		h	of the Malay people
+malaysian	Malaizijos		h	Pertaining to Malaysia
+malicious	piktavališkas		h	of, pertaining to, or as a result of malice or spite
 mall	prekybos centras		h	enclosed shopping centre
 malta	Malta		h	island
 manage	sugebėti		h	to succeed at an attempt
+mandarin	mandarinų kalba		h	Standard Mandarin — see also Chinese
 mandarin_orange	mandarinmedis		h	tree
 mandatory	privalomas		h	obligatory — see also obligatory, compulsory
 mango	mangas		h	tropical fruit tree Mangifera indica
+manhattan	Manhatanas		h	borough
 manifest	akivaizdus		h	evident to the senses, especially to the sight; apparent
 manner	maniera		h	way of performing or effecting; method or style
 manual	vadovas		h	handbook or booklet that instructs
@@ -1676,12 +2222,19 @@ many_thanks	labai ačiū		h	many thanks
 mar	gadinti		h	to spoil, to damage
 margin	paraštė		h	typography: edge of the paper that remains blank
 marine	jūrinis		h	of or pertaining to the sea
+maritime	jūrinis		h	relating to the sea
 mark	žymė		h	indication for reference or measurement
 marked	ryškus		h	significant; notable
+marketplace	turgavietė		h	open area in a town housing a public market
 marrow	kaulų čiulpai		h	substance inside bones
+marsh_mallow	proskūnis		h	Althaea officinalis
+marshal	maršalas		h	military officer of the highest rank
+martial	karinis		h	of, relating to, or suggestive of war — see also warlike
 martyr	kankinys		h	one willing to be killed or persecuted for religion
+marvel	stebėtis		h	become filled with wonderment
 mary	Mary		l	city in Turkmenistan
 maryland	Merilandas		h	US state
+mashed_potatoes	bulvių košė		h	dish
 mason	mūrininkas		h	one who builds with stone or brick
 mass_murder	masinė žmogžudystė		h	successive killing of many people
 massive	masyvus		h	of great size, significance or import; overwhelming
@@ -1694,6 +2247,8 @@ maternal_aunt	teta		h	one's mother's sister
 maternal_uncle	dėdė		h	brother of one's mother
 math	matematika		h	short form of mathematics
 mature	subrendęs		h	fully developed
+maturity	brandumas		h	state of being mature, ready or ripe
+max	maksimalus		h	abbreviation for maximum
 maximum	maksimumas		h	highest limit
 may	galėti		h	have permission to
 me	mane		h	direct object of a verb
@@ -1707,34 +2262,53 @@ median	mediana		h	statistics: measure of central tendency
 medical	medicininis		h	of the practice of medicine
 medication	vaistai		h	one or all the medicines regularly taken by a patient
 medieval	viduramžių		h	of or relating to the Middle Ages
+medina	Medina		h	city in Saudi Arabia
 meditation	meditacija		h	devotional contemplation
 mediterranean	Viduržemio jūros		h	of or pertaining to the Mediterranean Sea and its surrounding region
 medium	terpė		h	nature of the surrounding environment
 meeting	susitikimas		h	gathering for a purpose
 melbourne	Melburnas		h	city in Victoria, Australia
+meltdown	išsilydymas		h	severe uncontrolled overheating and melting of the fuel in the core of a nuclear reactor
 melting_point	lydymosi temperatūra		h	temperature at which solid and liquid phases are in equilibrium
 meme	memas		h	unit of cultural information
+memorable	įsimintinas		h	worthy of being remembered
 men	žmonės		h	human people
 mental	protinis		h	relating to the mind
 mental_hospital	psichiatrijos ligoninė		h	facility designed to treat persons with mental disorders — see also asylum
+mentality	mentalitetas		h	mindset — see also mindset
+mentally	protiškai		h	in a mental manner
 mention	paminėjimas		h	a speaking or notice of anything, usually in a brief or cursory manner
+mentor	mentorius		h	wise and trusted counselor or teacher
 mercy	gailestingumas		h	relenting; forbearance to cause or allow harm to another
+mere	vien		l	just, only; no more than
 merely	tik		h	only, just, and nothing more
+merger	susijungimas		h	the act or process of merging
 merit	nuopelnas		h	claim to commendation or a reward
 merry	linksmas		h	jolly and full of high-spirits
+mesh	tinklas		h	structure
+messy	netvarkingas		h	in a disorderly state; causing mess or confusion; chaotic; disorderly
+metallic	metalinis		h	related to metal
+metamorphic_rock	metamorfinė uoliena		h	one of the major groups of rock that makes up the crust of the Earth
+meteor_shower	meteorų lietus		h	Meteors seen on Earth for short time period
+methodology	metodologija		h	the study of methods used in a field
+metric	metrinis		h	relating to metric system
+metropolis	metropolija		h	colony’s mother city
 metropolitan	metropolitas		h	bishop empowered to oversee other bishops
 mi	mi		h	third note of a major scale
 microsoft	Microsoft		h	Transliterations and translations
 mid	vidurinis		h	occupying a middle position; middle
 middle_class	vidurinioji klasė		h	social and economic class
 middle_finger	vidurinis pirštas		h	finger between the forefinger and the ring finger
+midfielder	saugas		h	player
 might	galia		h	personal power
 mighty	galingas		h	very strong, possessing might
 mike	mikrofonas		h	informal: microphone
 mild	švelnus		h	gentle; pleasant; kind; soft
+milestone	kilometro stulpelis		l	one of a series of numbered markers placed along a road at regular intervals
 military_exercise	karinės pratybos		h	war game
 military_service	karo tarnyba		h	service in an army
 milk_tooth	pieninis dantis		h	tooth of the first set of teeth
+mindset	mąstysena		h	a way of thinking — see also mentality
 mine	mano		h	that which belongs to me
 miner	šachtininkas		h	person who works in a mine
 minimal	minimalus		h	the smallest possible amount, quantity, or degree
@@ -1748,6 +2322,7 @@ minus_sign	minuso ženklas		h	symbol used to denote the operation of subtraction
 minutes	protokolas		h	the official notes kept during a meeting
 miserable	nelaimingas		h	in a state of misery
 misery	kančia		h	great unhappiness
+misleading	klaidinantis		h	tending to mislead
 miss	nepataikyti		h	to fail to hit
 missing	dingęs		h	not able to be located
 mission	misija		h	religious evangelism
@@ -1755,13 +2330,20 @@ mississippi	Misisipė		h	state
 mistake	supainioti		h	to take one thing for another
 mister	ponas		h	title of adult male
 mistress	šeimininkė		h	woman of authority
+misunderstanding	nesusipratimas		h	mistake
 mixed	mišrus		h	having two or more separate aspects
+mixer	plakiklis		h	machine that mixes or beats ingredients
 mixture	mišinys		h	act of mixing
 mob	minia		h	unruly group of people
+mobility	mobilumas		h	ability to move
+mock	imitacija		h	imitation
 mode	būdas		h	means of accomplishing something
 model	modelis		h	person
 moderate	nuosaikus		h	not excessive
 modern	šiuolaikinis		h	pertaining to the current time and style
+modification	modifikacija		h	act or result of modifying or condition of being modified
+modify	modifikuoti		h	to change part of
+module	modulis		h	self-contained component of a system
 moist	drėgnas		h	characterized by the presence of moisture; slightly wet
 mold	forma		h	hollow form or matrix for shaping a fluid or plastic substance
 molecular	molekulinis		h	relating to molecules
@@ -1770,13 +2352,16 @@ monaco	Monakas		h	country in Europe
 monetary	piniginis		h	of or relating to money
 monitoring	stebėsena		h	Surveillance or continuous or regular observation
 monthly	kassmėnesinis		h	occurring every month
+morale	moralinė dvasia		l	the capacity of people to maintain belief in an institution or a goal, or even in oneself and others
 more	daugiau		h	comparative of many
 mortal	mirtingas		h	susceptible to death
 mortality	mirtingumas		h	condition of being susceptible to death
+mosquito_net	uodų tinklelis		h	fine net used to protect against mosquitos
 most	dauguma		h	majority of
 mostly	daugiausia		h	for the most part
 motherfucker	niekšas		l	generic term of abuse
 motion	judėjimas		h	state of progression from one place to another
+motivated	motyvuotas		h	enthusiastic; having motivation
 motive	motyvas		h	a cause to commit a crime
 mount	kalnelis		l	palmistry: prominence
 moved	sujaudintas		h	emotionally affected
@@ -1784,13 +2369,22 @@ moving	judantis		h	that moves or move
 ms	ponia		h	title
 mug	puodelis		h	large cup
 multiple	daugialypis		h	having more than one element, part, component or function
+multiplication	daugyba		h	calculation
+mung_bean	mungo pupelė		h	seed of Vigna radiata
 municipal	savivaldybės		h	pertaining to city
+muscular	raumeningas		h	having strength
+muse	mūza		h	a source of inspiration
+musk	muskusas		h	greasy secretion with powerful odour
 mustard	garstyčia		h	plant
+mutation	mutacija		h	heritable change in genetic material
 mute	nebylys		h	not having the power of speech
 mutual	abipusis		h	having the same relationship, each to each other
+myriad	dešimt tūkstančių		h	ten thousand — see also ten thousand
+myrtle	mirta		h	evergreen shrub
 myself	save		h	me, reflexive form of me
 mythology	mitologija		h	myths of a people
 n	šiaurė		h	north
+nah	nea		h	no
 nail_polish	nagų lakas		h	cosmetic lacquer
 naive	naivus		h	lacking experience, wisdom, or judgement
 named	vadinamas		h	having a name
@@ -1799,6 +2393,7 @@ nap	numigti		h	to have a nap
 narrative	pasakojamasis		h	telling a story
 narrator	pasakotojas		h	in story
 nasa	NASA		h	National Aeronautics and Space Administration
+nasty	bjaurus		h	dirty, filthy
 nathan	Natanas		h	biblical prophet
 national_park	nacionalinis parkas		h	national park
 national_security	nacionalinis saugumas		h	safety of a country
@@ -1808,16 +2403,21 @@ natural_history	gamtos istorija		h	study of the origins and evolution of all liv
 natural_resource	gamtos išteklius		h	source of wealth that occurs naturally
 naturally	natūraliai		h	in a natural manner
 naughty	išdykęs		h	bad; tending to misbehave or act badly
+naval	karinio jūrų laivyno		h	of or relating to a navy
 near_east	Artimieji Rytai		h	region in Asia
 nearby	netoliese esantis		h	adjacent
+neat	neskiestas		h	undiluted, particularly of alcoholic drinks
 nebraska	Nebraska		h	US state
 necessarily	būtinai		h	of necessity
+nectar	nektaras		h	drink of the gods
 need	poreikis		h	something required
 negative	neigiamas		h	not positive or neutral; bad; undesirable; unfavourable
+neglect	apleisti		h	fail to care for
 negro	negras		h	offensive: relating to the black ethnicity
 neither	nei vienas		h	not one of two; not either
 nervous	nervinis		h	relating to the nerves
 network	tinklas		h	interconnected group or system
+neutron	neutronas		h	subatomic particle
 nevada	Nevada		h	US state
 nevertheless	vis dėlto		h	in spite of what preceded
 new_jersey	Naujasis Džersis		h	a northeast state of the United States of America
@@ -1829,6 +2429,7 @@ newton	niutonas		h	derived unit of force
 next	kitas		h	nearest date, time, space or order
 next_to	šalia		h	beside; alongside
 nice	malonus		h	pleasant, satisfactory
+niche	niša		h	cavity, hollow, or recess
 nick	įpjova		h	small cut in a surface
 nine_hundred	devyni šimtai		h	cardinal number 900
 ninja	nindzė		h	spy and mercenary in pre-modern Japan
@@ -1837,6 +2438,7 @@ no_longer	nebe		h	not anymore
 no_one	niekas		h	not even a single person
 no_problem	jokių problemų		h	easy
 nobel_prize	Nobelio premija		h	international prize
+nobility	bajorija		h	noble or privileged social class
 noble	didikas		h	aristocrat
 noble_gas	tauriosios dujos		h	element of group 18 of the periodic table
 nobody	menkysta		l	unimportant person
@@ -1844,18 +2446,26 @@ node	mazgas		h	astronomy: where the orbit of a planet intersects the ecliptic
 nomination	nominacija		h	an act or instance of nominating
 non_governmental_organization	nevyriausybinė organizacija		h	organization with no direct government control
 none	nė vienas		h	not any thing
+nonetheless	vis dėlto		h	nevertheless
+nonprofit	ne pelno siekiantis		h	not seeking to produce a profit
 nonsense	nesąmonė		h	meaningless words
+nope	ne		h	informal "no"
 nor	nei		h	nor
+norm	norma		h	that which is normal
 normal	normalus		h	according to norms or rules
 normally	paprastai		h	under normal conditions or circumstances; usually; most of the time
+norman	normanas		h	a person from Normandy
 north_carolina	Šiaurės Karolina		h	state of the United States
 north_dakota	Šiaurės Dakota		h	state of the US
 northern_europe	Šiaurės Europa		h	sociopolitical region of Europe
 not_at_all	visai ne		h	not
 not_yet	dar ne		h	not for the moment, though expected later
+notable	žymus		h	worthy of notice; remarkable
 note	pastaba		h	memorandum
 notice	pastebėjimas		h	act of observing
+notify	pranešti		h	(transitive) to give (someone) notice of (something)
 notion	sąvoka		h	mental apprehension of whatever may be known or imagined; an idea; a conception
+notorious	liūdnai pagarsėjęs		h	generally or widely known for something negative — see also infamous
 novel	naujoviškas		h	new, original, especially in an interesting way
 now	dabartinis		h	present; current
 now_and_then	kartais		h	(idiomatic) sometimes; occasionally; intermittently
@@ -1863,21 +2473,29 @@ nowadays	šiais laikais		h	at the present time; in the current era
 nowhere	niekur		h	to no place
 nuclear	branduolinis		h	involving nuclear energy
 nucleus	branduolys		h	core, central part of something
+numb	nutirpęs		h	physically unable to feel
 number	numeris		h	used to show the rank of something in a list or sequence
 nursery	darželis		h	place where the pre-school children of working parents are supervised during the day — see also nursery school
 nursing	žindanti		h	lactating
-o	o raidė		h	name of the letter O, o
+nuts	pamišęs		h	insane
+o	o		l	a vocative particle
 o_clock	valanda		h	indication of time (the translations below are of "one o’clock")
+obese	nutukęs		h	extremely overweight
 obey	klausyti		h	to do as ordered by
 object	objektas		h	1. thing
 objection	prieštaravimas		h	act of objecting
 objective	objektyvus		h	relating to a material object
+obscure	neryškus		h	dark, faint or indistinct
 observe	laikytis		h	to follow
+obsessed	apsėstas		h	Intensely preoccupied with or by a given topic or emotion; driven by a specified obsession
 obsession	obsesija		h	compulsive or irrational preoccupation — see also idée fixe
+obsolete	pasenęs		h	no longer in use
 obviously	akivaizdžiai		h	in an obvious manner; clearly apparent
 occasion	proga		h	favorable opportunity
+occasional	retkartinis		h	limited to certain occasions; not very often
 occasionally	retkarčiais		h	at relatively infrequent intervals
 occupied	užimtas		h	reserved
+occupy	užimti		h	hold a position
 occur	įvykti		h	take place
 occurrence	atvejis		h	actual instance where a situation arises
 odd	savotiškas		h	strange
@@ -1885,11 +2503,15 @@ odds	šansai		h	the ratio of the probabilities of an event happening to that of 
 odor	kvapas		h	any smell, whether fragrant or offensive; scent; perfume
 of	iš		h	containing, comprising or made from
 off	šalin		h	in a direction away from the speaker or object
+offend	įžeisti		h	to hurt the feelings
 offense	nusižengimas		h	act of offending against the law
 offensive	įžeidžiantis		h	causing offense
 offering	siūlymas		h	act of offering
 officially	oficialiai		h	in an official manner
+offline	neprisijungęs		h	of a system, not connected to a larger network
+offshore	jūrinis		l	located in the sea away from the coast
 oh	o		h	expression of surprise
+oil_tanker	naftos tanklaivis		h	a ship that transports oil (petroleum)
 ok	pritarimas		h	endorsement; approval
 oklahoma	Oklahoma		h	state
 old_age	senatvė		h	latter part of life
@@ -1899,6 +2521,7 @@ older_brother	vyresnysis brolis		h	single-word translations
 older_sister	vyresnioji sesuo		h	single-word translations
 olive_tree	alyvmedis		h	tree that produces olives
 olympic	olimpinis		h	of or pertaining to the Olympic Games
+omega	omega		h	letter of the Greek alphabet
 on	įjungtas		h	in the state of being active, functioning or operating
 on_purpose	tyčia		h	purposely, with intention
 on_the_contrary	priešingai		h	opposite
@@ -1913,19 +2536,29 @@ online	prisijungęs		h	connected to a network
 only	vienintelis		h	1. alone in a category
 only_child	vienturtis		h	person who has no siblings
 onto	ant		h	upon; on top of
+oops	ups		h	acknowledging a minor mistake
+opener	atidarytuvas		h	device that opens something
 opening	pradinis		h	adjective
+openly	atvirai		h	in an open manner, visibly, not covertly
 operate	veikti		l	to perform a work or labour
 operation	veikla		h	method by which a device performs its function
+operational	operatyvinis		l	of or relating to operations, especially military operations
 operator	operatorius		h	one who operates
 opponent	priešininkas		h	one who opposes another
+opposed	priešingas		h	acting in opposition; opposing
 opposite	priešingas		h	facing the other way
+optics	optika		h	physics of light and vision
+optimism	optimizmas		h	a tendency to expect the best
 optimistic	optimistiškas		h	expecting a good outcome
+optional	neprivalomas		h	not compulsory
 orchard	sodas		h	land for cultivation of fruit or nut trees
 ordered	tvarkingas		h	in order, not messy, tidy
 ordinary	heraldinė figūra		l	standard geometric design in heraldics
 oregon	Oregonas		h	northwestern state of the United States of America
 organize	organizuoti		h	to arrange in working order
 organized	organizuotas		h	characterised by efficient organization
+oriental	rytietiškas		h	of or relating to the Orient or Asia, especially the Far East
+orientation	orientacija		h	the act of orienting
 original	pradinis		h	relating to the origin or beginning
 originally	iš pradžių		h	as it was in the beginning
 orthodox	ortodoksinis		h	conforming to accepted, established, or traditional doctrines of a given faith, religion, or ideology
@@ -1943,24 +2576,33 @@ outdoor	lauko		h	situated in the open air
 outer	išorinis		h	outside
 outer_space	kosminė erdvė		h	region
 outfit	apranga		h	set of clothing
+outline	kontūras		h	line marking the boundary of an object figure
 output	produkcija		h	production; quantity produced, created, or completed
+outrage	žiaurumas		l	excessively violent or vicious attack; atrocity
 outside	išorė		h	outer surface
 outstanding	išsiskiriantis		h	standing out from others
 over	pasibaigęs		h	ended
 over_there	ten		h	in that place
 overall	bendras		h	all-encompassing
 overcome	nugalėti		h	to surmount, get the better of
+overhead	viršutinis		h	located above
 overnight	per naktį		h	throughout the night
 overseas	užjūrio		h	abroad
+overtime	viršvalandžiai		h	worktime
 overview	apžvalga		h	brief summary, as of a book or a presentation
+overwhelming	didžiulis		h	overpowering
 owe	skolėti		h	to be under an obligation
 own	savas		h	belonging to (determiner)
 ownership	nuosavybė		h	legal status
 oxide	oksidas		h	binary compound of oxygen
 p	puslapis		h	page
 p_m	po pietų		h	after noon
+pa	tėtis		h	father
 pace	žingsnis		h	step: step
 pacific	taikus		h	calm, peaceful — see also calm, peaceful
+packed	supakuotas		h	put into a package
+pad	pagalvėlė		h	flattened mass of anything soft
+paddle	irklas		h	two-handed, single-bladed oar
 pagan	pagoniškas		h	relating to non-main world religions
 paid	mokamas		h	not free of charge
 pale	blyškus		h	light in color
@@ -1970,6 +2612,7 @@ pan	keptuvė		h	flat vessel used for cooking — see also frying pan
 panda	panda		h	Ailuropoda melanoleuca — see also giant panda
 panel	plokštė		h	rectangular section of a surface
 panic	panikinis		h	of fear, fright, etc.: overwhelming or sudden
+panther	pantera		h	big cat with black fur
 papers	dokumentai		h	official documents or identification
 parallel	lygiagretus		h	equally distant from one another at all points
 pardon	atleidimas		h	forgiveness for an offence
@@ -1977,6 +2620,7 @@ parliamentary	parlamentinis		h	of, relating to, or enacted by a parliament
 partially	dalinai		h	to a partial degree
 particular	konkretus		h	specific; discrete; concrete
 particularly	ypač		h	especially
+partition	padalijimas		h	action which divides a thing into parts, or separates one thing from another
 partly	iš dalies		h	in part
 partnership	partnerystė		h	state of being associated with a partner
 pass	praeiti		h	to go by, over, or through
@@ -1987,13 +2631,19 @@ passion	Kristaus kančia		h	suffering of Jesus
 passion_fruit	marakuja		h	edible fruit
 passionate	aistringas		h	fired with intense feeling
 paste	pasta		h	a soft mixture
+pastry	kepiniai		h	food group
+pat	paglostymas		h	light tap or slap
+paternal_aunt	tėvo sesuo		h	the sister or sister-in-law of someone's father
+paternal_uncle	dėdė		h	brother of one's father
 pathetic	apgailėtinas		h	arousing pity, sympathy, or compassion
+pathology	patologija		h	branch of medicine
 patient	kantrus		h	not losing one's temper while waiting
 patriotism	patriotizmas		h	love of one's own country
 pause	padaryti pertrauką		h	to take a temporary rest or break
+pavilion	paviljonas		h	ornate tent
 pawn	įkeistas daiktas		h	item sold to a pawn shop
 pay_attention	kreipti dėmesį		h	to be attentive
-pc	vienetas		l	piece
+pc	asmeninis kompiuteris		h	initialism of personal computer
 pea	žirnis		h	edible seed
 peaceful	taikus		h	not at war or disturbed by strife or turmoil
 peak	viršūnė		h	mountain top
@@ -2002,28 +2652,43 @@ pee	šlapimas		h	urine
 peel	lupti		h	to remove skin
 peer	įsižiūrėti		h	to look with difficulty or as if searching
 pen	gardas		h	enclosure (enclosed area) for animals
+pencil_sharpener	drožtukas		h	device used to sharpen pencils
 pentagon	penkiakampis		h	a polygon with five sides and five angles
 people_s_republic	liaudies respublika		h	self-designation of states with Marxist-Leninist governments
 pepper	pipiras		h	plant
 per	per		h	for each
+perceive	suvokti		h	to become aware of
 percentage	procentas		h	part of a whole
 perception	suvokimas		h	conscious understanding of something
+perch	ešerys		h	fish of the genus Perca
 perfection	tobulumas		h	being perfect
 perfectly	tobulai		h	with perfection
 perform	atlikti		h	transitive: to do (something)
 performance	atlikimas		h	the act of performing; carrying into execution or action; accomplishment
+perimeter	perimetras		h	sum of the distance of all the lengths of the sides of an object
 permanent	nuolatinis		h	without end
+permanently	visam laikui		h	in a permanent manner
 permit	leisti		h	transitive: allow something to happen
+perry	kriaušių sidras		h	Beverage from pears
+persecution	persekiojimas		h	the act of persecuting
+persistent	atkaklus		h	refusing to give up
 personal	asmeninis		h	of or pertaining to a particular person
 personally	asmeniškai		h	in a personal manner
 personnel	personalas		h	members of an organization
 perspective	perspektyva		h	view, vista or outlook
+perth	Pertas		h	city in Western Australia
 peter	pimpalas		h	slang: penis — see also penis
 petition	peticija		h	formal, written request made to an official person
+petty	smulkmeniškas		h	of persons or their behaviour: marked by or reflective of undesirably limited interests, sympathies, or views; preoccupied with subjects having little or no imp
+pharmaceutical	farmacinis		h	of, or relating to pharmacy or pharmacists
 phenomenon	reiškinys		h	observable fact or occurrence
+philosophical	filosofinis		h	of or pertaining to philosophy
 photo	fotografuoti		h	to take a photograph
+photon	fotonas		h	quantum of light
 physical	fizinis		h	having to do with the material world; tangible
+physically	fiziškai		h	in a physical manner
 pi	pi		h	letter of Greek alphabet
+pianist	pianistas		h	person who plays the piano
 pick	kirtiklis		l	pickaxe
 pickle	marinuota daržovė		h	any vegetable preserved in vinegar and consumed as relish
 pierce	pradurti		h	to puncture — see also puncture, perforate
@@ -2034,11 +2699,14 @@ pioneer	pionierius		h	one who goes before
 pip	pypsė		l	respiratory disease in birds
 pipe	dūdelė		h	type of wind instrument
 piss	šlapimas		h	urine
+pissed	girtas		h	drunk
+piston	stūmoklis		h	solid disk or cylinder that fits inside a hollow cylinder
 pit	duobė		h	hole in the ground
 pitch	derva		h	sticky, gummy substance secreted by trees
 pitch_black	juodas kaip smala		h	of the blackest black
 pitcher	padavėjas		l	the player who throws the ball to the batter
 pity	gailestis		h	feeling of sympathy
+pixel	pikselis		h	one of the tiny dots that make up the representation of an image in a computer's memory
 plain	paprastas		h	ordinary; lacking adornment or ornamentation
 plan	brėžinys		h	technical drawing
 plane	plokščias		h	of a surface: flat or level.
@@ -2056,16 +2724,22 @@ plenty	gausa		h	a more-than-adequate amount
 plot	siužetas		h	course of a story
 plural	daugiskaitinis		h	more than one
 plus	plius		h	arithmetic: sum
+po	Po		h	longest river in Italy
 point	kablelis		h	arithmetic: decimal point (note: many languages use a comma (',') rather than a dot as a decimal point, and hence the translations into these languages reflect 
 point_of_view	požiūris		h	position from which something is seen; outlook; standpoint
 pointed	smailus		h	sharp at one end
+pointer	rodyklė		h	anything that points or is used for pointing
 points	iešmai		h	movable rails used to switch a train from one track to another
 poisoning	nuodijimas		h	administration of a poison
+poisonous	nuodingas		h	containing sufficient poison to be dangerous
 poker	žarsteklis		h	metal rod for poking
+polar	poliarinis		h	relating to a geographic pole
 pole	stulpas		h	long and slender object for construction or support
 polish	blizgiklis		l	substance used to polish
 political	politinis		h	concerning or relating to politics
+politically	politiškai		h	in a political manner
 poll	apklausa		h	a survey of a particular group — see also survey
+polymer	polimeras		h	molecule
 pool	bala		h	body of water
 poop	kakoti		h	childish: to defecate
 pop	gazuotas gėrimas		h	soda pop
@@ -2075,38 +2749,56 @@ porn	pornografija		h	pornography
 portable	nešiojamas		h	able to be carried or moved
 portal	portalas		h	entry point
 porter	nešikas		h	person who carries luggage
+portfolio	portfelis		h	case for carrying papers etc.
+portmanteau_word	žodžių kratinys		l	word which combines the meaning of two words
 pose	pozuoti		h	1. (transitive) To place in an attitude or fixed position, for the sake of effect.
 positive	pozityvinis		l	legal: formally laid down
 possess	turėti		h	to have (something) as, or as if as, an owner
 possession	apsėdimas		h	the state of being possessed by a spirit or demon
 possibly	galbūt		h	adverb indicating that an action may successfully be performed
+postal	pašto		h	relating to mail
 poster	plakatas		h	picture intended to be attached to a wall
 pot	puodas		h	vessel for cooking or storing food etc.
 potential	potencialas		h	currently unrealized ability
+potentially	potencialiai		h	in a manner showing much potential; with the possibility of happening in a given way
 pottery	keramika		h	fired ceramic wares that contain clay when formed
 power	galia		h	physics: measure of the rate of doing work or transferring energy
 power_supply	maitinimo blokas		h	part of electronic apparatus
 powerful	galingas		h	having or capable of exerting power, potency or influence
+pp	psl.		h	pages
 practical	praktiškas		h	based on practice or action rather than theory or hypothesis
+practically	praktiškai		h	In practice, in effect
 practice	pratybos		h	repetition of an activity to improve skill
+practise	lavintis		h	to repeat an activity as a way of improving one's skill
 praise	pagyrimas		h	commendation; favorable representation in words
 prank	išdaiga		h	practical joke or mischievous trick
+prayer_beads	rožančius		h	string of beads — see also rosary
+preach	sakyti pamokslą		h	give a sermon
+precedent	precedentas		h	past act used as example
+precipitation	krituliai		h	weather: water falling from the atmosphere
 precisely	tiksliai		h	in a precise manner
+precision	tikslumas		h	the state of being precise or exact; exactness
+predecessor	pirmtakas		h	one who precedes
 predict	numatyti		h	to state, or make something known in advance
 prediction	prognozė		h	a statement about the future
 prefer	teikti pirmenybę		h	to favor
+preferred	pageidaujamas		h	Translations
 premier	pirmaujantis		h	foremost, very first or very highest in quality or degree
 premiere	premjera		h	first showing of a film, play or other form of entertainment
+premise	prielaida		h	proposition antecedently supposed or proved
 premium	aukščiausios kokybės		h	Translations
 preparation	paruošimas		h	act of preparing
 prepared	pasirengęs		h	ready, willing
 present	dabartinis		h	pertaining to the current time
+preservation	išsaugojimas		h	the act of preserving
 preserve	uogienė		h	sweet spread
 presidency	prezidentūra		h	office or role of president
 presidential	prezidentinis		h	pertaining to a president or presidency
+presumably	tikriausiai		h	able to be sensibly presumed
 pretend	apsimesti		h	1. (intransitive or with 'that' clause or 'to' infinitive) To speak or behave so as to give a false or simulated appearance.
 prevent	užkirsti kelią		h	to keep from happening — see also forestall, avert, ward off, impede
 prevention	prevencija		h	The act of preventing or hindering
+preview	peržiūra		h	foretaste of something
 previously	anksčiau		h	at an earlier time
 prey	grobis		h	that which may be seized by animals
 pride	pasididžiavimas		h	quality or state of being proud; inordinate self-esteem; an unreasonable conceit of one's own superiority in talents, beauty, wealth, rank etc.
@@ -2114,6 +2806,7 @@ primarily	pirmiausia		h	of a primary or central nature
 primary	pirminis		h	first in a group or series
 prime	pirmaeilis		h	first in importance, degree, or rank
 principal	pagrindinis		h	primary, main
+printed	išspausdintas		h	written or published
 printer	spaustuvininkas		h	operator of a printing press
 printing	spausdinimas		h	the process or business of producing printed material — see also typography
 prior	ankstesnis		h	coming before in importance, order, or time — see also earlier, former, previous, anterior, antecedent, precedent
@@ -2123,49 +2816,77 @@ private	privatus		h	belonging to, concerning, or accessible only to an individua
 privilege	privilegija		h	particular benefit, advantage, or favor
 pro	privalumas		h	advantage of something
 probability	tikimybė		h	state of being probable; likelihood
+probable	tikėtinas		h	likely to be true
 probably	tikriausiai		h	in all likelihood
 probe	zondas		h	surgery: any of various medical instruments used to explore wounds, organs, etc
 procedure	procedūra		h	method for performing a task
+proceed	tęsti		h	go ahead
 processing	apdorojimas		h	action of the verb to process
 producer	gamintojas		h	in economics
 productive	produktyvus		h	capable of producing something
+productivity	produktyvumas		h	state of being productive
 professional	profesionalas		h	person who belongs to a profession
 profile	profilis		h	outermost shape
 profitable	pelningas		h	producing profit
+profound	gilus		h	descending below the surface
 progressive	pažangus		h	favouring or promoting progress; advanced
+projection	projekcija		h	something which projects
 prominent	iškilus		h	projecting, protuberant
+promised	pažadėtas		h	predicted; expected
+promising	daug žadantis		h	showing promise, and likely to develop in a desirable fashion
 promote	paaukštinti		h	raise someone to a more important, responsible, or remunerative job or rank
 promotion	paaukštinimas		h	advancement in position
 prompt	greitas		h	quick
+prop	atrama		h	object placed against or under another, to support it
 proper	deramas		h	fit, suitable
 properly	tinkamai		h	in a proper manner
 property	nekilnojamasis turtas		h	piece of real estate
 prophecy	pranašystė		h	prediction
 proportion	dalis		h	quantity that is part of the whole
+proposition	pasiūlymas		h	idea or plan offered
+prosecution	baudžiamasis persekiojimas		h	the institution of legal proceedings against a person
 prospect	vaizdas		h	region which the eye overlooks at one time
 prosperity	klestėjimas		h	condition of being prosperous
 prostitution	prostitucija		h	having sex for profit
+protagonist	pagrindinis veikėjas		h	main character
 protected	apsaugotas		h	defended
+protective	apsauginis		h	serving, intended or wishing to protect
 protest	protestuoti		h	to make a strong objection
 protestant	protestantas		h	someone who is a member of such a denomination
 protocol	protokolas		h	rule, guideline etc which guides diplomatic behaviour
+proton	protonas		h	positively charged nucleon
+prototype	prototipas		h	original form or object which is a basis for other forms or objects
 proud	didžiuojantis		h	gratified, feeling honoured, feeling satisfied
 prove	įrodyti		h	to demonstrate that something is true; to give proof for
+proven	įrodytas		h	having been proved
 provide	aprūpinti		h	transitive: to give what is needed or desired
 provided	jei tik		h	only if
+provider	teikėjas		h	provider
+provincial	provincijos		h	of or pertaining to a province
 provision	atsarga		h	item of goods or supplies obtained for future use
+proximity	artumas		h	closeness; the state of being near as in space, time, or relationship
+proxy	tarpinis		l	used as, or acting as, a proxy
 psychological	psichologinis		h	of or pertaining to psychology
 psychologist	psichologas		h	expert in the field of psychology
+puberty	brendimas		h	age at which a person is first capable of sexual reproduction
 public	viešas		h	open to all members of a community, as opposed to only a segment of it
 public_opinion	visuomenės nuomonė		h	opinion of the public
 publication	paskelbimas		h	act of publishing
+publicity	viešumas		h	advertising or other activity designed to rouse public interest in something
 publicly	viešai		h	in an open and public manner — see also in public
 publish	išleisti		h	to issue something (usually printed work) for sale and distribution
 publisher	leidėjas		h	one who publishes, especially books — see also publishing house
+publishing	leidyba		h	the industry of publishing
+pudding	pudingas		h	boiled or steamed cake or dessert
+pulled	plėšytas		l	of fine pieces of cooked meat torn from the bone.
+pun	žaisti žodžiais		h	to make or tell a pun
+punching_bag	bokso kriaušė		h	tough bag punched or kicked when practising sports such as boxing or martial arts
+punctuation_mark	skyrybos ženklas		h	symbol used in writing
 punk	pankas		h	short form of punk rock
 puppy	šuniukas		h	young dog
 purchase	pirkimas		h	the acquisition of title to, or property in, anything for a price
 pure	tyras		h	free of flaws or imperfections
+purity	grynumas		h	the state of being pure
 purple	violetinė		h	colour
 purpose	tikslas		h	intention
 purse	piniginė		h	small bag for carrying personal items
@@ -2177,13 +2898,16 @@ pussy	katytė		h	informal: affectionate term for a cat
 q	dama		h	playing card
 quail	pabūgti		h	to shrink or waver; to become fearful or doubtful
 qualified	kvalifikuotas		h	meeting requirements
+qualify	apibūdinti		h	to describe or characterize something by listing its qualities
 quality	kokybė		h	characteristics or the set thereof
 quantum	kvantas		h	quantity
 quantum_number	kvantinis skaičius		h	number that specifies the state of a quantum mechanical system
 quantum_state	kvantinė būsena		h	any of the possible states of a quantum mechanical system
+quarterly	ketvirtinis		h	occurring once every quarter year
 quebec	Kvebekas		h	province
 queen_bee	bičių motinėlė		h	reproductive female bee
 queensland	Kvinslandas		h	Australian state
+queer	kvyras		l	slang: of sexual or gender minorities
 quest	paieška		h	journey or effort in pursuit of a goal
 question_mark	klaustukas		h	punctuation mark
 queue	eilė		h	line of people
@@ -2194,16 +2918,23 @@ quite	visiškai		h	to the greatest extent; completely
 ra	Ra		h	Egyptian god of the Sun
 racial	rasinis		h	of or relating to a race (or a people)
 racing	lenktynės		h	the sport of competing in races
+rack	stelažas		h	series of shelves
 radiation	spinduliavimas		h	shooting forth of anything from a point or surface
 radical	šakninis		h	1. pertaining to the root (of a plant)
 radius	stipinkaulis		h	bone (human)
 rail	turėklas		h	horizontal bar; railing
 rainy_season	lietaus sezonas		h	portion of the year when rainfall amounts are greatest
 raise	pakelti		h	to cause to rise
+ranch	ranča		h	large plot of land
 random	niekas		l	unimportant person
 range	grandinė		h	line of mountains, buildings etc.
 rank	smirdantis		h	having a very strong and bad odor
+ranking	turintis rangą		l	having a specified rank
 rapid	spartus		h	Very swift or quick
+rapidly	sparčiai		h	with speed
+rapist	prievartautojas		h	one who has commited rape
+rapper	reperis		h	performer of rap music, or one who raps
+rash	neapgalvotas		h	acting too quickly without considering the consequences and risks — see also hasty, crazy, impulsive, inconsiderate, precipitate, imprudent, precipitous
 rate	norma		h	the proportional relationship between one amount, value etc. and another
 rates	nekilnojamojo turto mokestis		h	a local government tax on property
 rather	verčiau		h	preferably
@@ -2211,24 +2942,32 @@ rating	reitingas		h	evaluation of status
 ratio	santykis		h	number representing comparison
 rational	racionalus		h	capable of reasoning
 raw_material	žaliava		h	material in its unprocessed, natural state
+razor_blade	skutimosi peiliukas		h	razor blade
 re	dėl		h	regarding
 reach	pasiekti		h	to arrive at by effort
+react	reaguoti		h	to act in response
 real	tikras		h	true, genuine, not merely nominal
 real_number	realusis skaičius		h	limit of a convergent sequence of rational numbers
+realism	realizmas		h	concern for fact or reality
 realistic	realistiškas		h	expressed or represented as being accurate
 realm	karalystė		h	territory or state
+reap	pjauti		h	to cut with a sickle or other implement
 rear	auginti		h	to bring up to maturity
 reasonable	pagrįstas		h	just; fair; agreeable to reason
+reasoning	samprotavimas		h	deduction of inferences or interpretations
 recall	atšaukti		h	to order the return of (faulty product)
 recently	neseniai		h	in the recent past
 reception	registratūra		h	front desk
 reckless	neapgalvotas		h	careless or heedless; headstrong or rash
 recognition	pripažinimas		h	the act of recognizing or the condition of being recognized
 recognize	atpažinti		h	to match in memory; to know from a previous encounter
+recognized	pripažintas		h	notable, distinguished, honored
 reconstruction	rekonstrukcija		h	act of restoring
+recorded	įrašytas		h	that has been fixed into a physical medium
 recover	atgauti		h	transitive: to get back, regain
 recovery	susigrąžinimas		h	act or process of regaining or repossession of something lost
 recreation	poilsis		h	activity that diverts, amuses or stimulates
+recycling	perdirbimas		h	the practice of sorting and collecting waste materials for new use
 red_blood_cell	raudonasis kraujo kūnelis		h	haemoglobin-carrying blood cell in vertebrates — see also erythrocyte
 red_card	raudonoji kortelė		h	sports: card
 red_carpet	raudonasis kilimas		h	a strip of red carpet laid for a VIP
@@ -2237,6 +2976,7 @@ reduce	sumažinti		h	to bring down the size, quantity, quality, value or intensi
 reduced	sumažintas		h	made smaller, less
 reduction	sumažinimas		h	act, process, or result of reducing
 reef	rifas		h	rocks at or near surface of the water
+reel	ritė		h	spool
 refer	nukreipti		h	to direct to a source for help or information
 referee	teisėjas		h	sport: umpire, judge of a game
 reference	nuoroda		h	academic writing: identification of a source
@@ -2244,6 +2984,7 @@ reflect	atspindėti		h	to bend back from a surface
 reflection	atspindys		h	act of reflecting; the state of being reflected
 refrain	susilaikyti		h	(intransitive) to abstain (from) — see also abstain, contain oneself, retain, inhibit
 refuge	prieglobstis		h	state of safety, protection or shelter
+refund	grąžinti		h	to return (money) to (someone)
 refuse	šiukšlės		h	items or material that have been discarded
 regard	dėmesys		h	concern for another
 regarding	kalbant apie		h	concerning
@@ -2259,16 +3000,22 @@ regular	reguliarus		h	having a constant pattern
 regularly	reguliariai		h	with constant frequency
 regulation	reglamentas		h	law or administrative rule
 reign	valdymas		h	the exercise of sovereign power
+rejection	atmetimas		h	act of rejecting
+relate	pasakoti		h	to tell in a descriptive manner
 related	susijęs		h	standing in relation or connection
 relation	sąryšis		h	mathematics: set of ordered tuples, a Boolean function of two or more arguments
 relative	santykinis		h	conditional; depending on something else
 relatively	santykinai		h	proportionally
 relax	atpalaiduoti		h	(transitive) to make something loose
+relaxation	atsipalaidavimas		h	act of relaxing or the state of being relaxed
+relaxed	atsipalaidavęs		h	having an easy-going mood
 release	išlaisvinimas		h	event of setting free
 relevant	aktualus		h	directly related, connected, or pertinent to a topic
+reliability	patikimumas		h	quality of being reliable
 reliable	patikimas		h	fit to be relied on
 relief	palengvėjimas		h	removal of stress or discomfort
 religious	religinis		h	concerning religion
+reluctant	nenorintis		h	not wanting to take some action
 rely	pasikliauti		h	rest with confidence
 remain	likutis		h	that which is left; relic; remainder
 remainder	liekana		h	mathematics: amount left over after repeatedly subtracting the divisor
@@ -2278,19 +3025,25 @@ remarkable	nepaprastas		h	worthy of being remarked
 remedy	priemonė		l	something that corrects or counteracts
 remind	priminti		h	cause one to experience a memory; bring to a person's notice
 reminder	priminimas		h	something that reminds
+remix	remiksas		h	rearrangement of an older piece of music
 remote	nutolęs		h	at a distance
 removal	pašalinimas		h	the process of moving, or the fact of being removed
 renaissance	Renesansas		h	14th-century revival
+render	padaryti		h	to cause to become
+renovation	renovacija		h	act or process of renovating
+renowned	garsus		h	famous
 rent	nuoma		h	payment made for the use of equipment or a service
 repair	remontuoti		h	to restore to good working order
+repeated	pakartotas		h	said or done again
 repeatedly	pakartotinai		h	done several times
 replace	pakeisti		h	to supply or substitute an equivalent for
 replacement	pakaitalas		h	a person or thing that takes the place of another; a substitute
 reply	atsakyti		h	to give a written or spoken response
 report	pranešti		h	to relate details of
+reporting	ataskaitų rengimas		h	creation of reports
 representation	atvaizdavimas		h	that which represents something else
 representative	reprezentatyvus		h	typical
-republican	respublikinis		h	favoring a republic as form of government, favoring republicanism
+republican	respublikonų		h	pertaining to the Republican Party
 require	reikalauti		h	to demand of (someone)
 requirement	reikalavimas		h	necessity
 research	tyrimas		h	inquiry or examination
@@ -2299,15 +3052,21 @@ reserve	atsarga		h	that which is reserved or kept back, as for future use
 reserved	santūrus		h	slow to reveal emotion or opinions
 reservoir	rezervuaras		h	place where anything is kept in store
 residence	gyvenamoji vieta		h	place where one lives
+residential	gyvenamasis		h	of or pertaining to a place of personal residence
 resist	pasipriešinti		h	to withstand actions or effects of
 resolution	rezoliucija		h	statement of intent
+respective	atitinkamas		h	referencing two or more things as individuals
 respectively	atitinkamai		h	in a relative manner
 rest_in_peace	ilsėkis ramybėje		h	blessing or expression of hope
 restoration	restauravimas		h	the process of bringing an object back to its original state
 restore	atkurti		h	to bring back to a previous condition or state
+restrict	apriboti		h	to restrain within bounds
+restricted	apribotas		h	limited within bounds
 result	išplaukti		l	to proceed, spring, or rise, as a consequence
+resulting	atsirandantis		l	of something that follows as the result of something else
 resume	atnaujinti		h	(transitive) start something again that has been stopped or paused
 retail	mažmeninė prekyba		h	sale of goods directly to the consumer
+retain	išlaikyti		h	to keep (something) in control or possession; to continue having (something)
 retire	išeiti į pensiją		h	to stop working on permanent basis
 retired	išėjęs į pensiją		h	having left employment
 retirement	išėjimas į pensiją		h	act of retiring, or the state of being retired
@@ -2317,60 +3076,90 @@ revelation	apreiškimas		h	the act of revealing or disclosing
 reverse	atvirkštinis		h	causing movement in the opposite direction
 review	peržiūra		h	second or subsequent reading of a text or artifact
 revolt	sukilti		h	to rebel — see also rebel, rise up
+rhode_island	Rodo Islandas		h	a state of the United States of America
 rhyme	rimas		h	verse, poetry
 rich_man	turtuolis		h	a male person who is rich
+rick	kupeta		h	stack or pile, of straw, hay etc.
 rid	atsikratyti		h	to free (oneself or someone, or a place) from an annoyance or hindrance
 ridge	kraigas		h	line along which two sloping surfaces meet
 ridiculous	juokingas		h	foolish, absurd
 right_angle	status kampas		h	angle of 90 degrees
 right_now	dabar pat		h	at this precise moment
+rigid	nelankstus		h	rigorous, unbending
 ring	žiedas		h	circumscribing object
 ring_finger	bevardis pirštas		h	finger between the middle finger and little finger
 rio_de_janeiro	Rio de Žaneiras		h	municipality
 rip	plėšyti		h	to divide or separate the parts of
 ripe	prinokęs		h	ready for reaping or gathering, of fruits and seeds
 rising	sukilimas		h	rebellion
+risky	rizikingas		h	dangerous, involving risks
 ritual	ritualinis		h	related to a rite
+rivalry	varžymasis		h	competition
 roar	riaumoti		h	of animals, to make a loud deep noise
 roast	kepti		h	to cook food by heating in an oven or fire
 robbery	plėšimas		h	act or practice of robbing
+robust	tvirtas		h	evincing strength
 rock	uola		h	natural mineral aggregate
+rock_paper_scissors	akmuo, popierius, žirklės		h	popular child's game
 rocking_chair	supamoji kėdė		h	chair with a curved base which can be gently rocked
 rocky	uolėtas		h	abounding in, or full of, rocks
 rod	strypas		h	straight round stick, shaft, or bar
 roger	priimta		h	received
 rogue	nenaudėlis		h	a scoundrel, rascal or unprincipled, deceitful, and unreliable person
 roll	ridenti		h	to cause something to revolve by turning over and over
+roller	volelis		h	tool for applying paint or ink
+rolling	riedantis		h	moving by turning over repeatedly
+roma	romai		h	the Romani people
 roman	tiesus		l	upright
-romance	meilės ryšys		l	intimate relationship, love affair
+romance	romanų kalbos		l	group of languages and cultures which are derived from Vulgar Latin
 romantic	romantiškas		h	concerned with, or conducive to, romance and love
+rookie	naujokas		h	inexperienced recruit in military or police
 room	kambarys		h	space
+roommate	kambario draugas		h	a person with whom one shares a room
 rosemary	rozmarinas		h	shrub
+roster	sąrašas		h	a list of names
 rotation	sukimasis		h	act of turning around a centre
 rotten	supuvęs		h	decayed, gone bad
+roughly	apytiksliai		h	in a rough manner
+roundabout	aplinkinis		h	circuitous
 routine	rutina		h	course of action to be followed regularly; a standard procedure
 row	eilė		h	line of objects
 royal_family	karališkoji šeima		h	family of the ruling sovereign of a country or state
+royalty	karališkumas		l	rank, status, etc. of a monarch
 rub	trynimas		h	act of rubbing
+rubbish	nesąmonė		h	nonsense
+rue	atgaila		h	repentance, regret
+ruling	valdantis		h	that rules
 running	bėgantis		h	moving by running
 runs	viduriavimas		h	diarrhea
 rush	veržimasis		h	sudden forward motion
 russian_doll	matrioška		h	wooden doll
+rusty	surūdijęs		h	affected by rust
+sabbath	šabas		h	Saturday (Judaism)
 safari	safaris		h	a trip into any undeveloped area
+safely	saugiai		h	in a safe manner
 safety_pin	saugos segtukas		h	pin in the form of a clasp
 saffron	šafranas		h	plant
+saga	saga		h	Old Norse Icelandic prose
 sage	išmintingas		h	wise
 said	minėtas		h	mentioned earlier
 sailing	plaukiantis		h	travelling by ship
 sailing_ship	burlaivis		h	type of ship
+saint_kitts_and_nevis	Sent Kitsas ir Nevis		h	a country in the Caribbean
+saint_lucia	Sent Lusija		h	country in the Caribbean
 sake	labas		l	cause, interest or account
+salaam_alaikum	salam aleikum		h	peace be upon you (Muslim greeting)
+salon	salonas		h	large room
 same	tas pats		h	not different as regards self; identical
+samoa	Samoa		h	Independent State of Samoa
 sample	mėginys		h	part taken for inspection
 samsung	Samsung		h	South Korean conglomerate company
 san	san		h	letter of the Archaic Greek alphabet
 sanction	sankcija		h	approval, by an authority, that makes something valid
 sanctuary	prieglobstis		h	place of safety or protection
 sap	sula		h	juice of plant
+sarah	Sara		h	Translations
+sarcasm	sarkazmas		h	derision, facetiousness
 sat	šeštadienis		h	abbreviation of Saturday
 satellite	palydovas		h	a body orbiting a larger one
 satisfied	patenkintas		h	in a state of satisfaction
@@ -2380,7 +3169,10 @@ savage	laukinis		h	wild, not cultivated
 save	išgelbėti		h	to help someone to survive, or rescue someone
 saving	sutaupymas		h	reduction in cost
 saying	patarlė		h	proverb or maxim
+scam	sukčiavimas		h	fraudulent deal
 scan	skenuoti		h	create an image of something with the use of a scanner
+scandinavian_peninsula	Skandinavijos pusiasalis		h	peninsula in Northern Europe — see also Scandinavia
+scanner	skaitytuvas		h	device which scans documents
 scare	išgąstis		h	minor fright
 scared	išsigandęs		h	afraid, frightened
 scarlet	skaisčiai raudona		h	colour
@@ -2391,38 +3183,58 @@ scent	kvapas		h	distinctive odour or smell
 scheme	planas		h	systematic plan of future action
 scholar	mokslininkas		h	specialist in a particular branch of knowledge
 science	mokslas		h	particular discipline or branch of learning
+scoop	samtis		h	any cup- or bowl-shaped object
 scope	apimtis		h	breadth, depth or reach of a subject; extent of applicability or relevance
 score	rezultatas		h	number of points earned
+scotch	žemumų škotų kalba		l	Lowland Scots language
+scots	škotų kalba		l	Lowland Scots language
 scrap	gabaliukas		h	small piece, fragment
 scratch	subraižyti		h	rub a surface with a sharp object
 scream	riksmas		h	loud exclamation
+screenplay	scenarijus		h	script for a movie or a television show
+screenshot	ekrano kopija		h	image of computer screen output
 script	rankraštis		l	writing; written document
 sea_horse	jūrų arkliukas		h	fish
+seafood	jūros gėrybės		h	fish, shellfish, seaweed and other edible aquatic life
 search_engine	paieškos sistema		h	application that searches for data
 seat_belt	saugos diržas		h	restraining belt
 seattle	Sietlas		h	city in the state of Washington, USA
+secondly	antra		h	in the second place
 seconds	pakartotinė porcija		h	second serving
 secretly	slapta		h	in a secret manner
 section	skyrius		h	part, piece or subdivision of anything
 secular	pasaulietinis		h	not specifically religious
+sedimentary_rock	nuosėdinė uoliena		h	one of the major groups of rock that makes up the crust of the Earth
 see_you_later	iki pasimatymo		h	goodbye
 seeing	regintis		h	having vision; not blind
+seeking	ieškantis		h	that seeks something specified
 seem	atrodyti		h	to appear
 segment	atkarpa		h	length of some object
+seize	sučiupti		h	deliberately take hold of, grab
+seizure	konfiskavimas		l	act of taking possession, as by force or right of law
 select	rinktinis		h	privileged, specially selected
 selected	pasirinktas		h	that have been selected or chosen
 selection	atranka		h	process or act of selecting
 self_defense	savigyna		h	means of defending oneself from attack
 selling	pardavimas		h	action of the verb "to sell"
+semi	pusiau		l	semi-erection
+seminar	seminaras		h	class held for advanced studies
 semitic	semitų		h	pertaining to the Semitic subdivision of Afroasiatic languages
 senior	vyresnysis		h	older
+sensible	protingas		h	acting with or showing good judgement
 sensitive	jautrus		h	responsive to stimuli
+sensitivity	jautrumas		h	the ability of an organism or organ to respond to external stimuli
+sensor	jutiklis		h	device or organ that detects certain external stimuli
 separate	atskirti		h	to disunite, disconnect
+separated	atskirtas		h	detached; not connected or joined
 separately	atskirai		h	in a separate manner
 separation	atskyrimas		h	act of disuniting two or more things
+sequel	tęsinys		h	a narrative written after another narrative set in the same universe
 sequence	seka		h	set of things in a set order
+serial	serijinis		h	Having to do with or arranged in a series
 serious	rimtas		h	without humor or expression of happiness
 seriously	rimtai		h	in a serious or literal manner
+serum	serumas		h	yellowish fluid obtained from blood
 serve	tarnauti		h	to work for
 serving	porcija		h	portion of food
 sesame	sezamas		h	plant
@@ -2430,6 +3242,7 @@ set	padėti		h	to put something down
 setting	aplinka		h	circumstance in which something is set
 settle	apsigyventi		h	to fix one's dwelling
 settlement	gyvenvietė		h	newly established colony
+setup	įranga		h	Equipment designed for a particular purpose; an apparatus
 seven_deadly_sins	septynios mirtinos nuodėmės		h	the seven cardinal sins
 seven_hundred	septyni šimtai		h	cardinal number 700
 seventy_five	septyniasdešimt penki		h	75
@@ -2437,39 +3250,53 @@ seventy_one	septyniasdešimt vienas		h	71
 seventy_two	septyniasdešimt du		h	72
 several	keletas		h	consisting of a number more than two, but not very many
 severe	sunkus		h	very bad or intense
+sewer	kanalizacija		h	pipes used to remove human waste and to provide drainage
 sex_education	lytinis švietimas		h	sex education
+sexism	seksizmas		h	discrimination based on sex or gender
 sexual	lytinis		h	of or relating to having sex
 sexual_assault	seksualinė prievarta		h	sexual assault
 sexual_reproduction	lytinis dauginimasis		h	process whereby a new organism created by combining the genetic material of two organisms
 sexuality	seksualumas		h	that which is characterized or distinguished by sex
+sexually	lytiškai		h	with respect to intercourse
 sexy	seksualus		h	having sexual appeal
 shade	pavėsis		h	darkness where light is blocked
 shaft	kotas		h	long narrow body of spear or arrow
 shake	purtyti		h	transitive: to cause to move
 shall	bus		l	indicating the simple future tense
+shaman	šamanas		h	spiritual or religious medium between the concrete and spirit worlds
 shame	gėda		h	uncomfortable or painful feeling
+shaped	suformuotas		h	having been given a shape
 shared	bendrai naudojamas		h	used by multiple agents
 sharing	dalijimasis		l	a common point
+shear	kirpti		h	to remove the fleece from a sheep
 shed	numesti		l	to part or divide
 sheer	permatomas		h	very thin or transparent
 sheikh	šeichas		h	leader of an Arab village, family or small tribe
 shell	lukštas		h	hard covering of an egg
+shiny	blizgantis		h	reflecting light
 shipping	krovinių gabenimas		h	transportation of goods
+shitty	šūdinas		h	very bad, miserable
 shock	smūgis		h	sudden, heavy impact
+shocked	šokiruotas		h	surprised, startled, confused
 shocking	šokiruojantis		h	inspiring shock; startling
 shooting	veriantis		h	of a pain: sudden and darting
 shooting_star	krintanti žvaigždė		h	meteor
 shopping_cart	pirkinių vežimėlis		h	conveyance used to carry items while shopping
 short_circuit	trumpasis jungimas		h	unintentional connection
 shortage	trūkumas		h	lack or deficiency
+shortcut	trumpesnis kelias		h	path
 shortly	netrukus		h	in a short or brief time or manner
+shortness_of_breath	dusulys		h	dyspnea
 shot	nusidėvėjęs		h	worn out
 shotgun	šratinis šautuvas		h	gun
 shout	šūksnis		h	a loud burst of voice
 shovel	kastuvas		h	tool for moving portions of material
 showing	seansas		l	occasion
+shrink	sumažinti		h	transitive: to cause something to shrink
 shut_up	uždaryti		h	enclose (a person, animal or thing) in a room or other place so that it cannot leave
+shutter	langinė		h	protective panels over windows
 shy	baikštus		h	easily frightened
+si	si		h	seventh note of a major scale
 sick	sergantis		h	ill, used as a substantive: sick people, collectively
 sickness	liga		h	the quality or state of being sick or diseased; illness; disease or malady
 side	kraštinė		h	bounding straight edge of an object
@@ -2484,10 +3311,12 @@ silicon	silicis		h	non-metallic element
 silly	kvailas		h	foolish, showing a lack of good sense and wisdom
 similarly	panašiai		h	in a similar style or manner
 simple_machine	paprastasis mechanizmas		h	device
+simulation	simuliacija		h	something which simulates
 simultaneously	vienu metu		h	occurring at the same time
 since	nuo to laiko		h	from a specified time in the past
 sing	dainuoti		h	to produce harmonious sounds with one’s voice
 single	pavienis		h	not accompanied by anything else
+singles	vienetų varžybos		l	sports: game between two individuals
 singular	atskiras		l	being only one of larger population
 sink	nuskandinti		h	cause (ship, etc) to sink
 sit_down	atsisėsti		h	to assume a sitting position from a standing position
@@ -2505,9 +3334,13 @@ skilled	įgudęs		h	having or showing skill
 skinny	laibas		h	thin
 skip	šokinėti		h	move by hopping on alternate feet
 sky_blue	žydras		h	light blue — see also dark blue, blue
+slam	trenkti		h	to shut with sudden force and noise
 slap	antausis		h	A blow dealt with the open hand
+slash	pasvirasis brūkšnys		h	typography: / symbol
+slate	skalūnas		h	fine-grained homogeneous sedimentary rock
 sleeping	miegamasis		h	used for sleep; used to produce sleep
 sleeping_beauty	Miegančioji gražuolė		h	fairy tale
+slender	lieknas		h	thin
 slide	slysti		h	to cause to move in continuous contact with a surface
 slight	nežymus		h	small in amount, insignificant
 slightly	šiek tiek		h	to a small extent or degree
@@ -2515,6 +3348,7 @@ slim	lieknas		h	slender
 slope	šlaitas		h	area of ground that tends evenly upward or downward
 slowly	lėtai		h	at a slow pace
 slut	kekšė		h	sexually promiscuous woman
+small_intestine	plonoji žarna		h	upper part of the intestine
 smart	gelti		h	to hurt or sting
 smash	trinktelėjimas		l	sound of a violent impact
 smith	kalvis		h	craftsperson who works metal — see also blacksmith
@@ -2523,6 +3357,7 @@ smoking	rūkstantis		h	giving off smoke
 smooth	lygus		h	lacking friction, not rough
 snack	užkandis		h	a light meal
 snap	spragtelėjimas		h	quick breaking or cracking sound or the action of producing such a sound
+sneak	sukčius		h	a cheat; con artist; trickster
 sniper	snaiperis		h	a person using long-range small arms for precise attacks from a concealed position
 so	kad		h	in order that
 so_called	vadinamasis		h	so named
@@ -2531,14 +3366,17 @@ so_that	kad		h	in order to
 soap_opera	muilo opera		h	television serial
 sober	blaivus		h	not drunk
 social	socialinis		h	relating to society
+social_distancing	socialinis atsiribojimas		h	practice of maintaining physical distance between people to reduce the spread of communicable diseases
 soda	soda		h	sodium carbonate
 soft_drink	gaivusis gėrimas		h	sweet, non-alcoholic carbonated beverage
 solar	saulės		h	of or pertaining to the sun
 sole	vienintelis		h	only
 solid	kietas		h	in the solid state
+solitary	vienišius		h	one who lives alone
 solo	solo		h	piece of music for one
 solve	išspręsti		h	to find an answer or solution
 some	keli		h	a certain number
+someday	kada nors		h	sometime; at some time in the future
 somehow	kažkaip		h	in one way or another; in some way not yet known or designated
 someone_s	kažkieno		h	possessive case of ''someone''
 something	kažkas		h	unspecified object
@@ -2549,25 +3387,35 @@ son_of_a_bitch	kalės vaikas		h	objectionable person
 sonic	garsinis		h	of or relating to sound
 sony	Sony		h	An international electronics and media company based in Tokyo, Japan
 sophisticated	rafinuotas		h	having obtained worldly experience
+sorcerer	burtininkas		h	magician/wizard drawing upon natural powers
 sore	skausmingas		h	causing pain
 sorry	apgailestaujantis		h	repentant, apologetic
 sound	sveikas		h	healthy
+sour_cherry	vyšnia		h	Prunus cerasus
 south_australia	Pietų Australija		h	state of Australia
 south_carolina	Pietų Karolina		h	US state
 south_china_sea	Pietų Kinijos jūra		h	Pacific Ocean, between the Asian mainland and Taiwan, Borneo and the Philippines
 south_dakota	Pietų Dakota		h	state of the US
 south_korean	pietų korėjietis		h	person from or descended from South Korea
 southern_europe	Pietų Europa		h	Southern Europe
+soviet	sovietų pilietis		h	citizen
 soviet_socialist_republic	Tarybų Socialistinė Respublika		h	any of the republics belonging to the former Soviet Union — see also SSR
 space_flight	kosminis skrydis		h	flight into, from, or through space
+spacecraft	kosminis laivas		h	vehicle that travels through space
 span	sprindis		h	Any of various units of length approximating the full width of an open hand
 spare	atsarginis		h	being over and above what is necessary
 spark_plug	uždegimo žvakė		h	part of an internal combustion engine
 spatial	erdvinis		h	pertaining to space
 speaker	kalbėtojas		h	one who speaks
 speaking	kalbantis		h	having the ability of speech
+specialty	specializacija		h	that in which one specializes
 specific	specifinis		h	explicit or definite
 specifically	konkrečiai		h	for a specific purpose or reason
+specification	specifikacija		h	explicit set of requirements
+spectacle	reginys		h	something exciting or extraordinary
+spectacular	įspūdingas		h	amazing or worthy of special attention
+speculation	spekuliacija		l	process of thinking or meditation
+speculative_fiction	spekuliatyvioji fantastika		h	class of fiction involving fantastic, supernatural or futuristic elements
 speed_bump	greičio ribotuvas		h	transverse ridge in the road
 spell	burtai		h	magical incantation
 spelling	rašyba		h	the practice, ability, or subject of forming words with letters, or of reading the letters of words; orthography
@@ -2575,26 +3423,37 @@ spend	išleisti		h	to pay out
 spent	išeikvotas		h	used up
 sperm	spermatozoidas		h	cell
 spike	vinis		h	very large nail
+spill	išlieti		h	transitive: to drop something so that it spreads out
 spin	suktis		h	to turn around quickly
 spinach	špinatas		h	a particular edible plant, Spinacia oleracea
 spinning_wheel	verpimo ratelis		h	device for spinning thread with a wheel and a spindle
+spirits	stiprieji alkoholiniai gėrimai		h	strong alcoholic drink derived from fermentation and distillation
 spiritual	dvasinis		h	of or pertaining to the spirit or the soul
 spit	iešmas		h	thin rod on which meat is skewered for cooking
 spite	pagieža		h	ill-will or hatred toward another; a desire to vex or injure
+splash	pliuškesys		h	sound made by an object hitting a liquid
 split	skaldyti		h	divide along a more or less straight line
 spoil	sugadinti		h	to ruin
+spoiled	išlepintas		h	(of a person, usually a child) having a selfish or greedy character due to pampering
 spoke	stipinas		h	part of a wheel
 spoken	šnekamasis		h	expressed in speech
+spokesman	atstovas		h	one who speaks as the voice of a group of people
 sponsor	rėmėjas		h	person or organization with religious, legal, or financial responsibility for another
+spontaneous	spontaniškas		h	self generated; happening without any apparent external cause
+sporting	sporto		h	pertaining to sports
 spot	dėmė		h	a round or irregular patch of a different color
+spotlight	prožektorius		h	a bright lamp, especially one used to illuminate the center of attention on a stage
+spotted	dėmėtas		h	discoloured by spots; stained
 spouse	sutuoktinis		h	person in a marriage or marital relationship
 spray	purslai		h	fine, gentle, dispersed mist of liquid
 spring	iššokti		h	to move or burst forth
 spring_onion	laiškinis svogūnas		h	Allium fistulosum
+sprint	sprintas		h	short race at top speed
 spur	pentinas		h	implement for prodding a horse
 squad	būrys		h	small group of people organized for a purpose
 square_bracket	laužtinis skliaustas		h	symbol [ or ]
 squash	skvošas		h	the sport
+squat	žemas ir platus		l	relatively short or low and thick or broad
 st	ššš		h	expressing a sudden desire for silence
 stability	stabilumas		h	condition of being stable
 stable	arklidė		h	building for managing ungulates, normally horses
@@ -2602,58 +3461,92 @@ stack	krūva		h	pile of identical objects
 staff	lazda		h	long, straight, thick rod or stick to assist in walking
 stake	kuolas		h	pointed long and slender piece of wood etc.
 stall	gardas		h	compartment for a single animal in a stable or cattle shed
+stance	laikysena		h	manner, pose, or posture in which one stands
 stand_up	atsistoti		h	rise from a sitting position
 standard	standartinis		h	falling within an accepted range
 standing	stovintis		h	water
+staple	pagrindinis produktas		h	basic or essential supply
+star_anise	žvaigždinis anyžius		h	a plant, Illicium verum
 star_cluster	žvaigždžių spiečius		h	group of stars
 star_fruit	karambola		h	fruit
 start	pradžia		h	beginning of an activity
+starter	starteris		h	electric motor that starts an internal-combustion engine
 state_religion	valstybinė religija		h	religious body or creed officially endorsed by the state
 stated	nurodytas		h	expressed in a statement
+static	statinis		h	unchanging
 statistical	statistinis		h	of or pertaining to statistics
 status	statusas		h	person’s position or standing
 steady	tvirtas		h	firm
+steer	vairuoti		h	intransitive: guide the course
+sterling	svaras sterlingų		h	currency of the United Kingdom, based on the pound sterling; genuine English or British currency, as contrasted with foreign currency
 stern	rūstus		h	having a hardness and severity of nature or manner
+sticky	lipnus		h	able or likely to stick
+stiff	standus		h	of an object, rigid, hard to bend, inflexible
+stigma	stigma		h	indication of infamy or disgrace
 still	nejudantis		h	not moving, calm
 sting	įgėlimas		h	bump on skin
 stir	maišyti		h	to disturb the relative position of the particles of
 stock	gyvuliai		h	farm animals
+stocks	kaladė		l	device for public humiliation and punishment
+stole	stula		h	ecclesiastical garment
 stolen	pavogtas		h	that has been stolen
 storage	saugojimas		h	act or state
 stove	krosnelė		h	heater
 strain	kilmė		l	race, lineage, pedigree
 strait	siauras		h	tight, close, confined
+strait_of_hormuz	Hormuzo sąsiauris		h	strait
+strand	paplūdimys		h	beach
 stranger	nepažįstamasis		h	person whom one does not know
+strap	dirželis		h	a long, narrow, pliable strip of leather, cloth, or the like
 strategic	strateginis		h	of or pertaining to strategy
+streak	brūkšnys		h	irregular line
+streaming	srautinis perdavimas		h	computing
 strengthen	stiprinti		h	to make strong or stronger
 stressed	įsitempęs		l	stressed-out
 stretch	tempti		h	to lengthen by pulling
 strict	griežtas		h	governed or governing by exact rules
 strike	perbraukti		h	to delete
+striking	stulbinantis		h	of that which makes a strong impression
+stringed_instrument	styginis instrumentas		h	Translations
 strip	juosta		h	long, thin piece of land or material
 strive	siekti		h	to sincerely try to achieve, to make one's best effort
 stroke	kirtis		h	act of hitting — see also blow, hit
 strongly	stipriai		h	in a strong or powerful manner
+structural	struktūrinis		h	of, relating to, or having structure
 student	studentas		h	person enrolled at a university — see also university student
 studies	studijos		h	academic field of study
 studio	studija		h	artist’s or photographer’s workshop
 study	mokytis		h	to revise/review materials
+studying	mokymasis		h	the action of the verb to study
 stuff	daiktai		h	miscellaneous items; things
+stunning	stulbinantis		h	having an effect that stuns
+stupidity	kvailumas		h	property of being stupid
 sub	povandeninis laivas		h	submarine — see also submarine
 subject	pavaldus		h	likely to be affected by something
+subjective	subjektyvus		h	based upon subjective feelings or intuition
 submarine	povandeninis		h	undersea
+submission	pasidavimas		h	the act of yielding
 submit	paklusti		h	to yield or give way to another
 subscribe	prenumeruoti		h	to sign up to receive a publication
 subsequent	vėlesnis		h	following in time
+subsequently	vėliau		h	subsequently
+subsidiary	pagalbinis		h	auxiliary or supplemental
 substantial	esminis		h	having substance, actually existing
 substitute	pakeisti		h	to use in place of something else
 subtitle	paantraštė		h	heading below a title
+subtle	subtilus		h	of an argument or concept, words, etc.: requiring one to distinguish between fine points, especially if it is difficult to do so; difficult to grasp; not easily
+suburban	priemiesčio		h	relating to outskirts of a city
 succeed	pakeisti		l	To follow in order; to come next after; hence, to take the place of
+succession	seka		h	following in sequence
 successor	įpėdinis		h	person or thing that immediately follows another
 suck	čiulpimas		h	instance of drawing something into one's mouth by inhaling
+sucker	siurbtukas		l	someone or something that sucks
 sudden	staigus		h	happening quickly and with little or no warning
 sue	paduoti į teismą		h	to file a legal action
+suez_canal	Sueco kanalas		h	canal
 suffering	kenčiantis		h	experiencing pain
+suffice	pakakti		h	be enough, sufficient, adequate
+sufficient	pakankamas		h	enough, adequate
 suggest	siūlyti		h	to ask for without demanding
 suggestion	pasiūlymas		h	something suggested
 suitable	tinkamas		h	appropriate to a certain occasion
@@ -2665,6 +3558,8 @@ sunlight	saulės šviesa		h	electromagnetic radiation given off by the sun
 sunny	saulėtas		h	weather, day
 sunshine	saulės spinduliai		h	direct rays of the sun
 super	puikus		h	better than usual
+superintendent	prižiūrėtojas		h	a person who is authorized to supervise, direct or administer something
+superman	antžmogis		h	übermensch
 supernatural	antgamtinis		h	above nature
 supplement	priedas		h	something added
 supply	tiekti		h	to provide, make available for use
@@ -2675,30 +3570,47 @@ supposed	tariamas		h	presumed to be true, but without proof
 supreme	aukščiausias		h	dominant
 sure	įsitikinęs		h	certain, reliable
 surely	tikrai		h	certainly, undoubtedly
+surf	bangų mūša		h	waves that break
+surfing	banglenčių sportas		h	sport
+surgical	chirurginis		h	of or relating to surgery
 surplus	perviršis		h	excess, overplus
 surprised	nustebęs		h	caused to feel surprise
 surprising	stebinantis		h	that is or are a surprise
 surround	apsupti		h	to encircle something or simultaneously extend in all directions
 surrounding	apsupimas		l	gerund of 'surround'
+surroundings	aplinka		h	area surrounding someone or something
 surveillance	stebėjimas		h	observation of individuals or groups of individuals
 survey	apklausa		h	act of surveying
 survive	išgyventi		h	person: continue to live
 survivor	išgyvenusysis		h	one who survives
 suspect	įtarti		h	imagine or suppose to be true, without proof
+suspended	sustabdytas		h	interrupted or delayed
 suspension	sustabdymas		h	act of suspending or state of being suspended
 suspicious	įtartinas		h	arousing suspicion
+sustain	palaikyti		h	to maintain something
 sustainable	tvarus		h	able to be sustained
+swap	keistis		h	exchange or give (something) in exchange for
 swear	prisiekti		h	to take an oath
 swear_word	keiksmažodis		h	obscene or offensive vulgar word
+sweaty	suprakaitavęs		h	covered in sweat
 sweetheart	mylimasis		h	a person very much liked or loved by someone — see also darling, cutie
+sweetness	saldumas		h	condition of being sweet or sugary
+sweets	saldainiai		h	confectionery, candy
 swift	greitas		h	fast; quick; rapid
 swing	siūbuoti		h	(''intransitive'') to rotate about an off-centre fixed point
 sycamore_maple	platanalapis klevas		h	Acer pseudoplatanus
+symbolic	simbolinis		h	pertaining to a symbol
 sympathy	užuojauta		h	feeling of pity or sorrow for the suffering or distress of another — see also compassion
+synthesis	sintezė		h	formation of something complex or coherent
+synthetic	sintetinis		h	produced by chemical synthesis
+syracuse	Sirakūzai		h	city in New York state
 syrian	Sirijos		h	of, from, or pertaining to Syria, the Syrian people or Syrian culture
+systematic	sistemingas		h	carried out using a planned, ordered procedure
 tab	skirtukas		h	navigational widget in a GUI
+tablet	molio lentelė		h	slab of clay
 tablet_computer	planšetinis kompiuteris		h	hand-held portable computer in the form of a tablet
 tackle	žvejybos įranga		h	fishing: angling gear
+tactical	taktinis		h	of or relating to tactics
 take_off	nusiimti		h	to remove
 taken	susižavėjęs		h	infatuated, fond of or attracted to
 taking	žavus		h	alluring; attractive
@@ -2710,27 +3622,37 @@ tame	prijaukintas		h	not wild
 tamil	tamilų		h	of or pertaining to the Tamil people, culture, or language
 tap	čiaupas		h	tapering cylindrical peg or pin used to close and open the hole or vent in a container — see also spigot
 tape_measure	ruletė		h	graduated ribbon for length measurement
+tasmania	Tasmanija		h	Australian state
+taurus	Jautis		h	constellation
+tavern	smuklė		h	bar
 taxi_driver	taksi vairuotojas		h	person who drives a taxicab
 tea	arbata		h	dried leaves of tea plant
 teaching	mokymas		h	something taught
 technical	techninis		h	pertaining to the useful or mechanic arts
 technically	techniškai		h	based on precise facts, which however may be contrary to common misbelief or to a traditional name
 teddy_bear	pliušinis meškiukas		h	a stuffed toy bear
+tee	te		h	name of the letter T, t
 teenager	paauglys		h	person aged between thirteen and nineteen
 telephone_directory	telefonų knyga		h	a listing of telephone subscribers
+temper	temperamentas		h	tendency to be of a certain type of mood
 temporarily	laikinai		h	for a limited period of time
 temporary	laikinas		h	for a limited time, ephemeral, not constant
+temptation	pagunda		h	act of tempting
 ten_thousand	dešimt tūkstančių		h	10,000
+tenant	nuomininkas		h	one who pays a fee in return for the use of land, etc.
 tend	linkti		h	to be probable or likely
 tender	jautrus		h	sensitive or painful
 tension	įtampa		h	psychological state
 terminal	terminalas		h	airport building
 terrace	terasa		h	platform that extends outwards from a building
+terrestrial	žemiškas		h	of, relating to, or inhabiting the Earth or its inhabitants
 terrible	baisus		h	dreadful; causing alarm or fear
 terror	siaubas		h	extreme fear
 test	išbandymas		h	challenge, trial
+testify	liudyti		h	to make a declaration, or give evidence, under oath
 testimony	parodymai		h	statement in court
 testing	testavimas		h	the act of conducting a test
+texture	tekstūra		h	feel or shape of a surface or substance
 thanks_to	dėka		h	because of
 thanksgiving	Padėkos diena		h	Thanksgiving Day
 that	kad		h	connecting a noun clause
@@ -2742,6 +3664,7 @@ them	juos		h	third personal plural pronoun used after a preposition or as the ob
 themselves	patys		h	emphatic: they
 theoretical	teorinis		h	of or relating to theory
 there_are	yra		h	third-person plural present indicative of there be
+thereby	tuo būdu		h	by that
 therefore	taigi		h	consequently; by consequence — see also consequently, ergo, so, whence, thus
 these	šie		h	plural of this
 thesis	tezė		h	proposition or statement supported by arguments
@@ -2761,25 +3684,33 @@ thirty_two	trisdešimt du		h	32
 this_morning	šį rytą		h	during the morning of today
 this_year	šiais metais		h	during the current year
 thorough	kruopštus		h	detailed
+thoroughly	kruopščiai		h	in a thorough or complete manner
 those	tie		h	plural of that
 though	tačiau		h	however
 threaten	grasinti		h	to make a threat against someone; to use threats
+threatened	nykstantis		l	at risk of becoming endangered
+threatening	grėsmingas		h	presenting a threat
+threshing_floor	klojimas		h	floor of a threshing house
 through	per		h	from one side of an opening to the other
 throughout	per visą		l	in every part of; all through
 throw_away	išmesti		h	discard or dispose of
+thrust	dūris		h	an attack with a sword
 thy	tavo		h	possessive determiner
 tickle	kutenimas		h	act of tickling
 tide	potvynis ir atoslūgis		h	periodic change of sea level — see also flood tide, ebb tide, high tide, low tide
 tie	lygiosios		h	sports: tie score
+tied	susijęs		h	closely associated
 tier	pakopa		h	layer or rank
 tight	standus		h	firmly held together
 till	iki		h	until
 timeline	laiko juosta		h	graphical representation of a chronological sequence of events
 times	padauginta iš		h	multiplied by
+timing	laiko parinkimas		l	the regulation of the pace
 tiny	mažytis		h	very small
 tip	galiukas		h	extreme end of something
 tire	pavargti		h	to become sleepy
 tissue	popierinė servetėlė		h	sheet of absorbent paper
+titan	titanas		h	mythological giant
 titanic	titaniškas		h	having great size, or great force, power, or strength
 title	titulas		h	prefix or suffix added to a name
 to	-ti		l	infinitive-marker
@@ -2788,22 +3719,32 @@ today_s	šiandienis		h	relating to, or produced today
 toddler	mažylis		h	young child who has started walking but not fully mastered it
 tofu	tofu		h	protein-rich food made from curdled soy milk
 token	ženklas		h	something serving as an expression of something else
+tolerate	toleruoti		h	To allow without explicit approval
 toll	kelių mokestis		h	fee for using roads and bridges
 tom	katinas		h	male cat
+tomato_sauce	pomidorų padažas		h	pasta sauce
 tomb	kapas		h	small building or vault for the remains of the dead
+tony	prašmatnus		h	stylish, high-toned, upscale
 top	viršus		h	uppermost part — see also apex
+torque	sukimo momentas		h	a rotational or twisting force
+toss	metimas		h	throw, a lob, of a ball
 total	suma		h	amount
 total_war	totalinis karas		h	warfare where all of a country's resources are employed
 totally	visiškai		h	In a total manner; completely
+touched	sujaudintas		h	moved
 touching	graudus		h	provoking sadness and pity
 tough	tąsus		h	difficult to chew
 tour	turas		h	journey
 tour_de_france	Tour de France		h	annual long-distance cycling race through France
+tow	vilkti		h	pull something using a line
 toward	link		h	in the direction of
 track	pėdsakas		h	mark left by something that has passed along
 traditional	tradicinis		h	of or relating to tradition
+traditionally	tradiciškai		h	traditional manner
 trail	vilkti		h	drag behind
 trailer	priekaba		h	unpowered wheeled vehicle that is towed behind another, and used to carry equipment, with the exception of a caravan
+trained	apmokytas		h	having undergone a course of training
+trans	translytis		h	transgender
 transaction	sandoris		h	act of conducting or carrying out business, negotiations, plans
 transfer	perkelti		h	to move or pass from one place, person or thing to another
 transform	transformuoti		h	change greatly the appearance or form of
@@ -2813,35 +3754,50 @@ transit	tranzitas		h	act of passing over, across, or through something
 transition	perėjimas		h	process of change from one form, state, style or place to another
 translation_studies	vertimo studijos		h	study of theory and practice of translating and interpreting
 transmission	perdavimas		h	act of transmitting
+transparency	skaidrumas		h	quality of being transparent; transparence
 transport	gabenti		h	carry or bear from one place to another
 transportation	gabenimas		h	act of transporting
+trapped	pakliuvęs į spąstus		h	caught in a trap
 trauma	trauma		h	serious injury to the body
+travelling	keliavimas		h	action of travelling
 treasurer	iždininkas		h	government official in charge of the Treasury
 treasury	iždas		h	place where treasure is stored safely
 treat	elgtis		h	to handle, deal with or behave towards in a specific way
 treatment	gydymas		h	process or manner of treating
 trench	apkasas		h	long, narrow ditch or hole
 trial	bandymas		h	chance to test something out
+tribal	genčių		h	of or relating to tribes
 tribute	duoklė		h	acknowledgment of gratitude, respect or admiration; an accompanying gift
 trick	triukas		h	something designed to fool
 trigger	gaidukas		h	finger-operated lever used to fire a gun
 trillion	trilijonas		h	a million million, 1012 — see also billion
+trilogy	trilogija		h	collection of three works
 trip	kelionė		h	journey
 triple	trigubas		h	made up of three related elements
 triumph	triumfas		h	conclusive success; victory; conquest
+trivial	nereikšmingas		h	of little significance or value
+trojan_horse	Trojos arklys		h	epic wooden horse
 troll	trolis		h	giant supernatural being; grotesque humanoid creature living in caves or hills or under bridges
+troop	kariuomenė		l	military forces
 troops	kariai		h	military personnel in uniform
 tropical	tropinis		h	of or pertaining to the tropics
 trouble	bėda		h	distressful or dangerous situation
+trough	lovys		h	a long, narrow, open container for feeding animals
+truce	paliaubos		h	period of time in which no fighting takes place
 true	tikras		h	concurring with a given set of facts
 truly	iš tiesų		h	in accordance with the facts
 trunk	kamienas		h	tree trunk
+trustworthy	patikimas		h	reliable
 trying	varginantis		h	Difficult to endure; arduous
+tub	kubilas		h	broad, flat-bottomed vessel
 tube	vamzdis		h	a pipe
+tuition	mokymas		h	training or instruction provided by a teacher or tutor
 tumor	navikas		h	oncology, pathology: an abnormal growth
 turkish_bath	turkiška pirtis		h	establishment
+turmeric	ciberžolė		h	plant
 turner	tekintojas		h	person working a lathe
 turning	posūkis		h	A turn or deviation from a straight course
+tutor	korepetitorius		h	one who teaches another
 tv	TV		h	abbreviation for television
 tweet	čiulbesys		h	sound
 twenty_eight	dvidešimt aštuoni		h	number
@@ -2854,6 +3810,7 @@ twenty_three	dvidešimt trys		h	twenty-three
 twenty_two	dvidešimt du		h	twenty-two
 twin_towers	Dvynių bokštai		h	the two main buildings of the World Trade Center
 twist	sukimo jėga		l	twisting force
+twitch	krūptelėjimas		h	1. brief, small (sometimes involuntary) movement out of place and then back again
 twitter	čiulbėjimas		h	sound made by birds
 typical	tipiškas		h	capturing the overall sense of a thing
 typically	paprastai		h	in a typical manner
@@ -2864,15 +3821,25 @@ ultimate	galutinis		h	final; last in a series
 ultimately	galiausiai		h	indicating the last item
 un_security_council	JT Saugumo Taryba		h	international organ
 unable	nepajėgus		h	not able
+unacceptable	nepriimtinas		h	unsatisfactory; not acceptable
+unanimous	vieningas		h	based on unanimity
 unbelievable	neįtikėtinas		h	incredible
+uncertain	neaiškus		h	not known for certain; questionable
 uncertainty	netikrumas		h	doubt; the condition of being uncertain
 uncomfortable	nepatogus		h	not comfortable
 unconscious	praradęs sąmonę		h	not awake
+underestimate	nuvertinti		h	to perceive as having lower value
 underground	požeminis		h	below the ground — see also subterranean
+underlying	slypintis		h	lying underneath
+underneath	apačioje		h	below; in a place beneath
+understandable	suprantamas		h	capable of being understood
 understood	suprastas		h	comprehended
+underworld	mirusiųjų pasaulis		h	world of the dead
 unfair	nesąžiningas		h	not fair
+unforgettable	nepamirštamas		h	very difficult or impossible to forget
 unfortunate	nelaimingas		h	not favored by fortune
 unhappy	nelaimingas		h	not happy; sad
+unidentified_flying_object	neatpažintas skraidantis objektas		h	anything in the air not readily explainable
 uniform	vienodas		h	consistent
 unique	unikalus		h	one of a kind
 unit	vienetas		h	standard measure of a quantity
@@ -2882,53 +3849,79 @@ unlike	nepanašus		h	dissimilar
 unlikely	mažai tikėtinas		h	not likely
 unlimited	neribotas		h	limitless or without bounds; unrestricted
 unnecessary	nereikalingas		h	not necessary
+unpleasant	nemalonus		h	not pleasant
+unstable	nestabilus		h	not stable
 upcoming	artėjantis		h	of the relatively near future
 upgrade	atnaujinimas		h	an improved component or replacement item
 upload	įkelti		h	to transfer data
 upper	viršutinis		h	at a higher level, rank or position
 upper_arm	žastas		h	section of an arm
 upper_case	didžiosios raidės		h	capital letters
+ups	nepertraukiamo maitinimo šaltinis		h	(initialism) uninterruptible power supply
 upset	nusiminęs		h	angry, distressed, unhappy
+upstairs	viršutinis		l	located on a higher floor of a building
 urban	miesto		h	of, pertaining to, characteristic of, or happening or located in, a city or town; of, pertaining to, or characteristic of life in such a place
+urdu	urdu kalba		h	the Indo-Iranian language
 urge	potraukis		h	a strong desire; an itch to do something
 urgent	skubus		h	requiring immediate attention
+ursa_major	Didžioji Meškė		h	large circumpolar constellation of the northern sky
+ursa_minor	Mažoji Meškė		h	a circumpolar constellation of the northern sky
 us	mus		h	objective case of "we"
 usage	vartojimas		h	habit or accepted practice
 use	naudojimas		h	act of using
 used	naudotas		h	that is or has or have been used
 used_to	pripratęs		h	accustomed to
 useless	nenaudingas		h	without use or possibility to be used
+username	naudotojo vardas		h	a person's identification on an individual computer system
 usual	įprastas		h	most commonly occurring
 utah	Juta		h	a state of the United States of America
 utility	naudingumas		h	state or condition of being useful
+utter	visiškas		h	to the furthest or most extreme extent — see also absolute, total
+vacant	laisvas		h	not occupied
 vaccine	vakcininis		l	of, pertaining to, caused by, or characteristic of cowpox
 vacuum	vakuumas		h	region of space that contains no matter
+vague	miglotas		h	not clearly expressed
+vain	tuščiagarbis		h	overly proud of one's appearance
 valid	galiojantis		h	acceptable, proper or correct
+vanguard	avangardas		h	leading units of an army
 vanilla	vanilė		h	fruit
 variable	kintamas		h	able to vary
 variant	skirtingas		l	showing variety, diverse
 variation	variacija		h	the act or state of varying
 variety	atmaina		h	specific variation of something
+vary	kisti		h	to change something with time or a similar parameter
 vast	neaprėpiamas		h	very large or wide (literally or figuratively)
 vault	skliautas		h	arched masonry structure
 vegan	veganiškas		h	relating to vegans or veganism
 veil	šydas		h	something to hide an object
 velocity	greitis		h	vector quantity
+vendor	pardavėjas		h	a person or a company that vends or sells
 vengeance	kerštas		h	revenge taken for an insult, injury, or other wrong
 venture	avantiūra		l	a risky or daring undertaking or journey
+venue	renginio vieta		h	place, especially the one where a given event is to happen
 verbal	žodinis		h	of, or relating to words
+verbal_noun	veiksmažodinis daiktavardis		h	grammar: noun that is morphologically related to a verb and has similar meaning
 verify	patikrinti		h	to substantiate or prove the truth of something
+vermiform_appendix	kirmėlinė atauga		h	blind tube projecting from the caecum
+vermont	Vermontas		h	a state in the United States
 verse	eilėraštis		h	poetic form with regular meter and a fixed rhyme scheme
 versus	prieš		h	in opposition to
 vessel	laivas		h	craft
 vest	apatiniai marškinėliai		h	garment worn under a shirt
 veteran	veteranas		h	person with long experience
+veto	veto		h	political right
 via	pereinamoji skylė		l	small hole in a printed circuit board
+vibe	atmosfera		h	atmosphere or aura
 vice	yda		h	bad habit
+vicinity	artuma		l	proximity, or the state of being near
 victim	auka		h	one who is harmed
+victorian	viktorijos laikų		h	of or relating to the reign of Queen Victoria or that period
 villain	piktadarys		h	bad person in a stage or screen play
 vineyard	vynuogynas		h	grape plantation
 vintage	derlius		h	yield of grapes during one season
+vinyl	vinilas		h	univalent radical
+viola	našlaitė		h	botany: any of several flowering plants
+violate	pažeisti		h	to break or fail to act by rules
 violation	pažeidimas		h	act or instance of violating
 violence	smurtas		h	extreme force
 violent	smarkus		h	involving extreme force or motion
@@ -2943,10 +3936,13 @@ visual	vizualinis		h	related to or affecting the vision
 visual_arts	vizualieji menai		h	art forms that are primarily visual in nature
 vital	gyvybinis		h	relating to, or characteristic of life
 vocal	vokalinis		h	of or pertaining to the voice or speech
+voiced	skardusis		h	sounded with vibration of the vocal cords
 void	tuščias		h	containing nothing
+volatile	lakus		h	evaporating or vaporizing readily under normal conditions
 voluntary	savanoriškas		h	done, given, or acting of one's own free will
 voting	balsavimas		h	action of the verb to vote
 voyage	kelionė jūra		h	long journey; especially by ship
+vulnerability	pažeidžiamumas		h	state of being vulnerable
 w	vakarai		h	west
 wagon	vežimas		h	four-wheeled cart for hauling loads — see also cart, carriage
 waiting	laukimas		h	the act of staying or remaining in expectation
@@ -2957,10 +3953,16 @@ walker	pėsčiasis		h	person who walks
 walking	vaikščiojantis		h	incarnate as a human
 wall	gynybinė siena		h	defensive rampart
 walnut	graikinis riešutmedis		h	tree
+wand	lazdelė		h	hand-held narrow rod
 wanted	pageidaujamas		h	desired
+wanting	trūkstamas		h	absent or lacking
 ward	rajonas		h	administrative subdivision of cities
+warfare	karo veiksmai		h	the waging of war or armed conflict against an enemy
 warrant	orderis		h	authorization or certification
+warren	urvynas		l	the system of burrows where rabbits live
+wary	atsargus		h	cautious of danger; timorously or suspiciously prudent; circumspect; scrupulous
 washer	plautuvas		l	something that washes
+washing	plovimas		h	action of the verb "to wash"
 waste	atliekos		h	useless by-products, garbage
 water_lily	vandens lelija		h	Any members of Nymphaeaceae
 wave	mojuoti		h	to move back and forth repeatedly
@@ -2968,6 +3970,7 @@ weakness	silpnumas		h	condition of being weak
 wealthy	turtingas		h	rich
 wearing	nešiojamas		h	intended to be worn
 web	tinklas		h	any interconnected set of persons, places, or things
+wee	mažytis		h	small, little
 weekly	kas savaitę		h	once every week
 weigh	sverti		h	to determine the weight of an object
 weird	keistas		h	having an unusually strange character or behaviour
@@ -2985,6 +3988,7 @@ what_s_up	kas naujo		h	How are you?
 what_the_fuck	kas per velnias		h	intensive form of what
 whatever	bet koks		h	regardless of the … that; for any … that
 wheelchair	neįgaliojo vežimėlis		h	chair
+when_the_cat_s_away_the_mice_will_play	Kai katės nėra, pelės šoka ant stalo		h	in the absence of a controlling entity, subordinates will take advantage of circumstances
 whenever	kad ir kada		h	1. at any time that
 where_are_you	kur tu esi		h	where are you?
 where_there_is_a_will_there_is_a_way	kur noras, ten ir kelias		h	if someone wants or wills something strongly enough, a way can be found
@@ -3010,10 +4014,12 @@ will_you_marry_me	ar tekėsi už manęs		h	marriage proposal
 willing	pasirengęs		h	ready to do something that is not a matter of course
 wind_instrument	pučiamasis instrumentas		h	type of musical instrument
 windows	Windows		h	Microsoft Windows
+wink	mirktelėti		h	to blink with only one eye as a message, signal, or suggestion
 winning	pergalingas		l	that constitutes a win
 wipe	šluostyti		h	to rub in order to remove surface substance
 wireless	belaidis		h	not having any wires
 wisconsin	Viskonsinas		h	state of the United States of America
+wit	sąmojis		h	Spoken humour, particularly that thought of quickly
 witch_doctor	burtininkas		h	person believed to ward off witchcraft and heal through magic
 withdraw	atitraukti		h	to draw or pull (something) aside, away, or back from its original position or situation
 withdrawal	atsiėmimas		h	receiving from someone's care what one has earlier entrusted to them
@@ -3024,13 +4030,18 @@ women	Moterys		h	4th sura of the Qur'an
 won	vona		h	currency of Korea
 won_t	nenorėti		l	contraction of “will not”
 wonderful	nuostabus		h	excellent, extremely impressive
+wont	įprotis		h	habitual way of doing things
+woo	bandyti pelnyti palankumą		l	to endeavor to gain someone's affection/support
+woof	ataudai		h	set of yarns carried by the shuttle of a loom which are placed crosswise at right angles to and interlaced with the warp — see also weft
 words	barnis		h	angry debate or conversation
 working	veikimas		h	operation; action
 works	gamykla		h	a factory
 world_health_organization	Pasaulio sveikatos organizacija		h	UN public health agency — see also WHO
 world_war_i	Pirmasis pasaulinis karas		h	war
 worldwide	pasaulinis		h	spanning the world — see also global
+worn	nusidėvėjęs		h	damaged and shabby from too much use
 worried	sunerimęs		h	thinking about unpleasant things that have happened or that might happen
+worrying	nerimą keliantis		h	inducing worry
 worse	blogesnis		h	comparative form of bad
 worship	garbinimas		h	devotion accorded to a deity or to a sacred object
 worst	blogiausias		h	most inferior
@@ -3041,18 +4052,31 @@ wounded	sužeistas		h	suffering from a wound
 wow	oho		h	excitement, surprise
 wrap	įvynioti		h	to enclose completely in fabric, paper, etc
 wreck	avarija		h	collision
+wrestler	imtynininkas		h	person who wrestles
 wrestling	imtynės		h	sport — see also freestyle wrestling
+wrinkle	raukšlė		h	furrow in a smooth surface
 written	rašytinis		h	of, relating or characteristic of writing
+wtf	Kas per velnias		h	What the fuck
 x	nežinomasis		h	unknown quantity or unknown value
+xbox	Xbox		h	video game console manufactured and distributed by Microsoft
+xi	ksi		h	Greek letter
 y	Y		h	commune in the Somme department, Hauts-de-France, France
+ya	ja		l	a letter of the Cyrillic alphabet "Я/я"
+yahoo	Yahoo!		h	a popular web portal
 yard	kiemas		h	land around a house
 yearly	kasmetinis		h	happening once every year
 yell	šaukti		h	shout (verb)
 yep	taip		h	informal "yes"
 yield	nusileisti		h	to give way
+yo	ei		l	greeting similar to hi
 younger	jaunesnis		h	in an earlier period of life
 younger_brother	jaunesnysis brolis		h	single-word translations
+youngest	jauniausias		h	superlative form of young
 your_majesty	Jūsų Didenybe		h	term of address
 yours	tavo		h	possessive pronoun, singular
 yourself	save		h	(reflexive) your own self
+yup	taip		h	(informal) yes
+zen	dzenas		h	denomination of Buddhism
+zion	Sionas		h	hill ("mount") in Israel
 zone	zona		h	area distinguished on the basis of a particular characteristic etc
+zoom	ūžesys		h	humming noise from something moving very fast

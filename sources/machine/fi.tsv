@@ -15,6 +15,7 @@ attached	kiinnitetty		h	connected, joined
 baltimore	Baltimore		h	city in central Maryland, USA
 barbarian	barbaarinen		h	uncivilized
 bars	kalterit		l	grating, grill, grid
+batman	Batman		h	a city in Turkey
 be	olla		h	auxiliary: used to form the passive voice
 beak	nokka		h	structure projecting from a bird's face
 bearing	kantava		h	carrying weight or load
@@ -27,6 +28,7 @@ boring	poraus		h	the act or process of drilling holes.
 bot	kurmu		l	larva of a botfly
 bristol	Bristol		h	city in south-west England
 brown_bear	ruskeakarhu		h	Ursus arctos
+burnt	palanut		h	damaged or injured by fire or heat
 buying	ostaminen		h	act of making a purchase
 by	avulla		l	indicates a means
 c	noin		h	abbreviation of circa
@@ -74,6 +76,7 @@ driving	ajava		l	that drives
 drove	karjalauma		l	number of cattle driven to market or new pastures
 du_a	rukous		l	(Islam) private prayer by an individual — see also prayer
 during	aikana		h	within a given time interval
+ed	päivystys		h	emergency department
 elect	valittu		h	One chosen or set apart
 elements	luonnonvoimat		h	weather
 entitled	oikeutettu		h	having a right to something
@@ -166,7 +169,7 @@ paid	maksullinen		h	not free of charge
 palladium	turva		l	a safeguard
 panic	paniikinomainen		l	of fear, fright, etc.: overwhelming or sudden
 pasta	pasta		h	dough
-pc	kappale		h	piece
+pc	PC		h	initialism of personal computer
 petty	pikkumainen		h	of persons or their behaviour: marked by or reflective of undesirably limited interests, sympathies, or views; preoccupied with subjects having little or no imp
 pip	linnunnuha		l	respiratory disease in birds
 planned	suunniteltu		h	existing or designed according to a plan
@@ -194,6 +197,7 @@ repeated	toistettu		h	said or done again
 reporting	raportointi		h	creation of reports
 rolling	vierivä		h	moving by turning over repeatedly
 roman	pysty		l	upright
+romance	romaaniset kielet		l	group of languages and cultures which are derived from Vulgar Latin
 runs	ripuli		h	diarrhea
 san	san		h	letter of the Archaic Greek alphabet
 sarah	Saara		h	Translations
@@ -208,7 +212,7 @@ sorry	pahoillaan		h	repentant, apologetic
 spacecraft	avaruusalus		h	vehicle that travels through space
 spring	ponnahtaa		l	to move or burst forth
 squad	ryhmä		h	small group of people organized for a purpose
-st	hys		l	expressing a sudden desire for silence
+st	pyhä		h	abbreviation of Saint
 standard_language	yleiskieli		h	standard variety
 standing	seisova		h	water
 stated	ilmoitettu		h	expressed in a statement

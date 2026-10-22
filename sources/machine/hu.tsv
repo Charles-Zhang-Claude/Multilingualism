@@ -102,6 +102,7 @@ bars	rács		h	grating, grill, grid
 based	alapuló		h	founded on
 basin	mosdótál		h	wide bowl for washing
 basse_terre	Basse-Terre		h	capital city of Guadeloupe
+batman	Batman		h	a city in Turkey
 baton	marsallbot		l	military staff of office
 be	lenni		h	auxiliary: used to form the passive voice
 bearing	teherhordó		h	carrying weight or load
@@ -150,6 +151,7 @@ broadcast	szétszórt		l	cast or scattered widely
 broadcasting	műsorszórás		h	business or profession of radio and television
 brooklyn	Brooklyn		h	borough of New York City
 brother_in_law	sógor		h	husband of the sister of one's wife
+bruise	kék-zöldre ver		l	strike (a person), giving them a bruise
 buffer	polírozó		l	someone or something that buffs
 buffet	svédasztal		h	food — see also smorgasbord
 bully	zaklató		h	a person who is intentionally cruel to others
@@ -160,12 +162,13 @@ bureau	iroda		h	office (room)
 burger	burger		h	informal: hamburger
 buried	eltemetett		h	Placed in a grave at a burial
 burning	égető		h	so hot as to seem to burn (something)
+burnt	égett		h	damaged or injured by fire or heat
 business	vállalkozás		h	commercial enterprise or establishment
 butler	komornyik		h	manservant having charge of wines and liquors
 buying	vásárlás		h	act of making a purchase
 buzz	zümmögés		h	continuous humming noise
 bye	szabadkör		l	The position of a person or team in a tournament or competition who draws no opponent in a particular round so advances to the next round unopposed
-c	kb.		h	abbreviation of circa
+c	C		h	musical note
 cabinet	kormány		h	group of ministers
 cable	kábel		h	assembly of wires for electricity
 caesar	Caesar		h	ancient Roman family name
@@ -718,6 +721,7 @@ locative_case	lokatívusz		h	case used to indicate place, or the place where, or
 log	farönk		h	trunk of dead tree, cleared of branches
 looks	külső		l	appearance
 loose	szabadjára enged		h	to let loose
+lord	Úr		h	God
 los_angeles	Los Angeles		h	largest city in California
 loss	veszteség		h	the result of no longer possessing something
 lot	tétel		h	separate portion; number of things taken collectively
@@ -825,7 +829,7 @@ notorious	hírhedt		h	generally or widely known for something negative — see a
 now	jelenlegi		h	present; current
 nursing	szoptató		h	lactating
 nuts	bolond		h	insane
-o	o		h	name of the letter O, o
+o	ó		h	a vocative particle
 occupy	elfoglal		h	hold a position
 occur	előfordul		h	take place
 odds	esély		h	the ratio of the probabilities of an event happening to that of it not happening
@@ -872,6 +876,7 @@ passing	múló		h	that passes away; ephemeral
 pavilion	pavilon		h	ornate tent
 pawn	zálog		h	item sold to a pawn shop
 payer	fizető		h	one who pays
+pc	PC		h	initialism of personal computer
 pennsylvania	Pennsylvania		h	US state
 per	per		h	for each
 percentage	százalék		h	part of a whole
@@ -995,7 +1000,7 @@ result	következik		h	to proceed, spring, or rise, as a consequence
 resulting	eredő		h	of something that follows as the result of something else
 retired	nyugdíjas		h	having left employment
 retirement	nyugdíjazás		h	act of retiring, or the state of being retired
-revelation	kinyilatkoztatás		h	the act of revealing or disclosing
+revelation	Jelenések könyve		h	book of Bible
 reverse	fordított		h	causing movement in the opposite direction
 review	átnézés		l	second or subsequent reading of a text or artifact
 revolt	fellázad		h	to rebel — see also rebel, rise up
@@ -1006,6 +1011,7 @@ rising	felkelés		h	rebellion
 roar	ordít		h	of animals, to make a loud deep noise
 rolling	gördülő		h	moving by turning over repeatedly
 roman	antikva		l	upright
+romance	újlatin		h	group of languages and cultures which are derived from Vulgar Latin
 romantic	romantikus		h	concerned with, or conducive to, romance and love
 rookie	újonc		h	inexperienced recruit in military or police
 rotation	forgás		h	act of turning around a centre
@@ -1093,6 +1099,7 @@ sony	Sony		h	An international electronics and media company based in Tokyo, Japa
 sophisticated	kifinomult		h	having obtained worldly experience
 sorry	bűnbánó		h	repentant, apologetic
 southampton	Southampton		h	city in England
+soviet	szovjet		h	citizen
 spacecraft	űrhajó		h	vehicle that travels through space
 spam	spam		h	unsolicited bulk electronic messages
 special_region_of_yogyakarta	Yogyakarta Különleges Terület		h	autonomous region of Indonesia
@@ -1213,6 +1220,7 @@ tutor	magántanár		h	one who teaches another
 tv	tévé		h	abbreviation for television
 twelve	tizenkettő		h	cardinal number 12
 twitch	rángás		h	1. brief, small (sometimes involuntary) movement out of place and then back again
+twitter	Twitter		h	online social networking service
 u	u		h	name of the letter U, u
 ugh	fúj		h	to express disgust
 uh	öh		h	expression of confusion or uncertainty

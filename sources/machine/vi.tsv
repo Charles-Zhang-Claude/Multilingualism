@@ -2,41 +2,58 @@ slug	translation	romanization	confidence	meaning
 a_few	vài		h	a small number of
 a_m	sáng		h	before noon
 abandoned	bị bỏ hoang		h	no longer maintained, forsaken, deserted
+abc	sách vỡ lòng		l	primer for learning the alphabet
+abnormal	bất thường		h	not conforming to rule or system
 aboard	trên tàu		h	on board
+abolish	bãi bỏ		h	to end a law, system, institution, custom or practice
 about	xung quanh		h	on every side of
 abroad	ở nước ngoài		h	in foreign countries
 absence	sự vắng mặt		h	state of being away
 absolute	tuyệt đối		h	free from limitations or conditions
 absolutely	tuyệt đối		h	in an absolute manner
 absorb	hấp thụ		h	(physics, chemistry) to take up by chemical or physical action
+absorption	sự hấp thụ		h	act or process of absorbing or sucking in anything
 abstract	bản tóm tắt		h	an abridgement or summary
 abuse	sự lạm dụng		h	corrupt practice
 abyss	vực thẳm		h	hell, bottomless pit
+ac	dòng điện xoay chiều		h	alternating current
 acceleration	sự tăng tốc		h	act or state
 acceptable	chấp nhận được		h	capable, worthy or sure of being accepted
 acceptance	sự chấp nhận		h	act of accepting
 accepted	được chấp nhận		h	generally approved, believed, or recognized
 access	lối vào		h	way or means of approaching
 accessible	dễ tiếp cận		h	easy of access or approach
+accessory	phụ		h	having a supplementary function
 accidental	tình cờ		h	happening by chance
+accommodate	điều chỉnh cho phù hợp		l	to render fit or suitable
 accompany	đi cùng		h	to attend as a companion
+accomplish	hoàn thành		h	to finish successfully
+accomplished	đã hoàn thành		h	completed
+accordingly	do đó		h	agreeably; correspondingly; suitably; in a manner conformable
+accountability	trách nhiệm giải trình		h	state of being accountable
+accountable	có trách nhiệm giải trình		h	obliged to answer for one’s deeds
 accuracy	độ chính xác		h	state of being accurate
 accuse	buộc tội		h	attribute blame to someone
 accused	bị cáo		h	defendant
 achieve	đạt được		h	(transitive) to carry out or conclude (something, as a task) successfully — see also realize
 achievement	thành tựu		h	act of achieving or performing
+achilles_heel	gót chân Achilles		h	vulnerability in an otherwise strong situation
 acknowledge	thừa nhận		h	to admit the knowledge of
+acne	mụn trứng cá		h	a skin condition
 acoustic	âm học		h	pertaining to hearing or the science of sounds
 acquaintance	sự quen biết		h	state of being acquainted, acquaintanceship
 acquired	mắc phải		h	medicine: developed after birth
 acquisition	sự thu được		h	act or process of acquiring
 across	bên kia		h	on the opposite side
 acting	quyền		h	temporarily assuming the duties or authority
+activate	kích hoạt		h	to put into operation
 active	đang hoạt động		h	in action
 active_voice	thể chủ động		h	the form in which the subject of a verb carries out some action
+actively	một cách tích cực		h	in an active manner
 acute	sắc bén		l	intense, sensitive, sharp — see also intense, sensitive, sharp
 ad	quảng cáo		h	clipping of advertisement — see also advertisement
 adapt	làm cho phù hợp		h	to make suitable
+adapted	được điều chỉnh		h	having been subject to alteration
 adapter	bộ chuyển đổi		h	device to allow compatibility (in general)
 addiction	sự nghiện		h	the state of being addicted
 addition	sự thêm vào		h	act of adding
@@ -45,9 +62,13 @@ adjustment	sự điều chỉnh		h	result of adjusting, small change
 administrative	thuộc hành chính		h	of or relating to administering or administration
 admission	sự tiếp nhận		h	the act or practice of admitting
 admit	cho vào		h	allow to enter
+adolescent	thuộc tuổi vị thành niên		h	characteristic of adolescence
 adoption	sự nhận nuôi		h	act of adopting, or state of being adopted
+adorable	đáng yêu		h	befitting of being adored
+adore	yêu mến		h	worship
 advance	thúc đẩy		h	to accelerate the growth or progress; to further; to forward
 advanced	tiên tiến		h	at or close to state of the art
+advisory	tư vấn		h	able to give advice
 advocate	người biện hộ		h	person who argues the case of another
 aerial	trên không		h	taking place in the air
 aesthetic	thuộc thẩm mỹ		h	concerned with beauty
@@ -60,6 +81,7 @@ aftermath	hậu quả		h	that which happens after, that which follows
 against	chống lại		h	in a contrary direction to
 aged	già		h	old — see also old
 agenda	chương trình nghị sự		h	temporally organized plan
+ages	một thời gian dài		l	a long time
 aggregate	tập hợp		h	a mass, assemblage, or sum of particulars
 agreed	đồng ý		h	interjection that expresses agreement
 agricultural	thuộc nông nghiệp		h	of or pertaining to agriculture
@@ -75,12 +97,15 @@ alan	người Alan		h	member of a Sarmatian tribe
 alarm	báo động		h	notice of approaching danger
 alas	than ôi		h	exclamation of sorrow, etc.
 albeit	dù rằng		h	although; despite (it) being — see also although, but
+ale	bia ale		h	beer produced by warm fermentation
 aleppo	Aleppo		h	city in Syria
 alert	cảnh giác		h	attentive
 alexander_the_great	Alexander Đại đế		h	King of Macedonia
 alexandria	Alexandria		h	city in Egypt
+algerian	người Algeria		h	person from Algeria
 alien	người ngoài hành tinh		h	person, etc. from outside
 alleged	bị cáo buộc		h	asserted
+allegedly	được cho là		h	according to allegation
 alliance	liên minh		h	treaty between nations
 allowed	được phép		h	permitted, authorized
 ally	liên minh		h	to unite or form a connection between (people or things)
@@ -93,14 +118,26 @@ alter	sửa đổi		h	to change the form or structure of
 alternate	luân phiên		h	being or succeeding by turns
 alternative	thay thế		h	relating to a choice
 alternative_medicine	y học thay thế		h	any of various medical methods and practices used in place of conventional medicine
-amazon	nữ chiến binh Amazon		l	tall, strong, athletic woman
+altitude	độ cao		h	distance measured upwards
+altogether	hoàn toàn		h	without exception; wholly; completely
+aluminium_oxide	nhôm oxit		h	alumina, Al2O3
+amazon	nữ chiến binh Amazon		h	Mythological female warrior
 ambition	tham vọng		h	desire
+ambush	cuộc phục kích		h	act
+american_bison	bò rừng bison châu Mỹ		h	mammal
+amino_acid	axit amin		h	any organic compound containing amino and carboxylic acid
+ammonium_nitrate	amoni nitrat		h	ammonium salt of nitric acid
 an	một		h	indefinite article
 anal	thuộc hậu môn		h	of, related to, intended for or involving the anus
 angeles	Angeles		h	city in the Philippines
+anglican_communion	Hiệp thông Anh giáo		h	worldwide network of churches
+anna	anna		l	former unit of Indian currency
+annoyed	bực mình		h	troubled, irritated by something unwanted or unliked; vexed
 annual	hằng năm		h	happening once a year
 annually	hằng năm		h	once every year
+annular_eclipse	nhật thực hình khuyên		h	type of solar eclipse
 anonymous	ẩn danh		h	wanting a name, not named and determined
+anorexia_nervosa	chứng chán ăn tâm thần		h	eating disorder characterized by self-starvation due to an irrational fear of gaining weight
 antique	cổ		h	old; out of date
 any	chút nào		l	at all
 anybody	người có tiếng tăm		l	(colloquial) a person of consideration or standing
@@ -109,11 +146,14 @@ anytime	bất cứ lúc nào		h	at any time
 anyway	dù sao đi nữa		h	used to indicate change of subject
 anywhere	bất cứ nơi đâu		h	in or at any location
 apart	riêng ra		h	separately, in regard to space or company
+apathy	sự thờ ơ		h	lack of emotion or motivation
 apocalypse	sự khải huyền		h	revealing or revelation
+apollo	Apollo		h	the son of Zeus
 apparatus	thiết bị		h	complex machine or instrument
 apparent	rõ ràng		h	visible
 apparently	rõ ràng		h	(archaic) plainly
 appeal	kháng cáo		h	application to a superior court or judge for a decision or order by an inferior court of judge to be reviewed and overturned
+applicable	có thể áp dụng		h	suitable for application; relevant
 applied	ứng dụng		h	put into practical use
 apply	áp vào		l	to lay or place; to put (one thing to another)
 appointment	sự bổ nhiệm		h	act of appointing; designation of a person to hold an office
@@ -126,6 +166,7 @@ apr	Tháng 4		h	abbreviation of April
 arbitrary	tùy ý		h	based on individual discretion or judgment
 arch	cổng vòm		h	inverted U shape
 area	diện tích		h	maths: measure of extent of a surface
+argentine	thuộc Argentina		h	pertaining to Argentina
 arise	đứng dậy		h	get up, stand up
 armed	có vũ trang		h	equipped, especially with a weapon
 arms	huy hiệu		h	heraldic design
@@ -153,16 +194,22 @@ assignment	sự phân công		h	act of assigning; allocation of tasks
 assistant	phụ tá		h	having a subordinate or auxiliary position
 associate	cộng sự		l	joined with others and having equal or near equal status
 associated	liên kết		h	person or thing connected with something
+assumed	giả		h	intended to deceive; fictitious
 assumption	giả định		h	supposition
 assure	cam đoan		h	to make sure and secure
+astronomical_unit	đơn vị thiên văn		h	measure of distance
 at_home	ở nhà		h	in one's place of residence
 at_last	cuối cùng		h	after a long time; eventually
 at_most	tối đa		h	at the most; at a maximum or upper limit
 at_once	cùng một lúc		h	at the same time
 atheist	người vô thần		h	a person who believes with certainty that no deities exist
+athletic	thuộc về thể thao		h	having to do with athletes
+athletics	điền kinh		l	(chiefly US) physical activities such as sports and games requiring stamina, fitness, and skill
 atlantic	thuộc Đại Tây Dương		h	pertaining to the Atlantic Ocean
+atmospheric	thuộc khí quyển		h	relating to the atmosphere
 atmospheric_pressure	áp suất khí quyển		h	pressure caused by weight of the atmosphere
 atomic	thuộc nguyên tử		h	of, or employing nuclear energy or processes
+attach	đính kèm		h	to fasten, to join to
 attached	đính kèm		h	connected, joined
 attachment	sự gắn bó		h	strong bonding towards or with
 attitude	tư thế		h	position of the body or way of carrying oneself
@@ -178,8 +225,10 @@ autograph	chữ ký		h	signature
 automatically	tự động		h	In an automatic manner
 autonomous_vehicle	xe tự lái		h	vehicle
 autumn	mùa thu		h	season
+auxiliary	phụ trợ		h	helping; giving assistance or support
 availability	tính sẵn có		h	the quality of being available
 available	có sẵn		h	capable of being used
+avatar	hình đại diện		h	personification or simulacrum
 average	giá trị trung bình		h	arithmetic mean
 aware	nhận thức được		h	vigilant, on one's guard
 awareness	ý thức		h	the state of consciousness
@@ -191,10 +240,19 @@ b	sinh		h	born
 babylon	Babylon		h	capital of Babylonia
 back	sau		h	near the rear
 backup	bản sao lưu		h	copy of file or record
+backward	về phía sau		h	in the direction towards the back
 badly	tệ		h	in a bad manner
 balance	sự cân bằng		h	awareness of both viewpoints
+balanced	cân bằng		h	even
+balearic_islands	quần đảo Balearic		h	group of Mediterranean islands
+bali	Bali		h	island of Indonesia
+balkan_peninsula	bán đảo Balkan		h	peninsula in southeastern Europe — see also Balkans
 balls	hòn dái		l	slang for testicles
+baltic	thuộc Baltic		h	of the Baltic region or sea
 bang	tiếng nổ		h	a sudden percussive noise
+bangs	tóc mái		h	hair that hangs down over the forehead
+banking	ngân hàng		h	occupation
+baptismal_font	bồn rửa tội		h	a basin used for baptism
 baptist	tín đồ Báp-tít		h	adherent of a Protestant denomination (or various subdenominations) of Christianity
 barbecue	bếp nướng		h	cooking instrument
 barcelona	Barcelona		h	capital of Catalonia
@@ -212,7 +270,8 @@ basis	cơ sở		h	starting point for an argument
 basketball_player	cầu thủ bóng rổ		h	person who plays basketball
 bass	trầm		h	low in pitch
 bass_guitar	guitar bass		h	electric stringed instrument
-batman	lính hầu cận		h	servant to an army officer — see also orderly
+batman	Batman		h	a city in Turkey
+baton	gậy chỉ huy		l	military staff of office
 bay_leaf	lá nguyệt quế		h	herb
 bbc	BBC		h	British Broadcasting Corporation
 bc	trước Công nguyên		h	before Christ — see also BCE
@@ -223,6 +282,8 @@ beat	nhịp		h	rhythm
 beating	sự đánh đập		h	action of the verb to beat
 beatles	The Beatles		h	rock music quartet
 becoming	sự trở thành		h	The act or process by which something becomes
+behalf	nhân danh		l	behalf
+behold	nhìn thấy		h	to see, to look at
 belfast	Belfast		h	capital of Northern Ireland
 belief	niềm tin		h	mental acceptance of a claim as truth
 believe	tin		h	to accept as true
@@ -244,20 +305,25 @@ bid	ra lệnh		h	to issue a command
 big_mac	Big Mac		h	burger
 big_toe	ngón chân cái		h	largest of the toes of the foot of a human
 bilingual	song ngữ		h	speaking two languages
+billboard	biển quảng cáo		h	large advertisement along side of highway
 billy_goat	dê đực		h	male goat
 bin	thùng chứa		h	container used for storage
 binary	nhị phân		h	being in a state of one of two mutually exclusive conditions such as on or off
 binding	có tính ràng buộc		h	imposing stipulations or requirements that must be honoured
 biological	thuộc sinh học		h	of biology
+biologist	nhà sinh vật học		h	student of biology; one versed in the science of biology
 bird_cherry	anh đào chim		l	Prunus padus
 birmingham	Birmingham		h	city and borough in England
 bisexual	song tính		h	sexually attracted to both men and women
 bit	hàm thiếc		h	metal in horse's mouth
 bitch	chó cái		h	female canine
 bitcoin	bitcoin		h	decentralized cryptocurrency using blockchain technology; unit of the cryptocurrency
+black_caraway	cây hắc kim		l	Nigella sativa — see also nigella
 black_child	đứa trẻ da đen		h	black child — see also pickaninny
+black_grouse	gà gô đen		l	Lyrurus tetrix
 blackberry	mâm xôi đen		h	shrub
 blast	luồng gió mạnh		h	violent gust of wind
+bleach	thuốc tẩy		h	chemical
 bleeding	đang chảy máu		h	losing blood
 blend	sự pha trộn		h	mixture
 blessing	phước lành		h	divine or supernatural aid or reward
@@ -271,15 +337,18 @@ blush	sự đỏ mặt		h	an act of blushing
 board_game	trò chơi bàn cờ		h	game played on a board
 bob	nhấp nhô		h	move vertically at surface of water
 bodily	thuộc cơ thể		h	relating to the body
+boiler	nồi hơi		h	device for heating circulating water
 bon_voyage	chúc thượng lộ bình an		h	wish of good journey
 bone	xương		h	material
 bonus	tiền thưởng		h	something extra that is good
 boost	sự thúc đẩy		h	push from behind
 booth	gian hàng		h	a small stall for the display and sale of goods
 booty	chiến lợi phẩm		h	plunder
+booze	rượu		h	any alcoholic beverage
 boring	sự khoan		h	the act or process of drilling holes.
 born	được sinh ra		h	given birth to
 bosnia	Bosnia		h	short for 'Bosnia and Herzegovina'
+bot	ấu trùng ruồi trâu		l	larva of a botfly
 boulder	tảng đá lớn		h	large mass of stone
 bound	bị ràng buộc		h	obliged to
 boundary	ranh giới		h	dividing line or location between two areas
@@ -291,11 +360,13 @@ brazilian	người Brazil		h	person from Brazil
 breach	lỗ hổng		h	a gap or opening made by breaking or battering
 bread_roll	ổ bánh mì nhỏ		h	miniature round loaf of bread
 breakdown	sự hỏng hóc		h	failure, particularly one which is mechanical in nature
+breakthrough	mang tính đột phá		h	characterized by major progress
 breed	sinh sản		h	to sexually produce offspring
 breeze	làn gió nhẹ		h	a light, gentle wind
 brexit	Brexit		h	withdrawal of the United Kingdom from the EU
 bride_price	sính lễ		h	sum paid to the family of the bride
 brief	ngắn ngủi		h	of short duration
+briefly	ngắn gọn		h	in a brief manner
 brilliant	sáng chói		h	shining brightly
 bristol	Bristol		h	city in south-west England
 british	người Anh		h	citizens or inhabitants of Britain
@@ -307,12 +378,16 @@ broadcasting	ngành phát thanh truyền hình		h	business or profession of radi
 broke	hết tiền		h	lacking money; bankrupt
 brooklyn	Brooklyn		h	borough of New York City
 brother_in_law	anh em đồng hao		h	husband of the sister of one's wife
+bruise	đánh bầm tím		l	strike (a person), giving them a bruise
+brussels_sprout	cải bruxelles		h	vegetable
 brutal	tàn bạo		h	savagely violent
 buck	con đực		l	male deer, goat, etc.
 buddy	anh bạn		h	friend or casual acquaintance
+buffer	người đánh bóng		l	someone or something that buffs
 building	sự xây dựng		h	act or process of building
 bulb	củ		h	bulb-shaped underground portion of a plant
 bulk	phần lớn		h	major part of something
+bum	mông		h	informal: butt(ocks) specifically
 bump	cú va chạm nhẹ		h	a light blow or jolting collision
 bun	bánh mì ngọt		l	a small bread roll, often sweetened or spiced
 burden	gánh nặng		h	heavy load
@@ -324,7 +399,9 @@ butler	quản gia		h	manservant having charge of wines and liquors
 buying	việc mua		h	act of making a purchase
 by_heart	thuộc lòng		h	Translations
 bye	lượt miễn đấu		l	The position of a person or team in a tournament or competition who draws no opponent in a particular round so advances to the next round unopposed
-c	khoảng		h	abbreviation of circa
+bypass	đường tránh		h	road
+c	đô		h	musical note
+cabaret	tạp kỹ		l	live entertainment held in a restaurant or nightclub
 cabbage	bắp cải		h	any of various cultivars
 cabin	nhà gỗ		h	small dwelling, especially one made of logs
 caesar	Caesar		h	ancient Roman family name
@@ -334,14 +411,17 @@ caliber	cỡ nòng		h	diameter of the bore of a firearm
 call_an_ambulance	gọi xe cứu thương		h	request to call an ambulance
 calling	thiên hướng		l	strong urge (to become or do something)
 calm	bình tĩnh		h	free from anger and anxiety
+cam	cam		h	mechanical part
 cambridge	Cambridge		h	city in England
 camp	trại		h	outdoor place
 can_i_come_in	tôi vào được không		h	phrase
 canada	Canada		h	country in North America
 cancel	gạch bỏ		h	cross out
+cancelled	bị hủy		h	No longer planned or scheduled
 cane	thân mây		l	slender flexible stem of plants such as bamboo
 canon	kinh điển		h	group of literary works accepted as representative
 cant	biệt ngữ		h	jargon of a particular class or subgroup
+canterbury	Canterbury		h	cathedral city in England
 canvas	vải bạt		h	type of coarse cloth
 capability	khả năng		h	the power or ability to generate an outcome
 capable	có năng lực		h	able and efficient
@@ -349,35 +429,52 @@ capacity	sức chứa		h	the ability to hold, receive, or absorb
 cape_of_good_hope	Mũi Hảo Vọng		h	a cape in southwestern South Africa
 cape_town	Cape Town		h	legislative capital of South Africa
 capitalist	tư bản chủ nghĩa		h	supporting or endorsing capitalism
+capsule	quả nang		l	botany: seed-case
 capture	sự bắt giữ		h	act of capturing
+carbonic_acid	axit cacbonic		h	A weak unstable acid, H2CO3
+cardiac	thuộc tim		h	pertaining to the heart
+cardiff	Cardiff		h	The capital city of Wales
 care	sự chăm sóc		h	close attention, concern or responsibility
 careful	cẩn thận		h	cautious
 carefully	cẩn thận		h	in a careful manner
 caribbean	thuộc Caribe		h	pertaining to the sea and region bounded by the American continent and the West Indies
+caring	chu đáo		h	kind, sensitive, empathetic
+carol	bài hát mừng		l	song of joy
 carrier	người vận chuyển		h	person or object that carries someone or something else
 carry_out	thực hiện		h	to fulfill — see also fulfill, realize
+carter	người đánh xe		l	person who transports a load on an animal-drawn cart
 cartoon	tranh biếm họa		h	humorous drawing or strip
 cartridge	hộp đạn		h	firearms package
 cashier	cách chức		h	to dismiss from service
 cast	đúc		h	to make by pouring into a mould
+casting	đúc		h	manufacturing process using a mold
 casual	ngẫu nhiên		h	happening by chance
+casualty	người thương vong		h	person
+catalan	người Catalonia		h	person from Catalonia
 catalogue	danh mục		h	a systematic list of names, books, pictures etc.
 catalonia	Catalonia		h	autonomous community in Spain
 catch	cú bắt bóng		h	the act of catching a ball
 cathedral	thuộc nhà thờ chính tòa		h	relating to the office of a bishop or an archbishop
-catholic	phổ quát		h	universal
+catholic	Công giáo		h	of the Western Christian church, as differentiated from the Orthodox church
 cattle	gia súc		h	domesticated bovine animals
 caution	lời cảnh báo		h	precept or warning against evil or danger
+cavity	hốc		h	hole or hollow depression
+cayman_islands	quần đảo Cayman		h	British territory in the Caribbean
 cease	ngừng		h	intransitive
 cedar	tuyết tùng		h	coniferous tree in genus Cedrus
 celebrate	tôn vinh		h	extol or honour in a solemn manner
+celebrated	nổi tiếng		h	famous or widely praised
 celebration	sự cử hành		h	formal performance of a solemn rite
+celestial	thuộc thiên thể		h	of, relating to, or located in the sky or outer space
 celtic	ngữ chi Celt		l	branch of languages
 central_america	Trung Mỹ		h	part of North America
 centre	Centre		l	administrative region of France
+centripetal_force	lực hướng tâm		h	the force on a rotating or orbiting body in the direction of the centre of rotation
 ceramic	bằng gốm		h	of or pertaining to ceramic as material
 ceremony	buổi lễ		h	official gathering to celebrate
 certainty	sự chắc chắn		h	state of being certain
+certification	sự chứng nhận		h	act of certifying
+challenging	đầy thách thức		h	difficult; hard to do
 chamber	phòng		h	room or set of rooms
 change	thay đồ		h	to replace one's own clothing
 changing_room	phòng thay đồ		h	1. room in gym, sports center, etc.
@@ -386,10 +483,12 @@ charge	cuộc xung phong		h	military: ground attack
 charm	bùa hộ mệnh		h	something with magic power
 charming	duyên dáng		h	pleasant, charismatic
 chase	cuộc rượt đuổi		h	action of the verb "to chase"
+cheating	sự gian lận		h	act of deception, fraud, trickery, imposture, or imposition
 check	sự kiểm tra		h	inspection or examination
 cheer	tiếng hoan hô		h	a cry of "hurrah", "hurray", "yeah", or some other word expressing joy
 chemical	thuộc hóa học		h	relating to chemistry
 chess_player	kỳ thủ cờ vua		h	a person who plays chess
+chest_of_drawers	tủ ngăn kéo		h	furniture for the storage of clothes
 chi	chi		h	Greek letter
 chick	chim non		h	young bird
 chief	thủ lĩnh		h	leader of group, etc.
@@ -398,6 +497,7 @@ childish	trẻ con		h	immature, unbecoming
 chill	cái lạnh		h	moderate, but uncomfortable coldness
 china	đồ sứ		h	porcelain tableware
 chip	mảnh vụn		h	small piece broken off
+cholesterol	cholesterol		h	an essential component of mammalian cell membranes
 chord	dây cung		h	straight line
 choreography	nghệ thuật biên đạo		h	art
 chosen	được chọn		h	picked
@@ -406,33 +506,44 @@ chronicle	biên niên sử		h	a written account
 chuck	thịt vai bò		h	meat from the shoulder of a cow
 church_of_scotland	Giáo hội Scotland		h	national Presbyterian church of Scotland
 cia	Cục Tình báo Trung ương		h	Central Intelligence Agency
+cider	rượu táo		h	alcoholic beverage
 circuit	mạch điện		h	enclosed path of electric current
 circular	hình tròn		h	of or relating to a circle
 circulation	sự tuần hoàn		h	act of moving in a circle
+civic	thuộc công dân		l	Having to do with a city or the people who live there
 civil	dân sự		h	related to people and government office as opposed to military or religion
+clap	tiếng vỗ tay		h	The act of striking the palms of the hands, or any two surfaces, together
+clarify	làm rõ		h	(transitive) to make clear or bright by freeing from impurities
 clarity	sự rõ ràng		h	the state or measure of being clear
+clash	tiếng va chạm		h	loud sound
 class	lớp		h	group, collection, category or set sharing characteristics or attributes
 cleaning	việc làm sạch		h	action in which something is cleaned
 clearing	khoảng đất trống		h	area of land within a wood or forest devoid of trees
 clearly	rõ ràng		h	in a clear manner
 cleveland	Cleveland		h	city in Ohio, United States
 clinical	thuộc lâm sàng		h	of or pertaining to a clinic
+cloak	áo choàng		h	cape
 closely	chặt chẽ		h	in a close manner
 closer	gần hơn		h	Translations
+closing	sự đóng cửa		h	the act by which something is closed
 closure	sự kết thúc		h	event signifying an ending
+clothes_peg	kẹp quần áo		h	an object used to attach wet laundry to a clothesline
 cluster	cụm		h	bunch or group of several discrete items that are close to each other
 clutch	nắm chặt		h	to grip or grasp tightly
 co	Công ty		h	company
 coach	cỗ xe ngựa		h	wheeled vehicle drawn by horse power — see also carriage
 coach_driver	người đánh xe ngựa		h	driver of a horse-drawn coach
 coastal	ven biển		h	relating to the coast
+coaster	tàu buôn ven biển		l	merchant vessel that stays in coastal waters
 cocaine	cocaine		h	the narcotic
 cock	chim trống		l	any male bird
 cognitive	thuộc nhận thức		h	relating to mental functions
+coil	cuộn		h	something wound
 coincidence	sự trùng hợp		h	state of events appearing to be connected when they are not
 coke	than cốc		h	coal product
 cola	cola		h	drink
 cold_weapon	vũ khí lạnh		h	weapon that does not use explosives or fire
+collaborate	cộng tác		h	to work together on a piece of work
 collaboration	sự hợp tác		h	act of collaborating
 collar	vòng cổ		h	device for restraining animal
 collected	bình tĩnh		h	Cool-headed, emotionally stable, in focus
@@ -441,11 +552,14 @@ college	trường cao đẳng		h	academic institution
 collision	sự va chạm		h	instance of colliding
 color_blindness	bệnh mù màu		h	condition in which the ability to see colors is impaired
 colored	có màu		h	having a color
+colt	ngựa non đực		h	young male horse
+columbia	Columbia		l	poetic: America
 combat	cuộc chiến đấu		h	a battle; a fight
 combination	sự kết hợp		h	act of combining
 combine	kết hợp		h	bring two or more things or activities together
 combined	kết hợp		h	resulting from adding together
 come_on	xuất hiện trên sân khấu		h	to appear on a stage or in a performance
+comeback	sự trở lại		h	return to fame etc.
 comet	sao chổi		h	a celestial body, generally with a tail
 comfort	sự thoải mái		h	contentment, ease
 comfortable	thoải mái		h	providing physical comfort and ease
@@ -459,7 +573,9 @@ commissioner	ủy viên		h	member of a commission
 commit	giao phó		h	to entrust; to consign
 commitment	sự cam kết		h	act or instance of committing, putting in charge, keeping, or trust
 committed	cam kết		h	obligated by a pledge to some course of action
+common_gull	mòng biển thường		l	Larus canus
 common_house_martin	nhạn nhà		l	Delichon urbicum
+common_snipe	choắt thường		l	the species Gallinago gallinago
 commonly	thường thường		h	as a rule; usually
 communicate	truyền đạt		h	to impart information or knowledge of; to make known, to tell
 compact	thỏa thuận		h	agreement or contract
@@ -467,12 +583,15 @@ comparable	có thể so sánh		h	able to be compared
 comparative	so sánh		h	of or relating to comparison
 compensation	sự bồi thường		h	act or principle of compensating
 compete	cạnh tranh		h	to contend
+competent	có năng lực		h	skilled
 competitive	cạnh tranh		h	of or pertaining to competition
+complement	phần bổ sung		h	4. something which complements
 completed	đã hoàn thành		h	finished
 completion	sự hoàn thành		h	making complete; conclusion
 complex	phức		h	in mathematics
 complexity	sự phức tạp		h	the state of being complex; intricacy; entanglement
 compliance	sự tuân thủ		h	act of complying
+composed	điềm tĩnh		h	showing composure
 composition	thành phần		h	mixture or compound
 compound	khu rào kín		l	enclosure within which workers, prisoners, or soldiers are confined
 comprehensive	toàn diện		h	broadly or completely covering
@@ -484,7 +603,9 @@ concern	mối quan tâm		h	that which affects one’s welfare or happiness
 concerned	lo lắng		h	showing concern
 concerning	đáng lo ngại		h	causing concern
 concert	phối hợp		h	to plan together
+conclude	kết thúc		h	to end
 concrete	cụ thể		h	particular, perceivable, real
+condemn	lên án		h	to strongly criticise or denounce; to excoriate
 conduct	sự điều hành		h	act or method of controlling or directing
 conductor	nhạc trưởng		h	person who conducts an orchestra, choir or other music ensemble
 cone	quả thông		h	fruit of conifers
@@ -494,6 +615,7 @@ confidence	sự tin cậy		h	quality of trusting
 confidential	bí mật		h	meant to be kept secret within a certain circle
 confirmed	cố hữu		l	having a settled habit; inveterate or habitual
 confrontation	sự đối đầu		h	the act of confronting or challenging another, especially face-to-face
+confuse	làm bối rối		h	to puzzle, perplex, baffle, bewilder somebody
 confused	bối rối		h	unable to think clearly or understand
 confusing	khó hiểu		h	difficult to understand
 confusion	sự nhầm lẫn		h	lack of clarity or order
@@ -502,6 +624,7 @@ connected	liên thông		h	topology: cannot be partitioned into two nonempty open
 connecticut	Connecticut		h	a state of the United States of America
 connection	sự kết nối		h	act of connecting
 conscious	có ý thức		h	alert, awake
+consequently	do đó		h	as a result or consequence
 conservation	sự bảo tồn		h	The act of preserving, guarding, or protecting
 conservative	người bảo thủ		h	political conservative
 consider	cân nhắc		h	think about seriously
@@ -509,19 +632,26 @@ considerable	đáng kể		h	worth considering
 consideration	sự cân nhắc		h	process of considering
 considering	xét cho cùng		h	given the circumstances; all in all; all things considered
 consist	gồm có		h	to be composed (of)
+consistency	tính nhất quán		h	reliability or uniformity; the quality of being consistent
 consistent	nhất quán		h	of a regularly occurring, dependable nature
+consistently	một cách nhất quán		h	in a consistent manner
 console	máy chơi game		h	video games: device dedicated to playing video games
 constant	không đổi		h	unchanged through time
 constitutional	thuộc hiến pháp		h	relating to a legal or political constitution
 construct	cấu trúc		h	something constructed from parts
 consumption	sự tiêu thụ		h	the act of consuming something
 contain	chứa		h	hold inside
+contamination	sự ô nhiễm		h	the act or process of contaminating
 contempt	sự khinh miệt		h	a feeling or attitude
 content	hài lòng		h	satisfied
 contest	cuộc tranh cãi		h	controversy
+continental	thuộc lục địa		h	of or relating to a continent or continents
+continuation	sự tiếp tục		h	act or state of continuing
 continued	liên tục		h	uninterrupted
+continuity	tính liên tục		h	lack of interruption
 continuously	liên tục		h	without pause
 contractor	nhà thầu		h	A person or company that constructs or improves buildings or structures
+contrary	trái ngược		h	opposite; in an opposite direction; in opposition; adverse
 contrast	độ tương phản		h	difference that makes colours more or less distinguishable
 contribution	sự đóng góp		h	something given or offered that adds to a larger whole
 control_tower	tháp kiểm soát không lưu		h	airport control tower
@@ -532,13 +662,22 @@ convenience	sự tiện lợi		h	quality of being suitable, useful or convenient
 convention	hội nghị		h	meeting or a gathering
 conversion	sự chuyển đổi		h	the act of having converted something or someone
 convert	chuyển đổi		h	transform (something) into another form, substance, state, or product
+convey	vận chuyển		h	to carry
 conviction	niềm tin vững chắc		h	firmly held belief
 convinced	tin chắc		h	in a state of believing, especially from evidence
+convincing	thuyết phục		h	effective as proof or evidence
+convoy	đoàn tàu hộ tống		h	merchant ships sailing in company under the protection of naval vessels
+cookbook	sách nấu ăn		h	book of cooking recipes
+cooked	đã nấu chín		h	of food, that has been prepared by cooking
 cooking	việc nấu ăn		h	1. the process of preparing food by using heat
 cooling	làm mát		h	that cools
 cooper	thợ đóng thùng		h	craftsman
 cooperative	hợp tác		h	ready to work with another
+coordination	sự phối hợp		h	the act of coordinating, making different people or things work together for a goal or effect
+coordinator	người điều phối		h	one who coordinates
 cop	tóm		h	to capture, to take (informal)
+cops	cảnh sát		h	law enforcement
+cor_anglais	kèn cor anglais		h	woodwind instrument
 cord	dây		h	length of twisted strands
 core	lõi		h	heart of a thing
 cork	bần		h	phellem of the cork oak
@@ -547,13 +686,18 @@ corporate	thuộc tổ chức		l	of, or relating to an institution; institutiona
 corporation	tập đoàn		h	body corporate with legal personality
 correction	sự sửa chữa		h	act of correcting
 correctly	chính xác		h	in a correct manner
+correlation	mối tương quan		h	measure of relationship
+correspondence	thư từ		h	reciprocal exchange of civilities, especially by letters
 correspondent	tương ứng		h	conforming
+corresponding	tương ứng		h	that have a similar relationship
 cost	tốn		h	to incur a charge, a price
 cottage	nhà nhỏ		h	a small house; a cot; a hut
 counsel	sự tư vấn		h	consultation
+counselor	nhà tư vấn		h	professional who counsels people
 countless	vô số		h	too many to count, innumerable
 county	hạt		l	land ruled by a count or countess
 coupon	phiếu giảm giá		h	section of a ticket giving the holder some entitlement
+courier	người đưa thư		h	person who delivers messages
 covered	được che phủ		h	overlaid or enclosed within something
 covering	lớp phủ		h	that which covers something
 cowardly	hèn nhát		h	showing cowardice
@@ -561,13 +705,17 @@ crack	nứt		h	to form cracks
 craft	tay nghề		h	skill in one's work
 crap	đồ rác rưởi		h	something of poor quality
 creation	tác phẩm		h	something created such as an invention or artwork
+credibility	uy tín		h	reputation impacting one's ability to be believed
 credit	tin		h	to believe
 creek	lạch		h	small inlet or bay
+crest	đỉnh		h	summit of a hill or mountain ridge
+crete	Crete		h	island
 crew	đội ngũ		h	group of people operating a large facility or piece of equipment
 criminal	phạm pháp		h	being against the law
 crimson	đỏ thẫm		h	deep, slightly bluish red
 critic	nhà phê bình		h	person who appraises the works of others
 critical	phê phán		h	relating to criticism
+crooked	cong queo		h	having one or more bends or angles
 crop	cây trồng		h	plant grown for any economic purpose
 crossing	ngã tư		h	intersection where roads, lines, or tracks cross
 crowd	chen chúc		h	to press together in numbers
@@ -577,12 +725,17 @@ cruise	chuyến du thuyền		h	sea voyage
 crusade	cuộc thập tự chinh		h	military expedition
 crush	cảm nắng		h	love or infatuation or its object (often short-lived or unrequited)
 crying	đang khóc		h	that cries
+cub	thú con		h	the young of certain animals
+cuban	người Cuba		h	a person from Cuba
+cue	tín hiệu		h	action or event that is a signal to do something
 curb	lề đường		h	concrete along the edge of a road
 cure	thuốc chữa		h	method, device or medication that restores good health
+curl	lọn tóc xoăn		h	curving lock of hair
 currently	hiện nay		h	at this moment
 custody	quyền giám hộ		h	legal right to take care of something or somebody
 customs	thuế quan		h	the duties or taxes imposed on imported or exported goods
 cut	cắt		h	to divide with a sharp instrument
+cutter	tàu tuần tra		l	heavy-duty motor boat for official use
 cutting	việc cắt		h	action of the verb to cut
 cycle	vòng quay		h	complete rotation
 cyclist	người đi xe đạp		h	person who rides a cycle
@@ -591,6 +744,9 @@ d_oh	ối giời ơi		l	expression of frustration
 dale	thung lũng		h	valley
 dallas	Dallas		h	city in Texas
 damage	thiệt hại		h	abstract measure of something not being intact; harm
+damages	tiền bồi thường thiệt hại		h	money awarded to a claimant
+dammit	chết tiệt		h	expression of anger or disappointment
+damned	đáng nguyền rủa		h	god-forsaken
 dance_floor	sàn nhảy		h	an area for dancing
 dancing	khiêu vũ		h	activity of dancing
 dane	người Đan Mạch		h	person from Denmark
@@ -612,8 +768,10 @@ debut	màn ra mắt		h	a performer's first-time performance to the public
 dec	Tháng 12		h	abbreviation of December
 decay	sự phân hủy		h	process or result of being gradually decomposed
 deceased	đã qua đời		h	no longer alive
+deceit	sự lừa dối		h	act or behavior intended to deceive
 decent	đàng hoàng		h	showing integrity, fairness, moral uprightness
 decided	dứt khoát		h	determined
+decisive	quyết định		h	having the power or quality of deciding a question or controversy
 deck	boong tàu		h	floorlike covering on a ship
 declaration	lời tuyên bố		h	written or oral indication of a fact, opinion, or belief
 declare	tuyên bố		h	to make a declaration
@@ -622,17 +780,22 @@ decoration	sự trang trí		h	act of adorning
 decrease	giảm		h	become smaller
 decree	sắc lệnh		h	edict or law
 dedicated	tận tụy		h	devoted, loyal, conscientious
+dedication	lời đề tặng		h	note prefixed to a work of art
 deed	hành động		h	action
 deeply	sâu sắc		h	to a deep extent
+defamation	sự phỉ báng		h	act of injuring another's reputation by any slanderous communication
 default	sự vỡ nợ		h	finance: condition of failing to meet an obligation
+defeated	bị đánh bại		h	subjugated, beaten, overcome
 defensive	phòng thủ		h	intended for defence; protective
 define	xác định		h	to determine
 defined	được định nghĩa		h	having a definition or value
 definitely	chắc chắn		h	without question and beyond doubt
+delaware	Delaware		h	US state
 delay	sự trì hoãn		h	period of time before an event occurs; act of delaying
 deliberate	cố ý		h	intentional
 deliberately	cố tình		h	intentionally
 delicate	dễ vỡ		h	easily damaged or requiring careful handling
+delighted	vui mừng		h	Greatly pleased
 deliver	giải thoát		h	to set free
 delivery	sự giao hàng		h	act of conveying something
 delta	delta		h	fourth letter of modern Greek alphabet
@@ -640,18 +803,23 @@ demographic	thuộc nhân khẩu học		h	of or pertaining to demography
 demonstrate	trình diễn		h	to show how to use something
 denial	sự phủ nhận		h	assertion of untruth
 dental	âm răng		l	phonetics
+denver	Denver		h	capital of Colorado
 dependence	sự phụ thuộc		h	state of being dependent
 dependent	phụ thuộc		h	relying upon; depending upon
 depression	chứng trầm cảm		h	psychology: state of mind
+derby	cuộc đua ngựa Derby		l	horse race
+derivative	phái sinh		h	obtained by derivation
 descendant	hậu duệ		l	descending from (an ancestor)
 descent	sự đi xuống		h	instance of descending
 design	bản thiết kế		h	plan
+desirable	đáng mong muốn		h	suitable to be desired
 desire	khao khát		h	wish for earnestly
 desktop	mặt bàn		h	the top surface of a desk
 despair	tuyệt vọng		h	to despair of
 desperate	tuyệt vọng		h	filled with despair
 destruction	sự phá hủy		h	act of destroying
 detailed	chi tiết		h	characterized by attention to detail and thoroughness of treatment
+detention	sự giam giữ		h	act or state
 determination	sự xác định		h	act of determining, or the state of being determined
 determine	xác định		h	to set the limits of
 determined	quyết tâm		h	decided or resolute
@@ -659,7 +827,9 @@ detroit	Detroit		h	largest city and former capital of Michigan
 developed	phát triển		h	(of a country) not primitive; not third world
 developing	đang phát triển		h	of a country
 devil	Quỷ Satan		h	the devil: the chief devil
+devoted	tận tâm		h	vowed; dedicated; consecrated
 devotion	lòng tận tụy		h	the act or state of devoting or being devoted
+diabetes_mellitus	bệnh đái tháo đường		h	medical disorder
 diagram	sơ đồ		h	plan, drawing, sketch or outline to show workings or parts relationships
 dial	mặt số		h	graduated, circular scale over which a needle moves
 diesel_engine	động cơ diesel		h	type of engine
@@ -679,7 +849,11 @@ disability	tình trạng khuyết tật		l	legal incapacity or incompetency
 disable	tắt		h	to deactivate a function of an electronic or mechanical device
 disabled	khuyết tật		h	having a disability
 disagree	không đồng ý		h	to fail to agree
+disappearance	sự biến mất		h	action of disappearing or vanishing
+disappointing	đáng thất vọng		h	that disappoints or disappoint
 discharge	hoàn thành		h	to accomplish or complete, as an obligation
+disclosure	sự tiết lộ		h	the act of revealing something
+discourse	cuộc đối thoại		l	verbal exchange or conversation
 discussion	cuộc thảo luận		h	conversation or debate
 disgrace	sự ô nhục		h	condition of being out of favor
 disgust	làm ghê tởm		h	to cause an intense dislike for something
@@ -690,9 +864,12 @@ distinct	rõ ràng		h	very clear
 distinction	sự khác biệt		h	that which distinguishes; a single occurrence of a determining factor or feature, the fact of being divided; separation, discrimination
 distinguished	lỗi lạc		h	celebrated, well-known or eminent because of past achievements; prestigious
 distress	nỗi đau khổ		h	(cause of) discomfort
+distribute	phân phát		h	to divide into portions and dispense
 distribution	sự phân phối		h	act of distribution or being distributed
 diverse	đa dạng		h	consisting of different elements — see also various
+divided	bị chia cắt		h	separated or split into pieces
 divine	thần thánh		h	of or pertaining to a god
+diving	lặn		h	practice of swimming underwater
 division	sự chia		h	act or process of dividing anything
 divorced	đã ly hôn		h	having had one's marriage legally dissolved
 do_you_believe_in_god	bạn có tin vào Chúa không		h	do you believe in God?
@@ -705,6 +882,7 @@ doe	hươu cái		h	female deer
 doing	hành động		h	a deed or action
 domestic	thuộc gia đình		h	of or relating to the home
 dominant	âm át		h	tone of a musical scale
+dominate	thống trị		h	to govern, rule or control by superior authority or power
 don	ông trùm		h	mafia boss
 donor	người hiến tặng		h	one who donates
 dopamine	dopamine		h	neurotransmitter
@@ -715,15 +893,18 @@ draft	gió lùa		h	current of air coming in
 drag	lực cản		h	resistance of the air or some other fluid
 drake	vịt đực		h	male duck
 dramatic	thuộc kịch		h	of or relating to the drama
+dressed	mặc quần áo		h	having clothes on
 dressing	băng gạc		h	material applied to a wound
 dressing_gown	áo choàng ngủ		h	item of clothing
 dressing_table	bàn trang điểm		h	low table equipped with mirror for dressing and makeup
 dried	đã khô		h	without water or moisture
 drinking	việc uống		h	act or session by which drink is consumed
+driven	được dẫn động		l	(mechanical sense)
 driving	dẫn động		l	that drives
 drone	ong đực		h	male bee
 drove	đàn gia súc		h	number of cattle driven to market or new pastures
 drug_addict	người nghiện ma túy		h	person with a chemical or psychological dependency on drugs
+drummer	người chơi trống		h	one who plays the drums
 du_a	dua		l	(Islam) private prayer by an individual — see also prayer
 dual	kép		h	double
 duchess	nữ công tước		h	female spouse or widow of a duke
@@ -746,7 +927,7 @@ east_berlin	Đông Berlin		h	the Soviet sector of Berlin between 1949 and 1990
 eating	ăn tươi		h	suitable to be eaten without cooking
 ecological	thuộc sinh thái		h	relating to ecology
 economy	kinh tế		h	effective management of the resources of a community or system
-ed	ấn bản		h	edition
+ed	khoa cấp cứu		h	emergency department
 editing	việc biên tập		h	an act or instance of something being edited
 editor	biên tập viên		h	person who edits
 editorial	thuộc biên tập		h	of or relating to an editor, editing, or an editorial
@@ -755,9 +936,11 @@ educated	có học thức		h	having attained a level of higher education
 educational	thuộc giáo dục		h	of or pertaining to education
 effective	hiệu quả		h	having the power to produce a required effect or effects
 effectively	hiệu quả		h	in an efficient or effective manner; with powerful effect
+effectiveness	hiệu quả		h	property
 efficiency	hiệu suất		h	extent to which a resource is used for the intended purpose
 efficient	hiệu quả		h	making good use of resources
 ego	bản ngã		h	psychoanalytic ego
+eid_al_fitr	Lễ Eid al-Fitr		h	religious festival
 eight_hundred	tám trăm		h	cardinal number 800
 eighteenth	thứ mười tám		h	the ordinal form of the number eighteen — see also 18th
 eighty_six	tám mươi sáu		h	cardinal number 86
@@ -765,6 +948,7 @@ either	mỗi		l	each of two
 elaborate	tỉ mỉ		h	detailed
 elderly	cao tuổi		h	old
 elect	người được chọn		h	One chosen or set apart
+electoral	thuộc bầu cử		h	of, or relating to elections
 electronic	điện tử		h	pertaining to electrons
 elementary	sơ cấp		h	relating to the basic, essential or fundamental part of something
 elements	thời tiết		l	weather
@@ -775,10 +959,18 @@ eliminate	loại bỏ		h	completely destroy
 elite	thượng lưu		h	of high birth or social position
 elm	cây du		h	tree of genus Ulmus
 else	khác		h	other
+elsewhere	nơi khác		h	in some other place
+embargo	lệnh cấm vận		h	an order by the government prohibiting ships from leaving port
 embarrassing	gây xấu hổ		h	causing embarrassment
+embroidery	nghề thêu		h	art
+emerge	xuất hiện		h	to come into view
 emotional	xúc động		h	characterised by emotion
 emphasis	sự nhấn mạnh		h	special weight or forcefulness given to something considered important
+employed	có việc làm		h	working
 enable	bật		h	to activate a function of an electronic or mechanical device
+encouragement	sự khích lệ		h	the act of encouraging
+encouraging	đầy khích lệ		h	giving courage, confidence or hope
+endeavor	nỗ lực		h	a sincere attempt
 ending	phần kết		h	termination or conclusion
 endless	vô tận		h	having no end
 enforcement	sự thực thi		h	act of enforcing; compulsion
@@ -786,13 +978,17 @@ engage	thu hút		h	to engross or hold the attention of someone
 engaged	đã đính hôn		h	agreed to be married
 engineering	ngành kỹ thuật		h	application of science to the needs of humanity
 english	cú xoáy		l	spinning or rotary motion around the vertical axis
+enhance	nâng cao		h	augment or make something greater — see also augment, boost, upgrade, improve, develop, potentiate
 enlightenment	sự khai sáng		h	act of enlightening, state of being enlightened
+enmity	sự thù địch		h	hostile or unfriendly disposition
 ensure	đảm bảo		h	make sure or certain
+entertaining	giải trí		h	amusing
 entirely	hoàn toàn		h	to the full extent
 entitled	có quyền		h	having a right to something
 entity	thực thể		h	that which exists as an individual unit
 entry	sự đi vào		h	act of entering
 environmental	thuộc môi trường		h	pertaining to the environment
+ephesians	Thư Ê-phê-sô		h	book of the Bible
 episode	tập		h	incident or action connected with a series of events
 equal	bằng nhau		h	the same in all respects
 equality	sự bình đẳng		h	fact of being equal
@@ -809,16 +1005,21 @@ eternal	vĩnh cửu		h	lasting forever
 eternity	sự vĩnh hằng		h	infinite time
 ethical	thuộc đạo đức		h	of or relating to the study of ethics
 eu	Liên minh châu Âu		h	European Union — see also European Union, EUSSR
+eurasian_woodcock	mỏ nhát Á-Âu		l	Scolopax rusticola
 european_parliament	Nghị viện châu Âu		h	legislative chamber of the European Union
+evaluate	đánh giá		h	to draw conclusions from by examining
 evaluation	sự đánh giá		h	assessment
 eve	đêm trước		h	day or night before
 evening	buổi tối		h	time of day between the approximate time of midwinter dusk and midnight
+evident	hiển nhiên		h	obviously true
 evil_eye	ác nhãn		l	wicked look conveying dislike or envy believed to be able to cause bad luck or injury; the ability to cause bad luck or injury through such a look
 evolution	sự tiến hóa		h	general: a gradual process of development
+ex	người yêu cũ		h	colloquial: former partner or spouse
 exact	chính xác		h	precisely agreeing
 exactly	chính xác		h	in an exact manner
 examination	sự khám bệnh		h	inspection by a doctor
 examine	kiểm tra		h	to observe or inspect carefully or critically
+exceed	vượt quá		h	to be larger, greater than something else or than expected or desirable
 excellence	sự xuất sắc		h	the quality of being excellent
 exceptional	ngoại lệ		h	forming an exception
 excessive	quá mức		h	exceeding the bounds of something
@@ -830,6 +1031,7 @@ execute	xử tử		h	to kill as punishment
 execution	sự thi hành		h	act of executing or the state of being executed
 executive	thực thi		l	designed for execution
 exhaust	rút cạn		h	to draw or let out wholly; to drain off completely
+exhausted	kiệt sức		h	very tired
 exile	người lưu vong		h	someone who is banished from one's home or country
 existing	hiện có		h	that exists
 exodus	Xuất Hành		h	departure of Hebrew slaves
@@ -837,14 +1039,18 @@ expand	mở rộng		h	(transitive) to increase the extent, number, volume or sco
 expansion	sự mở rộng		h	act of expanding
 expectation	sự kỳ vọng		h	that which is expected or looked for
 expected	dự kiến		h	anticipated; thought to be about to arrive or occur
+expedition	cuộc thám hiểm		h	An important enterprise, implying a change of place
 expense	chi phí		h	a spending or consuming; disbursement; expenditure
 experienced	có kinh nghiệm		h	having experience
 experimental	thực nghiệm		h	of or pertaining to an experiment
 expert	lão luyện		h	extraordinarily capable or knowledgeable
+expertise	chuyên môn		h	great skill or knowledge
 explanation	lời giải thích		h	the act or process of explaining
+explicitly	một cách rõ ràng		h	in an explicit manner
 exploit	chiến công		h	heroic or extraordinary deed
 exploitation	sự khai thác		h	act of exploiting
 exploration	sự thám hiểm		h	act of exploring
+explorer	nhà thám hiểm		h	person who explores
 explosion	vụ nổ		h	violent release of energy
 explosive	dễ nổ		h	with the capability to, or likely to, explode
 export	xuất khẩu		h	of or relating to exportation or exports
@@ -857,12 +1063,19 @@ extend	mở rộng		h	to increase in extent
 extended	kéo dài		h	longer in length or extension; elongated
 extensive	rộng rãi		h	wide
 extent	phạm vi		h	range of values or locations
+exterior	bên ngoài		h	relating to the outside parts or surface
 external	bên ngoài		h	outside of something
+extinct	tắt		l	of fire, etc.: no longer alight; of a light, etc.: no longer shining — see also extinguished, quenched
 extinction	sự tuyệt chủng		h	the action of making or becoming extinct
 extract	chất chiết xuất		h	something extracted
+eyewitness	nhân chứng		h	person who has seen and can testify about an event
 ezra	E-xơ-ra		h	book of the Bible
 f	giống cái		h	feminine — see also feminine
+fabulous	hoang đường		l	of the nature of a fable; unhistorical
+facade	mặt tiền		h	face of a building
 facebook	danh bạ		l	a reference book or electronic directory
+facial	thuộc khuôn mặt		h	of the face
+facilitate	tạo điều kiện thuận lợi		h	to make easy or easier
 facility	cơ sở vật chất		h	physical means or contrivance for doing something
 facing	lớp ốp mặt ngoài		l	The most external portion of exterior siding
 factor	yếu tố		h	integral part
@@ -872,6 +1085,7 @@ failed	thất bại		h	unsuccessful
 faint	mờ nhạt		h	lacking distinctness, hardly perceptible
 fair	xinh đẹp		h	pretty or attractive
 fairly	một cách công bằng		h	in a fair manner
+falkland_islands	quần đảo Falkland		h	British overseas territory in the South Atlantic
 fallen	đã rơi		h	having dropped by the force of gravity
 falls	thác nước		h	waterfall
 false_friend	từ dễ gây nhầm lẫn		l	type of word
@@ -883,9 +1097,12 @@ farewell	lời từ biệt		h	a wish of happiness at parting
 fascinating	cuốn hút		h	having interesting qualities; captivating; attractive
 faster	người nhịn ăn		h	one who fasts
 fatal	định mệnh		l	proceeding from fate
+fatty	nhiều chất béo		h	containing fat
 fatty_acid	axit béo		h	acid
 fault	khuyết điểm		h	defect
 fbi	Cục Điều tra Liên bang Mỹ		h	Federal Bureau of Investigation
+fearless	không sợ hãi		h	free from fear
+feasible	khả thi		h	that can be done in practice
 feat	kỳ công		h	an accomplishment that's relatively rare or difficult
 feature	điểm nổi bật		h	important or main item
 feb	Tháng 2		h	abbreviation of February
@@ -896,8 +1113,11 @@ fell	quật ngã		l	to make something fall
 fellow	bạn đồng hành		h	companion; comrade — see also companion, comrade, friend
 felt	nỉ		h	cloth made of matted fibres of wool
 feminist	thuộc nữ quyền		h	relating to or in accordance with feminism
+fencing	đấu kiếm		h	sport
+fertility	độ màu mỡ		l	the condition, or the degree of being fertile
 fewer	ít hơn		h	comparative of few; a smaller number
 fiction	văn học hư cấu		h	literary type
+fictional	hư cấu		h	invented, as opposed to real
 field_hockey	khúc côn cầu trên cỏ		h	form of hockey
 fierce	dữ dội		h	extremely violent, severe, ferocious or savage
 fifty_eight	năm mươi tám		h	cardinal number
@@ -906,45 +1126,61 @@ fighting	đang đánh nhau		h	engaged in a fight
 fill	đổ đầy		h	add contents to, so it is full
 filled	đã đầy		h	that is now full
 filling	chắc bụng		h	of food, that satisfies the appetite by filling the stomach
+filming	việc quay phim		h	the action of the verb "to film"
+filthy	bẩn thỉu		h	covered with filth; very dirty
 final	kỳ thi cuối kỳ		h	test or examination given at the end of a term or class
 finale	màn kết		h	grand end of something, especially a show or a piece of music
 financial	thuộc tài chính		h	related to finances
 financial_market	thị trường tài chính		h	market where financial securities and commodities are bought and sold
+finch	chim sẻ đồng		l	any bird of the family Fringillidae
 finding	kết quả nghiên cứu		h	result of research or an investigation
 fine	hảo hạng		h	of superior quality
 finished	đã hoàn thiện		h	processed or perfected
+finite	hữu hạn		h	having an end or limit
 finn	người Phần Lan		h	national of Finland
 fired	bị sa thải		h	dismissed
+firing	sự bắn		h	discharge
 firm	công ty		h	business partnership
 fiscal	tài khóa		h	related to the treasury
 fisher	ngư dân		h	person who fishes
 fit	phù hợp		h	suitable, proper
 fitness	thể hình		h	cultivation of an attractive and healthy physique
+fitting	phù hợp		h	appropriate, suitable — see also appropriate, suitable, adequate, apt, convenient, favorable, opportune
 five_hundred	năm trăm		h	cardinal number 500
 fixed	cố định		h	not changing, not able to be changed, staying the same
 flash	làm lóe sáng		h	to cause to shine
+flaw	khuyết điểm		h	defect, fault
 flesh	thịt		h	body tissue
 flexibility	sự linh hoạt		h	quality of being flexible
+flip	cú lộn nhào		h	maneuver which rotates an object end-over-end
+floppy_disk	đĩa mềm		h	flexible disk used for storing digital data
 floral	thuộc hoa		h	of or pertaining to flowers
 florida	Florida		h	American state
+flush	xua ra khỏi chỗ ẩn		l	to cause to take flight from concealment
 fly	con ruồi		h	insect of the family Muscidae
 flying	biết bay		h	that can fly
 focused	tập trung		h	directing all one's efforts towards a goal
+fodder	thức ăn gia súc		h	food for animals
 folk	người dân		h	inhabitants of a region
 following	tiếp theo		h	next in sequence or time
+fond	yêu quý		h	affectionate
 footage	cảnh quay		h	amount of film that has been used
 footballer	cầu thủ bóng đá		h	one who plays football
+footprint	dấu chân		h	the impression of the foot
 for_god_s_sake	trời ơi		h	exclamation of anger, surprise, or impatience
 for_sale	để bán		h	being offered for purchase
 forbidden	bị cấm		h	not allowed
 forced	bị ép buộc		h	obtained forcefully
 forces	lực lượng		h	troops
+forearm	cẳng tay		h	part of the arm
 forecast	dự báo		h	estimate future conditions
+foreman	đốc công		h	leader of a work crew
 forgotten	bị lãng quên		h	of which knowledge has been lost, which is no longer remembered
 fork	nĩa		h	pronged tool
 formal	trang trọng		h	being in accord with established forms
 formation	sự hình thành		h	act of assembling a group or structure
 formerly	trước đây		h	at some time in the past
+forth	về phía trước		l	forward in time, place or degree
 fortunately	may mắn thay		h	it is fortunate that
 fortune	số phận		h	destiny
 forty_eight	bốn mươi tám		h	48
@@ -959,7 +1195,9 @@ foster	nhận nuôi		h	providing parental care to unrelated children
 foul	bẩn thỉu		h	covered with, or containing, extraneous matter
 found	thành lập		h	to start an organization
 foundation	sự thành lập		h	act of founding
+founded	có cơ sở		l	having a basis
 four_hundred	bốn trăm		h	cardinal number 400
+fourteenth	thứ mười bốn		h	ordinal form of the number fourteen — see also 14th
 fracture	sự gãy		h	act of breaking, or something broken
 fragment	mảnh vỡ		h	portion or segment of an object
 frame	đóng khung		h	add a decorative border to a picture
@@ -967,11 +1205,15 @@ framework	khung sườn		h	the arrangement of support beams that represent a bui
 franchise	quyền bầu cử		h	right to vote at a public election
 frank	thẳng thắn		h	bluntly honest
 frankly	thẳng thắn mà nói		h	in a frank, open or (too) honest manner
+freak	người lập dị		l	nonconformist, especially in appearance, sexual orientation, gender identity, or business practices
 free_software	phần mềm tự do		h	software that can be freely copied and modified
 free_time	thời gian rảnh		h	time when one is not working
+freezing	lạnh cóng		h	very cold
 freight	vận tải hàng hóa		h	transportation of goods
 french	cắt thành sợi		l	prepare food by cutting it into strips
+frequency_modulation	điều tần		h	use of a modulating wave
 frequently	thường xuyên		h	at frequent intervals
+freshman	sinh viên năm nhất		h	a person of either sex entering the first year of an institution
 friction	ma sát		h	The rubbing of one object or surface against another
 fried	chiên		h	cooked by frying
 fringe	tua		h	decorative border
@@ -984,6 +1226,7 @@ frustration	sự thất vọng		h	act of frustrating
 fuck_off	cút đi		h	to go to hell, disappear, screw oneself
 fucked	hỏng bét		h	broken
 fucking	sự giao cấu		h	an act of sexual intercourse
+fulfill	thực hiện		h	to carry out — see also carry out, realize
 fun	niềm vui		h	enjoyment or amusement
 functional	còn hoạt động		h	in good working order
 fundamental	nguyên tắc cơ bản		h	a leading or primary principle, rule, law, or article
@@ -998,9 +1241,11 @@ fusion	phản ứng nhiệt hạch		h	nuclear reaction in which nuclei combine
 gain	đạt được		h	acquire
 gallery	phòng trưng bày		h	institution, building, or room for the exhibition and conservation of works of art
 gamble	canh bạc		h	a risk undertaken with a potential gain
+gamma	gamma		h	third letter of the Greek alphabet
 gangster	tên xã hội đen		h	street gang member
 gap	khe hở		h	opening made by breaking or parting
 gardening	việc làm vườn		h	the care of a garden
+garment	áo quần		l	single item of clothing
 garrison	đồn binh		h	post
 gas_turbine	tua bin khí		h	gas turbine
 gasoline	xăng		h	motor fuel
@@ -1011,22 +1256,29 @@ gear	số		h	a particular combination or choice of interlocking gears
 genealogy	phả hệ		h	descent of a person, family or group from ancestors
 general	chung		h	involving every part or member, not specific or particular
 generally	nói chung		h	popularly or widely
+generic	chung chung		h	very comprehensive
+generosity	sự hào phóng		h	trait of being willing to donate
 generous	rộng lượng		h	noble in behaviour, magnanimous
 genetic	thuộc di truyền		h	relating to genetics or genes
+genie	thần đèn		h	an unseen being in Muslim theology
 genitalia	cơ quan sinh dục		h	genitals or sex organs — see also sex organ
 genoa	Genova		h	Italian city
 genre	thể loại		h	kind; type; sort
 gentle	dịu dàng		h	tender and amiable
 gentleman	quý ông		h	man of breeding
 genuine	thật		h	real, authentic
+georgetown	Georgetown		h	capital of Guyana
 german	ruột		l	(brother or sister) sharing parents
 getting	việc nhận được		h	act of obtaining or acquiring
+ghetto	khu ổ chuột		l	area of a city where people of an ethnic group are concentrated
 gibraltar	Gibraltar		h	British overseas territory
 given	xét rằng		h	considering, taking into account
 giving	hào phóng		h	generous
 glance	liếc nhìn		h	to look briefly at (something)
 glasgow	Glasgow		h	largest city of Scotland
+glitter	ánh lấp lánh		h	bright, sparkling light; brilliant and showy luster; brilliancy
 glory	vinh quang		h	great beauty or splendour
+glow	phát sáng		h	to emit heat and light without a flame
 god_bless_you	Chúa phù hộ bạn		h	said as a short prayer for the recipient
 god_knows	có trời mới biết		h	only known to God; only known to the gods
 god_willing	nếu Chúa muốn		h	God willing
@@ -1041,25 +1293,36 @@ good_day	xin chào		h	greeting between sunrise and sunset
 good_for_nothing	vô dụng		h	useless, worthless
 good_luck	vận may		h	positive fortune
 goods_train	tàu hàng		h	train used for transportation of goods
+goodwill	thiện chí		h	favorably disposed attitude
+goofy	Goofy		h	Disney character
 google	lượt tìm kiếm Google		l	Internet search performed on the Google search engine
+gore	máu me		h	thick blood
 gorgeous	tuyệt đẹp		h	very beautiful
 gossip	chuyện phiếm		h	idle talk
 governance	quản trị		h	the process, or the power, of governing; government or administration; control and monitoring
 grace	lời cầu nguyện tạ ơn		h	short prayer of thanks before or after a meal
 graduate	người tốt nghiệp		h	from a university
 graduation	sự tốt nghiệp		h	the action or process of graduating
+grammatical	đúng ngữ pháp		h	acceptable as determined by the rules of the grammar
 grammatical_case	cách ngữ pháp		h	mode of inflection of a word
+grammatical_mood	thức		l	in grammar, type of the relationship
 grand	to lớn		h	of large size or extent
+grand_duchy_of_lithuania	Đại công quốc Litva		h	former European state
+grand_duchy_of_luxembourg	Đại công quốc Luxembourg		h	official name of Luxembourg
 grandma	bà		h	grandmother (informal) — see also granny
 grandpa	ông		h	grandfather (informal)
 granted	cứ cho là		h	used to concede a point
 grasp	nắm chặt		h	to grip
 gravity	sự nghiêm trọng		h	quality of being deeply serious and solemn, especially in a dignified manner; serious or solemn thing — see also seriousness, solemnity
+great_spotted_woodpecker	gõ kiến đốm lớn		l	species of woodpecker
+great_tit	chim sẻ ngô		l	bird
 greater	lớn hơn		h	of two things, the larger in size, value, importance etc
 greatly	rất nhiều		h	to a great extent or degree
 greek_fire	lửa Hy Lạp		h	flammable substance
+green_woodpecker	gõ kiến xanh		l	Picus viridis
 greens	rau xanh		h	leaves of certain edible green plants
 griffin	Griffin		l	mythical creature with the body of a lion and head and wings of an eagle
+griffon_vulture	kền kền griffon		l	Gyps fulvus
 gross	ghê tởm		h	conspicuously offensive
 gross_national_product	tổng sản phẩm quốc dân		h	economics
 ground	mặt đất		h	surface of the Earth
@@ -1071,47 +1334,69 @@ growth	sự tăng trưởng		h	increase in size
 guardian	người giám hộ		h	law: person legally responsible for a minor in loco parentis
 guidance	sự hướng dẫn		h	the act or process of guiding
 guinea	đồng guinea		h	coin worth 21 shillings
+guinea_fowl	gà Phi		l	bird
 guru	đạo sư		h	spiritual teacher
+gut	bụng		h	abdomen
+guts	ruột		h	entrails
+gutter	rãnh nước		h	prepared channel in a surface
 guy	anh chàng		h	male, man
 ha	ha		h	a representation of laughter
 habitat	môi trường sống		h	natural conditions in which a plant or animal lives
 hack	xâm nhập trái phép		h	to gain illegal access to a computer network
+hades	Hades		h	from Greek mythology
 hair	tóc		h	pigmented filament of keratin on the skin of humans and other mammals
 hairy	nhiều lông		h	of a person
 hajj	Hajj		h	pilgrimage to Mecca
 half_brother	anh em cùng cha khác mẹ		l	male half-sibling
 half_moon	trăng bán nguyệt		h	the moon in its first or last quarter
+halfway	nửa chừng		h	midway
 hall	hành lang		h	corridor or a hallway
+halt	dừng lại		h	to stop either temporarily or permanently
+hamas	Hamas		h	Palestinian militant group
 hampshire	Hampshire		h	county in the south of England
+handball_player	cầu thủ bóng ném		h	person who plays handball
 handling	sự cầm nắm		h	touching, controlling, managing with the hands
 hands_up	giơ tay lên		h	surrender!
 handwriting	chữ viết tay		h	act or process of writing with the hand
+handy	tiện dụng		h	easy to use
 hanging	đang treo		h	suspended
 happening	sôi động		h	of a place: busy, lively
 happily	vui vẻ		h	in a happy manner
+harassment	sự quấy rối		h	persistent attacks and criticism causing worry and distress
 hard_disk	ổ đĩa cứng		h	recording disk in a drive unit
 harmful	có hại		h	likely to be damaging
 harp	đàn hạc		h	musical instrument
 harry	cướp phá		h	To strip; to lay waste
 harsh	khắc nghiệt		h	rough
+hart	hươu đực		l	male deer
+hashemite_kingdom_of_jordan	Vương quốc Hashemite Jordan		h	official name of Jordan
+hashtag	thẻ bắt đầu bằng dấu thăng		l	a tag with a hash sign
 hatch	cửa sập		h	1. horizontal door
 hate	lời lẽ thù ghét		l	negative interaction in Internet
 haven	bến cảng		h	harbour
 hawaiian	thuộc Hawaii		h	of or having to do with the culture of the US state of Hawaii
+hazard	mối nguy hiểm		h	the chance of suffering harm
+hazel	cây phỉ		h	tree / shrub
 head_of_government	người đứng đầu chính phủ		h	chief officer of the executive branch of a government
+headed	có đầu		l	having a head with specified characteristics
+header	phần đầu trang		h	upper portion of a page layout
 heading	tiêu đề		h	title
 hearing	nghe được		h	able to hear
+heartbeat	nhịp tim		h	one pulsation of the heart
 heat	nhiệt năng		h	thermal energy
+heath	cây thạch nam		l	shrub of the family Ericaceae
 heather	cây thạch nam		h	plant
 heating	hệ thống sưởi		h	system
 heavily	nặng nề		h	in a heavy manner
 hedge	hàng rào cây		h	thicket of bushes planted in a row
+helm	bánh lái		h	tiller (or, in a large ship, the wheel) which is used to control the rudder of a marine vessel; entire steering apparatus of a vessel
 helpless	bất lực		h	unable to defend oneself — see also defenseless
 hence	từ đây		l	from here
 henry	henry		h	SI unit for electrical inductance
 her	của cô ấy		h	belonging to
 herald	sứ giả		h	a messenger, especially one bringing important news
 here_and_there	đây đó		h	in one place and another
+heroic	anh hùng		h	of or relating to a hero or heroine
 hers	của cô ấy		h	that which belongs to her
 herself	chính cô ấy		h	(as intensifier) she
 hi	chào		h	friendly, informal greeting
@@ -1124,9 +1409,12 @@ himself	chính anh ấy		h	(reflexive) male person as the previously mentioned o
 hint	gợi ý		h	clue
 hire	người được thuê		l	a person who has been hired
 historic	mang tính lịch sử		h	having significance in history
+historically	về mặt lịch sử		h	in a historic manner
 hiv	HIV		h	human immunodeficiency virus
+hmm	ừm		h	indicating thinking or pondering
 ho	này		l	nautical: attention grabber
 hockey_puck	bóng khúc côn cầu		l	puck used in hockey
+holder	vật giữ		l	a thing that holds
 holding	tài sản đang nắm giữ		h	something that one owns, especially stocks and bonds
 hole_punch	dụng cụ đục lỗ		h	tool
 holland	Hà Lan		h	region of the Netherlands — see also Netherlands
@@ -1137,11 +1425,17 @@ homeland	quê hương		h	country which one regards as home
 homicide	tội giết người		h	the killing of one person by another
 honestly	thành thật mà nói		h	in an honest manner
 honey_bee	ong mật		h	honey bee
+honolulu	Honolulu		h	the capital of Hawaii
 honor	danh dự		h	recognition of importance or spiritual value; respect
+honorable	đáng kính		h	worthy of respect
 honour_killing	tội giết người vì danh dự		h	murder as a cultural practice
 hood	mũ trùm đầu		h	covering for the head attached to a larger garment such as a jacket or cloak
+hooded_crow	quạ xám		l	Corvus cornix
+hoop	đai vòng		l	circular band of metal used to bind a barrel
 hop	cú nhảy ngắn		h	a short jump
 hopefully	hy vọng là		h	it is hoped that
+hopeless	tuyệt vọng		h	destitute of hope; having no expectation of good; despairing
+hornet	ong bắp cày		h	a large wasp, of the genus Vespa, with a brown-and-yellow-striped body
 horny	có sừng		h	having horns
 horrible	điều kinh hoàng		h	terrifying thing
 hostile	thù địch		h	belonging or appropriate to an enemy
@@ -1149,8 +1443,10 @@ hostility	sự thù địch		h	state of being hostile
 house_music	nhạc house		h	type of electronic dance music with an uptempo beat and recurring kickdrum
 household	hộ gia đình		h	those living in the same residence
 housing	nhà ở		h	activity of enclosing or providing residence
+how_do_you_pronounce_this_word	từ này đọc như thế nào		h	how do you pronounce this word?
 how_old_are_you	bạn bao nhiêu tuổi		h	what is your age in years
 however	dù bằng cách nào		l	5. in any way that one likes or chooses
+hp	mã lực		h	horsepower
 hull	vỏ		h	outer covering of a fruit or seed
 humane	nhân đạo		h	with regard for the health and well-being of another
 humanitarian	nhân đạo		h	concerned with people's welfare
@@ -1165,27 +1461,35 @@ i_know	tôi biết rồi		h	response indicating agreement with prior statement b
 i_m_in_love_with_you	tôi yêu bạn		l	declaration of romantic feeling
 i_m_lost	tôi lạc đường		h	indicates that the speaker is unable to find his or her way
 icelandic	tiếng Iceland		h	language
+id	cái nó		l	id
 idaho	Idaho		h	state of the United States
 ideal	lý tưởng		h	being optimal
 identification	sự nhận dạng		h	act of identifying, or proving to be the same
 identify	nhận dạng		h	to establish the identity of someone or something
+idle	nhàn rỗi		h	not turned to appropriate use, not occupied, of time with little activity
 illustration	hình minh họa		h	that which illustrates
 imaginary	tưởng tượng		h	existing in the imagination
 imam	imam		h	Muslim leader
+immense	to lớn		h	huge, gigantic, very large
+immortality	sự bất tử		h	condition of not being susceptible to death
 immune	thuộc miễn dịch		h	of or pertaining to the immune system
 immune_system	hệ miễn dịch		h	system that protects the body from foreign material and organisms
 immunity	miễn dịch		h	the quality of being resistant to infection
 implementation	sự triển khai		h	process of moving an idea from concept to reality
 import	hàng nhập khẩu		h	something brought in from a foreign country
 importance	tầm quan trọng		h	quality or condition of being important or worthy of note
+impose	áp đặt		h	to apply, enforce, or establish (something) with authority
+impress	gây ấn tượng		h	(transitive) affect (someone) strongly and often favourably
 impressive	ấn tượng		h	making, or tending to make, an impression; having power to impress
 improved	được cải thiện		h	that has been made better
 improvement	sự cải thiện		h	act of improving
+impulse	xung lực		h	sudden force that impels
 in_any_case	dù sao		h	at any rate
 inappropriate	không phù hợp		h	not appropriate or suitable
 incentive	sự khuyến khích		h	something that motivates
 incident	sự cố		h	event causing interruption or crisis
 include	bao gồm		h	to bring into as a part or member
+inclusion	sự bao gồm		h	addition or annex to a group, set or total
 incomplete	chưa hoàn chỉnh		h	not complete
 increasing	ngày càng tăng		h	on the increase
 increasingly	ngày càng		h	increasing in amount or intensity
@@ -1197,10 +1501,13 @@ indicate	chỉ ra		h	to point out; to discover; to direct to a knowledge of; to 
 indication	dấu hiệu		h	a fact that shows that something exists or may happen
 indicator	kim chỉ thị		h	pointer
 indigenous	bản địa		h	born or engendered in, native to a land or region
+indirect	gián tiếp		h	not direct
 indonesian	thuộc Indonesia		h	referring to Indonesia
 industrial	thuộc công nghiệp		h	of or relating to industry
 inevitable	không thể tránh khỏi		h	impossible to avoid or prevent
 inevitably	tất yếu		h	in a manner that this impossible to avoid
+infectious	lây nhiễm		h	transmitted between persons as illness
+inferior	kém chất lượng		h	of lower quality
 influential	có ảnh hưởng		h	having considerable influence
 info	thông tin		h	abbreviation for “information”
 informal	không trang trọng		h	not formal or ceremonious
@@ -1209,6 +1516,7 @@ infrared	tia hồng ngoại		h	radiation of a wavelength between 700 nm and 1 mm
 infrastructure	cơ sở hạ tầng		h	underlying base or foundation especially for an organization or system
 inherent	vốn có		h	natural part or consequence
 inheritance	sự thừa kế		h	passing of title
+inhuman	vô nhân đạo		h	cruel and savage, not humane
 initial	đầu tiên		h	chronologically first
 initially	ban đầu		h	at the beginning
 initiative	khởi xướng		h	serving to initiate
@@ -1227,6 +1535,7 @@ instance	trường hợp		h	recurring occasion, case
 instructor	người hướng dẫn		h	one who instructs; a teacher
 instrumental	thuộc nhạc cụ		h	of musical instrument
 insurance	bảo hiểm		h	business
+intact	nguyên vẹn		h	untouched
 integral	không thể tách rời		h	constituting a whole together with other parts or factors; not omittable or removable
 integrated	tích hợp		h	composed and coordinated to form a whole
 integration	sự hội nhập		h	process of fitting into a community
@@ -1235,27 +1544,38 @@ intellectual	thuộc trí tuệ		h	belonging to, or performed by, the intellect;
 intended	dự định		h	planned
 intense	mãnh liệt		h	extreme or very high or strong in degree
 intensity	cường độ		h	quality of being intense
+intentional	cố ý		h	intended or planned; done deliberately or voluntarily
 interaction	sự tương tác		h	situation or occurrence in which two or more objects or events act upon one another
 interactive	tương tác		h	acting with each other
 interest	sự quan tâm		h	great attention and concern from someone
 interested	quan tâm		h	having or showing interest
 interface	giao diện		h	point of interconnection between entities
 interference	sự can thiệp		h	act of interfering with something, or something that interferes
+interim	tạm thời		h	transitional
 interior	bên trong		h	having to do with the inner part of something
+intermediate	trung gian		h	being between two extremes, or in the middle of a range
 internal	bên trong		h	inside of something
 international_organization	tổ chức quốc tế		h	organisation established by treaty
 interpretation	sự diễn giải		h	act of interpreting
+interrupt	ngắt lời		h	to disturb or halt an ongoing process or action
 interval	khoảng cách		h	distance in space
 intervention	sự can thiệp		h	act of intervening
 intimate	thân mật		h	closely acquainted; familiar
 invalid	không hợp lệ		h	not valid
 invasion	cuộc xâm lược		h	military action
+invented	bịa đặt		h	fictional, made up
 inventory	hàng tồn kho		h	stock of an item on hand at a particular location or business
 invest	đầu tư		h	to spend money, time, and effort into something
+invincible	bất khả chiến bại		h	impossible to defeat, destroy or kill
 involve	liên quan đến		h	to cause or engage (someone or something) to become connected or implicated, or to participate, in some activity or situation
 involved	có liên quan		h	associated with others, be or be made a participant
+involvement	sự tham gia		h	the act of involving or state of being involved
 iphone	iPhone		h	device
 iraqi	thuộc Iraq		h	of, from or pertaining to Iraq
+irene	Irene		h	female given name
+ironic	mỉa mai		h	characterized by irony
+irregular	bất quy tắc		h	non-standard
+irrelevant	không liên quan		h	not related, not applicable, unimportant, not connected
 is	Nhà nước Hồi giáo		h	Islamic State, abbreviation — see also Islamic State
 isis	ISIS		h	Islamic State of Iraq and Syria
 isle_of_man	Đảo Man		h	island
@@ -1275,12 +1595,15 @@ java	Java		h	island of Indonesia
 jay	chim giẻ cùi		h	bird
 jazz	nhạc jazz		h	musical art form
 jeans	quần jean		h	denim trousers
+jeep	xe jeep		h	vehicle
 jelly	thạch		h	sweet gelatinous substance derived from fruit juices and pectin
 jeremiah	Giê-rê-mi		h	biblical prophet
 jerk	cú giật		h	quick, often unpleasant tug or shake
 jersey	áo len		h	garment knitted from wool, worn over the upper body
 jet	tia		h	stream of fluid
+jigsaw_puzzle	trò xếp hình		h	type of puzzle
 jihad	thánh chiến		h	holy war undertaken by Muslims
+jimmy	cốm sô-cô-la		l	chocolate sprinkles used as a topping
 joe	Joe		h	stereotypical male given name
 john	khách làng chơi		h	prostitute's client
 join	nối		h	to combine more than one item into one; to put together
@@ -1293,6 +1616,7 @@ jubilee	lễ kỷ niệm trọng đại		l	major anniversary of an event, partic
 jude	Giu-đe		h	book of the Bible
 judgement_day	ngày phán xét cuối cùng		h	final trial of all humankind at the end of the world
 judgment	sự phán xét		h	act of judging
+juicy	mọng nước		h	containing juice
 jul	Tháng 7		h	abbreviation of July
 jumper	người nhảy		h	someone or something that jumps
 jun	Tháng 6		h	abbreviation of June
@@ -1303,12 +1627,16 @@ jurisdiction	thẩm quyền		h	the power, right, or authority to interpret and a
 just_now	vừa mới		h	very close to the present moment
 justice	công lý		h	state of being just or fair
 justification	sự biện minh		h	reason, explanation, or excuse
+justified	chính đáng		h	having a justification
 justify	biện minh		h	provide an acceptable explanation
 k	lá K		h	playing card
 kaiser	Kaiser		h	German Emperor — see also emperor
 kansas	Kansas		h	US state
+karachi	Karachi		h	the capital of the province of Sindh, Pakistan
 kashmir	Kashmir		h	region
+kebab	kebab		h	dish
 keen	hăng hái		h	showing a quick and ardent responsiveness or willingness
+keeper	người giữ		l	person who keeps something
 keeping	sự trông nom		h	charge or care
 kent	Kent		h	the English maritime county
 killing	chết người		h	lethal, deadly, fatal
@@ -1321,9 +1649,11 @@ knock	tiếng gõ		h	abrupt rapping sound
 know_it_all	kẻ biết tuốt		l	one who obnoxiously claims to be knowledgeable on a subject
 knowing	thông minh		l	intelligent
 known	nổi tiếng		h	whom other people know; renowned, famous
+kong	bộ bốn quân bài giống nhau		l	set of four identical tiles
 kurdish	thuộc Kurd		h	of, from, or pertaining to Kurdistan, the Kurdish people or the Kurdish language family
 kurdistan	Kurdistan		h	cultural region in West Asia inhabited mostly by the Kurds
 lack	sự thiếu		h	deficiency, need
+lactic_acid	axit lactic		h	2-hydroxy-propanoic acid (CH3.CHOH.CO2H)
 lad	chàng trai		h	a boy or young man
 lame	què		h	unable to walk properly because of a problem with one's feet or legs
 lance	giáo		h	weapon of war
@@ -1331,6 +1661,7 @@ landmark	địa danh		h	recognizable feature
 lap	lòng		h	upper legs of a seated person
 largely	phần lớn		h	in a widespread or large manner
 last_supper	Bữa Tiệc Ly		h	last meal Jesus ate with disciples
+latch	cài chốt		h	to close with a latch
 later	muộn hơn		h	more late
 latest	mới nhất		h	most recent
 latvian	thuộc Latvia		h	pertaining to Latvia or the Latvian language
@@ -1346,20 +1677,30 @@ lean	nghiêng		h	to incline
 learned	uyên bác		h	having much learning
 learning	việc học		h	action of the verb
 lease	hợp đồng thuê		h	contract granting use or occupation of property
+leash	dây xích chó		h	long cord for dogs
 least	nhỏ nhất		h	of two or more animals or plants with the same name: the smaller or smallest
+least_weasel	chồn nhỏ		l	Mustela nivalis
 led	đèn LED		h	LED — see also light-emitting diode
 lee	nơi khuất gió		h	protected cove or harbor, out of the wind
+leeds	Leeds		h	city in England
 left_handed	thuận tay trái		h	preferring the left hand over the right
 legacy	tài sản thừa kế		h	money or property bequeathed to someone in a will
+legally	một cách hợp pháp		h	as permitted by law
 legendary	huyền thoại		h	of or pertaining to a legend
 legion	đông đảo		h	numerous
 legislative	lập pháp		h	having the power to make laws
+leicester	Leicester		h	city in England
 leisure	thời gian nhàn rỗi		h	freedom provided
+lemon_balm	tía tô đất		l	Melissa officinalis
 lender	người cho vay		h	one who lends, especially money
 lenin	Lenin		h	a Russian revolutionary and politician
+leo	người cung Sư Tử		l	Someone with a Leo star sign
 less	ít hơn		h	to a smaller extent or degree
 let_alone	huống chi		h	to say nothing of
+lethal	chết người		h	of, pertaining to, or causing death; deadly; mortal; fatal
 level	bằng phẳng		h	same height at all places
+leverage	lực đòn bẩy		h	force compounded by means of a lever rotating around a pivot
+lewis	Lewis		h	Isle of Lewis
 liability	nợ phải trả		h	debt
 liberal	phóng khoáng		h	generous, permitting liberty, willing to give unsparingly
 lifestyle	lối sống		h	style of living
@@ -1370,40 +1711,54 @@ lily_of_the_valley	hoa linh lan		h	Convallaria majalis
 limited	có giới hạn		h	with certain limits placed upon it
 linear	tuyến tính		h	having the form of a line
 linen	vải lanh		h	thread or cloth made from flax fiber
+lining	lớp lót		h	covering for the inside of something
 links	sân golf		h	golf course
 linux	Linux		h	operating system
 liquor	rượu mạnh		h	strong alcoholic drink derived from fermentation and distillation
 listening	đang lắng nghe		h	of something that listens
+lit	được thắp sáng		h	Lighted
 literacy	khả năng đọc viết		h	ability to read and write
 literally	theo nghĩa đen		h	in a literal manner
 litter	rơm lót chuồng		h	bedding for animals
 little_owl	cú mèo nhỏ		l	species of owl
+lively	sôi nổi		h	full of life
 liverpool	Liverpool		h	city in England
 living	còn sống		h	having life
 lo	kìa		h	look, see, behold
 loaded	đã lên đạn		h	(of a projectile weapon) armed
+locate	định vị		h	to place; to set in a particular spot or position
 lockdown	lệnh phong tỏa		h	emergency confinement
 lodge	chi hội Tam Điểm		h	local chapter of freemasons
 logical	hợp lý		h	in agreement with the principles of logic
+long_eared_owl	cú tai dài		l	Asio otus
 loose	thả ra		h	to let loose
 lot	lô		h	separate portion; number of things taken collectively
+lotion	kem dưỡng da		h	ointment that one rubs on the skin
 loudly	lớn tiếng		h	in a loud manner
 louisiana	Louisiana		h	American state
+lounge	nằm thư giãn		l	to relax
 love_letter	thư tình		h	letter about the author's love
 loved	được yêu thương		h	being the object of love
 loving	đầy yêu thương		h	expressing a large amount of love
 low_tide	thủy triều xuống		h	the tide at its lowest level
 lower	thấp hơn		h	more towards the bottom
+lucifer	Lucifer		h	figure mentioned in Isaiah 14:12
+lunar	thuộc mặt trăng		h	of, pertaining to, or resembling the Moon
 luxury	sự xa hoa		h	very wealthy and comfortable surroundings
+lydia	Lydia		h	biblical woman
 lying	sự nằm		h	act of keeping low to the ground
 lyon	Lyon		h	city in Auvergne-Rhône-Alpes, France
 m	mét		h	metre
 ma	má		h	colloquial form of mother
 ma_am	thưa bà		h	chiefly used as a form of address: contraction of madam — see also madam
 mace	cây chùy		h	weapon
+machinery	máy móc		h	machines constituting a production apparatus
+madman	người điên		h	an insane man
 madness	sự điên loạn		h	insanity
 magic_carpet	thảm bay		h	carpet capable of magical flight
 magical	thuộc phép thuật		h	relating to magic
+magistrate	quan tòa		h	judicial officer
+magna_carta	Đại Hiến chương		h	charter granted by King John to the barons at Runnymede in 1215
 magnetic	có từ tính		h	of, relating to, caused by, or operating by magnetism
 magnitude	độ lớn		h	size, etc.
 maid	thiếu nữ		h	young female
@@ -1416,27 +1771,37 @@ make	tạo ra		h	to create
 make_fun_of	chế giễu		h	tease, ridicule
 make_up	cấu thành		h	to constitute, to compose
 making	sự chế tạo		h	act — see also workmanship, construction
+malay	thuộc người Mã Lai		h	of the Malay people
+malaysian	thuộc Malaysia		h	Pertaining to Malaysia
+malicious	ác ý		h	of, pertaining to, or as a result of malice or spite
 malta	Malta		h	island
 manage	làm được		h	to succeed at an attempt
 mandatory	bắt buộc		h	obligatory — see also obligatory, compulsory
 manifest	hiển nhiên		h	evident to the senses, especially to the sight; apparent
+manly	nam tính		h	having the characteristics of a man
 manner	cách thức		h	way of performing or effecting; method or style
 manual	sách hướng dẫn		h	handbook or booklet that instructs
 manufacture	sự sản xuất		h	action or process of making goods systematically or on a large scale
 manufacturing	sản xuất		h	create goods from materials
 manure	bón phân		h	to apply manure
 manuscript	viết tay		h	handwritten, or by extension typewritten
-mar	làm hỏng		h	to spoil, to damage
+mar	Th3		l	abbreviation of March
 march	cuộc diễu hành		h	formal, rhythmic way of walking
 margin	lề		h	typography: edge of the paper that remains blank
 marine	thuộc biển		h	of or pertaining to the sea
 marine_biology	sinh học biển		h	branch of biology
+maritime	thuộc hàng hải		h	relating to the sea
 mark	dấu		h	indication for reference or measurement
 marked	rõ rệt		h	significant; notable
 marketing	tiếp thị		h	the promotion, distribution and selling of a product or service
+marketplace	khu chợ		h	open area in a town housing a public market
+marshal	nguyên soái		h	military officer of the highest rank
+martial	thuộc quân sự		h	of, relating to, or suggestive of war — see also warlike
 martin	chim nhạn		h	bird
 martyr	người tử vì đạo		h	one willing to be killed or persecuted for religion
+marvel	kinh ngạc		h	become filled with wonderment
 mary	Mary		l	city in Turkmenistan
+mary_magdalene	Maria Magdalena		h	female disciple of Jesus
 maryland	Maryland		h	US state
 masculine	nam tính		h	having male qualities, not feminine or effeminate
 massachusetts	Massachusetts		h	a state of the United States of America
@@ -1449,6 +1814,8 @@ maternal_aunt	dì		h	one's mother's sister
 maternal_uncle	cậu		h	brother of one's mother
 mathematical	thuộc toán học		h	of, or relating to mathematics
 mature	trưởng thành		h	fully developed
+maturity	sự trưởng thành		h	state of being mature, ready or ripe
+maundy_thursday	Thứ Năm Tuần Thánh		h	Thursday before Easter
 max	tối đa		h	abbreviation for maximum
 me	tôi		h	direct object of a verb
 mead	rượu mật ong		h	alcoholic drink
@@ -1464,12 +1831,19 @@ medical	thuộc y khoa		h	of the practice of medicine
 medina	Medina		h	city in Saudi Arabia
 medium	môi trường		h	nature of the surrounding environment
 meme	meme		h	unit of cultural information
+memorable	đáng nhớ		h	worthy of being remembered
 memorial	đài tưởng niệm		h	structure
 men	đàn ông		l	human people
 mental	thuộc tinh thần		h	relating to the mind
 mentally	về mặt tinh thần		h	in a mental manner
+mentor	người cố vấn		h	wise and trusted counselor or teacher
+mere	chỉ là		h	just, only; no more than
+merger	sự sáp nhập		h	the act or process of merging
 merit	công trạng		h	claim to commendation or a reward
+mesh	lưới		h	structure
 mess	mớ hỗn độn		h	confusion of things
+metallic	bằng kim loại		h	related to metal
+methodology	phương pháp luận		h	the study of methods used in a field
 metropolis	thành phố mẹ		l	colony’s mother city
 mexican	người Mexico		h	person from Mexico or of Mexican descent
 mexico_city	Thành phố Mexico		h	capital of Mexico
@@ -1492,6 +1866,7 @@ minnesota	Minnesota		h	a state of the United States of America
 minor	thứ yếu		h	lesser in importance
 minutes	biên bản		h	the official notes kept during a meeting
 misery	nỗi khổ sở		h	great unhappiness
+misleading	gây hiểu lầm		h	tending to mislead
 mission	sứ mệnh truyền giáo		h	religious evangelism
 missionary_position	tư thế truyền giáo		h	position for sexual intercourse
 mississippi	Mississippi		h	state
@@ -1500,11 +1875,15 @@ mister	ông		h	title of adult male
 mistress	bà chủ		h	woman of authority
 misunderstanding	sự hiểu lầm		h	mistake
 mixed	hỗn hợp		h	having two or more separate aspects
+mixer	máy trộn		h	machine that mixes or beats ingredients
 mixture	sự trộn lẫn		h	act of mixing
 mob	đám đông hỗn loạn		h	unruly group of people
 mobile	di động		h	capable of being moved
+mobility	tính di động		h	ability to move
+mock	đồ giả		l	imitation
 mode	phương thức		h	means of accomplishing something
 modeling_clay	đất nặn		h	malleable substance
+modify	sửa đổi		h	to change part of
 mold	khuôn		h	hollow form or matrix for shaping a fluid or plastic substance
 molecular	thuộc phân tử		h	relating to molecules
 mona_lisa	Mona Lisa		h	portrait painting by Leonardo da Vinci
@@ -1519,6 +1898,7 @@ moroccan	người Maroc		h	person from Morocco
 morphology	hình thái học		h	a scientific study of form and structure
 mortality	sự hữu tử		l	condition of being susceptible to death
 mostly	chủ yếu		h	for the most part
+motivated	có động lực		h	enthusiastic; having motivation
 motivation	động lực		h	willingness of action especially in behavior
 mount	gò bàn tay		h	palmistry: prominence
 mount_everest	Núi Everest		h	world’s highest mountain above sea level, located in the Himalayas
@@ -1527,24 +1907,32 @@ movie	bộ phim		h	motion picture
 moving	đang di chuyển		h	that moves or move
 ms	bà		h	title
 multiple	nhiều thành phần		h	having more than one element, part, component or function
+multiplication	phép nhân		h	calculation
 municipal	thuộc thành phố		h	pertaining to city
 muscular	vạm vỡ		h	having strength
+muse	nàng thơ		h	a source of inspiration
 music_video	video ca nhạc		h	motion picture accompanying a song
 mustard	cây mù tạt		h	plant
 mustard_gas	khí mù tạt		h	vesicant gas
 mutual	lẫn nhau		h	having the same relationship, each to each other
+myrtle	cây mía		l	evergreen shrub
 n	bắc		h	north
+nagorno_karabakh	Nagorno-Karabakh		h	region in South Caucasus
+nah	không		h	no
 name_day	ngày lễ thánh bổn mạng		l	feast day of a saint
 named	được đặt tên		h	having a name
 namely	cụ thể là		h	specifically
 nap	chợp mắt		h	to have a nap
 narrative	tự sự		h	telling a story
+nasty	bẩn thỉu		h	dirty, filthy
 nathan	Na-than		h	biblical prophet
 nationalist	thuộc chủ nghĩa dân tộc		h	of or relating to nationalism
 native	bản xứ		h	belonging to one by birth
 natural	tự nhiên		h	of or relating to nature
 natural_history	lịch sử tự nhiên		h	study of the origins and evolution of all living things
+natural_logarithm	logarit tự nhiên		h	logarithm in base e
 naturally	một cách tự nhiên		h	in a natural manner
+neat	nguyên chất		h	undiluted, particularly of alcoholic drinks
 nebraska	Nebraska		h	US state
 necessarily	nhất thiết		h	of necessity
 nectar	thức uống thần tiên		l	drink of the gods
@@ -1552,6 +1940,7 @@ negro	da đen		l	offensive: relating to the black ethnicity
 neighborhood	khu phố		h	area near one's home
 neither	không bên nào		h	not one of two; not either
 neo_nazi	tân phát xít		h	person who believes in a Nazi ideology
+nerd	người mọt sách		h	intellectual, skillful person, generally introverted
 nervous	thuộc thần kinh		h	relating to the nerves
 nevada	Nevada		h	US state
 new_england	New England		h	six states in the northeast of the United States
@@ -1564,6 +1953,7 @@ newton	niutơn		h	derived unit of force
 nick	vết khía		h	small cut in a surface
 nickname	biệt danh		h	familiar, invented given name
 nigerian	người Nigeria		h	person
+nike	Nike		h	Greek goddess of victory
 nine_hundred	chín trăm		h	cardinal number 900
 nineteenth	thứ mười chín		h	the ordinal form of the number nineteen — see also 19th
 ninety_seven	chín mươi bảy		h	97
@@ -1580,11 +1970,13 @@ nope	không đâu		h	informal "no"
 nor	cũng không		h	nor
 norm	chuẩn mực		h	that which is normal
 normal	bình thường		h	according to norms or rules
+norman	người Normandie		h	a person from Normandy
 north_dakota	Bắc Dakota		h	state of the US
 norwegian	người Na Uy		h	native of Norway
 notable	đáng chú ý		h	worthy of notice; remarkable
 notice	sự chú ý		h	act of observing
 notification	sự thông báo		h	act of notifying
+notify	thông báo		h	(transitive) to give (someone) notice of (something)
 nov	Tháng 11		h	abbreviation of November
 novel	mới lạ		h	new, original, especially in an interesting way
 now	hiện tại		h	present; current
@@ -1597,11 +1989,13 @@ numerical	bằng số		h	of or pertaining to numbers
 nursery	nhà trẻ		h	place where the pre-school children of working parents are supervised during the day — see also nursery school
 nursery_school	trường mẫu giáo		h	a school for pre-school children — see also kindergarten
 nursing	đang cho con bú		h	lactating
+nuts	điên		h	insane
 oak	gỗ sồi		h	wood
 objection	sự phản đối		h	act of objecting
 objective	khách quan		h	relating to a material object
 observe	tuân theo		h	to follow
 observer	người quan sát		h	one who makes observations, monitors or takes notice
+obsessed	bị ám ảnh		h	Intensely preoccupied with or by a given topic or emotion; driven by a specified obsession
 obsession	nỗi ám ảnh		h	compulsive or irrational preoccupation — see also idée fixe
 obvious	hiển nhiên		h	easily discovered or understood; self-explanatory
 occasion	cơ hội		h	favorable opportunity
@@ -1610,19 +2004,23 @@ occupied	đã có người		h	reserved
 occupy	chiếm giữ		h	hold a position
 occurrence	sự xảy ra		h	actual instance where a situation arises
 oct	Tháng 10		h	abbreviation of October
+odyssey	Odyssey		h	epic poem describing the journey of Odysseus
 off	ra xa		l	in a direction away from the speaker or object
 offense	hành vi phạm tội		h	act of offending against the law
 offering	sự dâng hiến		l	act of offering
 officer	sĩ quan		h	one who has a position of authority in a hierarchical organization
 official	chính thức		h	approved by authority
 officially	chính thức		h	in an official manner
+offshore	ngoài khơi		h	located in the sea away from the coast
 offspring	đứa con		h	singular offspring (male, female or sex unspecified)
 oil_lamp	đèn dầu		h	a simple vessel used to produce light
+oil_tanker	tàu chở dầu		h	a ship that transports oil (petroleum)
 oklahoma	Oklahoma		h	state
 old_english	tiếng Anh cổ		h	ancestor language of modern English
 olive_oil	dầu ô liu		h	oil pressed from olives
 olive_tree	cây ô liu		h	tree that produces olives
 olympic	thuộc Olympic		h	of or pertaining to the Olympic Games
+omega	omega		h	letter of the Greek alphabet
 on	bật		h	in the state of being active, functioning or operating
 on_purpose	cố ý		h	purposely, with intention
 on_the_contrary	ngược lại		h	opposite
@@ -1633,10 +2031,12 @@ one_s	của mình		l	belonging to one
 ongoing	đang diễn ra		h	continuing, permanent
 online	trực tuyến		h	connected to a network
 onto	lên trên		h	upon; on top of
+oops	ối		h	acknowledging a minor mistake
 opener	dụng cụ mở		h	device that opens something
 opening	mở đầu		h	adjective
 openly	công khai		h	in an open manner, visibly, not covertly
 operate	vận hành		h	to perform a work or labour
+operational	thuộc tác chiến		l	of or relating to operations, especially military operations
 operator	người vận hành		h	one who operates
 opponent	đối thủ		h	one who opposes another
 opposed	phản đối		h	acting in opposition; opposing
@@ -1647,6 +2047,8 @@ ordinary	đồ hình chuẩn		l	standard geometric design in heraldics
 oregon	Oregon		h	northwestern state of the United States of America
 organism	sinh vật		h	living thing
 organized	có tổ chức		h	characterised by efficient organization
+oriental	thuộc phương Đông		h	of or relating to the Orient or Asia, especially the Far East
+orientation	sự định hướng		h	the act of orienting
 original	ban đầu		h	relating to the origin or beginning
 originally	vốn dĩ		h	as it was in the beginning
 orthodox	chính thống		h	conforming to accepted, established, or traditional doctrines of a given faith, religion, or ideology
@@ -1663,11 +2065,13 @@ outer	bên ngoài		h	outside
 outfit	bộ trang phục		h	set of clothing
 outline	đường viền		h	line marking the boundary of an object figure
 output	sản lượng		h	production; quantity produced, created, or completed
+outrage	hành động tàn bạo		l	excessively violent or vicious attack; atrocity
 outside	mặt ngoài		h	outer surface
 outstanding	xuất sắc		h	standing out from others
 over	kết thúc		h	ended
 over_there	ở đằng kia		h	in that place
 overall	tổng thể		h	all-encompassing
+overhead	ở trên cao		h	located above
 overseas	ở nước ngoài		h	abroad
 overview	tổng quan		h	brief summary, as of a book or a presentation
 owe	nợ		h	to be under an obligation
@@ -1678,6 +2082,8 @@ p_m	chiều		l	after noon
 pa	bố		h	father
 pace	bước		h	step: step
 pacific	ôn hòa		h	calm, peaceful — see also calm, peaceful
+packed	được đóng gói		h	put into a package
+pad	miếng đệm		h	flattened mass of anything soft
 paid	trả phí		h	not free of charge
 painful	đau đớn		h	causing pain
 palestinian	thuộc Palestine		h	of, from, or pertaining to Palestine or the Palestinian people
@@ -1695,22 +2101,28 @@ part	phần		h	fraction of a whole
 partially	phần nào		h	to a partial degree
 particular	riêng biệt		h	specific; discrete; concrete
 particularly	đặc biệt là		h	especially
+partition	sự phân chia		h	action which divides a thing into parts, or separates one thing from another
 partly	một phần		h	in part
 partnership	quan hệ đối tác		h	state of being associated with a partner
+partridge	chim đa đa		h	any bird of the genera Perdix or Alectoris
+pasha	pasha		l	title
 pass	đi qua		h	to go by, over, or through
 passage	đoạn văn		h	section of text or music
 passing	thoáng qua		h	that passes away; ephemeral
 paste	bột nhão		h	a soft mixture
+pastry	bánh ngọt		h	food group
 pat	cái vỗ nhẹ		h	light tap or slap
+paternal_aunt	cô		h	the sister or sister-in-law of someone's father
 pathetic	đáng thương		h	arousing pity, sympathy, or compassion
 patience	sự kiên nhẫn		h	quality of being patient
 pattern	mẫu		h	that from which a copy is made
 pause	tạm dừng		h	to take a temporary rest or break
 pawn	đồ cầm cố		h	item sold to a pawn shop
 payment	sự thanh toán		h	the act of paying
-pc	chiếc		l	piece
+pc	PC		h	initialism of personal computer
 pea	đậu Hà Lan		h	edible seed
 peanut_butter	bơ đậu phộng		h	spread made from ground peanuts
+pebble	viên sỏi		h	stone
 pedestrian	dành cho người đi bộ		h	of or intended for pedestrians
 peer	nhìn chăm chú		h	to look with difficulty or as if searching
 pen	chuồng		h	enclosure (enclosed area) for animals
@@ -1720,31 +2132,45 @@ penny	penny		h	1/100 of a pound sterling or British pound
 people_s	của nhân dân		h	of, from, or controlled by the common people
 people_s_party	đảng nhân dân		h	political party
 people_s_republic_of_bangladesh	Cộng hòa Nhân dân Bangladesh		h	official name of Bangladesh
+perceive	nhận thức		h	to become aware of
+perch	cá rô		h	fish of the genus Perca
+peregrine_falcon	chim cắt lớn		h	Falco peregrinus
 perfectly	hoàn hảo		h	with perfection
 perform	thực hiện		h	transitive: to do (something)
 performance	sự thực hiện		h	the act of performing; carrying into execution or action; accomplishment
 period	khoảng thời gian		h	interval of time
 permanent	vĩnh viễn		h	without end
+permanently	vĩnh viễn		h	in a permanent manner
+perry	rượu lê		h	Beverage from pears
 personal	cá nhân		h	of or pertaining to a particular person
 personally	về cá nhân		h	in a personal manner
 personnel	nhân sự		h	members of an organization
 perspective	góc nhìn		h	view, vista or outlook
 peter	chim		l	slang: penis — see also penis
+petty	nhỏ nhen		h	of persons or their behaviour: marked by or reflective of undesirably limited interests, sympathies, or views; preoccupied with subjects having little or no imp
+pharmaceutical	thuộc dược phẩm		h	of, or relating to pharmacy or pharmacists
 philadelphia	Philadelphia		h	largest city in Pennsylvania
+philanthropy	lòng từ thiện		h	benevolent altruism with the intention of increasing the well-being of mankind
+philosophical	thuộc triết học		h	of or pertaining to philosophy
 phoenix	phượng hoàng		h	mythological bird
 photo	chụp ảnh		h	to take a photograph
 physical	thuộc vật chất		l	having to do with the material world; tangible
 physical_quantity	đại lượng vật lý		h	physical property
+physically	về mặt thể chất		h	in a physical manner
 pi	pi		h	letter of Greek alphabet
+pianist	nghệ sĩ dương cầm		h	person who plays the piano
 pick	cuốc chim		h	pickaxe
 pie	bánh pie		h	type of pastry
 pierce	đâm thủng		h	to puncture — see also puncture, perforate
+piglet	lợn con		h	young pig
 pike	giáo dài		h	long spear
 pile	đống		h	mass of things heaped together; heap
 pioneer	người tiên phong		h	one who goes before
 pip	bệnh hô hấp ở chim		l	respiratory disease in birds
 pipeline	đường ống		h	conduit made of pipes
+piracy	nạn cướp biển		h	robbery at sea
 piss	nước tiểu		h	urine
+pissed	say xỉn		h	drunk
 pitch	nhựa cây		h	sticky, gummy substance secreted by trees
 pitcher	cầu thủ ném bóng		h	the player who throws the ball to the batter
 pity	lòng thương hại		h	feeling of sympathy
@@ -1760,6 +2186,7 @@ pleased_to_meet_you	rất vui được gặp bạn		h	polite formula used when b
 plenty	sự dồi dào		h	a more-than-adequate amount
 plural	số nhiều		h	more than one
 pluto	thần Diêm Vương		h	god
+po	sông Po		h	longest river in Italy
 po_valley	Đồng bằng Po		h	large plain in northern Italy
 pocket_money	tiền tiêu vặt		h	money given to a child
 pod	vỏ quả		h	seed case
@@ -1769,11 +2196,15 @@ points	ghi đường ray		l	movable rails used to switch a train from one track 
 poisoning	sự đầu độc		h	administration of a poison
 poisonous	có độc		h	containing sufficient poison to be dangerous
 poker	que cời lò		h	metal rod for poking
+polar	thuộc cực		h	relating to a geographic pole
 pole	cột		h	long and slender object for construction or support
 polish	chất đánh bóng		h	substance used to polish
+politically	về mặt chính trị		h	in a political manner
+polymerase_chain_reaction	phản ứng chuỗi polymerase		h	technique in molecular biology for creating multiple copies of DNA from a sample
 pop	nước ngọt có ga		h	soda pop
 poppy	cây anh túc		h	plant of the genus Papaver
 popularity	sự phổ biến		h	the quality or state of being popular
+populist	người theo chủ nghĩa dân túy		h	politician who advocates policies just because they are popular
 porch	hiên nhà		h	a covered and enclosed entrance to a building
 porn	phim khiêu dâm		h	pornography
 portable	xách tay		h	able to be carried or moved
@@ -1782,11 +2213,18 @@ portfolio	cặp tài liệu		h	case for carrying papers etc.
 pose	tạo dáng		h	1. (transitive) To place in an attitude or fixed position, for the sake of effect.
 possession	sự bị ma ám		h	the state of being possessed by a spirit or demon
 possibly	có thể		h	adverb indicating that an action may successfully be performed
+postal	thuộc bưu chính		h	relating to mail
+potentially	có tiềm năng		h	in a manner showing much potential; with the possibility of happening in a given way
 power	công suất		h	physics: measure of the rate of doing work or transferring energy
+pp	trang		l	pages
 practical	thực tiễn		h	based on practice or action rather than theory or hypothesis
+practically	trên thực tế		h	In practice, in effect
 praise	lời khen		h	commendation; favorable representation in words
+praying_mantis	bọ ngựa		h	any of various predatory insects of the Mantidae family
+preach	thuyết giảng		h	give a sermon
 precise	chính xác		h	exact
 precisely	chính xác		h	in a precise manner
+precision	độ chính xác		h	the state of being precise or exact; exactness
 predecessor	người tiền nhiệm		h	one who precedes
 prediction	dự đoán		h	a statement about the future
 preference	sự ưa thích		h	selection
@@ -1798,8 +2236,10 @@ premium	cao cấp		h	Translations
 prepared	sẵn sàng		h	ready, willing
 presence	sự hiện diện		h	fact or condition of being present
 presentation	sự trình bày		h	act of presenting
+preservation	sự bảo tồn		h	the act of preserving
 presidency	chức tổng thống		h	office or role of president
 presidential	thuộc tổng thống		h	pertaining to a president or presidency
+presumably	có lẽ		h	able to be sensibly presumed
 prevention	sự phòng ngừa		h	The act of preventing or hindering
 preview	bản xem trước		h	foretaste of something
 previously	trước kia		h	at an earlier time
@@ -1808,10 +2248,12 @@ pride	niềm tự hào		h	quality or state of being proud; inordinate self-estee
 primarily	chủ yếu		h	of a primary or central nature
 prime	chính yếu		h	first in importance, degree, or rank
 prince_of_wales	Hoàng tử xứ Wales		h	royal title
+printed	được in		h	written or published
 printer	thợ in		h	operator of a printing press
 printing_press	máy in		h	machine for printing
 prior	trước		h	coming before in importance, order, or time — see also earlier, former, previous, anterior, antecedent, precedent
 probability	xác suất		h	state of being probable; likelihood
+probable	có khả năng		h	likely to be true
 probe	que thăm		h	surgery: any of various medical instruments used to explore wounds, organs, etc
 proceed	tiến hành		h	go ahead
 processing	sự xử lý		h	action of the verb to process
@@ -1822,28 +2264,43 @@ productivity	năng suất		h	state of being productive
 professional	người chuyên nghiệp		h	person who belongs to a profession
 profile	đường viền		l	outermost shape
 profitable	có lãi		h	producing profit
+profound	sâu sắc		h	descending below the surface
 progressive	tiến bộ		h	favouring or promoting progress; advanced
+projection	phần nhô ra		l	something which projects
 prominent	nhô ra		h	projecting, protuberant
+promised	được hứa hẹn		l	predicted; expected
 promising	đầy hứa hẹn		h	showing promise, and likely to develop in a desirable fashion
 promotion	sự thăng chức		h	advancement in position
+prop	cái chống		h	object placed against or under another, to support it
 proper	thích hợp		h	fit, suitable
 property	bất động sản		h	piece of real estate
 proposal	đề xuất		h	that which is proposed
+prosecution	sự truy tố		h	the institution of legal proceedings against a person
 prospect	quang cảnh		h	region which the eye overlooks at one time
 prosperity	sự thịnh vượng		h	condition of being prosperous
 protected	được bảo vệ		h	defended
 protection	sự bảo vệ		h	process of keeping something safe
+protective	bảo vệ		h	serving, intended or wishing to protect
+proto_indo_european	tiếng Ấn-Âu nguyên thủy		h	ancestor language of most European and Indian languages
 protocol	nghi thức ngoại giao		h	rule, guideline etc which guides diplomatic behaviour
+proven	đã được chứng minh		h	having been proved
 proverbs	Châm ngôn		h	book of the Bible
 provided	với điều kiện là		h	only if
 provider	nhà cung cấp		h	provider
 provincial	thuộc tỉnh		h	of or pertaining to a province
 provision	lương thực dự trữ		h	item of goods or supplies obtained for future use
+proximity	sự gần gũi		h	closeness; the state of being near as in space, time, or relationship
 proxy	đại diện		l	used as, or acting as, a proxy
 psychological	thuộc tâm lý		h	of or pertaining to psychology
+psychopath	kẻ thái nhân cách		h	person with a personality disorder characterized by a lack of empathy
 publication	sự xuất bản		h	act of publishing
+publicity	sự quảng bá		h	advertising or other activity designed to rouse public interest in something
 publicly	công khai		h	in an open and public manner — see also in public
+publishing	ngành xuất bản		h	the industry of publishing
+pudding	bánh pudding		h	boiled or steamed cake or dessert
 pulled	xé sợi		l	of fine pieces of cooked meat torn from the bone.
+pulp	cùi		h	center of a fruit
+pun	chơi chữ		h	to make or tell a pun
 punjab	Punjab		h	geographical region in South Asia
 punk	nhạc punk		h	short form of punk rock
 purchase	sự mua		h	the acquisition of title to, or property in, anything for a price
@@ -1857,10 +2314,12 @@ q	lá Q		h	playing card
 quail	nao núng		h	to shrink or waver; to become fearful or doubtful
 qualification	trình độ		h	an ability or attribute that aids someone's chances of qualifying for something
 qualified	đủ tư cách		h	meeting requirements
+qualify	mô tả đặc điểm		l	to describe or characterize something by listing its qualities
 quality	chất lượng		h	characteristics or the set thereof
 quarter	quý		h	period of three months
 quarterly	hằng quý		h	occurring once every quarter year
 queensland	Queensland		h	Australian state
+queer	đồng tính		l	slang: of sexual or gender minorities
 quest	cuộc truy tìm		h	journey or effort in pursuit of a goal
 quietly	lặng lẽ		h	producing little or no noise
 quit	rời bỏ		h	to leave
@@ -1877,11 +2336,14 @@ raise	nâng lên		h	to cause to rise
 random	người vô danh		h	unimportant person
 range	dãy		h	line of mountains, buildings etc.
 rank	hôi thối		h	having a very strong and bad odor
+ranking	có cấp bậc		l	having a specified rank
 ransom	tiền chuộc		h	money paid for the freeing of a hostage
 rapid	nhanh		h	Very swift or quick
 rapidly	nhanh chóng		h	with speed
 rapist	kẻ hiếp dâm		h	one who has commited rape
+rapper	rapper		h	performer of rap music, or one who raps
 rarely	hiếm khi		h	not occurring at a regular interval
+rash	liều lĩnh		h	acting too quickly without considering the consequences and risks — see also hasty, crazy, impulsive, inconsiderate, precipitate, imprudent, precipitous
 rates	thuế nhà đất		h	a local government tax on property
 rather	thà		h	preferably
 rating	mức xếp hạng		h	evaluation of status
@@ -1889,10 +2351,13 @@ ratio	tỉ lệ		h	number representing comparison
 rational	có lý trí		h	capable of reasoning
 re	về việc		h	regarding
 reach	đạt tới		h	to arrive at by effort
+react	phản ứng		h	to act in response
 read_between_the_lines	hiểu ẩn ý		h	infer a meaning that is not stated explicitly
 reader	độc giả		h	person who reads a publication
+realism	chủ nghĩa hiện thực		h	concern for fact or reality
 realistic	thực tế		h	expressed or represented as being accurate
 realm	vương quốc		h	territory or state
+reasoning	lập luận		h	deduction of inferences or interpretations
 recall	thu hồi		h	to order the return of (faulty product)
 recognition	sự công nhận		h	the act of recognizing or the condition of being recognized
 recognize	nhận ra		h	to match in memory; to know from a previous encounter
@@ -1906,6 +2371,7 @@ red_deer	hươu đỏ		h	Cervus elaphus
 red_kite	diều hâu đỏ		l	Milvus milvus
 reduced	đã giảm		h	made smaller, less
 reduction	sự giảm		h	act, process, or result of reducing
+reel	cuộn		h	spool
 refer	chuyển đến		h	to direct to a source for help or information
 reference	tài liệu tham khảo		h	academic writing: identification of a source
 reflect	phản chiếu		h	to bend back from a surface
@@ -1916,6 +2382,7 @@ refuse	rác thải		h	items or material that have been discarded
 regard	sự quan tâm		h	concern for another
 regardless	dù thế nào		h	1 & 2. anyway
 regards	lời hỏi thăm		h	greeting to pass to another person
+regent	nhiếp chính		h	one who rules in place of the monarch
 regional	thuộc khu vực		h	pertaining to a specific region
 register	sổ đăng ký		h	formal recording
 registered	đã đăng ký		h	having had one's name added to an official list
@@ -1924,14 +2391,18 @@ regularly	thường xuyên		h	with constant frequency
 rehabilitation	phục hồi chức năng		h	process
 rehearsal	buổi diễn tập		h	practicing of performance to test or improve it
 rejection	sự từ chối		h	act of rejecting
+relate	kể lại		h	to tell in a descriptive manner
 related	có liên quan		h	standing in relation or connection
 relation	quan hệ		h	mathematics: set of ordered tuples, a Boolean function of two or more arguments
 relative	tương đối		h	conditional; depending on something else
 relatively	tương đối		h	proportionally
 relax	nới lỏng		h	(transitive) to make something loose
+relaxation	sự thư giãn		h	act of relaxing or the state of being relaxed
+relaxed	thoải mái		h	having an easy-going mood
 relay	chạy tiếp sức		h	athletics discipline
 release	sự phóng thích		h	event of setting free
 relevant	liên quan trực tiếp		h	directly related, connected, or pertinent to a topic
+reliability	độ tin cậy		h	quality of being reliable
 relief	sự nhẹ nhõm		h	removal of stress or discomfort
 remain	phần còn lại		h	that which is left; relic; remainder
 remainder	số dư		h	mathematics: amount left over after repeatedly subtracting the divisor
@@ -1941,11 +2412,17 @@ remarkable	đáng chú ý		h	worthy of being remarked
 remedy	biện pháp khắc phục		h	something that corrects or counteracts
 reminder	vật nhắc nhở		h	something that reminds
 removal	sự gỡ bỏ		h	the process of moving, or the fact of being removed
+render	khiến cho		l	to cause to become
+renovation	sự cải tạo		h	act or process of renovating
+renowned	nổi tiếng		h	famous
 rent	tiền thuê		h	payment made for the use of equipment or a service
+repeated	lặp lại		h	said or done again
 repetition	sự lặp lại		h	act or an instance of repeating or being repeated
 replacement	sự thay thế		h	a person or thing that takes the place of another; a substitute
 report	báo cáo		h	to relate details of
+reporting	việc báo cáo		h	creation of reports
 representative	tiêu biểu		h	typical
+republic_of_albania	Cộng hòa Albania		h	Official name of Albania
 republican	cộng hòa		h	favoring a republic as form of government, favoring republicanism
 require	yêu cầu		h	to demand of (someone)
 resemble	giống		h	to be like or similar to something else
@@ -1957,6 +2434,7 @@ resolution	nghị quyết		h	statement of intent
 resolve	giải quyết		h	to find a solution to
 respectively	lần lượt		h	in a relative manner
 respond	đáp lại		h	to say something in return
+restricted	bị hạn chế		h	limited within bounds
 result	dẫn đến		h	to proceed, spring, or rise, as a consequence
 resulting	kết quả		h	of something that follows as the result of something else
 resurrection	sự phục sinh		h	act of arising from the dead
@@ -1967,15 +2445,20 @@ reverse	đảo chiều		h	causing movement in the opposite direction
 review	sự xem lại		h	second or subsequent reading of a text or artifact
 revolt	nổi dậy		h	to rebel — see also rebel, rise up
 revolutionary	cách mạng		h	of or pertaining to a revolution in government
+revolver	súng lục ổ quay		h	handgun with revolving chambers
 rhine	sông Rhine		h	river that flows through Europe
 rhode_island	Rhode Island		h	a state of the United States of America
 rhyme	vần thơ		h	verse, poetry
+rick	đống rơm		l	stack or pile, of straw, hay etc.
 rid	thoát khỏi		l	to free (oneself or someone, or a place) from an annoyance or hindrance
 ridge	đường gờ		h	line along which two sloping surfaces meet
 ridiculous	nực cười		h	foolish, absurd
+rigid	cứng nhắc		h	rigorous, unbending
 rising	cuộc nổi dậy		h	rebellion
 risky	đầy rủi ro		h	dangerous, involving risks
 ritual	thuộc nghi lễ		h	related to a rite
+rivalry	sự cạnh tranh		h	competition
+robotics	công nghệ robot		h	the science and technology of robots
 robust	mạnh mẽ		h	evincing strength
 rock_dove	bồ câu đá		h	Columba livia
 rocky	nhiều đá		h	abounding in, or full of, rocks
@@ -1983,27 +2466,40 @@ roe_deer	hoẵng châu Âu		l	Capreolus capreolus or Capreoles pygargus
 roger	đã nhận		h	received
 rogue	kẻ vô lại		h	a scoundrel, rascal or unprincipled, deceitful, and unreliable person
 roller	con lăn		h	tool for applying paint or ink
+rolling	lăn		h	moving by turning over repeatedly
 rolling_pin	cây cán bột		h	food preparation utensil
 roma	người Roma		h	the Romani people
 roman	chữ đứng		l	upright
 roman_catholic_church	Giáo hội Công giáo La Mã		h	Catholic Church
+romance	ngữ hệ Rôman		l	group of languages and cultures which are derived from Vulgar Latin
 romans	Rô-ma		h	book of the Bible
 rome_wasn_t_built_in_a_day	Rome không được xây dựng trong một ngày		h	it takes a long time to create something complicated or impressive
 rook	quạ đen		l	bird
+rookie	lính mới		h	inexperienced recruit in military or police
+roster	danh sách		h	a list of names
 rotation	sự quay		h	act of turning around a centre
 rough	gồ ghề		h	not smooth
 roughly	một cách thô bạo		l	in a rough manner
+roundabout	vòng vo		h	circuitous
 routine	thói quen hằng ngày		h	course of action to be followed regularly; a standard procedure
+royalty	hoàng gia		h	rank, status, etc. of a monarch
 rub	sự chà xát		h	act of rubbing
+rubbish	chuyện vớ vẩn		h	nonsense
 rude	thô lỗ		h	bad-mannered
+rue	sự hối hận		h	repentance, regret
 rug	thảm		h	partial floor covering
 ruin	tàn tích		h	remains of destroyed construction
+ruling	cầm quyền		h	that rules
 running	đang chạy		h	moving by running
 runs	tiêu chảy		h	diarrhea
+rupee	rupee		h	monetary currency
 rush	sự lao tới		h	sudden forward motion
 ruth	Ru-tơ		h	book of the Bible
+sabbath	ngày Sa-bát		h	Saturday (Judaism)
 safari	safari		h	a trip into any undeveloped area
+safely	một cách an toàn		h	in a safe manner
 safety_pin	kim băng		h	pin in the form of a clasp
+saga	sử thi Bắc Âu		l	Old Norse Icelandic prose
 said	đã nêu		h	mentioned earlier
 sailing	đi thuyền		h	travelling by ship
 saint_george	Thánh George		h	patron saint of England
@@ -2011,50 +2507,71 @@ saint_mary	Đức Mẹ Maria		h	Mary, mother of Jesus — see also Mary, Mother 
 saint_michael	Thánh Mi-ca-ê		h	equivalent of Saint Michael
 saint_nicholas	Thánh Ni-cô-la		h	4th-century Greek bishop, patron of children and mariners
 sake	lợi ích		l	cause, interest or account
+salaam_alaikum	as-salamu alaykum		l	peace be upon you (Muslim greeting)
 salad	salad		h	food
+salon	phòng khách lớn		l	large room
+salt_shaker	lọ rắc muối		h	a small container designed to hold salt and facilitate sprinkling
 san	san		l	letter of the Archaic Greek alphabet
 sanctuary	nơi ẩn náu		h	place of safety or protection
 sandy	đầy cát		h	covered with sand
+sarah	Sarah		h	Translations
 sat	Thứ Bảy		h	abbreviation of Saturday
 saudi	thuộc Ả Rập Xê Út		h	pertaining to Saudi Arabia
 savage	hoang dã		h	wild, not cultivated
 saving	sự tiết kiệm		h	reduction in cost
 savings_bank	ngân hàng tiết kiệm		h	financial institution
+saxon	người Saxon		h	member of Saxon tribe
 scale	thang đo		h	sequence for measurement
 scan	quét		h	create an image of something with the use of a scanner
+scandinavian_peninsula	bán đảo Scandinavia		h	peninsula in Northern Europe — see also Scandinavia
+scanner	máy quét		h	device which scans documents
 scare	nỗi hoảng sợ		h	minor fright
 scene	hiện trường		h	the location of an event that attracts attention
 scheme	kế hoạch		h	systematic plan of future action
+schizoid_personality_disorder	rối loạn nhân cách dạng phân liệt		h	personality disorder
 scholar	học giả		h	specialist in a particular branch of knowledge
+scoop	cái muỗng		l	any cup- or bowl-shaped object
 scope	phạm vi		h	breadth, depth or reach of a subject; extent of applicability or relevance
+scotch	tiếng Scots		l	Lowland Scots language
+scots	tiếng Scots		l	Lowland Scots language
 scottish	thuộc Scotland		h	of or pertaining to Scotland
 scout	người trinh sát		h	person sent out to gain and bring in tidings
+scrambled_egg	trứng bác		h	dish
 scrap	mảnh vụn		h	small piece, fragment
 scream	tiếng thét		h	loud exclamation
 screen_printing	in lụa		h	printing method
 script	văn bản		h	writing; written document
+sea_buckthorn	hắc mai biển		l	shrub of the genus Hippophae
 sea_lion	sư tử biển		h	member of the Otariidae family
 search	sự tìm kiếm		h	an attempt to find something
 search_engine	công cụ tìm kiếm		h	application that searches for data
+secondly	thứ hai		h	in the second place
 seconds	phần ăn thêm		h	second serving
 secretly	bí mật		h	in a secret manner
 sector	khu vực		h	zone
 seeing	sáng mắt		h	having vision; not blind
+seeking	tìm kiếm		h	that seeks something specified
 segment	đoạn		h	length of some object
 seine	sông Seine		h	river of northern France
+seize	nắm lấy		h	deliberately take hold of, grab
 seizure	sự tịch thu		h	act of taking possession, as by force or right of law
 select	ưu tú		h	privileged, specially selected
 selected	được chọn lọc		h	that have been selected or chosen
 selection	sự lựa chọn		h	process or act of selecting
 selfish	ích kỷ		h	holding one's self-interest as the standard for decision making
 selling	việc bán		h	action of the verb "to sell"
+semi	bán cương		l	semi-erection
 senior	lớn tuổi hơn		h	older
 sensation	cảm giác		h	physical feeling
+sensible	biết điều		h	acting with or showing good judgement
 sensitivity	độ nhạy		h	the ability of an organism or organ to respond to external stimuli
 sep	Tháng 9		h	September
 separate	tách ra		h	to disunite, disconnect
+separated	tách rời		h	detached; not connected or joined
 separately	riêng biệt		h	in a separate manner
 separation	sự chia tách		h	act of disuniting two or more things
+sequel	phần tiếp theo		h	a narrative written after another narrative set in the same universe
+serbia_and_montenegro	Serbia và Montenegro		h	former country on the Balkan Peninsula
 serial	nối tiếp		h	Having to do with or arranged in a series
 serious	nghiêm nghị		h	without humor or expression of happiness
 session	buổi		h	period devoted to a particular activity
@@ -2063,26 +2580,33 @@ settle	định cư		h	to fix one's dwelling
 settlement	khu định cư		h	newly established colony
 setup	thiết bị		h	Equipment designed for a particular purpose; an apparatus
 seven_hundred	bảy trăm		h	cardinal number 700
+seventeenth	thứ mười bảy		h	ordinal number — see also 17th
 seventy_five	bảy mươi lăm		h	75
 seventy_one	bảy mươi mốt		h	71
 seventy_two	bảy mươi hai		h	72
 severe	nghiêm trọng		h	very bad or intense
 sexual	thuộc tình dục		h	of or relating to having sex
 sexuality	tính dục		h	that which is characterized or distinguished by sex
+sexually	về mặt tình dục		h	with respect to intercourse
 shaft	cán		h	long narrow body of spear or arrow
 shall	sẽ		h	indicating the simple future tense
+shaped	có hình dạng		h	having been given a shape
 shared	dùng chung		h	used by multiple agents
 sharing	sự chia sẻ		h	a common point
+shawl	khăn choàng		h	a square piece of cloth worn as a covering for the head, neck, and shoulders
 shed	chia tách		l	to part or divide
 sheer	mỏng tang		h	very thin or transparent
 sheet_metal	kim loại tấm		h	Metal worked into a thin, flat sheet
 sheikh	sheikh		h	leader of an Arab village, family or small tribe
 shipping	sự vận chuyển hàng		h	transportation of goods
+shitty	tệ hại		h	very bad, miserable
+shocked	sửng sốt		h	surprised, startled, confused
 shooting	nhói		h	of a pain: sudden and darting
 shooting_star	sao băng		h	meteor
 shop_window	tủ kính cửa hàng		h	large window at the front of a shop
 shortage	sự thiếu hụt		h	lack or deficiency
 shortly	chẳng bao lâu nữa		h	in a short or brief time or manner
+shortness_of_breath	khó thở		h	dyspnea
 shot	cũ nát		h	worn out
 shotgun	súng săn		h	gun
 shout	tiếng hét		h	a loud burst of voice
@@ -2090,6 +2614,8 @@ shower	cơn mưa rào		h	brief fall of rain
 showing	buổi chiếu		h	occasion
 shrink	làm co lại		h	transitive: to cause something to shrink
 shut_up	nhốt		h	enclose (a person, animal or thing) in a room or other place so that it cannot leave
+shutter	cửa chớp		h	protective panels over windows
+siamese_cat	mèo Xiêm		h	mammal
 sicily	Sicilia		h	island in the Mediterranean Sea
 sick	ốm		h	ill, used as a substantive: sick people, collectively
 sickness	bệnh tật		h	the quality or state of being sick or diseased; illness; disease or malady
@@ -2099,10 +2625,12 @@ significance	ý nghĩa		h	extent to which something matters
 significantly	đáng kể		h	in a significant manner: notably
 similarly	tương tự		h	in a similar style or manner
 simply	một cách đơn giản		h	in a simple manner
+simulation	sự mô phỏng		h	something which simulates
 simultaneously	đồng thời		h	occurring at the same time
 since	kể từ đó		h	from a specified time in the past
 singing	việc hát		h	the act of using the voice to produce musical sounds; vocalizing
 single	đơn lẻ		h	not accompanied by anything else
+singles	đánh đơn		h	sports: game between two individuals
 singular	đơn lẻ		l	being only one of larger population
 site	địa điểm		h	place where anything is fixed; situation; local position
 sitting	sự ấp trứng		h	incubation of eggs; the clutch of eggs under a brooding bird
@@ -2114,6 +2642,7 @@ sixty_three	sáu mươi ba		h	cardinal number
 skill	kỹ năng		h	capacity to do something well
 skip	nhảy chân sáo		h	move by hopping on alternate feet
 sky_blue	xanh da trời		h	light blue — see also dark blue, blue
+slam	đóng sầm		h	to shut with sudden force and noise
 slander	lời vu khống		h	false or unsupported spoken malicious statement
 slap	cái tát		h	A blow dealt with the open hand
 slate	đá phiến		h	fine-grained homogeneous sedimentary rock
@@ -2130,6 +2659,7 @@ smith	thợ rèn		h	craftsperson who works metal — see also blacksmith
 smoking	đang bốc khói		h	giving off smoke
 snack	bữa ăn nhẹ		h	a light meal
 snap	tiếng tách		h	quick breaking or cracking sound or the action of producing such a sound
+sneak	kẻ lừa đảo		l	a cheat; con artist; trickster
 so_called	cái gọi là		h	so named
 so_far	cho đến nay		h	until now; previously; yet
 so_so	tàm tạm		h	neither good nor bad
@@ -2137,8 +2667,11 @@ so_that	để		h	in order to
 soap_opera	phim truyền hình dài tập		h	television serial
 sober	không say		h	not drunk
 soda	sô-đa		h	sodium carbonate
+sodium_chloride	natri clorua		h	chemical term for table salt; NaCl
 solar	thuộc Mặt Trời		h	of or pertaining to the sun
 sole	duy nhất		h	only
+solitary	người sống cô độc		h	one who lives alone
+somali	tiếng Somali		h	a language
 someday	một ngày nào đó		h	sometime; at some time in the future
 somehow	bằng cách nào đó		h	in one way or another; in some way not yet known or designated
 someone_s	của ai đó		h	possessive case of ''someone''
@@ -2153,50 +2686,78 @@ sour_cherry	anh đào chua		h	Prunus cerasus
 south_dakota	Nam Dakota		h	state of the US
 south_korean	người Hàn Quốc		h	person from or descended from South Korea
 southampton	Southampton		h	city in England
+soviet	công dân Xô viết		h	citizen
 sow	lợn nái		h	female pig
+spacecraft	tàu vũ trụ		h	vehicle that travels through space
 span	gang tay		h	Any of various units of length approximating the full width of an open hand
 spare	dự phòng		h	being over and above what is necessary
+sparta	Sparta		h	ancient city-state in southern Greece
 speak_of_the_devil	nhắc Tào Tháo, Tào Tháo đến		h	expression used when a person mentioned in the current conversation happens to arrive
 speaker	người nói		h	one who speaks
 speaking	biết nói		h	having the ability of speech
+specialty	chuyên môn		h	that in which one specializes
 specific	cụ thể		h	explicit or definite
 specifically	cụ thể		h	for a specific purpose or reason
+spectacle	cảnh tượng		h	something exciting or extraordinary
+spectacled_bear	gấu mắt kính		h	Tremarctos ornatus
+speculation	sự suy đoán		h	process of thinking or meditation
+speculative_fiction	tiểu thuyết giả tưởng		l	class of fiction involving fantastic, supernatural or futuristic elements
 spelling	chính tả		h	the practice, ability, or subject of forming words with letters, or of reading the letters of words; orthography
 spent	đã dùng hết		h	used up
 spike	đinh lớn		h	very large nail
+spirits	rượu mạnh		h	strong alcoholic drink derived from fermentation and distillation
 spiritual	thuộc tâm linh		h	of or pertaining to the spirit or the soul
 spit	xiên nướng		h	thin rod on which meat is skewered for cooking
 spite	ác ý		h	ill-will or hatred toward another; a desire to vex or injure
 spoil	phá hỏng		h	to ruin
+spoiled	hư hỏng		h	(of a person, usually a child) having a selfish or greedy character due to pampering
 spoken	bằng lời nói		h	expressed in speech
+spokesman	người phát ngôn		h	one who speaks as the voice of a group of people
 sponsor	người bảo trợ		h	person or organization with religious, legal, or financial responsibility for another
+spontaneous	tự phát		h	self generated; happening without any apparent external cause
+sporting	thuộc thể thao		h	pertaining to sports
 spot	đốm		h	a round or irregular patch of a different color
+spotlight	đèn rọi		h	a bright lamp, especially one used to illuminate the center of attention on a stage
+spotted	có đốm		h	discoloured by spots; stained
 spray	bụi nước		h	fine, gentle, dispersed mist of liquid
 spread	trải ra		h	to stretch out, expand
 spring	bật ra		l	to move or burst forth
 squad	đội		h	small group of people organized for a purpose
+squadron	đội kỵ binh		l	army: body of cavalry
+squat	thấp và to		h	relatively short or low and thick or broad
 st	suỵt		h	expressing a sudden desire for silence
 stab	nhát đâm		h	act of stabbing
 stability	sự ổn định		h	condition of being stable
 staff	gậy		h	long, straight, thick rod or stick to assist in walking
 stair	bậc thang		h	single step
 stall	ngăn chuồng		h	compartment for a single animal in a stable or cattle shed
+stallion	ngựa giống		h	uncastrated male horse
 stamp	dấu in		h	indentation or imprint made by stamping
 stance	tư thế đứng		h	manner, pose, or posture in which one stands
+standard_deviation	độ lệch chuẩn		h	statistical measure
 standing	tù đọng		h	water
 staple	nhu yếu phẩm		h	basic or essential supply
+star_of_bethlehem	Ngôi sao Bethlehem		h	star mentioned in the Gospel of Matthew
 stare	nhìn chằm chằm		h	to look fixedly
 stated	được nêu		h	expressed in a statement
 statement	lời tuyên bố		h	declaration or remark
 statesman	chính khách		h	man who is a leader in national or international affairs
+static	tĩnh		h	unchanging
 statistical	thuộc thống kê		h	of or pertaining to statistics
 status	địa vị		h	person’s position or standing
 steady	vững chắc		h	firm
+steam_locomotive	đầu máy hơi nước		h	locomotive powered by steam
+steamship	tàu hơi nước		h	vessel propelled by steam
 steer	lái		h	intransitive: guide the course
+stellar	thuộc sao		h	of, pertaining to, or characteristic of stars
 step_by_step	từng bước một		h	gradually
+stereotype	định kiến		h	conventional, formulaic, and oversimplified conception, opinion, or image
+sterling	đồng bảng Anh		h	currency of the United Kingdom, based on the pound sterling; genuine English or British currency, as contrasted with foreign currency
 stern	nghiêm khắc		h	having a hardness and severity of nature or manner
+stigma	sự kỳ thị		h	indication of infamy or disgrace
 sting	vết đốt		l	bump on skin
 stock	gia súc		h	farm animals
+stocks	cùm gỗ		l	device for public humiliation and punishment
 stole	khăn choàng giáo sĩ		l	ecclesiastical garment
 stolen	bị đánh cắp		h	that has been stolen
 storage	sự lưu trữ		h	act or state
@@ -2206,6 +2767,7 @@ strait	chật hẹp		h	tight, close, confined
 strand	bãi biển		h	beach
 strap	dây đeo		h	a long, narrow, pliable strip of leather, cloth, or the like
 strategic	thuộc chiến lược		h	of or pertaining to strategy
+streaming	phát trực tuyến		h	computing
 strengthen	tăng cường		h	to make strong or stronger
 stressed	căng thẳng		h	stressed-out
 stretch	kéo giãn		h	to lengthen by pulling
@@ -2213,31 +2775,45 @@ strict	nghiêm ngặt		h	governed or governing by exact rules
 strike	xóa bỏ		h	to delete
 striking	nổi bật		h	of that which makes a strong impression
 string_theory	lý thuyết dây		h	candidate unified theory of all physical forces and particles
+stringed_instrument	nhạc cụ dây		h	Translations
+stripe	sọc		h	long straight region of a colour
 stroke	cú đánh		h	act of hitting — see also blow, hit
 strongly	mạnh mẽ		h	in a strong or powerful manner
 structural	thuộc cấu trúc		h	of, relating to, or having structure
 stuck	bị kẹt		h	trapped and unable to move
 studio	studio		h	artist’s or photographer’s workshop
 study	ôn tập		h	to revise/review materials
+studying	việc học		h	the action of the verb to study
+stump	gốc cây		h	remains of something that has been cut off
+stunning	choáng ngợp		h	having an effect that stuns
+stupidity	sự ngu ngốc		h	property of being stupid
 sub	tàu ngầm		h	submarine — see also submarine
 subject	dễ bị		h	likely to be affected by something
+subjective	chủ quan		h	based upon subjective feelings or intuition
 submarine	dưới biển		h	undersea
+submission	sự phục tùng		h	the act of yielding
 submit	khuất phục		h	to yield or give way to another
 subscription	gói đăng ký		h	access to a resource for a period of time
 subsequent	tiếp theo		h	following in time
+subsequently	sau đó		h	subsequently
+subsidiary	phụ		h	auxiliary or supplemental
 substantial	có thực chất		l	having substance, actually existing
 substitute	thay thế		h	to use in place of something else
 subtitle	phụ đề		h	heading below a title
+subtle	tinh tế		h	of an argument or concept, words, etc.: requiring one to distinguish between fine points, especially if it is difficult to do so; difficult to grasp; not easily
 succeed	kế nhiệm		h	To follow in order; to come next after; hence, to take the place of
 successfully	thành công		h	in a successful manner
 succession	sự nối tiếp		h	following in sequence
 successor	người kế nhiệm		h	person or thing that immediately follows another
 such_is_life	đời là vậy		h	used to express the acceptance of misfortune
 suck	sự mút		h	instance of drawing something into one's mouth by inhaling
+sucker	người hay mắc lừa		l	someone or something that sucks
 suffering	đang đau khổ		h	experiencing pain
 sufficient	đủ		h	enough, adequate
 suite	đoàn tùy tùng		h	retinue or company of attendants
+sumatra	Sumatra		h	the largest island of Indonesia
 summary	ngắn gọn		h	concise
+superintendent	giám đốc		l	a person who is authorized to supervise, direct or administer something
 superior	vượt trội		h	higher in rank or quality
 supplement	phần bổ sung		h	something added
 supply	cung cấp		h	to provide, make available for use
@@ -2246,24 +2822,34 @@ supporter	người ủng hộ		h	person who supports, an adherent
 supposed	được cho là		h	presumed to be true, but without proof
 sure	chắc chắn		h	certain, reliable
 surely	hẳn là		h	certainly, undoubtedly
+surgical	thuộc phẫu thuật		h	of or relating to surgery
 surplus	thặng dư		h	excess, overplus
 surprising	đáng ngạc nhiên		h	that is or are a surprise
 surround	bao quanh		h	to encircle something or simultaneously extend in all directions
 surrounding	bao quanh		h	gerund of 'surround'
+surroundings	môi trường xung quanh		h	area surrounding someone or something
 survival	sự sống sót		h	continued existence or life
 suspect	nghi ngờ		h	imagine or suppose to be true, without proof
+suspended	bị đình chỉ		h	interrupted or delayed
 suspension	sự đình chỉ		h	act of suspending or state of being suspended
 suspicious	đáng ngờ		h	arousing suspicion
+sustain	duy trì		h	to maintain something
 sustainable	bền vững		h	able to be sustained
 swarm	bầy côn trùng		h	large number of insects
 swear_word	lời chửi thề		h	obscene or offensive vulgar word
 sweet_flag	thạch xương bồ		h	Acorus calamus
+sweetness	vị ngọt		h	condition of being sweet or sugary
+sweets	kẹo		h	confectionery, candy
 swift	nhanh chóng		h	fast; quick; rapid
+sycamore_maple	cây phong giả		l	Acer pseudoplatanus
 symbolic	mang tính biểu tượng		h	pertaining to a symbol
 synthetic	tổng hợp		h	produced by chemical synthesis
+syracuse	Syracuse		h	city in New York state
+systematic	có hệ thống		h	carried out using a planned, ordered procedure
 tab	thẻ		h	navigational widget in a GUI
 taboo	điều cấm kỵ		h	inhibition or ban
 tackle	dụng cụ câu cá		h	fishing: angling gear
+tactical	thuộc chiến thuật		h	of or relating to tactics
 tag	nhãn		h	small label
 taken	bị cuốn hút		h	infatuated, fond of or attracted to
 taking	lôi cuốn		h	alluring; attractive
@@ -2272,10 +2858,13 @@ taliban	Taliban		h	Islamist movement in Afghanistan
 tamil	thuộc Tamil		h	of or pertaining to the Tamil people, culture, or language
 tap	vòi		h	tapering cylindrical peg or pin used to close and open the hole or vent in a container — see also spigot
 tasmania	Tasmania		h	Australian state
+tasmanian_devil	quỷ Tasmania		h	Sarcophilus harrisii
+tawny_owl	cú vọ nâu		l	Strix aluco
 taxi_stand	bãi đỗ taxi		h	place for taxicabs to wait
 teaching	lời dạy		h	something taught
 technical	kỹ thuật		h	pertaining to the useful or mechanic arts
 technically	về mặt kỹ thuật		h	based on precise facts, which however may be contrary to common misbelief or to a traditional name
+temper	tính khí		h	tendency to be of a certain type of mood
 temporarily	tạm thời		h	for a limited period of time
 temptation	sự cám dỗ		h	act of tempting
 tend	có xu hướng		h	to be probable or likely
@@ -2285,7 +2874,10 @@ tension	sự căng thẳng		h	psychological state
 termination	đuôi từ		h	(grammar) the last part (or morpheme) of a word — see also suffix, ending
 terminology	thuật ngữ		h	treatise on terms
 terrain	địa hình		h	area
+terrestrial	thuộc trái đất		h	of, relating to, or inhabiting the Earth or its inhabitants
+testify	làm chứng		h	to make a declaration, or give evidence, under oath
 testing	việc kiểm tra		h	the act of conducting a test
+testosterone	testosterone		h	steroid hormone
 texture	kết cấu		h	feel or shape of a surface or substance
 thank_god	ơn trời		h	exclamation of gratitude or relief
 the	cái		l	article
@@ -2293,12 +2885,14 @@ them	họ		h	third personal plural pronoun used after a preposition or as the ob
 themselves	chính họ		h	emphatic: they
 theoretical	thuộc lý thuyết		h	of or relating to theory
 there_is_nothing_new_under_the_sun	không có gì mới dưới ánh mặt trời		h	there is nothing new
+thereby	nhờ đó		h	by that
 therefore	do đó		h	consequently; by consequence — see also consequently, ergo, so, whence, thus
 these	những cái này		h	plural of this
 think	nghĩ		h	be of the opinion that — see also believe, opine
 thinker	nhà tư tưởng		h	one who spends time thinking
 thinking	sự suy nghĩ		h	thinking, thought
 third_world	Thế giới thứ ba		h	countries not aligned with the west or east during the cold war
+thirteenth	thứ mười ba		h	ordinal form of thirteen — see also 13th
 thirty_eight	ba mươi tám		h	38
 thirty_five	ba mươi lăm		h	35
 thirty_four	ba mươi bốn		h	34
@@ -2307,14 +2901,20 @@ thirty_one	ba mươi mốt		h	31
 thirty_seven	ba mươi bảy		h	37
 thirty_three	ba mươi ba		h	33
 thirty_two	ba mươi hai		h	32
+thoroughly	một cách triệt để		h	in a thorough or complete manner
 though	dù vậy		h	however
+threatened	bị đe dọa		h	at risk of becoming endangered
+threatening	đe dọa		h	presenting a threat
+threshing_floor	sân đập lúa		h	floor of a threshing house
 thriller	thể loại giật gân		h	genre of fiction
 throughout	khắp		h	in every part of; all through
 throw_away	vứt bỏ		h	discard or dispose of
 thrust	cú đâm		h	an attack with a sword
 thus	như vậy		h	in this way or manner
 tickle	việc cù		h	act of tickling
+tidy	gọn gàng		h	arranged neatly
 tie	tỉ số hòa		h	sports: tie score
+tied	gắn bó		l	closely associated
 tier	tầng lớp		h	layer or rank
 tight	chặt		h	firmly held together
 till	cho đến		h	until
@@ -2323,6 +2923,8 @@ timeline	dòng thời gian		h	graphical representation of a chronological sequen
 timing	sự canh thời điểm		l	the regulation of the pace
 timothy	Ti-mô-thê		h	books in the New Testament
 tire	mệt mỏi		h	to become sleepy
+tit	vú		l	(slang, vulgar) a woman's breast
+titan	Titan		h	mythological giant
 titanic	khổng lồ		h	having great size, or great force, power, or strength
 title	danh xưng		h	prefix or suffix added to a name
 titus	Tít		h	book of the Bible
@@ -2334,15 +2936,24 @@ token	vật tượng trưng		h	something serving as an expression of something e
 tolerance	sự khoan dung		h	ability or practice of tolerating
 tom	mèo đực		h	male cat
 tomato_juice	nước ép cà chua		h	juice made from tomatoes
+tongue_twister	câu nói líu lưỡi		h	phrase which is difficult to say
 tony	sang trọng		h	stylish, high-toned, upscale
+torah	Torah		h	the Five Books of Moses - the full body of Jewish law
 torment	sự dày vò		h	extreme pain
 toronto	Toronto		h	city in Canada
+torque	mô-men xoắn		h	a rotational or twisting force
+toss	cú ném		h	throw, a lob, of a ball
 total_eclipse	nhật thực toàn phần		l	eclipse in which the eclipsed body is completely obscured to the viewer
+totalitarian	toàn trị		h	related to the system of government
 totally	hoàn toàn		h	In a total manner; completely
+touched	cảm động		h	moved
 tournament	cuộc tỉ thí hiệp sĩ		l	(historical) series of battles
+tow	kéo		h	pull something using a line
 traditionally	theo truyền thống		h	traditional manner
 tragic	bi thảm		h	causing great sadness
 trail	kéo lê		h	drag behind
+trained	được đào tạo		h	having undergone a course of training
+trans	chuyển giới		h	transgender
 transaction	giao dịch		h	act of conducting or carrying out business, negotiations, plans
 transfer	chuyển		h	to move or pass from one place, person or thing to another
 transform	biến đổi		h	change greatly the appearance or form of
@@ -2353,22 +2964,33 @@ transmission	sự truyền		h	act of transmitting
 transparency	sự trong suốt		h	quality of being transparent; transparence
 transport	vận chuyển		h	carry or bear from one place to another
 transportation	sự vận chuyển		h	act of transporting
+trapped	bị mắc kẹt		h	caught in a trap
+travelling	việc đi du lịch		h	action of travelling
 tray	khay		h	object on which things are carried
 treason	tội phản quốc		h	crime of betraying one’s country
 treasurer	thủ quỹ		l	government official in charge of the Treasury
 treasury	ngân khố		h	place where treasure is stored safely
 treatment	sự điều trị		h	process or manner of treating
 trend	xu hướng		h	inclination in a direction
+tribal	thuộc bộ lạc		h	of or relating to tribes
 tribute	lời tri ân		h	acknowledgment of gratitude, respect or admiration; an accompanying gift
 trick	trò lừa		h	something designed to fool
+trilogy	bộ ba tác phẩm		h	collection of three works
 trinity	bộ ba		h	group or set of three people or things
+tripod	giá ba chân		h	a three-legged stand or mount
+trivial	tầm thường		h	of little significance or value
+trojan_horse	Ngựa thành Troy		h	epic wooden horse
 trojan_war	Chiến tranh thành Troy		h	mythological war
+troop	quân đội		h	military forces
 troops	binh lính		h	military personnel in uniform
 trouble	rắc rối		h	distressful or dangerous situation
 truly	thực sự		h	in accordance with the facts
 trust	sự tin tưởng		h	confidence in or reliance on some person or quality
 trying	khó khăn		h	Difficult to endure; arduous
+tub	cái bồn		h	broad, flat-bottomed vessel
+tuition	sự giảng dạy		l	training or instruction provided by a teacher or tutor
 turkish_bath	nhà tắm hơi kiểu Thổ Nhĩ Kỳ		h	establishment
+turks_and_caicos_islands	quần đảo Turks và Caicos		h	a British overseas territory in the Caribbean
 turn	quay		h	intransitive: move around an axis through itself
 turner	thợ tiện		h	person working a lathe
 turning	chỗ rẽ		h	A turn or deviation from a straight course
@@ -2381,7 +3003,8 @@ twenty_six	hai mươi sáu		h	cardinal number
 twenty_three	hai mươi ba		h	twenty-three
 twice	hai lần		h	two times
 twist	lực xoắn		h	twisting force
-twitter	tiếng hót líu lo		h	sound made by birds
+twitch	cử động giật		l	1. brief, small (sometimes involuntary) movement out of place and then back again
+twitter	Twitter		h	online social networking service
 typically	thông thường		h	in a typical manner
 ugh	eo ơi		h	to express disgust
 uh	ờ		h	expression of confusion or uncertainty
@@ -2390,12 +3013,19 @@ ultimate	cuối cùng		h	final; last in a series
 ultimately	cuối cùng		h	indicating the last item
 unable	không thể		h	not able
 unbelievable	khó tin		h	incredible
+uncertain	không chắc chắn		h	not known for certain; questionable
 uncertainty	sự không chắc chắn		h	doubt; the condition of being uncertain
+unclear	không rõ ràng		h	ambiguous; liable to more than one interpretation
 uncomfortable	không thoải mái		h	not comfortable
 unconscious	bất tỉnh		h	not awake
+underestimate	đánh giá thấp		h	to perceive as having lower value
 underground	dưới lòng đất		h	below the ground — see also subterranean
+underlying	tiềm ẩn		h	lying underneath
+underneath	bên dưới		h	below; in a place beneath
+understandable	dễ hiểu		h	capable of being understood
 understood	được hiểu		h	comprehended
 underwater	dưới nước		h	beneath the water surface
+underworld	âm phủ		h	world of the dead
 unhappy	không vui		h	not happy; sad
 uniform	đồng đều		h	consistent
 united	thống nhất		h	joined into a single entity
@@ -2406,11 +3036,16 @@ unlikely	khó xảy ra		h	not likely
 unlimited	không giới hạn		h	limitless or without bounds; unrestricted
 unnecessary	không cần thiết		h	not necessary
 unpleasant	khó chịu		h	not pleasant
+unprecedented	chưa từng có		h	never before seen or done, without precedent
+unreal	không có thật		h	not real
+unstable	không ổn định		h	not stable
 unusual	khác thường		h	not usual
 upcoming	sắp tới		h	of the relatively near future
 update	sự cập nhật		h	action of making something up to date
 upgrade	bản nâng cấp		h	an improved component or replacement item
 upper	phía trên		h	at a higher level, rank or position
+ups	bộ lưu điện		h	(initialism) uninterruptible power supply
+upstairs	ở tầng trên		h	located on a higher floor of a building
 urge	sự thôi thúc		h	a strong desire; an itch to do something
 urgent	khẩn cấp		h	requiring immediate attention
 us	chúng ta		h	objective case of "we"
@@ -2423,59 +3058,83 @@ utah	Utah		h	a state of the United States of America
 utility	tính hữu ích		h	state or condition of being useful
 utter	hoàn toàn		h	to the furthest or most extreme extent — see also absolute, total
 vaccine	thuộc vắc-xin		l	of, pertaining to, caused by, or characteristic of cowpox
+vague	mơ hồ		h	not clearly expressed
+vain	hão huyền		l	overly proud of one's appearance
 valencia	Valencia		h	capital of the Valencian Community
 valid	hợp lệ		h	acceptable, proper or correct
 variable	có thể thay đổi		h	able to vary
 variant	đa dạng		h	showing variety, diverse
 variety	chủng loại		h	specific variation of something
+vary	thay đổi		h	to change something with time or a similar parameter
+vas_deferens	ống dẫn tinh		h	vas deferens
 vast	rộng lớn		h	very large or wide (literally or figuratively)
+vat	thuế giá trị gia tăng		h	initialism for value-added tax — see also value added tax
 vatican_city_state	Nhà nước Thành Vatican		h	official name of Vatican City
 vault	vòm		h	arched masonry structure
 veil	tấm màn che		h	something to hide an object
 venture	cuộc mạo hiểm		h	a risky or daring undertaking or journey
+venue	địa điểm tổ chức		h	place, especially the one where a given event is to happen
 verbal	bằng lời		h	of, or relating to words
+vermont	Vermont		h	a state in the United States
 verse	thể thơ		h	poetic form with regular meter and a fixed rhyme scheme
 vertical	thẳng đứng		h	being perpendicular to horizontal
 vest	áo lót		h	garment worn under a shirt
+veto	quyền phủ quyết		h	political right
 via	via		l	small hole in a printed circuit board
 vice	tật xấu		h	bad habit
+vicinity	vùng lân cận		h	proximity, or the state of being near
 vicious_circle	vòng luẩn quẩn		h	situation in which the response to a problem creates another problem
+victorian	thuộc thời Victoria		h	of or relating to the reign of Queen Victoria or that period
 vineyard	vườn nho		h	grape plantation
 vintage	vụ nho		l	yield of grapes during one season
+vinyl	vinyl		h	univalent radical
+viola	hoa păng-xê		l	botany: any of several flowering plants
 violation	sự vi phạm		h	act or instance of violating
 violence	bạo lực		h	extreme force
 violent	bạo lực		h	involving extreme force or motion
 violet	hoa violet		h	plant
+viper	rắn lục		h	a poisonous snake in the family Viperidae
 viral	thuộc vi-rút		h	relating to a virus in biological sense
 virgin_mary	Đức Trinh Nữ Maria		h	Mary, mother of Jesus — see also Mary, Virgin, Mother of God, Our Lady, Saint Mary, Theotokos
 virginia	Virginia		h	state
 virtual	ảo		h	in effect or essence, rather than in fact or reality
 visibility	tầm nhìn		h	degree to which things may be seen
 visual	thuộc thị giác		h	related to or affecting the vision
+vocative_case	cách hô		l	case of address
 void	trống rỗng		h	containing nothing
 volleyball_player	vận động viên bóng chuyền		h	volleyball player
 volt	vôn		h	unit of measure
 voluntary	tự nguyện		h	done, given, or acting of one's own free will
 voting	bỏ phiếu		h	action of the verb to vote
 voyage	chuyến đi biển		h	long journey; especially by ship
+vulnerability	tính dễ bị tổn thương		h	state of being vulnerable
 w	tây		h	west
 wagon	xe chở hàng		l	four-wheeled cart for hauling loads — see also cart, carriage
 waiting	sự chờ đợi		h	the act of staying or remaining in expectation
 walker	người đi bộ		h	person who walks
 walking	hiện thân		l	incarnate as a human
+wall_socket	ổ cắm điện		h	electricity power point
 wanted	được mong muốn		h	desired
+wanting	thiếu		h	absent or lacking
+warmth	sự ấm áp		h	moderate heat; sensation of being warm
 warrant	giấy ủy quyền		l	authorization or certification
+warren	hang thỏ		h	the system of burrows where rabbits live
+wary	thận trọng		h	cautious of danger; timorously or suspiciously prudent; circumspect; scrupulous
 washer	máy giặt		h	something that washes
+washing	việc giặt		h	action of the verb "to wash"
 waste	chất thải		h	useless by-products, garbage
 wave	vẫy		h	to move back and forth repeatedly
 we	chúng ta		h	generic we (the speaker and at least one other person, regardless of whether it's the person being addressed)
 weakness	sự yếu đuối		h	condition of being weak
 wearing	dùng để mặc		l	intended to be worn
+weasel	chồn		h	least weasel, Mustela nivalis
 weather_station	trạm khí tượng		h	station for meteorological observations
+wee	nhỏ xíu		h	small, little
 weekly	hằng tuần		h	once every week
 well_being	sự an lạc		h	state of health, happiness or prosperity
 welsh	thuộc tiếng Wales		h	of or pertaining to the Welsh language
 west_virginia	Tây Virginia		h	US state
+western_barn_owl	cú lợn châu Âu		l	Tyto alba furcata
 what	gì		h	interrogative
 what_are_you_doing	bạn đang làm gì		h	what are you doing
 what_s_up	dạo này thế nào		h	How are you?
@@ -2500,8 +3159,10 @@ will	muốn		h	to wish or desire
 willing	sẵn lòng		h	ready to do something that is not a matter of course
 wind_instrument	nhạc cụ hơi		h	type of musical instrument
 windows	Windows		h	Microsoft Windows
+winnie_the_pooh	Gấu Pooh		h	the fictional bear
 winning	chiến thắng		h	that constitutes a win
 wisconsin	Wisconsin		h	state of the United States of America
+wit	sự hóm hỉnh		h	Spoken humour, particularly that thought of quickly
 withdraw	rút		h	to draw or pull (something) aside, away, or back from its original position or situation
 withdrawal	sự rút lại		l	receiving from someone's care what one has earlier entrusted to them
 within	bên trong		h	spatially enclosed by
@@ -2511,11 +3172,17 @@ won	won		h	currency of Korea
 won_t	sẽ không		h	contraction of “will not”
 wonder	kỳ quan		h	something that causes amazement or awe, a marvel
 wonderful	tuyệt diệu		h	excellent, extremely impressive
+wont	thói quen		l	habitual way of doing things
+woo	tán tỉnh		l	to endeavor to gain someone's affection/support
 wooden	bằng gỗ		h	made of wood
+woof	sợi ngang		h	set of yarns carried by the shuttle of a loom which are placed crosswise at right angles to and interlaced with the warp — see also weft
 words	lời qua tiếng lại		h	angry debate or conversation
 working	sự vận hành		h	operation; action
+workout	buổi tập luyện		h	an exercise session; a period of physical exercise
 works	nhà máy		h	a factory
 world_wide_web	World Wide Web		h	all of the web pages on the Internet that hyperlink to each other and to other kinds of media
+worn	sờn cũ		h	damaged and shabby from too much use
+worrying	đáng lo ngại		h	inducing worry
 worship	sự thờ phụng		h	devotion accorded to a deity or to a sacred object
 worth	đáng giá		h	equal in value to
 worthy	xứng đáng		h	having worth, merit, or value
@@ -2523,14 +3190,21 @@ would	sẽ		l	indicating a possible (but not definite) future action or state
 wounded	bị thương		h	suffering from a wound
 wow	ôi chao		h	excitement, surprise
 wreck	vụ va chạm		h	collision
+wrinkle	nếp nhăn		h	furrow in a smooth surface
 written	bằng văn bản		h	of, relating or characteristic of writing
+wtf	cái quái gì thế		l	What the fuck
 wyoming	Wyoming		h	US state
 x	ẩn số		h	unknown quantity or unknown value
+xbox	Xbox		h	video game console manufactured and distributed by Microsoft
 xi	xi		h	Greek letter
 y	Y		l	commune in the Somme department, Hauts-de-France, France
 ya	chữ Я		l	a letter of the Cyrillic alphabet "Я/я"
+yahoo	Yahoo!		h	a popular web portal
+yankee	người Yankee		h	native or inhabitant of the USA
 yearly	hằng năm		h	happening once every year
+yiddish	thuộc tiếng Yiddish		h	of or pertaining to the Yiddish language
 yield	nhường		h	to give way
+yo	này		l	greeting similar to hi
 york	York		h	city in North Yorkshire
 yorkshire	Yorkshire		h	former large county
 you	bạn		h	object pronoun: the person being addressed
@@ -2538,3 +3212,6 @@ younger	trẻ hơn		h	in an earlier period of life
 your	của bạn		h	belonging to you (singular; one owner)
 yours	của bạn		h	possessive pronoun, singular
 yourself	chính bạn		h	(reflexive) your own self
+yup	ừ		h	(informal) yes
+zion	Si-ôn		h	hill ("mount") in Israel
+zoom	tiếng vù vù		l	humming noise from something moving very fast

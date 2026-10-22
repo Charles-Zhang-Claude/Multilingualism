@@ -11,6 +11,10 @@ Words already filled in <jobs dir>/out/ are skipped, so jobs can be regenerated 
 import sys, json, random, csv
 from pathlib import Path
 
+
+def is_header(row):  # the header line, not the headword "id" (whose slug is also "id")
+    return row[0] == "id" and len(row) > 1 and row[1] in ("translation", "english")
+
 HERE = Path(__file__).parent
 LANGS = json.loads((HERE / "languages.json").read_text())
 src, jobs = sys.argv[1], Path(sys.argv[2])
@@ -48,7 +52,7 @@ for f in (jobs / "out").glob("*.tsv"):
     code = f.name.split(".")[0]
     with open(f, encoding="utf-8") as fh:
         for row in csv.reader(fh, delimiter="\t", quoting=csv.QUOTE_NONE):
-            if row and row[0] != "id" and len(row) > 1 and any(ch.isalpha() for ch in row[1]):
+            if row and not is_header(row) and len(row) > 1 and any(ch.isalpha() for ch in row[1]):
                 slug = OLD_IDS.get(row[0], row[0])
                 if MEANINGS.get(code, {}).get(slug) == current.get(slug):
                     done.setdefault(code, set()).add(slug)

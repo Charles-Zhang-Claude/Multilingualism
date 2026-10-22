@@ -19,6 +19,10 @@ names = args[1:] or sorted(p.stem for p in (jobs / "out").glob("*.tsv") if (jobs
 
 
 import re
+
+
+def is_header(row):  # the header line, not the headword "id" (whose slug is also "id")
+    return row[0] == "id" and len(row) > 1 and row[1] in ("translation", "english")
 SCRIPT = {  # languages with their own script: a translation must contain at least one such character
     "am": "\u1200-\u139f", "ar": "\u0600-\u06ff", "fa": "\u0600-\u06ff", "ps": "\u0600-\u06ff", "ur": "\u0600-\u06ff",
     "sd": "\u0600-\u06ff", "ug": "\u0600-\u06ff", "hy": "\u0530-\u058f", "ka": "\u10a0-\u10ff", "el": "\u0370-\u03ff\u1f00-\u1fff",
@@ -34,7 +38,7 @@ SCRIPT = {  # languages with their own script: a translation must contain at lea
 
 def rows(path):
     with open(path, encoding="utf-8") as fh:
-        return [r for r in csv.reader(fh, delimiter="\t", quoting=csv.QUOTE_NONE) if r and r[0] != "id"]
+        return [r for r in csv.reader(fh, delimiter="\t", quoting=csv.QUOTE_NONE) if r and not is_header(r)]
 
 
 bad = 0

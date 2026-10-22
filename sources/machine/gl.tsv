@@ -43,7 +43,7 @@ active_voice	voz activa		h	the form in which the subject of a verb carries out s
 acts_of_the_apostles	Feitos dos Apóstolos		h	fifth book of the New Testament
 actual	real		h	existing in act or reality, not just potentially
 actually	en realidade		h	In act or in fact; really; in truth; positively
-ad	anuncio		h	clipping of advertisement — see also advertisement
+ad	despois de Cristo		h	anno Domini — see also CE
 adapt	adaptar		h	to make suitable
 adapted	adaptado		h	having been subject to alteration
 adapter	adaptador		h	device to allow compatibility (in general)
@@ -260,7 +260,7 @@ basic	básico		h	necessary, essential for life or some process
 basically	basicamente		h	in a fundamental or basic manner
 basis	base		h	starting point for an argument
 bastard	bastardo		l	contemptible etc. person
-batman	asistente		l	servant to an army officer — see also orderly
+batman	Batman		h	a city in Turkey
 battalion	batallón		h	army unit
 bayonet	baioneta		h	weapon
 bazaar	bazar		h	marketplace
@@ -386,6 +386,7 @@ broker	corretor		h	mediator between a buyer and seller
 brooklyn	Brooklyn		h	borough of New York City
 brother_in_law	cuñado		h	husband of the sister of one's wife
 brown_bear	oso pardo		h	Ursus arctos
+bruise	magullar		h	strike (a person), giving them a bruise
 bucharest	Bucarest		h	capital city of Romania
 buckingham_palace	Palacio de Buckingham		h	the official London residence of the British monarch
 budapest	Budapest		h	the capital city of Hungary
@@ -405,6 +406,7 @@ bureau	despacho		h	office (room)
 burger	hamburguesa		h	informal: hamburger
 buried	enterrado		h	Placed in a grave at a burial
 burning	ardente		h	so hot as to seem to burn (something)
+burnt	queimado		h	damaged or injured by fire or heat
 burst	rebentar		h	to cause to burst
 bus	autobús		h	vehicle
 bus_station	estación de autobuses		h	major bus stop, one that serves as a transfer point between a large number of routes
@@ -416,7 +418,7 @@ by	por		h	indicates a means
 by_chance	por casualidade		h	unexpected(ly); accidental(ly)
 by_heart	de memoria		h	Translations
 bye	exención		l	The position of a person or team in a tournament or competition who draws no opponent in a particular round so advances to the next round unopposed
-c	c.		h	abbreviation of circa
+c	do		h	musical note
 cabin	cabana		h	small dwelling, especially one made of logs
 cabinet	goberno		l	group of ministers
 caesarean_section	cesárea		h	incision in the womb
@@ -566,7 +568,7 @@ cocoon	casulo		h	protective case spun by the larvae of some insects
 coffee_pot	cafeteira		h	pot for coffee
 coil	espiral		l	something wound
 coincidence	coincidencia		h	state of events appearing to be connected when they are not
-coke	coque		h	coal product
+coke	Coca-Cola		h	Coca-Cola
 cola	cola		h	drink
 collaborate	colaborar		h	to work together on a piece of work
 collapse	derrubarse		h	to fall down suddenly; to cave in
@@ -729,11 +731,13 @@ crown_prince	príncipe herdeiro		h	next king
 crucial	crucial		h	extremely important
 crude	crú		h	being in a natural state
 cruise_missile	mísil de cruceiro		h	winged missile
+crusade	cruzada		h	campaigns by Christian forces to the Holy Land
 crush	paixoniña		l	love or infatuation or its object (often short-lived or unrequited)
 crying	que chora		l	that cries
 cub	cría		h	the young of certain animals
 cuban	cubano		h	a person from Cuba
 cucumber	pepino		h	plant
+cue	sinal		h	action or event that is a signal to do something
 cult	culto		h	subset of worship
 cum	con		l	Translations
 cure	cura		h	method, device or medication that restores good health
@@ -929,7 +933,7 @@ east_timor	Timor Oriental		h	Country in Southeast Asia
 eastern	oriental		h	related to the east
 eating	de mesa		l	suitable to be eaten without cooking
 economy	economía		h	effective management of the resources of a community or system
-ed	ed.		h	edition
+ed	servizo de urxencias		h	emergency department
 edit	edición		l	a change to the text of a document
 editing	edición		h	an act or instance of something being edited
 edition	edición		h	literary work
@@ -1006,6 +1010,7 @@ eurasian_woodcock	arcea		l	Scolopax rusticola
 evacuate	evacuar		h	to move out of an unsafe location into safety
 evacuation	evacuación		h	act of evacuating; leaving a place in an orderly fashion, especially for safety
 evaluate	avaliar		h	to draw conclusions from by examining
+eve	Eva		h	the first woman
 even	igual		h	equal
 event_horizon	horizonte de sucesos		h	gravitational sphere within which light cannot escape
 eventually	ao final		h	in the end
@@ -1063,7 +1068,7 @@ fable	fábula		h	fictitious narration to enforce some useful truth or precept
 fabulous	fabuloso		h	of the nature of a fable; unhistorical
 facade	fachada		h	face of a building
 face_to_face	cara a cara		h	in person
-facebook	directorio de rostros		l	a reference book or electronic directory
+facebook	Facebook		h	social-networking website
 facilitate	facilitar		h	to make easy or easier
 facility	instalación		h	physical means or contrivance for doing something
 facing	revestimento		l	The most external portion of exterior siding
@@ -1288,7 +1293,7 @@ guardian	titor		h	law: person legally responsible for a minor in loco parentis
 guardian_angel	anxo da garda		h	spirit
 guide_book	guía		h	book that provides guidance — see also travel guide
 guilty	culpable		h	responsible for a dishonest act
-guinea	guinea		h	coin worth 21 shillings
+guinea	Guinea		h	short form of the Republic of Guinea
 guinea_bissau	Guinea-Bisau		h	Republic of Guinea-Bissau
 gujarat	Guxarat		h	state in western India
 gulf_of_naples	Golfo de Nápoles		h	Mediterranean gulf along the coast of Campania
@@ -1296,6 +1301,7 @@ gun	arma de fogo		h	portable, short weapon, for hand use
 guru	gurú		h	spiritual teacher
 gut	barriga		h	abdomen
 guy	tipo		h	male, man
+gypsy	xitano		h	a member of the Romani people or another nomadic group
 ha	ha		h	a representation of laughter
 hack	piratear		l	to gain illegal access to a computer network
 hacker	hacker		h	one who uses a computer to gain unauthorized access to data stored in, or to carry out malicious attacks on, computer networks or computer systems
@@ -1422,6 +1428,7 @@ i_miss_you	bótote de menos		h	I miss you
 i_must_go	teño que marchar		h	I must go
 ice_age	era glacial		h	any of several glacial periods
 iced_coffee	café xeado		h	beverage
+id	ello		l	id
 identify	identificar		h	to establish the identity of someone or something
 identity_card	carné de identidade		h	identity card
 idiom	modismo		h	idiomatic expression
@@ -1955,6 +1962,7 @@ nur_sultan	Nur-Sultán		h	former name of Astana — see also Astana
 nursery	garderío		l	place where the pre-school children of working parents are supervised during the day — see also nursery school
 nursing	lactante		h	lactating
 nylon	nailon		h	substance
+o	ó		l	a vocative particle
 o_clock	en punto		l	indication of time (the translations below are of "one o’clock")
 objection	obxección		h	act of objecting
 obscure	escuro		h	dark, faint or indistinct
@@ -2089,7 +2097,7 @@ patriarch	patriarca		h	highest bishop
 pause	pausar		h	to take a temporary rest or break
 pawn	empeño		l	item sold to a pawn shop
 payer	pagador		h	one who pays
-pc	ordenador persoal		h	piece
+pc	PC		h	initialism of personal computer
 peace_talks	negociacións de paz		h	discussions between nation-states held to resolve conflict
 pedestrian_crossing	paso de peóns		h	place for pedestrians to cross a street
 pee	ouriña		h	urine
@@ -2400,7 +2408,7 @@ reproduction	reprodución		h	the act of reproducing new individuals biologically
 republic_of_guinea_bissau	República de Guinea-Bisau		h	official name of Guinea-Bissau
 republic_of_the_congo	República do Congo		h	smaller of the two countries named Congo — see also Congo-Brazzaville
 republic_of_the_philippines	República das Filipinas		h	official name of the Philippines
-republican	republicano		h	favoring a republic as form of government, favoring republicanism
+republican	republicano		h	pertaining to the Republican Party
 reservation	reserva		h	limiting qualification
 reserve	reserva		h	that which is reserved or kept back, as for future use
 reserved	reservado		h	slow to reveal emotion or opinions
@@ -2447,7 +2455,7 @@ rolling	rodante		h	moving by turning over repeatedly
 rom	xitano		l	a member of the Romani people
 roma	romaní		h	the Romani people
 roman	redondo		l	upright
-romance	romance		h	intimate relationship, love affair
+romance	romance		h	group of languages and cultures which are derived from Vulgar Latin
 romans	Romanos		h	book of the Bible
 room	espazo		l	space
 roommate	compañeiro de cuarto		h	a person with whom one shares a room
@@ -2713,7 +2721,7 @@ squad	pelotón		h	small group of people organized for a purpose
 squadron	escuadrón		h	army: body of cavalry
 squash	squash		h	the sport
 sri_jayawardenepura_kotte	Sri Jayawardenepura Kotte		h	the administrative capital of Sri Lanka
-st	chis		l	expressing a sudden desire for silence
+st	San		h	abbreviation of Saint
 stadium	estadio		h	venue where sporting events are held
 stain	mancha		h	discoloured spot or area
 stair	chanzo		l	single step
@@ -2988,6 +2996,7 @@ twenty_six	vinte e seis		h	cardinal number
 twenty_three	vinte e tres		h	twenty-three
 twin_towers	Torres Xemelgas		h	the two main buildings of the World Trade Center
 twist	torsión		l	twisting force
+twitter	Twitter		h	online social networking service
 two_thousand	dous mil		h	cardinal number
 typhoon	tifón		h	hurricane in the Pacific
 tyranny	tiranía		h	government in which a single ruler has absolute power

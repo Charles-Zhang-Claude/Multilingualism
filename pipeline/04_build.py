@@ -12,6 +12,10 @@ import sys, json, re, csv, shutil, unicodedata, datetime, collections
 from pathlib import Path
 from nltk.corpus import wordnet as wn
 
+
+def is_header(row):  # the header line, not the headword "id" (whose slug is also "id")
+    return row[0] == "id" and len(row) > 1 and row[1] in ("translation", "english")
+
 HERE = Path(__file__).parent
 LANGS = json.loads((HERE / "languages.json").read_text())
 CODES = [L["code"] for L in LANGS]
@@ -154,7 +158,7 @@ for f in sorted((jobs / "out").glob("*.tsv")):
     code = f.name.split(".")[0]
     with open(f, encoding="utf-8") as fh:
         for row in csv.reader(fh, delimiter="\t", quoting=csv.QUOTE_NONE):
-            if not row or row[0] == "id" or len(row) < 2:
+            if not row or is_header(row) or len(row) < 2:
                 continue
             w = row[1].strip().strip('"')
             if not w or not any(ch.isalpha() for ch in w):  # placeholders such as "-" or "?"

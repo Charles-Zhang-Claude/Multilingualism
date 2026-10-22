@@ -137,6 +137,7 @@ brilliant	灿烂	cànlàn	h	shining brightly
 bring	带来	dàilái	h	to transport toward somebody/somewhere
 broad	宽	kuān	h	having a specified width
 broadcast	撒播	sǎbō	l	cast or scattered widely
+bruise	打伤	dǎshāng	l	strike (a person), giving them a bruise
 buck	雄鹿	xiónglù	h	male deer, goat, etc.
 buffer	抛光器	pāoguāngqì	l	someone or something that buffs
 bulk	大部分	dàbùfen	h	major part of something
@@ -144,12 +145,13 @@ bullying	霸凌	bàlíng	h	act of intimidating a person
 bum	屁股	pìgu	h	informal: butt(ocks) specifically
 bump	碰撞	pèngzhuàng	h	a light blow or jolting collision
 buried	埋葬	máizàng	h	Placed in a grave at a burial
+burnt	烧焦的	shāojiāo de	h	damaged or injured by fire or heat
 burst	爆裂	bàoliè	l	to cause to burst
 bust	弄坏	nònghuài	h	to break something
 buying	购买	gòumǎi	h	act of making a purchase
 bye	轮空	lúnkōng	h	The position of a person or team in a tournament or competition who draws no opponent in a particular round so advances to the next round unopposed
 bypass	绕行道	ràoxíngdào	l	road
-c	约	yuē	h	abbreviation of circa
+c	C调	C diào	l	musical note
 cabbage	卷心菜	juǎnxīncài	h	any of various cultivars
 cancelled	已取消	yǐ qǔxiāo	h	No longer planned or scheduled
 canon	经典	jīngdiǎn	h	group of literary works accepted as representative
@@ -168,7 +170,7 @@ casting	铸造	zhùzào	h	manufacturing process using a mold
 casual	偶然	ǒurán	h	happening by chance
 catch	接球	jiēqiú	h	the act of catching a ball
 cathedral	主教座堂	zhǔjiào zuòtáng	l	relating to the office of a bishop or an archbishop
-catholic	普世	pǔshì	h	universal
+catholic	天主教的	tiānzhǔjiào de	h	of the Western Christian church, as differentiated from the Orthodox church
 caution	告诫	gàojiè	h	precept or warning against evil or danger
 celebrated	著名	zhùmíng	h	famous or widely praised
 celestial_mechanics	天体力学	tiāntǐ lìxué	h	dynamics of celestial bodies
@@ -286,7 +288,7 @@ crowd	拥挤	yōngjǐ	h	to press together in numbers
 crude	未加工	wèi jiāgōng	l	being in a natural state
 crying	哭泣	kūqì	h	that cries
 cuban	古巴人	Gǔbārén	h	a person from Cuba
-cue	字母Q	zìmǔ Q	h	name of the letter Q, q
+cue	提示	tíshì	h	action or event that is a signal to do something
 curriculum	课程	kèchéng	h	set of courses and coursework
 cutter	巡逻艇	xúnluótǐ	l	heavy-duty motor boat for official use
 cutting	切割	qiēgē	h	action of the verb to cut
@@ -356,7 +358,7 @@ e	字母E	zìmǔ E	h	name of the letter E, e
 earlier	先前	xiānqián	h	occurring previously
 ease	安逸	ānyì	h	comfort — see also comfort
 eating	可生吃	kě shēngchī	l	suitable to be eaten without cooking
-ed	版	bǎn	h	edition
+ed	急诊科	jízhěnkē	h	emergency department
 educate	教育	jiàoyù	h	to instruct or train
 educated	受过教育	shòuguò jiàoyù	h	having attained a level of higher education
 educational	教育	jiàoyù	h	of or pertaining to education
@@ -548,6 +550,7 @@ hut	茅屋	máowū	h	primitive dwelling
 hybrid	混合体	hùnhétǐ	h	something of mixed origin
 i	字母I	zìmǔ I	h	name of the letter I, i
 icon	图标	túbiāo	l	image
+id	本我	běnwǒ	h	
 idle	空闲	kòngxián	h	not turned to appropriate use, not occupied, of time with little activity
 immune	免疫	miǎnyì	h	of or pertaining to the immune system
 impact	撞击	zhuàngjī	h	a collision
@@ -668,6 +671,7 @@ manage	设法	shèfǎ	h	to succeed at an attempt
 manifest	明显	míngxiǎn	h	evident to the senses, especially to the sight; apparent
 manufacture	制造	zhìzào	h	action or process of making goods systematically or on a large scale
 manure	施肥	shīféi	h	to apply manure
+mar	三月	sānyuè	h	abbreviation of March
 maritime	海事	hǎishì	h	relating to the sea
 marked	显著	xiǎnzhù	h	significant; notable
 martial	军事	jūnshì	h	of, relating to, or suggestive of war — see also warlike
@@ -883,6 +887,7 @@ replacement	替代者	tìdàizhě	h	a person or thing that takes the place of an
 reporting	报告	bàogào	l	creation of reports
 representation	代表	dàibiǎo	l	that which represents something else
 representative	典型	diǎnxíng	h	typical
+republican	共和党的	gònghédǎng de	h	pertaining to the Republican Party
 requiescat_in_pace	愿其安息	yuàn qí ānxī	h	may they rest in peace
 reservation	保留意见	bǎoliú yìjiàn	h	limiting qualification
 residential	住宅	zhùzhái	h	of or pertaining to a place of personal residence
@@ -907,6 +912,7 @@ rock_dove	原鸽	yuángē	h	Columba livia
 rocky	多岩石	duō yánshí	h	abounding in, or full of, rocks
 rolling	滚动	gǔndòng	h	moving by turning over repeatedly
 roman	罗马体	luómǎtǐ	l	upright
+romance	罗曼语族	luómànyǔzú	l	group of languages and cultures which are derived from Vulgar Latin
 roughly	大致	dàzhì	h	in a rough manner
 roundabout	迂回	yūhuí	h	circuitous
 royalty	王室	wángshì	l	rank, status, etc. of a monarch

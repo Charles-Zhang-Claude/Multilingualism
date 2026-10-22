@@ -161,7 +161,7 @@ aluminium_oxide	aluminyo oksido		l	alumina, Al2O3
 alzheimer_s_disease	sakit na Alzheimer		h	mental disorder from brain tissue changes
 amateur	amateur		h	person attached to a pursuit without pursuing it professionally
 amazing	kamangha-mangha		h	causing wonder and amazement
-amazon	amasona		h	tall, strong, athletic woman
+amazon	Amasona		h	Mythological female warrior
 ambassador	embahador		h	representative
 ambition	ambisyon		h	desire
 ambitious	ambisyoso		h	possessing, or controlled by, ambition
@@ -239,6 +239,7 @@ arab_spring	Arab Spring		h	movement
 arab_world	Mundong Arabe		h	Arabic speaking world
 arabian_sea	Dagat Arabo		h	part of the Indian Ocean
 arabic_numeral	numerong Arabiko		h	any of the ten symbols from 0 through 9
+arafura_sea	Dagat Arafura		h	sea between Arnhem Land and West Papua
 aral_sea	Dagat Aral		h	Aral Sea
 arcade	arcade		h	row of arches
 arch	arko		h	inverted U shape
@@ -404,7 +405,7 @@ bass_guitar	bass guitar		h	electric stringed instrument
 basse_terre	Basse-Terre		h	capital city of Guadeloupe
 bastard	walanghiya		l	contemptible etc. person
 batch	batch		h	quantity of baked goods made at one time
-batman	tagapaglingkod ng opisyal		l	servant to an army officer — see also orderly
+batman	Batman		h	a city in Turkey
 baton	batuta		h	military staff of office
 battalion	batalyon		h	army unit
 battle_of_britain	Labanan sa Britanya		l	series of air engagements between the British Royal Air Force and the German Luftwaffe during World War II
@@ -603,6 +604,7 @@ broth	sabaw		h	water in which food (meat or vegetable etc) has been boiled
 brothel	bahay-aliwan		h	house of prostitution
 brotherhood	kapatiran		h	state of being brothers or a brother
 brown_bear	kayumangging oso		h	Ursus arctos
+bruise	pasain		l	strike (a person), giving them a bruise
 brutal	brutal		h	savagely violent
 buck	lalaking usa		l	male deer, goat, etc.
 buddhist	Budista		h	of, relating to, or practicing Buddhism
@@ -627,6 +629,7 @@ bureaucracy	burukrasya		h	system of administration
 burger	burger		h	informal: hamburger
 buried	nakalibing		h	Placed in a grave at a burial
 burning	nagbabaga		h	so hot as to seem to burn (something)
+burnt	sunog		h	damaged or injured by fire or heat
 burst	pumutok		h	to cause to burst
 bus_station	terminal ng bus		h	major bus stop, one that serves as a transfer point between a large number of routes
 bust	basagin		h	to break something
@@ -640,7 +643,7 @@ by_the_way	nga pala		h	incidentally
 bye	bye		l	The position of a person or team in a tournament or competition who draws no opponent in a particular round so advances to the next round unopposed
 bypass	daang lagpasan		l	road
 byte	byte		h	8-bit unit
-c	circa		l	abbreviation of circa
+c	Do		h	musical note
 cabaret	kabaret		h	live entertainment held in a restaurant or nightclub
 cabbage	repolyo		h	any of various cultivars
 caesar	Cesar		h	ancient Roman family name
@@ -712,7 +715,7 @@ catch_a_cold	sipunin		h	contract a cold
 category	kategorya		h	group
 caterpillar	higad		h	larva of a butterfly or moth
 cathedral	pangkatedral		l	relating to the office of a bishop or an archbishop
-catholic	katoliko		l	universal
+catholic	Katoliko		h	of the Western Christian church, as differentiated from the Orthodox church
 cattle	baka		h	domesticated bovine animals
 caucasus	Caucasus		h	geographic region
 cautious	maingat		h	careful
@@ -854,7 +857,7 @@ coffee_pot	kapetera		h	pot for coffee
 cognitive	kognitibo		h	relating to mental functions
 coil	likaw		h	something wound
 coincidence	nagkataon		h	state of events appearing to be connected when they are not
-coke	coke		l	coal product
+coke	Coke		h	Coca-Cola
 cola	cola		h	drink
 cold_weapon	sandatang walang pulbura		l	weapon that does not use explosives or fire
 collaborate	makipagtulungan		h	to work together on a piece of work
@@ -1224,6 +1227,7 @@ dental_floss	dental floss		h	cord of thin filaments used to clean the gaps betwe
 denver	Denver		h	capital of Colorado
 deny	ikaila		h	to assert that something is not true
 deodorant	deodorant		h	odor-controlling cosmetic for the underarm
+deoxyribonucleic_acid	deoxyribonucleic acid		h	deoxyribonucleic acid
 departure	pag-alis		h	the act of departing
 depend	nakasalalay		h	be contingent or conditioned
 dependence	pag-asa		h	state of being dependent
@@ -1420,7 +1424,7 @@ eastern	silangan		h	related to the east
 eating	pangkain		l	suitable to be eaten without cooking
 ecological	ekolohikal		h	relating to ecology
 ecosystem	ekosistema		h	system of an ecological community and its environment
-ed	ed.		h	edition
+ed	Departamento ng Emerhensiya		l	emergency department
 edge	gilid		h	boundary line of a surface
 edible	nakakain		h	that can be eaten without harm; suitable for consumption
 edit	pag-edit		l	a change to the text of a document
@@ -1550,6 +1554,7 @@ everywhere	kahit saan		h	at all places
 evident	halata		h	obviously true
 evolutionary	ebolusyonaryo		h	of or relating to evolution
 evolutionary_biology	biyolohiyang ebolusyonaryo		h	sub-field of biology
+ex	ex		h	colloquial: former partner or spouse
 exactly	eksakto		h	in an exact manner
 examination	pagsusuri		h	inspection by a doctor
 examine	suriin		h	to observe or inspect carefully or critically
@@ -1899,7 +1904,7 @@ gently	dahan-dahan		h	in a gentle manner
 genuine	tunay		h	real, authentic
 georgetown	Georgetown		h	capital of Guyana
 georgia	Georgia		h	country of the Caucasus
-german	buo		l	(brother or sister) sharing parents
+german	Aleman		h	native or inhabitant of Germany; person of German citizenship or nationality
 german_democratic_republic	Demokratikong Republika ng Alemanya		h	East Germany from 1949 to 1990
 german_shepherd	German shepherd		h	breed of dog
 gesture	kumpas		h	motion of the limbs or body
@@ -2004,7 +2009,7 @@ growth	paglaki		h	increase in size
 guarantee	garantiya		h	anything that assures a certain outcome
 guardian	tagapangalaga		h	law: person legally responsible for a minor in loco parentis
 guilty	nagkasala		h	responsible for a dishonest act
-guinea	guinea		l	coin worth 21 shillings
+guinea	Guinea		h	short form of the Republic of Guinea
 guinea_bissau	Guinea-Bissau		h	Republic of Guinea-Bissau
 guinea_fowl	pintada		h	bird
 gujarat	Gujarat		h	state in western India
@@ -2242,6 +2247,7 @@ i_want_to_know	Gusto kong malaman		h	I want to know
 iceberg	bundok ng yelo		h	huge mass of floating ice
 iced_coffee	iced coffee		h	beverage
 icon	icon		h	image
+id	id		l	id
 idaho	Idaho		h	state of the United States
 idea	ideya		h	an image of an object that is formed in the mind or recalled by the memory
 ideal	ideyal		h	being optimal
@@ -2539,6 +2545,7 @@ lane	daanan		h	passageway
 language_family	pamilya ng mga wika		h	set of languages
 language_school	paaralan ng wika		h	school where foreign languages are taught
 lantern	parol		h	case of transparent material made to protect a flame, or light
+laptev_sea	Dagat Laptev		h	part of the Arctic Ocean
 large	malaki		h	of greater size — see also big
 largely	higit sa lahat		h	in a widespread or large manner
 larva	larba		h	an animal in such stage of growth — see also tadpole
@@ -3150,7 +3157,7 @@ organize	ayusin		h	to arrange in working order
 organized	organisado		h	characterised by efficient organization
 oriental	Oriental		h	of or relating to the Orient or Asia, especially the Far East
 originally	sa simula		h	as it was in the beginning
-orthodox	ortodokso		h	conforming to accepted, established, or traditional doctrines of a given faith, religion, or ideology
+orthodox	Ortodokso		h	of the Orthodox Churches
 orthodox_church	Simbahang Ortodokso		h	the Eastern body of Christendom
 osaka	Osaka		h	city in Honshū, Japan
 other	iba		h	not the one previously referred to
@@ -3260,7 +3267,7 @@ pawn	sanla		h	item sold to a pawn shop
 pay_attention	magbigay-pansin		h	to be attentive
 payer	nagbabayad		h	one who pays
 payment	bayad		h	the act of paying
-pc	piraso		l	piece
+pc	PC		h	initialism of personal computer
 pea	gisantes		h	edible seed
 peace	kapayapaan		h	state of mind
 peace_talks	usapang pangkapayapaan		h	discussions between nation-states held to resolve conflict
@@ -3364,6 +3371,7 @@ plenty	sagana		h	a more-than-adequate amount
 plot	banghay		h	course of a story
 plug	plug		h	electric connecting device
 plural	maramihan		h	more than one
+plurinational_state_of_bolivia	Estadong Plurinasyonal ng Bolivia		l	official name of Bolivia
 pluto	Pluto		h	god
 po	Po		h	longest river in Italy
 po_valley	Lambak ng Po		h	large plain in northern Italy
@@ -3736,7 +3744,7 @@ republic_of_serbia	Republika ng Serbia		h	official name of Serbia
 republic_of_singapore	Republika ng Singapore		h	official name of Singapore
 republic_of_slovenia	Republika ng Slovenia		h	official name of Slovenia
 republic_of_south_sudan	Republika ng Timog Sudan		h	official name of South Sudan
-republican	republikano		h	favoring a republic as form of government, favoring republicanism
+republican	Republikano		h	pertaining to the Republican Party
 reputation	reputasyon		h	what somebody is known for
 require	kailanganin		h	to demand of (someone)
 requirement	kinakailangan		h	necessity
@@ -3826,8 +3834,9 @@ roller	rodilyo		h	tool for applying paint or ink
 rolling	gumugulong		h	moving by turning over repeatedly
 rom	Roma		h	a member of the Romani people
 roma	Roma		h	the Romani people
-roman	roman		l	upright
+roman	Romano		h	of or from Rome
 roman_road	daang Romano		h	road built by the Romans
+romance	Romanse		l	group of languages and cultures which are derived from Vulgar Latin
 romanian	Romaniano		h	of or relating to Romania, its people, or language
 romantic	romantiko		h	concerned with, or conducive to, romance and love
 rome_wasn_t_built_in_a_day	Hindi itinayo ang Roma sa isang araw		h	it takes a long time to create something complicated or impressive
@@ -4187,7 +4196,7 @@ southern_bug	Timog Bug		l	Translations
 southern_europe	Timog Europa		h	Southern Europe
 southwest	timog-kanluran		h	compass point
 sovereign	soberano		h	exercising power of rule
-soviet	sobyet		h	council
+soviet	Sobyet		h	citizen
 soviet_socialist_republic	Republikang Sosyalistang Sobyet		h	any of the republics belonging to the former Soviet Union — see also SSR
 space_flight	paglipad sa kalawakan		h	flight into, from, or through space
 space_shuttle	space shuttle		h	vehicle capable of travelling repeatedly between Earth and outer space
@@ -4252,7 +4261,8 @@ square_metre	metro kuwadrado		h	standard unit of area
 squash	iskuwash		l	the sport
 squat	pandak at malapad		l	relatively short or low and thick or broad
 squeeze	pigain		h	to apply pressure to from two or more sides at once
-st	ssst		l	expressing a sudden desire for silence
+sri_jayawardenepura_kotte	Sri Jayawardenepura Kotte		h	the administrative capital of Sri Lanka
+st	San		h	abbreviation of Saint
 st_george_s_channel	Kanal ni San Jorge		l	channel connecting the Irish Sea to the north and the Atlantic Ocean
 stack	tambak		h	pile of identical objects
 staff	tungkod		h	long, straight, thick rod or stick to assist in walking
@@ -4693,7 +4703,7 @@ twenty_nine	dalawampu't siyam		h	cardinal number
 twenty_seven	dalawampu't pito		h	twenty-seven
 twin_towers	Twin Towers		h	the two main buildings of the World Trade Center
 twist	pilipit		h	twisting force
-twitter	huni		h	sound made by birds
+twitter	Twitter		h	online social networking service
 two_hundred	dalawandaan		h	cardinal number 200
 two_thousand	dalawang libo		h	cardinal number
 typical	tipikal		h	capturing the overall sense of a thing

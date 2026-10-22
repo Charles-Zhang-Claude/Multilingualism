@@ -81,6 +81,7 @@ bank_account	банкова сметка	bankova smetka	h	fund deposited by a cu
 banking	банково дело	bankovo delo	h	occupation
 based	основан	osnovan	h	founded on
 basically	по същество	po sashtestvo	l	in a fundamental or basic manner
+batman	Батман	Batman	h	a city in Turkey
 becoming	ставане	stavane	h	The act or process by which something becomes
 behalf	име	ime	l	behalf
 ben	бен	ben	l	oil of ben
@@ -116,11 +117,12 @@ buddy	приятел	priyatel	h	friend or casual acquaintance
 buffer	полирач	polirach	l	someone or something that buffs
 bullying	тормоз	tormoz	h	act of intimidating a person
 buried	погребан	pogreban	h	Placed in a grave at a burial
+burnt	изгорял	izgoryal	h	damaged or injured by fire or heat
 butler	иконом	ikonom	h	manservant having charge of wines and liquors
 buying	купуване	kupuvane	h	act of making a purchase
 by	чрез	chrez	h	indicates a means
 bye	свободен жребий	svoboden zhrebiy	l	The position of a person or team in a tournament or competition who draws no opponent in a particular round so advances to the next round unopposed
-c	ок.	ok.	h	abbreviation of circa
+c	до	do	h	musical note
 cabbage	зеле	zele	h	any of various cultivars
 calculus	смятане	smyatane	l	formal mathematical system
 cam	гърбица	garbitsa	l	mechanical part
@@ -133,7 +135,7 @@ carol	коледна песен	koledna pesen	h	song of joy
 carter	каруцар	karutsar	h	person who transports a load on an animal-drawn cart
 catalan	каталунец	katalunets	h	person from Catalonia
 cathedral	катедрален	katedralen	h	relating to the office of a bishop or an archbishop
-catholic	вселенски	vselenski	l	universal
+catholic	католически	katolicheski	h	of the Western Christian church, as differentiated from the Orthodox church
 cave_painting	пещерна рисунка	peshterna risunka	h	paintings resulting from this activity regarded collectively, especially if prehistoric; an individual painting of this type
 cd	компактдиск	kompaktdisk	h	abbreviation of compact disc — see also compact disc
 centre	Център	Tsentar	l	administrative region of France
@@ -153,6 +155,7 @@ closer	по-близък	po-blizak	h	Translations
 closing	затваряне	zatvaryane	h	the act by which something is closed
 co	компания	kompania	h	company
 coastal	крайбрежен	kraybrezhen	h	relating to the coast
+coke	Кока-Кола	Koka-Kola	h	Coca-Cola
 collective	колективен	kolektiven	h	formed by gathering or collecting
 colorado	Колорадо	Kolorado	h	US state
 columbia	Колумбия	Kolumbia	l	poetic: America
@@ -191,6 +194,7 @@ crack	пукам се	pukam se	l	to form cracks
 crap	боклук	bokluk	h	something of poor quality
 creativity	креативност	kreativnost	h	quality or ability to create or invent something
 crown_prince	престолонаследник	prestolonaslednik	h	next king
+crusade	кръстоносен поход	krastonosen pohod	h	campaigns by Christian forces to the Holy Land
 crying	плачещ	plachesht	h	that cries
 cuban	кубинец	kubinets	h	a person from Cuba
 cum	с	s	l	Translations
@@ -237,7 +241,7 @@ ear_lobe	ушна ресничка	ushna resnichka	l	a part of the ear
 earlier	по-ранен	po-ranen	h	occurring previously
 eating	за ядене	za yadene	l	suitable to be eaten without cooking
 economist	икономист	ikonomist	h	expert in economics
-ed	изд.	izd.	h	edition
+ed	спешно отделение	speshno otdelenie	h	emergency department
 editorial	редакторски	redaktorski	h	of or relating to an editor, editing, or an editorial
 educated	образован	obrazovan	h	having attained a level of higher education
 educational	образователен	obrazovatelen	h	of or pertaining to education
@@ -410,6 +414,7 @@ i_m_gay	Аз съм гей	Az sam gey	h	I'm gay
 i_m_married	Женен съм	Zhenen sam	h	I'm married
 i_m_sick	Болен съм	Bolen sam	h	I'm sick/ill
 i_think_therefore_i_am	Мисля, следователно съществувам	Mislya, sledovatelno sashtestvuvam	h	philosophical proof of existence
+id	ид	id	l	id
 idaho	Айдахо	Aydaho	h	state of the United States
 if	ако	ako	h	supposing that
 illinois	Илинойс	Ilinoys	h	a state of the United States of America
@@ -496,6 +501,7 @@ malta	Малта	Malta	h	island
 mandarin_orange	мандарина	mandarina	h	tree
 mango	манго	mango	h	tropical fruit tree Mangifera indica
 manufacturing	производство	proizvodstvo	h	create goods from materials
+mar	мар.	mar.	h	abbreviation of March
 marine_biology	морска биология	morska biologia	h	branch of biology
 mary	Мари	Mari	l	city in Turkmenistan
 massachusetts	Масачузетс	Masachusets	h	a state of the United States of America
@@ -563,6 +569,7 @@ nostril	ноздра	nozdra	h	either of the two orifices located on the nose
 now	сегашен	segashen	h	present; current
 nursing	кърмеща	karmeshta	h	lactating
 nuts	луд	lud	h	insane
+o	о	o	h	a vocative particle
 obsessed	обсебен	obseben	h	Intensely preoccupied with or by a given topic or emotion; driven by a specified obsession
 odyssey	Одисея	Odisea	h	epic poem describing the journey of Odysseus
 off	встрани	vstrani	l	in a direction away from the speaker or object
@@ -599,6 +606,7 @@ papers	документи	dokumenti	h	official documents or identification
 partially	частично	chastichno	h	to a partial degree
 pass	минавам	minavam	h	to go by, over, or through
 paternal_aunt	леля	lelya	h	the sister or sister-in-law of someone's father
+pc	ПК	PK	h	initialism of personal computer
 pea	грах	grah	h	edible seed
 pennsylvania	Пенсилвания	Pensilvania	h	US state
 people_s_republic_of_bangladesh	Народна република Бангладеш	Narodna republika Bangladesh	h	official name of Bangladesh
@@ -664,6 +672,7 @@ regular	редовен	redoven	h	having a constant pattern
 relation	релация	relatsia	h	mathematics: set of ordered tuples, a Boolean function of two or more arguments
 remaining	оставащ	ostavasht	h	which remains
 remix	ремикс	remiks	h	rearrangement of an older piece of music
+republican	републикански	republikanski	h	pertaining to the Republican Party
 request	искам	iskam	l	to express the need or desire for
 resulting	произтичащ	proiztichasht	h	of something that follows as the result of something else
 reverse	обратен	obraten	h	causing movement in the opposite direction
@@ -673,6 +682,7 @@ rocking_chair	люлеещ се стол	lyuleesht se stol	h	chair with a curved
 roger	прието	prieto	h	received
 rom	ром	rom	h	a member of the Romani people
 roman	прав шрифт	prav shrift	l	upright
+romance	романски езици	romanski ezitsi	h	group of languages and cultures which are derived from Vulgar Latin
 romans	Римляни	Rimlyani	h	book of the Bible
 royalty	кралско достойнство	kralsko dostoynstvo	l	rank, status, etc. of a monarch
 runs	диария	diaria	h	diarrhea
@@ -729,6 +739,7 @@ solitary	отшелник	otshelnik	h	one who lives alone
 song_of_songs	Песен на песните	Pesen na pesnite	h	book of the Bible
 south_carolina	Южна Каролина	Yuzhna Karolina	h	US state
 south_korean	южнокореец	yuzhnokoreets	h	person from or descended from South Korea
+soviet	съветски гражданин	savetski grazhdanin	h	citizen
 spare	резервен	rezerven	h	being over and above what is necessary
 speak_of_the_devil	за вълка говорим, а той в кошарата	za valka govorim, a toy v kosharata	h	expression used when a person mentioned in the current conversation happens to arrive
 specifically	конкретно	konkretno	h	for a specific purpose or reason

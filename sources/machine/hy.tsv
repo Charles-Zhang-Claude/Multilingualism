@@ -209,7 +209,7 @@ basic	հիմնարար	himnarar	h	necessary, essential for life or some process
 basis	հիմք	himk'	h	starting point for an argument
 bass	բաս	bas	h	low in pitch
 bastard	սրիկա	srika	h	contemptible etc. person
-batman	սպայի սպասավոր	spayi spasavor	l	servant to an army officer — see also orderly
+batman	Բաթման	Batman	h	a city in Turkey
 baton	գավազան	gavazan	h	military staff of office
 bay_leaf	դափնու տերև	dap'nu terev	h	herb
 bbc	Բի-Բի-Սի	Bi-Bi-Si	h	British Broadcasting Corporation
@@ -305,6 +305,7 @@ broke	սնանկ	snank	h	lacking money; bankrupt
 brook	առվակ	arrvak	h	a small stream
 brooklyn	Բրուքլին	Bruk'lin	h	borough of New York City
 brown_bear	շագանակագույն արջ	shaganakaguyn arj	h	Ursus arctos
+bruise	կապտեցնել	kaptetsnel	l	strike (a person), giving them a bruise
 brussels_sprout	բրյուսելյան կաղամբ	bryuselyan kaghamb	h	vegetable
 buck	արու եղջերու	aru yeghjeru	h	male deer, goat, etc.
 buddhist	բուդդայական	buddayakan	h	of, relating to, or practicing Buddhism
@@ -317,6 +318,7 @@ bum	հետույք	hetuyk'	h	informal: butt(ocks) specifically
 bump	թեթև բախում	t'et'ev bakhum	h	a light blow or jolting collision
 bunsen_burner	Բունզենի այրիչ	Bunzeni ayrich	h	small laboratory gas burner
 buried	թաղված	t'aghvats	h	Placed in a grave at a burial
+burnt	այրված	ayrvats	h	damaged or injured by fire or heat
 burst	պայթեցնել	payt'ets'nel	h	to cause to burst
 bust	կոտրել	kotrel	h	to break something
 butler	սպասավոր	spasavor	h	manservant having charge of wines and liquors
@@ -326,7 +328,7 @@ by	միջոցով	mijots'ov	h	indicates a means
 by_chance	պատահաբար	patahabar	h	unexpected(ly); accidental(ly)
 bye	ազատ շրջան	azat shrjan	l	The position of a person or team in a tournament or competition who draws no opponent in a particular round so advances to the next round unopposed
 bypass	շրջանցիկ ճանապարհ	shrjants'ik chanaparh	h	road
-c	մոտավորապես	motavorapes	h	abbreviation of circa
+c	դո	do	h	musical note
 cabin	խրճիթ	khrchit'	h	small dwelling, especially one made of logs
 cabinet	կառավարություն	karavarut'yun	h	group of ministers
 calculate	հաշվել	hashvel	h	(transitive) to determine the value or solution of sth.
@@ -364,7 +366,7 @@ casual	պատահական	patahakan	h	happening by chance
 catch	բռնում	brrnum	h	the act of catching a ball
 catch_a_cold	մրսել	mrsel	h	contract a cold
 cathedral	եպիսկոպոսական	episkoposakan	h	relating to the office of a bishop or an archbishop
-catholic	կաթոլիկ	kat'olik	h	universal
+catholic	կաթոլիկ	katolik	h	of the Western Christian church, as differentiated from the Orthodox church
 caution	զգուշացում	zgushats'um	h	precept or warning against evil or danger
 cave_painting	քարանձավային նկար	k'arandzavayin nkar	h	paintings resulting from this activity regarded collectively, especially if prehistoric; an individual painting of this type
 cease	դադարել	dadarel	h	intransitive
@@ -557,7 +559,7 @@ crude	հում	hum	h	being in a natural state
 crush	սիրահարվածություն	siraharvatsut'yun	l	love or infatuation or its object (often short-lived or unrequited)
 crying	լացող	lats'ogh	h	that cries
 cuban	կուբացի	kubats'i	h	a person from Cuba
-cue	քյու	k'yu	l	name of the letter Q, q
+cue	ազդանշան	azdanshan	h	action or event that is a signal to do something
 cult	պաշտամունք	pashtamunk'	h	subset of worship
 cum	հետ	het	l	Translations
 curb	եզրաքար	yezrak'ar	h	concrete along the edge of a road
@@ -727,7 +729,7 @@ ease	հարմարություն	harmarut'yun	h	comfort — see also comfort
 eastern	արևելյան	arevelyan	h	related to the east
 eating	ուտելի	uteli	h	suitable to be eaten without cooking
 economy	տնտեսություն	tntesut'yun	h	effective management of the resources of a community or system
-ed	հրատարակություն	hratarakut'yun	h	edition
+ed	շտապ օգնության բաժանմունք	shtap ognutyan bazhanmunk	l	emergency department
 edit	խմբագրում	khmbagrum	h	a change to the text of a document
 editing	խմբագրում	khmbagrum	h	an act or instance of something being edited
 editorial	խմբագրական	khmbagrakan	h	of or relating to an editor, editing, or an editorial
@@ -808,7 +810,7 @@ everyday	առօրյա	arrorya	h	appropriate for ordinary use, rather than for sp
 everyone	բոլորը	bolorə	h	every person
 evident	ակնբախ	aknbakh	h	obviously true
 evolutionary_biology	էվոլյուցիոն կենսաբանություն	evolyuts'ion kensabanut'yun	h	sub-field of biology
-ex	էքս	ek's	l	name of the letter X, x
+ex	նախկին	nakhkin	l	colloquial: former partner or spouse
 exactly	ճիշտ	chisht	h	in an exact manner
 exceed	գերազանցել	gerazants'el	h	to be larger, greater than something else or than expected or desirable
 except	բացառել	bats'arrel	h	to exclude
@@ -1186,6 +1188,7 @@ i_m_a_vegetarian	Ես բուսակեր եմ	Yes busaker em	h	I'm a vegetarian
 i_m_in_love_with_you	Ես սիրահարված եմ քեզ	Yes siraharvats em k'ez	h	declaration of romantic feeling
 i_m_jewish	Ես հրեա եմ	Yes hreya em	h	I'm Jewish (ethnic)
 i_m_pregnant	Ես հղի եմ	Yes ghi em	h	I'm pregnant
+id	իդ	id	l	id
 identical	նույնական	nuynakan	h	bearing full likeness
 identification	նույնականացում	nuynakanats'um	h	act of identifying, or proving to be the same
 idle	պարապ	parap	h	not turned to appropriate use, not occupied, of time with little activity
@@ -1958,6 +1961,7 @@ represent	ներկայացնել	nerkayats'nel	h	to stand in the place of, act o
 representation	ներկայացում	nerkayats'um	h	that which represents something else
 representative	բնորոշ	bnorosh	h	typical
 republic_of_the_congo	Կոնգոյի Հանրապետություն	Kongoyi Hanrapetut'yun	h	smaller of the two countries named Congo — see also Congo-Brazzaville
+republican	հանրապետական	hanrapetakan	h	pertaining to the Republican Party
 requiescat_in_pace	Հանգչի խաղաղությամբ	Hangchi khaghaghutyamb	l	may they rest in peace
 resemble	նմանվել	nmanvel	h	to be like or similar to something else
 reservation	վերապահում	verapahum	h	limiting qualification
@@ -2007,6 +2011,7 @@ roller	գլան	glan	h	tool for applying paint or ink
 rolling	գլորվող	glorvogh	h	moving by turning over repeatedly
 roma	Ռոմաներ	Rromaner	h	the Romani people
 roman	ուղիղ տառատեսակ	ughigh tarratesak	l	upright
+romance	ռոմանական	romanakan	l	group of languages and cultures which are derived from Vulgar Latin
 romans	Հռոմեացիներ	Hrromeats'iner	h	book of the Bible
 romantic	ռոմանտիկ	rromantik	h	concerned with, or conducive to, romance and love
 rome_wasn_t_built_in_a_day	Հռոմը մեկ օրում չի կառուցվել	Hrromə mek orum ch'i karuts'vel	h	it takes a long time to create something complicated or impressive
@@ -2190,6 +2195,7 @@ sour_milk	թթված կաթ	t'tvats kat'	l	sour milk
 south_dakota	Հարավային Դակոտա	Haravayin Dakota	h	state of the US
 southeast_asia	Հարավարևելյան Ասիա	Haravarevelyan Asia	h	a subregion of Asia
 southern_ocean	Հարավային օվկիանոս	Haravayin ovkianos	h	the ocean surrounding Antarctica
+soviet	խորհրդային	khorhrdayin	l	citizen
 soy_sauce	սոյայի սոուս	soyayi sous	h	a condiment and ingredient made from fermented soybeans
 space	տարածություն	taratsut'yun	h	physical extent in two or three dimensions
 space_shuttle	տիեզերանավ	tiezeranav	h	vehicle capable of travelling repeatedly between Earth and outer space
@@ -2232,7 +2238,7 @@ square_bracket	քառակուսի փակագիծ	k'arrakusi p'akagits	h	symbol [
 square_metre	քառակուսի մետր	k'arrakusi metr	h	standard unit of area
 squash	սքվոշ	sk'vosh	l	the sport
 squat	կարճ ու հաստ	karch u hast	l	relatively short or low and thick or broad
-st	Շշշ	Shsh	h	expressing a sudden desire for silence
+st	Սուրբ	Surb	h	abbreviation of Saint
 stab	դանակահարում	danakaharum	h	act of stabbing
 stain	բիծ	bits	h	discoloured spot or area
 stair	աստիճան	astichan	h	single step

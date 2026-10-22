@@ -64,7 +64,7 @@ alter	ændre		h	to change the form or structure of
 alternate	skiftende		l	being or succeeding by turns
 altitude	højde		h	distance measured upwards
 amazing	forbløffende		h	causing wonder and amazement
-amazon	amazone		h	tall, strong, athletic woman
+amazon	amazone		h	Mythological female warrior
 ambush	baghold		h	act
 anal	anal		h	of, related to, intended for or involving the anus
 analog	analog		h	represented by a continuously variable physical quantity
@@ -139,7 +139,7 @@ basically	grundlæggende		h	in a fundamental or basic manner
 basis	grundlag		h	starting point for an argument
 bass	dyb		l	low in pitch
 batch	portion		l	quantity of baked goods made at one time
-batman	ordonnans		l	servant to an army officer — see also orderly
+batman	Batman		h	a city in Turkey
 bearing	bærende		h	carrying weight or load
 beat	takt		h	rhythm
 beating	tæsk		l	action of the verb to beat
@@ -205,6 +205,7 @@ broad	bred		h	having a specified width
 broad_bean	hestebønne		h	''Vicia faba''
 broadcast	udbredt		l	cast or scattered widely
 brooklyn	Brooklyn		h	borough of New York City
+bruise	forslå		l	strike (a person), giving them a bruise
 brutal	brutal		h	savagely violent
 buddy	ven		h	friend or casual acquaintance
 buffer	buffer		l	someone or something that buffs
@@ -215,6 +216,7 @@ bum	numse		h	informal: butt(ocks) specifically
 bump	bump		h	a light blow or jolting collision
 buried	begravet		h	Placed in a grave at a burial
 burning	brændende		h	so hot as to seem to burn (something)
+burnt	brændt		h	damaged or injured by fire or heat
 burst	sprænge		h	to cause to burst
 bust	bryde		l	to break something
 butler	butler		h	manservant having charge of wines and liquors
@@ -222,6 +224,7 @@ buying	køb		h	act of making a purchase
 buzz	summen		h	continuous humming noise
 bye	frilod		l	The position of a person or team in a tournament or competition who draws no opponent in a particular round so advances to the next round unopposed
 byte	byte		h	8-bit unit
+c	c		h	musical note
 cabinet	regering		l	group of ministers
 calculus	kalkulus		l	formal mathematical system
 calling	kald		h	strong urge (to become or do something)
@@ -436,7 +439,7 @@ crowded	overfyldt		h	containing a dense pack or mass of something
 crude	rå		h	being in a natural state
 crying	grædende		h	that cries
 cuban	cubaner		h	a person from Cuba
-cue	q		h	name of the letter Q, q
+cue	stikord		h	action or event that is a signal to do something
 cum	cum		l	Translations
 cure	kur		h	method, device or medication that restores good health
 curriculum_vitae	curriculum vitae		h	written account of one's education, accomplishments, etc.
@@ -558,7 +561,7 @@ ease	lethed		l	comfort — see also comfort
 easily	let		h	without difficulty
 eastern_europe	Østeuropa		h	Eastern Europe
 eating	spise-		l	suitable to be eaten without cooking
-ed	udg.		l	edition
+ed	skadestue		h	emergency department
 editing	redigering		h	an act or instance of something being edited
 editor	redaktør		h	person who edits
 editorial	redaktionel		h	of or relating to an editor, editing, or an editorial
@@ -610,7 +613,7 @@ european_parliament	Europa-Parlamentet		h	legislative chamber of the European Un
 eve	aften		l	day or night before
 even	lige		h	equal
 evil_eye	det onde øje		h	wicked look conveying dislike or envy believed to be able to cause bad luck or injury; the ability to cause bad luck or injury through such a look
-ex	eks		h	name of the letter X, x
+ex	eks		h	colloquial: former partner or spouse
 excellence	ypperlighed		h	the quality of being excellent
 except	undtage		h	to exclude
 excess	overskud		l	state of surpassing limits
@@ -747,7 +750,7 @@ gone	væk		h	away, having left
 good_for_nothing	ubrugelig		l	useless, worthless
 goodness	godhed		h	state or characteristic of being good
 goofy	Fedtmule		h	Disney character
-google	googling		l	Internet search performed on the Google search engine
+google	Google		h	Google
 gore	blod		l	thick blood
 gorgeous	henrivende		h	very beautiful
 governance	styring		h	the process, or the power, of governing; government or administration; control and monitoring
@@ -1225,7 +1228,7 @@ now	nuværende		h	present; current
 number	nummer		h	used to show the rank of something in a list or sequence
 nursing	ammende		h	lactating
 nuts	skør		h	insane
-o	o		h	name of the letter O, o
+o	o		l	a vocative particle
 objection	indvending		h	act of objecting
 objective	objektiv		l	relating to a material object
 obscure	utydelig		h	dark, faint or indistinct
@@ -1325,7 +1328,7 @@ pattern	forlæg		l	that from which a copy is made
 pause	holde pause		h	to take a temporary rest or break
 pavilion	pavillon		h	ornate tent
 pay_attention	være opmærksom		h	to be attentive
-pc	stk.		l	piece
+pc	pc		h	initialism of personal computer
 peaceful	fredelig		h	not at war or disturbed by strife or turmoil
 peak	tinde		h	mountain top
 pear	pære		h	tree
@@ -1553,6 +1556,7 @@ renovation	renovering		h	act or process of renovating
 renowned	berømt		h	famous
 representation	repræsentation		h	that which represents something else
 repression	undertrykkelse		h	act of repressing
+republican	republikansk		h	pertaining to the Republican Party
 require	kræve		h	to demand of (someone)
 residential	bolig-		l	of or pertaining to a place of personal residence
 resign	træde tilbage		h	quit a job or position
@@ -1752,6 +1756,7 @@ sorry	ked af det		h	repentant, apologetic
 sour_cream	creme fraiche		l	cream which has been treated with a benign bacterium
 south_australia	Sydaustralien		h	state of Australia
 southampton	Southampton		h	city in England
+soviet	sovjetborger		h	citizen
 spare	overskydende		l	being over and above what is necessary
 speaking	talende		h	having the ability of speech
 special_region_of_yogyakarta	Yogyakarta Særlige Region		l	autonomous region of Indonesia
@@ -1954,7 +1959,7 @@ turning	sving		h	A turn or deviation from a straight course
 twin_towers	Tvillingetårnene		h	the two main buildings of the World Trade Center
 twist	vridning		l	twisting force
 twitch	trækning		h	1. brief, small (sometimes involuntary) movement out of place and then back again
-twitter	kvidren		h	sound made by birds
+twitter	Twitter		h	online social networking service
 two_hundred	tohundrede		h	cardinal number 200
 typically	typisk		h	in a typical manner
 u	u		h	name of the letter U, u

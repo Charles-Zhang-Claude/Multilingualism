@@ -6,6 +6,10 @@ Usage: python3 05_publish.py <built data dir> <jobs dir> <repo root>
 import sys, csv, json, shutil
 from pathlib import Path
 
+
+def is_header(row):  # the header line, not the headword "id" (whose slug is also "id")
+    return row[0] == "id" and len(row) > 1 and row[1] in ("translation", "english")
+
 built, jobs, repo = Path(sys.argv[1]), Path(sys.argv[2]), Path(sys.argv[3])
 ids = json.loads((jobs / "ids_v1.json").read_text()) if (jobs / "ids_v1.json").exists() else {}
 meanings = json.loads((jobs / "meanings.json").read_text()) if (jobs / "meanings.json").exists() else {}
@@ -18,7 +22,7 @@ for f in sorted((jobs / "out").glob("*.tsv")):
     code = f.name.split(".")[0]
     with open(f, encoding="utf-8") as fh:
         for row in csv.reader(fh, delimiter="\t", quoting=csv.QUOTE_NONE):
-            if not row or row[0] == "id" or len(row) < 2 or not row[1].strip():
+            if not row or is_header(row) or len(row) < 2 or not row[1].strip():
                 continue
             slug = ids.get(row[0], row[0])
             per_lang.setdefault(code, {})[slug] = [

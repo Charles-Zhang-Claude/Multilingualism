@@ -64,6 +64,7 @@ activity	gweithgaredd		h	state or quality of being active
 actual	gwirioneddol		h	existing in act or reality, not just potentially
 acupuncture	aciwbigo		h	insertion of needles for remedial purposes
 acute	llym		h	intense, sensitive, sharp — see also intense, sensitive, sharp
+ad	OC		h	anno Domini — see also CE
 adapted	wedi'i addasu		h	having been subject to alteration
 adapter	addasydd		h	device to allow compatibility (in general)
 add	adio		h	to perform the arithmetical operation of addition, to add up
@@ -152,7 +153,7 @@ altogether	yn gyfan gwbl		h	without exception; wholly; completely
 aluminium_oxide	alwminiwm ocsid		h	alumina, Al2O3
 amateur	amatur		h	person attached to a pursuit without pursuing it professionally
 amazing	rhyfeddol		h	causing wonder and amazement
-amazon	amason		h	tall, strong, athletic woman
+amazon	Amason		h	Mythological female warrior
 ambition	uchelgais		h	desire
 ambitious	uchelgeisiol		h	possessing, or controlled by, ambition
 amen	amen		h	so be it
@@ -406,7 +407,7 @@ basis	sail		h	starting point for an argument
 basketball_player	chwaraewr pêl-fasged		h	person who plays basketball
 bastard	bastard		h	contemptible etc. person
 bathe	ymdrochi		h	to clean oneself with water
-batman	gwas swyddog		l	servant to an army officer — see also orderly
+batman	Batman		h	a city in Turkey
 baton	baton		h	military staff of office
 battalion	bataliwn		h	army unit
 bazaar	basâr		h	marketplace
@@ -568,6 +569,7 @@ brooklyn	Brooklyn		h	borough of New York City
 brothel	puteindy		h	house of prostitution
 brother_in_law	brawd yng nghyfraith		h	husband of the sister of one's wife
 brown_bear	arth frown		h	Ursus arctos
+bruise	cleisio		h	strike (a person), giving them a bruise
 brunei	Brwnei		h	a country in Southeast Asia
 brush	brws		h	implement
 brutal	creulon		h	savagely violent
@@ -601,6 +603,7 @@ burkina_faso	Burkina Faso		h	country
 burmese	Byrmanaidd		h	of or relating to Burma
 burn	llosg		h	physical injury
 burning	tanbaid		h	so hot as to seem to burn (something)
+burnt	llosg		l	damaged or injured by fire or heat
 burundi	Burundi		h	a country in Eastern Africa
 business	busnes		h	commercial enterprise or establishment
 bust	torri		h	to break something
@@ -614,7 +617,7 @@ buzz	suo		h	continuous humming noise
 by_chance	ar hap		h	unexpected(ly); accidental(ly)
 by_heart	ar gof		h	Translations
 bye	egwyl		l	The position of a person or team in a tournament or competition who draws no opponent in a particular round so advances to the next round unopposed
-c	tua		h	abbreviation of circa
+c	C		h	musical note
 cabaret	cabaret		h	live entertainment held in a restaurant or nightclub
 cabbage	bresychen		h	any of various cultivars
 cabin	caban		h	small dwelling, especially one made of logs
@@ -1092,7 +1095,7 @@ cruelty	creulondeb		h	indifference to suffering
 cruise_missile	taflegryn mordeithio		h	winged missile
 cruise_ship	llong fordaith		h	passenger ship
 cruiser	llong fordaith		l	class of warships
-crusade	croesgad		h	military expedition
+crusade	Croesgad		h	campaigns by Christian forces to the Holy Land
 crush	gwasgfa		l	love or infatuation or its object (often short-lived or unrequited)
 crust	cramen		h	outermost layer of a planet
 crying	yn crio		h	that cries
@@ -1402,7 +1405,7 @@ economic	economaidd		h	pertaining to an economy
 economy	economi		h	effective management of the resources of a community or system
 ecosystem	ecosystem		h	system of an ecological community and its environment
 ecuador	Ecwador		h	country in South America
-ed	arg.		l	edition
+ed	Adran Achosion Brys		l	emergency department
 edge	ymyl		h	boundary line of a surface
 edit	golygiad		h	a change to the text of a document
 editor	golygydd		h	person who edits
@@ -1528,6 +1531,7 @@ eventually	yn y pen draw		h	in the end
 everybody	pawb		h	all people
 evil	drwg		h	intending to harm
 evolutionary	esblygiadol		h	of or relating to evolution
+ex	cyn-bartner		l	colloquial: former partner or spouse
 examination	archwiliad		h	inspection by a doctor
 examine	archwilio		h	to observe or inspect carefully or critically
 exceed	rhagori ar		h	to be larger, greater than something else or than expected or desirable
@@ -1911,7 +1915,7 @@ goodness	daioni		h	state or characteristic of being good
 goods_train	trên nwyddau		h	train used for transportation of goods
 goodwill	ewyllys da		h	favorably disposed attitude
 goofy	Goofy		h	Disney character
-google	chwiliad Google		l	Internet search performed on the Google search engine
+google	Google		h	Google
 gore	gwaed		h	thick blood
 gorge	ceunant		h	deep, narrow passage with steep, rocky sides
 gorgeous	godidog		h	very beautiful
@@ -2116,6 +2120,7 @@ hospitality	lletygarwch		h	act or service of welcoming, receiving, hosting, or e
 hostility	gelyniaeth		h	state of being hostile
 hot	poeth		h	of the weather
 hot_spring	ffynnon boeth		h	natural spring producing hot water
+hound	helgi		h	dog, hunting dog
 house_arrest	arestio yn y cartref		l	confinement of a person, by authorities, to his or her residence
 household	aelwyd		h	those living in the same residence
 housing	tai		h	activity of enclosing or providing residence
@@ -2169,6 +2174,7 @@ i_m_tired	dw i wedi blino		h	I am tired (in need of rest or sleep)
 i_m_twenty_years_old	dw i'n ugain oed		h	I am twenty years old
 i_miss_you	dw i'n gweld dy eisiau di		h	I miss you
 i_think_therefore_i_am	Rwy'n meddwl, felly rwy'n bod		h	philosophical proof of existence
+id	id		l	id
 idaho	Idaho		h	state of the United States
 ideal	delfrydol		h	being optimal
 identical	unfath		h	bearing full likeness
@@ -2985,7 +2991,7 @@ nursing	llaetha		l	lactating
 nutrition	maeth		h	nutrition
 nuts	gwallgof		h	insane
 nylon	neilon		h	substance
-o	o		h	name of the letter O, o
+o	O		h	a vocative particle
 obesity	gordewdra		h	act or state of being obese
 object	gwrthrych		h	1. thing
 objection	gwrthwynebiad		h	act of objecting
@@ -3068,7 +3074,7 @@ orientation	cyfeiriadedd		h	the act of orienting
 origin	tarddiad		h	beginning of something
 original	gwreiddiol		h	relating to the origin or beginning
 orphanage	cartref plant amddifad		h	a residential institution for the care and protection of orphans
-orthodox	uniongred		h	conforming to accepted, established, or traditional doctrines of a given faith, religion, or ideology
+orthodox	Uniongred		h	of the Orthodox Churches
 osaka	Osaka		h	city in Honshū, Japan
 oslo	Oslo		h	Oslo (a county and municipality, the capital city of Norway)
 others	eraill		h	other people
@@ -3173,7 +3179,7 @@ paw	pawen		h	soft foot of an animal
 pawn	gwystl		h	item sold to a pawn shop
 pay_attention	talu sylw		h	to be attentive
 payer	talwr		h	one who pays
-pc	darn		l	piece
+pc	CP		h	initialism of personal computer
 peace_talks	trafodaethau heddwch		h	discussions between nation-states held to resolve conflict
 peaceful	heddychlon		h	not at war or disturbed by strife or turmoil
 peak	copa		h	mountain top
@@ -3681,7 +3687,7 @@ republic_of_slovenia	Gweriniaeth Slofenia		h	official name of Slovenia
 republic_of_south_sudan	Gweriniaeth De Swdan		h	official name of South Sudan
 republic_of_the_congo	Gweriniaeth y Congo		h	smaller of the two countries named Congo — see also Congo-Brazzaville
 republic_of_the_philippines	Gweriniaeth Philipinas		h	official name of the Philippines
-republican	gweriniaethol		h	favoring a republic as form of government, favoring republicanism
+republican	Gweriniaethol		h	pertaining to the Republican Party
 reputation	enw da		h	what somebody is known for
 request	gofyn am		h	to express the need or desire for
 require	mynnu		h	to demand of (someone)
@@ -3718,7 +3724,7 @@ retain	cadw		h	to keep (something) in control or possession; to continue having 
 retired	wedi ymddeol		h	having left employment
 retirement	ymddeoliad		h	act of retiring, or the state of being retired
 retreat	cilio		h	act of pulling back or withdrawing
-revelation	datguddiad		h	the act of revealing or disclosing
+revelation	Datguddiad		h	book of Bible
 revenue	incwm		h	income from an investment
 reverse	gwrthdro		h	causing movement in the opposite direction
 review	adolygiad		h	second or subsequent reading of a text or artifact
@@ -3763,7 +3769,7 @@ rolling	yn rholio		h	moving by turning over repeatedly
 rom	Roma		h	a member of the Romani people
 roma	Roma		h	the Romani people
 roman	Rhufeinig		l	upright
-romance	rhamant		h	intimate relationship, love affair
+romance	Romáwns		l	group of languages and cultures which are derived from Vulgar Latin
 romanian	Rwmaneg		l	of or relating to Romania, its people, or language
 rookie	newyddian		h	inexperienced recruit in military or police
 room	lle		h	space
@@ -4097,7 +4103,7 @@ southern_bug	Bug Deheuol		l	Translations
 souvenir	swfenîr		h	item of sentimental value
 sovereign	sofran		h	exercising power of rule
 sovereignty	sofraniaeth		h	of a nation or other polity: the state of being able to control resources, make laws independently, and otherwise govern itself without the coercion or concurre
-soviet	sofiet		h	council
+soviet	Sofiét		l	citizen
 soviet_socialist_republic	Gweriniaeth Sosialaidd Sofietaidd		h	any of the republics belonging to the former Soviet Union — see also SSR
 space	gofod		h	physical extent in two or three dimensions
 space_flight	hedfan i'r gofod		h	flight into, from, or through space
@@ -4155,7 +4161,7 @@ squadron	sgwadron		h	army: body of cavalry
 square_metre	metr sgwâr		h	standard unit of area
 squat	byr a thew		h	relatively short or low and thick or broad
 sri_lanka	Sri Lanca		h	an island and country in South Asia
-st	ust		h	expressing a sudden desire for silence
+st	Sant		h	abbreviation of Saint
 stab	trywaniad		h	act of stabbing
 stability	sefydlogrwydd		h	condition of being stable
 stable	stabl		h	building for managing ungulates, normally horses

@@ -175,7 +175,7 @@ basis	grunnlag		h	starting point for an argument
 basket	kurv		h	container
 basketball_player	basketballspiller		h	person who plays basketball
 bass	dyp		h	low in pitch
-batman	oppvarter		l	servant to an army officer — see also orderly
+batman	Batman		h	a city in Turkey
 baton	kommandostav		l	military staff of office
 bay	bukt		h	body of water
 bearing	bærende		h	carrying weight or load
@@ -260,6 +260,7 @@ broadcast	kringkastet		l	cast or scattered widely
 broken	ødelagt		h	not whole; fragmented
 brooklyn	Brooklyn		h	borough of New York City
 brother_in_law	svoger		h	husband of the sister of one's wife
+bruise	gi blåmerke		l	strike (a person), giving them a bruise
 brutal	brutal		h	savagely violent
 bubble	boble		h	spherically contained volume of air or other gas
 buck	bukk		h	male deer, goat, etc.
@@ -275,6 +276,7 @@ bum	rumpe		h	informal: butt(ocks) specifically
 bump	støt		l	a light blow or jolting collision
 buried	begravet		h	Placed in a grave at a burial
 burning	brennende		h	so hot as to seem to burn (something)
+burnt	brent		h	damaged or injured by fire or heat
 burst	sprenge		h	to cause to burst
 bust	knuse		h	to break something
 butler	butler		h	manservant having charge of wines and liquors
@@ -313,7 +315,7 @@ casting	støping		h	manufacturing process using a mold
 catalan	katalaner		h	person from Catalonia
 catch	fangst		l	the act of catching a ball
 cathedral	katedral-		l	relating to the office of a bishop or an archbishop
-catholic	katolsk		l	universal
+catholic	katolsk		h	of the Western Christian church, as differentiated from the Orthodox church
 cavity	hulrom		h	hole or hollow depression
 cd	CD		h	abbreviation of compact disc — see also compact disc
 cease	opphøre		h	intransitive
@@ -379,6 +381,7 @@ cock	hane		h	any male bird
 cocoa	kakao		h	partially fermented seeds of cocoa tree
 code	kode		h	set of rules for converting information
 cognitive	kognitiv		h	relating to mental functions
+coke	Coca-Cola		h	Coca-Cola
 cola	cola		h	drink
 collapse	kollapse		h	to fall down suddenly; to cave in
 collar	halsbånd		h	device for restraining animal
@@ -505,6 +508,7 @@ crude	rå		h	being in a natural state
 crush	forelskelse		h	love or infatuation or its object (often short-lived or unrequited)
 crying	gråtende		h	that cries
 cub	unge		h	the young of certain animals
+cue	stikkord		l	action or event that is a signal to do something
 cult	kult		h	subset of worship
 cum	cum		l	Translations
 cunning	listig		h	sly
@@ -652,7 +656,7 @@ earn	tjene		h	transitive: receive (money) for working
 ease	letthet		l	comfort — see also comfort
 easily	lett		h	without difficulty
 eating	spise-		l	suitable to be eaten without cooking
-ed	utg.		h	edition
+ed	akuttmottak		h	emergency department
 editing	redigering		h	an act or instance of something being edited
 educate	utdanne		h	to instruct or train
 educated	utdannet		h	having attained a level of higher education
@@ -895,7 +899,7 @@ gone	borte		h	away, having left
 good_for_nothing	udugelig		h	useless, worthless
 good_luck	hell		h	positive fortune
 goodness	godhet		h	state or characteristic of being good
-google	googling		l	Internet search performed on the Google search engine
+google	Google		h	Google
 gore	blod		l	thick blood
 governance	styring		h	the process, or the power, of governing; government or administration; control and monitoring
 graduate	kandidat		l	from a university
@@ -994,6 +998,7 @@ i_have_a_headache	jeg har hodepine		h	I have a headache
 i_know	jeg vet		h	response indicating agreement with prior statement before it was made
 i_m_a_vegetarian	jeg er vegetarianer		h	I'm a vegetarian
 i_m_lost	jeg har gått meg vill		h	indicates that the speaker is unable to find his or her way
+id	id		h	id
 idaho	Idaho		h	state of the United States
 ideal	ideell		h	being optimal
 identification	identifisering		h	act of identifying, or proving to be the same
@@ -1221,7 +1226,7 @@ mansion	herregård		h	large house or building
 manufacturing	produksjon		h	create goods from materials
 manure	gjødsle		h	to apply manure
 manuscript	håndskrevet		h	handwritten, or by extension typewritten
-mar	skjemme		h	to spoil, to damage
+mar	mars		h	abbreviation of March
 marked	markant		h	significant; notable
 marsh_mallow	legestokkrose		h	Althaea officinalis
 martial	krigersk		l	of, relating to, or suggestive of war — see also warlike
@@ -1372,7 +1377,7 @@ nude	naken		h	without clothing or other covering
 nursery	barnehage		h	place where the pre-school children of working parents are supervised during the day — see also nursery school
 nursing	ammende		h	lactating
 nuts	gal		h	insane
-o	o		h	name of the letter O, o
+o	å		l	a vocative particle
 objective	objektiv		h	relating to a material object
 obscure	uklar		h	dark, faint or indistinct
 observe	observere		h	to follow
@@ -1465,7 +1470,7 @@ pathetic	ynkelig		h	arousing pity, sympathy, or compassion
 patrol	patrulje		h	going of the rounds
 pattern	mønster		h	that from which a copy is made
 pause	ta en pause		h	to take a temporary rest or break
-pc	stk.		l	piece
+pc	PC		h	initialism of personal computer
 peace	fred		h	state of mind
 peaceful	fredelig		h	not at war or disturbed by strife or turmoil
 peak	topp		h	mountain top
@@ -1691,7 +1696,7 @@ report	rapportere		h	to relate details of
 reporting	rapportering		h	creation of reports
 repression	undertrykkelse		h	act of repressing
 republic_of_estonia	Republikken Estland		h	official name of Estonia
-republican	republikansk		h	favoring a republic as form of government, favoring republicanism
+republican	republikansk		h	pertaining to the Republican Party
 require	kreve		h	to demand of (someone)
 residential	bolig-		h	of or pertaining to a place of personal residence
 resolution	resolusjon		h	statement of intent
@@ -1724,6 +1729,7 @@ rogue	slyngel		h	a scoundrel, rascal or unprincipled, deceitful, and unreliable 
 roll	rulle		h	to cause something to revolve by turning over and over
 rolling	rullende		h	moving by turning over repeatedly
 roman	antikva		l	upright
+romance	romanske språk		l	group of languages and cultures which are derived from Vulgar Latin
 rookie	rekrutt		h	inexperienced recruit in military or police
 roster	liste		h	a list of names
 rot	råtne		h	(intransitive) to suffer decomposition
@@ -1889,6 +1895,7 @@ spray	sprøyt		l	fine, gentle, dispersed mist of liquid
 spring	sprette		l	to move or burst forth
 sprint	sprint		h	short race at top speed
 squat	undersetsig		l	relatively short or low and thick or broad
+st	St.		h	abbreviation of Saint
 stack	stabel		h	pile of identical objects
 stain	flekk		h	discoloured spot or area
 staircase	trapp		h	stairway
@@ -2077,7 +2084,7 @@ turner	dreier		h	person working a lathe
 turning	sving		h	A turn or deviation from a straight course
 twist	vridning		h	twisting force
 twitch	rykning		h	1. brief, small (sometimes involuntary) movement out of place and then back again
-twitter	kvitring		h	sound made by birds
+twitter	Twitter		h	online social networking service
 two_hundred	tohundre		h	cardinal number 200
 typical	typisk		h	capturing the overall sense of a thing
 typically	typisk		h	in a typical manner
