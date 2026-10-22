@@ -139,8 +139,8 @@
   /* Footer "Suggest a correction": opens a new GitHub issue, prefilled with the word or language being viewed. */
   const ISSUES = "https://github.com/MethodoxTech/Multilingualism/issues/new";
   function setSuggestLink(name, arg) {
-    const a = document.getElementById("suggest-fix");
-    if (!a) return;
+    const links = [document.getElementById("suggest-fix"), ...main.querySelectorAll("a.js-suggest")].filter(Boolean);
+    if (!links.length) return;
     const h = main.querySelector("h1");
     let subject = h ? h.textContent.trim() : "";
     if (name === "lang") {
@@ -163,7 +163,7 @@
     const q = new URLSearchParams();
     if (title) q.set("title", title);
     q.set("body", body);
-    a.href = `${ISSUES}?${q.toString()}`;
+    links.forEach((a) => { a.href = `${ISSUES}?${q.toString()}`; });
   }
 
   let routeSeq = 0;
@@ -468,7 +468,7 @@
       <p class="legend"><span>Machine translation</span> marks entries filled in by AI where Wiktionary has no translation yet. Select a translation to copy it; use ☆ to keep a language at the top of every page.</p>
       <div class="detail">
         <section><h2>Meaning</h2><ol class="defs">${(doc.definitions || []).map((d) => `<li>${esc(d)}</li>`).join("")}</ol>
-          <p class="small muted">Definitions and native translations from <a href="${esc(doc.source)}" rel="noopener">Wiktionary</a>. Spotted a mistake? Improve it there; this site rebuilds from Wiktionary.</p>
+          <p class="small muted">Definitions and native translations from <a href="${esc(doc.source)}" rel="noopener">Wiktionary</a>. Spotted a mistake? <a class="js-suggest" href="https://github.com/MethodoxTech/Multilingualism/issues/new" rel="noopener">Suggest a correction</a>, or fix it on Wiktionary, which this site rebuilds from.</p>
           ${doc.otherSenses.length ? `<h2 style="margin-top:28px">Other meanings</h2>${doc.otherSenses.map((s, i) => otherSense(s, i)).join("")}` : ""}
         </section>
         <section><h2>Nearby words</h2><ul class="near" id="near"><li class="muted">…</li></ul>
@@ -733,7 +733,8 @@
       <table class="ref"><thead><tr><th>Language</th><th>Matched</th></tr></thead><tbody>
       ${ag.map((l) => `<tr><td><a href="/lang/${l.code}">${esc(l.name)}</a></td><td>${l.controlAgreement.matched} of ${l.controlAgreement.checked}</td></tr>`).join("")}</tbody></table>` : ""}
       <h2>Corrections</h2>
-      <p>Wiktionary is the place to fix or add translations: every word page links to its Wiktionary entry. The site is rebuilt from new Wiktionary data, and a Wiktionary translation replaces any machine translation for the same word and language.</p>
+      <p>To report a wrong or awkward translation, especially a machine translation, use <a class="js-suggest" href="https://github.com/MethodoxTech/Multilingualism/issues/new" rel="noopener">Suggest a correction</a> at the bottom of any page. It opens an issue on GitHub, prefilled with the word or language you were viewing.</p>
+      <p>You can also fix or add translations on Wiktionary: every word page links to its Wiktionary entry. The site is rebuilt from new Wiktionary data, and a Wiktionary translation replaces any machine translation for the same word and language.</p>
       <h2>Sources and licence</h2>
       <ul>${m.sources.map((s) => `<li>${s.url ? `<a href="${esc(s.url)}" rel="noopener">${esc(s.name)}</a>` : esc(s.name)}${s.license ? ` (${esc(s.license)})` : ""}</li>`).join("")}</ul>
       <p>Data version ${esc(m.version)}. Source code and data: <a href="https://github.com/MethodoxTech/Multilingualism" rel="noopener">GitHub</a>.</p>
