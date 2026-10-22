@@ -11,6 +11,7 @@ absolutely	apsolutno		h	in an absolute manner
 absorb	apsorbovati		h	(physics, chemistry) to take up by chemical or physical action
 abundant	obilan		h	fully sufficient; plentiful
 abuse	zloupotreba		h	corrupt practice
+ac	naizmjenična struja		h	alternating current
 accent	akcenat		h	orthography: mark to indicate stress
 acceptable	prihvatljiv		h	capable, worthy or sure of being accepted
 acceptance	prihvatanje		h	act of accepting
@@ -33,12 +34,14 @@ addict	ovisnik		h	person who is addicted, especially to a harmful drug
 additionally	dodatno		h	by way of addition
 address	adresa		h	description of the location of a property; direction for correspondence
 adequate	adekvatan		h	equal to some requirement
+adhesive_tape	ljepljiva traka		h	adhesive tape generally
 adjacent	susjedni		h	lying next to, close, or contiguous; neighboring
 adjust	prilagoditi		h	to modify
 adjustment	prilagodba		h	result of adjusting, small change
 admire	diviti se		h	regard with wonder and delight
 admission	prijem		h	the act or practice of admitting
 admit	pustiti unutra		l	allow to enter
+adolescent	adolescentski		h	characteristic of adolescence
 adorable	ljupk		h	befitting of being adored
 advance	unaprijediti		h	to accelerate the growth or progress; to further; to forward
 advanced	napredan		h	at or close to state of the art
@@ -86,8 +89,11 @@ americas	Amerike		h	North and South America
 amongst	među		h	Used to denote a mingling or intermixing
 an	jedan		l	indefinite article
 anal	analni		h	of, related to, intended for or involving the anus
+analog	analogni		h	represented by a continuously variable physical quantity
+andorra_la_vella	Andora la Vela		h	capital of Andorra
 android	android		h	robot with human form
 angeles	Anđeles		l	city in the Philippines
+anna	ana		l	former unit of Indian currency
 announce	objaviti		h	give public notice
 annoy	živcirati		h	to disturb or irritate
 annoyed	iznerviran		h	troubled, irritated by something unwanted or unliked; vexed
@@ -113,6 +119,7 @@ appreciate	cijeniti		h	to be grateful for something
 appreciation	uvažavanje		h	a just valuation or estimate of merit, worth, weight, etc.; recognition of excellence
 appropriate	prisvojiti		h	to take to oneself in exclusion of others
 approved	odobren		h	having received approval
+aquarius	Vodolija		h	constellation
 arab_spring	Arapsko proljeće		h	movement
 arbitrary	proizvoljan		h	based on individual discretion or judgment
 arc	luk		h	geometry: part of a curve
@@ -148,6 +155,7 @@ assist	pomoći		h	to help
 assistant	pomoćni		h	having a subordinate or auxiliary position
 associate	pridruženi		h	joined with others and having equal or near equal status
 associated	povezan		h	person or thing connected with something
+assumed	lažan		h	intended to deceive; fictitious
 assumption	pretpostavka		h	supposition
 assure	uvjeriti		h	to make sure and secure
 asthma	astma		h	chronic respiratory disease
@@ -183,10 +191,13 @@ awful	užasan		h	very bad
 awkward	nespretan		h	lacking dexterity in the use of the hands
 b	rođen		h	born
 background	pozadina		h	computing: computer background
+backward	unazadan		l	in the direction towards the back
 backyard	dvorište		h	yard to the rear of a house
 badly	loše		h	in a bad manner
 bail	jamčevina		h	security
+bali	Bali		h	island of Indonesia
 ballot	glasački listić		h	paper used for vote-casting — see also ballot paper
+baltimore	Baltimore		h	city in central Maryland, USA
 band	frekvencijski opseg		h	part of radio spectrum
 bang	prasak		h	a sudden percussive noise
 banking	bankarstvo		h	occupation
@@ -210,6 +221,7 @@ beam	greda		h	large piece of timber or iron
 bearing	noseći		h	carrying weight or load
 beat	ritam		h	rhythm
 becoming	postajanje		h	The act or process by which something becomes
+behalf	u ime		l	behalf
 belfast	Belfast		h	capital of Northern Ireland
 beloved	voljen		h	much loved
 ben	ben ulje		l	oil of ben
@@ -221,6 +233,7 @@ beta	beta		h	letter of the Greek alphabet
 better_late_than_never	bolje ikad nego nikad		h	it's better to do something late, than to never do it at all
 beyond	iza		h	further away than
 biased	pristrasan		h	exhibiting bias; prejudiced
+bibliography	bibliografija		h	section of a written work
 bid	narediti		l	to issue a command
 billboard	bilbord		h	large advertisement along side of highway
 bin	kanta		h	container used for storage
@@ -232,11 +245,13 @@ biological	biološki		h	of biology
 birmingham	Birmingem		h	city and borough in England
 bit_by_bit	malo-pomalo		h	a small amount at a time
 bitcoin	bitkoin		h	decentralized cryptocurrency using blockchain technology; unit of the cryptocurrency
+black_crowned_night_heron	gak		h	Nycticorax nycticorax
 blame	krivica		h	state of having caused a bad event
 blank	bezbojan		l	(archaic) without color
 blast	nalet		l	violent gust of wind
 bleeding	krvareći		h	losing blood
 blend	mješavina		h	mixture
+blind_man_s_buff	žmurke		h	game where someone is blindfolded and tries to catch the others
 blink	trepnuti		h	to close and reopen both eyes quickly
 blogger	bloger		h	contributor to a blog
 blond	plav		h	of a pale golden colour
@@ -293,6 +308,7 @@ bully	nasilnik		h	a person who is intentionally cruel to others
 bum	guzica		h	informal: butt(ocks) specifically
 bump	udarac		h	a light blow or jolting collision
 bunch	grupa		l	a group of similar things
+bunsen_burner	Bunzenov plamenik		h	small laboratory gas burner
 burger	burger		h	informal: hamburger
 buried	pokopan		h	Placed in a grave at a burial
 burn	opekotina		h	physical injury
@@ -321,6 +337,7 @@ cannot	ne može		h	cannot — see also can, not
 canoe	kanu		h	small long and narrow boat
 canon	kanon		h	group of literary works accepted as representative
 cant	žargon		h	jargon of a particular class or subgroup
+canterbury	Canterbury		h	cathedral city in England
 canvas	platno		h	type of coarse cloth
 capability	sposobnost		h	the power or ability to generate an outcome
 capitalist	kapitalistički		h	supporting or endorsing capitalism
@@ -351,7 +368,10 @@ celebrated	slavan		h	famous or widely praised
 celebration	slavlje		h	formal performance of a solemn rite
 celtic	keltski		h	branch of languages
 centre	Centar		h	administrative region of France
+centrifugal_force	centrifugalna sila		h	force
+centripetal_force	centripetalna sila		h	the force on a rotating or orbiting body in the direction of the centre of rotation
 ceramic	keramički		h	of or pertaining to ceramic as material
+cerebral_cortex	moždana kora		h	layer of the brain
 certification	certifikacija		h	act of certifying
 challenging	zahtjevan		h	difficult; hard to do
 chamber	odaja		h	room or set of rooms
@@ -367,8 +387,10 @@ cheer	klicanje		h	a cry of "hurrah", "hurray", "yeah", or some other word expres
 chemical_bond	hemijska veza		h	any of binding forces
 chess_piece	šahovska figura		h	any of the 16 white and 16 black pieces used in playing the game of chess
 chess_player	šahist		h	a person who plays chess
+chicken_pox	vodene kozice		h	disease
 child	dijete		h	a minor
 child_labour	dječiji rad		h	work performed by children
+child_prodigy	čudo od djeteta		h	talented young person
 childish	djetinjast		h	immature, unbecoming
 chili	čili		h	spicy fresh or dried fruit of capsicum
 chili_pepper	čili papričica		h	fruit
@@ -388,6 +410,7 @@ circular	kružni		h	of or relating to a circle
 circulation	cirkulacija		h	act of moving in a circle
 civic	građanski		h	Having to do with a city or the people who live there
 claim	zahtjev		h	demand of ownership
+clap	pljesak		h	The act of striking the palms of the hands, or any two surfaces, together
 clarify	razjasniti		h	(transitive) to make clear or bright by freeing from impurities
 clarity	jasnoća		h	the state or measure of being clear
 clash	prasak		l	loud sound
@@ -408,6 +431,7 @@ closing	zatvaranje		h	the act by which something is closed
 closure	zatvaranje		h	event signifying an ending
 co	d.d.		l	company
 coastal	obalni		h	relating to the coast
+coaster	obalni brod		l	merchant vessel that stays in coastal waters
 cocoa	kakao		h	partially fermented seeds of cocoa tree
 coconut_milk	kokosovo mlijeko		h	the liquid from inside the seed of the coconut
 coil	svitak		l	something wound
@@ -436,6 +460,8 @@ commitment	obaveza		h	act or instance of committing, putting in charge, keeping,
 committed	posvećen		h	obligated by a pledge to some course of action
 common	zajednički		h	mutual
 common_house_martin	gradska lastavica		h	Delichon urbicum
+common_kestrel	vjetruša		h	Falco tinnunculus
+common_snipe	barska šljuka		h	the species Gallinago gallinago
 commonly	obično		h	as a rule; usually
 commonwealth	komonvelt		h	form of government
 communicate	komunicirati		h	to impart information or knowledge of; to make known, to tell
@@ -444,6 +470,7 @@ compact_disc	kompakt disk		h	optical disc used to store data
 comparable	uporediv		h	able to be compared
 comparative	komparativni		h	of or relating to comparison
 compete	takmičiti se		h	to contend
+competent	kompetentan		h	skilled
 competitive	konkurentan		h	of or pertaining to competition
 complement	dopuna		h	4. something which complements
 complete	završiti		h	to finish
@@ -474,6 +501,7 @@ confidence	povjerenje		h	quality of trusting
 confident	samouvjeren		h	being very sure of or positive about something
 configuration	konfiguracija		h	relative positions of a set of things
 confirmed	zagriženi		l	having a settled habit; inveterate or habitual
+confuse	zbuniti		h	to puzzle, perplex, baffle, bewilder somebody
 confusing	zbunjujući		h	difficult to understand
 confusion	zbrka		h	lack of clarity or order
 connect	spojiti		h	to join two or more pieces
@@ -489,6 +517,7 @@ considerable	znatan		h	worth considering
 considering	s obzirom na okolnosti		l	given the circumstances; all in all; all things considered
 consistency	dosljednost		h	reliability or uniformity; the quality of being consistent
 consistent	dosljedan		h	of a regularly occurring, dependable nature
+consistently	dosljedno		h	in a consistent manner
 constantly	stalno		h	in a constant manner
 constipation	zatvor		h	state of bowels
 construct	konstrukt		h	something constructed from parts
@@ -498,6 +527,7 @@ container	kontejner		h	an item in which objects, materials or data can be stored
 contamination	kontaminacija		h	the act or process of contaminating
 contest	polemika		l	controversy
 context	kontekst		h	circumstances or settings
+continental	kontinentalni		h	of or relating to a continent or continents
 continuation	nastavak		h	act or state of continuing
 continued	neprekidan		h	uninterrupted
 continuity	kontinuitet		h	lack of interruption
@@ -525,6 +555,7 @@ cooling	rashladni		h	that cools
 cooperative	saradljiv		h	ready to work with another
 coordinate	koordinata		h	mathematics, cartography: a number representing the position of a point along a line, arc, or similar one-dimensional figure
 cop	uhvatiti		l	to capture, to take (informal)
+cops	policija		h	law enforcement
 coral	koral		h	species or colony
 cord	uže		h	length of twisted strands
 core	jezgro		h	heart of a thing
@@ -538,10 +569,12 @@ correspondent	odgovarajući		l	conforming
 corresponding	odgovarajući		h	that have a similar relationship
 corrupt	pokvaren		h	in a depraved state
 counsel	savjetovanje		h	consultation
+counselor	savjetnik		h	professional who counsels people
 countryside	selo		h	area outside of towns and cities, or such part of a larger area
 coupon	kupon		h	section of a ticket giving the holder some entitlement
 courier	kurir		h	person who delivers messages
 courtesy	ljubaznost		h	polite behavior
+covalent_bond	kovalentna veza		h	bond in which atoms are connected by shared pairs of electrons
 covering	pokrivač		h	that which covers something
 crack	pucati		h	to form cracks
 crash	tresak		h	loud sound
@@ -577,6 +610,7 @@ d_oh	joj		l	expression of frustration
 daddy	tata		h	(informal, usually childish) father
 dairy	mliječni proizvodi		h	products produced from milk
 damages	odšteta		h	money awarded to a claimant
+damned	proklet		h	god-forsaken
 dancing	ples		h	activity of dancing
 daniel	Danilo		l	book of the Bible
 dare	usuditi se		h	to have courage
@@ -616,6 +650,7 @@ dental	zubni		h	phonetics
 denver	Denver		h	capital of Colorado
 deny	poricati		h	to assert that something is not true
 depressed	depresivan		h	severely despondent and unhappy
+derby	derbi		h	horse race
 derivative	izveden		h	obtained by derivation
 descendant	potomački		l	descending from (an ancestor)
 desirable	poželjan		h	suitable to be desired
@@ -630,9 +665,11 @@ developed	razvijen		h	(of a country) not primitive; not third world
 developer	programer		h	software programmer
 developing	u razvoju		h	of a country
 devoted	predan		h	vowed; dedicated; consecrated
+diabetes_mellitus	dijabetes melitus		h	medical disorder
 diagram	dijagram		h	plan, drawing, sketch or outline to show workings or parts relationships
 dial	brojčanik		h	graduated, circular scale over which a needle moves
 diana	Dijana		h	Roman goddess
+dictatorship_of_the_proletariat	diktatura proletarijata		h	a socio-political power
 dimension	dimenzija		h	measure of spatial extent
 dining_car	vagon-restoran		h	restaurant carriage
 dip	udubljenje		l	lower section of a road or geological feature
@@ -651,6 +688,7 @@ dismiss	otpustiti		h	to discharge
 disorder	nered		h	absence of order
 displacement	pomak		h	physics: vector quantity which denotes distance with a directional component
 display	prikaz		h	spectacle
+disrespect	nepoštovanje		h	lack of respect
 dissertation	disertacija		h	formal exposition of a subject
 distant	dalek		h	far off
 distinct	jasan		h	very clear
@@ -670,6 +708,7 @@ domestic_violence	nasilje u porodici		h	violence committed in a domestic setting
 dominant	dominanta		h	tone of a musical scale
 dominate	dominirati		h	to govern, rule or control by superior authority or power
 don	don		h	mafia boss
+don_quixote	Don Kihot		h	the protagonist of a famous Spanish novel
 donate	donirati		h	to give away something of value
 done	gotov		h	In a state of having completed or finished an activity
 dormitory	spavaonica		h	room for sleeping
@@ -709,6 +748,7 @@ e	slovo e		h	name of the letter E, e
 e_book	e-knjiga		h	electronic book
 each_other	jedni druge		h	to one another; one to the other
 eager	nestrpljiv		h	wanting something very much
+ear_lobe	ušna resica		h	a part of the ear
 earlier	raniji		h	occurring previously
 earn	zaraditi		h	transitive: receive (money) for working
 earnings	zarada		h	wages, money earned, income
@@ -757,10 +797,13 @@ employment	zaposlenje		h	occupation or work for which one is used, and often pai
 en	slovo en		l	name of the letter N, n
 encounter	susresti		h	meet (someone) or find (something), especially unexpectedly
 encouragement	ohrabrenje		h	the act of encouraging
+encouraging	ohrabrujući		h	giving courage, confidence or hope
+endeavor	pokušaj		h	a sincere attempt
 ending	završetak		h	termination or conclusion
 endure	izdržati		h	to continue despite obstacles
 engaged	zaručen		h	agreed to be married
 english	efekat rotacije		l	spinning or rotary motion around the vertical axis
+enhance	poboljšati		h	augment or make something greater — see also augment, boost, upgrade, improve, develop, potentiate
 ensure	osigurati		h	make sure or certain
 entertaining	zabavan		h	amusing
 entirely	u potpunosti		h	to the full extent
@@ -781,6 +824,7 @@ established	etabliran		h	having been in existence for some time and generally ac
 establishment	osnivanje		h	the act of establishing
 estimate	procjena		h	rough calculation or guess
 eu	EU		h	European Union — see also European Union, EUSSR
+eurasian_woodcock	šumska šljuka		h	Scolopax rusticola
 evaluate	procijeniti		h	to draw conclusions from by examining
 evaluation	procjena		h	assessment
 even	jednak		h	equal
@@ -871,6 +915,7 @@ feel	opipati		h	transitive: to sense by touch
 feeling	osjećajan		h	emotionally sensitive
 fell	oboriti		h	to make something fall
 fellow	drug		h	companion; comrade — see also companion, comrade, friend
+ferris_wheel	panoramski točak		h	ride at a fair consisting of large wheel
 fertile	plodan		h	of land, etc.: capable of growing abundant crops
 fewer	manje		h	comparative of few; a smaller number
 fibre	vlakno		h	single elongated piece of material
@@ -889,6 +934,8 @@ figure	crtež		l	drawing
 filipino	Filipinac		h	citizen or inhabitant of the Philippines
 filled	ispunjen		h	that is now full
 filling	zasitan		h	of food, that satisfies the appetite by filling the stomach
+filming	snimanje		h	the action of the verb "to film"
+filthy	prljav		h	covered with filth; very dirty
 final	ispit		l	test or examination given at the end of a term or class
 finals	finale		h	contest that narrows a field of contestants
 finding	nalaz		h	result of research or an investigation
@@ -898,6 +945,7 @@ finished	gotov		h	processed or perfected
 finn	Fin		h	national of Finland
 fire_station	vatrogasna stanica		h	building for firefighters
 fired	otpušten		h	dismissed
+firing	pucanje		h	discharge
 firstly	prvo		h	in the first place
 fiscal	fiskalni		h	related to the treasury
 fiscal_year	fiskalna godina		h	accounting period of one year
@@ -917,6 +965,7 @@ fodder	stočna hrana		h	food for animals
 foil	folija		h	thin sheet of metal
 folk	narod		h	inhabitants of a region
 following	sljedeći		h	next in sequence or time
+fond	privržen		h	affectionate
 font	krstionica		h	a receptacle in church for holy water
 footprint	otisak stopala		h	the impression of the foot
 for	jer		h	because
@@ -953,6 +1002,7 @@ freight	teret		h	transportation of goods
 french	rezati na trakice		l	prepare food by cutting it into strips
 french_kiss	francuski poljubac		h	a kiss involving the tongue
 frequently	često		h	at frequent intervals
+freshman	brucoš		h	a person of either sex entering the first year of an institution
 fried	pržen		h	cooked by frying
 from_now_on	od sada		h	from now, indefinitely
 front	prednja strana		h	facing side
@@ -977,6 +1027,7 @@ gang	banda		h	a company of persons
 gap	procjep		l	opening made by breaking or parting
 garlic_bread	hljeb sa bijelim lukom		h	bread topped with garlic
 gas_turbine	plinska turbina		h	gas turbine
+gastric_acid	želučana kiselina		h	acidic secretion of the stomach
 gathering	okupljanje		h	get-together, social function
 gee	joj		l	exclamation of surprise or pleasure
 gemini	Blizanci		h	constellation
@@ -1003,6 +1054,7 @@ gone	otišao		h	away, having left
 good_for_nothing	beskoristan		h	useless, worthless
 good_luck	sreća		h	positive fortune
 google	guglanje		l	Internet search performed on the Google search engine
+gore	zgrušana krv		l	thick blood
 gorgeous	prekrasan		h	very beautiful
 grace	molitva prije jela		h	short prayer of thanks before or after a meal
 graduate	diplomac		h	from a university
@@ -1032,6 +1084,7 @@ guinea	gvineja		h	coin worth 21 shillings
 gulf_of_naples	Napuljski zaljev		h	Mediterranean gulf along the coast of Campania
 gut	trbuh		h	abdomen
 guts	utroba		h	entrails
+gutter	oluk		h	prepared channel in a surface
 guy	momak		h	male, man
 ha	ha		h	a representation of laughter
 habitat	stanište		h	natural conditions in which a plant or animal lives
@@ -1052,7 +1105,9 @@ hard_disk	tvrdi disk		h	recording disk in a drive unit
 harmless	bezopasan		h	incapable of causing harm or danger
 harry	pljačkati		l	To strip; to lay waste
 harsh	grub		h	rough
+hart	jelen		h	male deer
 hash	sjeckano meso		l	chopped food, especially meat and potatoes
+hashtag	heštag		l	a tag with a hash sign
 hat_trick	hat-trik		h	three achievements in a single game, competition, season, etc.
 hatch	otvor		h	1. horizontal door
 hate	mržnja		h	negative interaction in Internet
@@ -1094,6 +1149,7 @@ homeless	beskućnik		l	lacking a permanent residence
 honey_bee	medonosna pčela		h	honey bee
 honor	čast		h	recognition of importance or spiritual value; respect
 honorable	častan		h	worthy of respect
+hooded_crow	siva vrana		h	Corvus cornix
 hop	skok		h	a short jump
 hopefully	nadajmo se		h	it is hoped that
 hopeless	beznadežan		h	destitute of hope; having no expectation of good; despairing
@@ -1116,6 +1172,7 @@ hurry	žurba		h	rushed action
 hurt	povrijediti		h	to cause physical pain and/or injury
 hut	koliba		h	primitive dwelling
 hybrid	hibrid		h	something of mixed origin
+hydrochloric_acid	hlorovodonična kiselina		h	strong acid made by dissolving the gas hydrogen chloride in water
 i	slovo i		h	name of the letter I, i
 i_don_t_care	Nije me briga		h	I don't care
 i_don_t_eat_fish	Ne jedem ribu		h	I don't eat fish
@@ -1151,6 +1208,7 @@ impressed	impresioniran		h	strongly affected, especially favourably
 impressive	impresivan		h	making, or tending to make, an impression; having power to impress
 imprisonment	zatvaranje		h	confinement
 improved	poboljšan		h	that has been made better
+impulse	impuls		h	sudden force that impels
 incentive	poticaj		h	something that motivates
 include	uključiti		h	to bring into as a part or member
 including	uključujući		h	such as, among which
@@ -1172,6 +1230,9 @@ indigenous	autohton		h	born or engendered in, native to a land or region
 indirect	indirektan		h	not direct
 industrial	industrijski		h	of or relating to industry
 inevitable	neizbježan		h	impossible to avoid or prevent
+infamous	zloglasan		h	having a bad reputation
+infectious	zarazan		h	transmitted between persons as illness
+inferior	inferioran		h	of lower quality
 inflammation	upala		h	medical condition
 info	info		h	abbreviation for “information”
 informal	neformalan		h	not formal or ceremonious
@@ -1244,8 +1305,10 @@ itself	sebe		h	(reflexive) it
 j	žandar		l	playing card
 jack	dizalica		h	device for raising and supporting a heavy object
 james	Jakov		h	book of the Bible
+jammu_and_kashmir	Džamu i Kašmir		h	portion of the territory which is governed by India
 japan	lakirati		l	to varnish (something) with japan
 jasper	jaspis		h	precious stone
+jehovah_s_witnesses	Jehovini svjedoci		h	denomination
 jelly	žele		h	sweet gelatinous substance derived from fruit juices and pectin
 jeremiah	Jeremija		h	biblical prophet
 jerk	trzaj		h	quick, often unpleasant tug or shake
@@ -1283,6 +1346,7 @@ knock	kucanje		h	abrupt rapping sound
 knowing	pronicav		l	intelligent
 known	poznat		h	whom other people know; renowned, famous
 kong	kong		l	set of four identical tiles
+kyrgyz_republic	Kirgiska Republika		h	official name of Kyrgyzstan
 lance	koplje		h	weapon of war
 landmark	znamenitost		h	recognizable feature
 lane	uličica		h	passageway
@@ -1305,6 +1369,7 @@ least	najmanji		h	of two or more animals or plants with the same name: the small
 leave	otići		h	to depart (intransitive)
 led	LED		h	LED — see also light-emitting diode
 lee	zavjetrina		h	protected cove or harbor, out of the wind
+leeds	Leeds		h	city in England
 left_handed	ljevoruk		h	preferring the left hand over the right
 legal	pravni		h	relating to the law or to lawyers
 legally	zakonito		h	as permitted by law
@@ -1332,6 +1397,7 @@ linguistics	lingvistika		h	scientific study of language
 lining	postava		h	covering for the inside of something
 links	golf teren		h	golf course
 listening	slušajući		l	of something that listens
+lit	osvijetljen		h	Lighted
 litigation	parnica		h	conduct of a lawsuit
 litter	stelja		h	bedding for animals
 lively	živahan		h	full of life
@@ -1361,7 +1427,9 @@ m	metar		h	metre
 ma	mama		h	colloquial form of mother
 ma_am	gospođo		h	chiefly used as a form of address: contraction of madam — see also madam
 machine_learning	mašinsko učenje		h	field of study
+machinery	mašinerija		h	machines constituting a production apparatus
 magical	magičan		h	relating to magic
+magistrate	sudija		h	judicial officer
 magnetic	magnetski		h	of, relating to, caused by, or operating by magnetism
 magnitude	veličina		h	size, etc.
 maine	Mejn		h	US State
@@ -1378,6 +1446,7 @@ making	izrada		h	act — see also workmanship, construction
 malay	malajski		h	of the Malay people
 malaysian	malezijski		h	Pertaining to Malaysia
 mall	tržni centar		h	enclosed shopping centre
+mammary_gland	mliječna žlijezda		h	milk-secreting gland
 manchester	Mančester		h	major city in the north-west of England
 mandate	mandat		h	official command
 mandatory	obavezan		h	obligatory — see also obligatory, compulsory
@@ -1392,11 +1461,14 @@ mar	pokvariti		h	to spoil, to damage
 marine_biology	morska biologija		h	branch of biology
 mark	oznaka		h	indication for reference or measurement
 marked	izrazit		h	significant; notable
+marshal	maršal		h	military officer of the highest rank
 martial	ratni		h	of, relating to, or suggestive of war — see also warlike
 martin	lastavica		l	bird
+marvel	čuditi se		h	become filled with wonderment
 mary	Mari		l	city in Turkmenistan
 maryland	Merilend		h	US state
 masculine	muževan		h	having male qualities, not feminine or effeminate
+mashed_potatoes	pire krompir		h	dish
 mason	zidar		h	one who builds with stone or brick
 massachusetts	Masačusets		h	a state of the United States of America
 massive	ogroman		h	of great size, significance or import; overwhelming
@@ -1406,6 +1478,7 @@ material	materijalni		h	related to matter
 math	matematika		h	short form of mathematics
 mathematical	matematički		h	of, or relating to mathematics
 mature	zreo		h	fully developed
+maturity	zrelost		h	state of being mature, ready or ripe
 max	maksimalan		h	abbreviation for maximum
 maximum	maksimum		h	highest limit
 may	smjeti		h	have permission to
@@ -1430,6 +1503,7 @@ mentor	mentor		h	wise and trusted counselor or teacher
 merger	spajanje		h	the act or process of merging
 mesh	mreža		h	structure
 messy	neuredan		h	in a disorderly state; causing mess or confusion; chaotic; disorderly
+metallic	metalni		h	related to metal
 methodology	metodologija		h	the study of methods used in a field
 metric	metrički		h	relating to metric system
 mi	mi		h	third note of a major scale
@@ -1469,6 +1543,7 @@ molecular	molekularni		h	relating to molecules
 monitoring	praćenje		h	Surveillance or continuous or regular observation
 montana	Montana		h	US state
 monthly	mjesečni		h	occurring every month
+morale	moral		h	the capacity of people to maintain belief in an institution or a goal, or even in oneself and others
 mormon	mormon		h	member of The Church of Jesus Christ of Latter-day Saints
 mosquito_net	mreža protiv komaraca		h	fine net used to protect against mosquitos
 motivated	motivisan		h	enthusiastic; having motivation
@@ -1477,6 +1552,8 @@ mountain_range	planinski lanac		h	line of mountains
 moved	ganut		h	emotionally affected
 moving	dirljiv		l	that moves or move
 ms	gđa		h	title
+multiplication_table	tablica množenja		h	in arithmetic
+mung_bean	mung grah		l	seed of Vigna radiata
 mutation	mutacija		h	heritable change in genetic material
 mutual	međusobni		h	having the same relationship, each to each other
 myriad	deset hiljada		l	ten thousand — see also ten thousand
@@ -1521,11 +1598,13 @@ nobel_prize	Nobelova nagrada		h	international prize
 node	čvor		h	astronomy: where the orbit of a planet intersects the ecliptic
 nomination	nominacija		h	an act or instance of nominating
 none	nijedan		h	not any thing
+nonprofit	neprofitni		h	not seeking to produce a profit
 nope	ne		h	informal "no"
 norm	norma		h	that which is normal
 normal	normalan		h	according to norms or rules
 normally	obično		h	under normal conditions or circumstances; usually; most of the time
 norman	Normanac		h	a person from Normandy
+north_rhine_westphalia	Sjeverna Rajna-Vestfalija		h	state
 northern_lights	polarna svjetlost		h	the aurora of the northern hemisphere
 not_at_all	nikako		h	not
 not_yet	još ne		h	not for the moment, though expected later
@@ -1541,11 +1620,13 @@ numbers	Brojevi		h	fourth book of the Bible
 numerical	brojčani		h	of or pertaining to numbers
 nursery	vrtić		h	place where the pre-school children of working parents are supervised during the day — see also nursery school
 nursing	dojilja		l	lactating
+nuts	lud		h	insane
 o	slovo o		h	name of the letter O, o
 o_clock	sati		h	indication of time (the translations below are of "one o’clock")
 obey	poslušati		h	to do as ordered by
 objection	prigovor		h	act of objecting
 objective	objektivan		l	relating to a material object
+obscure	nejasan		h	dark, faint or indistinct
 observer	posmatrač		h	one who makes observations, monitors or takes notice
 obsessed	opsjednut		h	Intensely preoccupied with or by a given topic or emotion; driven by a specified obsession
 obtain	dobiti		h	to get hold of; to gain possession of, to procure; to acquire, in any way
@@ -1561,12 +1642,14 @@ offering	ponuda		h	act of offering
 officer	službenik		h	one who has a position of authority in a hierarchical organization
 offline	van mreže		h	of a system, not connected to a larger network
 offshore	priobalni		l	located in the sea away from the coast
+oil_tanker	naftni tanker		h	a ship that transports oil (petroleum)
 ok	odobrenje		l	endorsement; approval
 oklahoma	Oklahoma		h	state
 old_english	staroengleski jezik		h	ancestor language of modern English
 older_brother	stariji brat		h	single-word translations
 older_sister	starija sestra		h	single-word translations
 olympic	olimpijski		h	of or pertaining to the Olympic Games
+omega	omega		h	letter of the Greek alphabet
 on	uključen		h	in the state of being active, functioning or operating
 once_again	još jednom		h	one more time
 once_upon_a_time	Jednom davno		h	traditional beginning of children’s stories, especially fairy tales
@@ -1604,6 +1687,7 @@ out	van		h	away from the inside or the centre
 outdoor	vanjski		h	situated in the open air
 outer	vanjski		h	outside
 outline	kontura		h	line marking the boundary of an object figure
+outrage	zvjerstvo		h	excessively violent or vicious attack; atrocity
 outstanding	izvanredan		h	standing out from others
 over	završen		h	ended
 overall	sveukupan		h	all-encompassing
@@ -1612,12 +1696,14 @@ overnight	preko noći		h	throughout the night
 overtime	prekovremeni rad		h	worktime
 overwhelming	nadmoćan		h	overpowering
 owe	dugovati		h	to be under an obligation
+oxidizing_agent	oksidans		h	any substance that oxidizes, or receives electrons from, another
 p	str.		h	page
 p_m	poslijepodne		h	after noon
 pa	tata		h	father
 pace	korak		h	step: step
 pacific	miroljubiv		h	calm, peaceful — see also calm, peaceful
 packed	zapakovan		h	put into a package
+pad	jastučić		h	flattened mass of anything soft
 paddle	veslo		h	two-handed, single-bladed oar
 paid	plaćen		h	not free of charge
 palestinian	palestinski		h	of, from, or pertaining to Palestine or the Palestinian people
@@ -1632,6 +1718,7 @@ pardon	pomilovanje		h	forgiveness for an offence
 parliamentary	parlamentarni		h	of, relating to, or enacted by a parliament
 partially	djelimično		h	to a partial degree
 particularly	posebno		h	especially
+partition	podjela		h	action which divides a thing into parts, or separates one thing from another
 partly	djelimično		h	in part
 pass	proći		h	to go by, over, or through
 passage	odlomak		h	section of text or music
@@ -1664,7 +1751,9 @@ perfectly	savršeno		h	with perfection
 perform	izvoditi		h	transitive: to do (something)
 performance	izvedba		h	the act of performing; carrying into execution or action; accomplishment
 permanently	trajno		h	in a permanent manner
+perry	kruškovo vino		l	Beverage from pears
 personal	lični		h	of or pertaining to a particular person
+personal_pronoun	lična zamjenica		h	part of speech
 personally	lično		h	in a personal manner
 personnel	osoblje		h	members of an organization
 perspective	perspektiva		h	view, vista or outlook
@@ -1687,6 +1776,7 @@ pink	ružičasta		h	pale red colour
 pioneer	pionir		h	one who goes before
 pip	pipa		l	respiratory disease in birds
 pipe	svirala		l	type of wind instrument
+piracy	piratstvo		h	robbery at sea
 piss	mokraća		h	urine
 pissed	pijan		h	drunk
 pitch	smola		h	sticky, gummy substance secreted by trees
@@ -1737,6 +1827,7 @@ preferred	preferiran		h	Translations
 preliminary	preliminaran		h	in preparation for the main matter
 premier	vodeći		h	foremost, very first or very highest in quality or degree
 premiere	premijera		h	first showing of a film, play or other form of entertainment
+premise	premisa		h	proposition antecedently supposed or proved
 premium	premijum		l	Translations
 present	sadašnji		h	pertaining to the current time
 preservation	očuvanje		h	the act of preserving
@@ -1763,12 +1854,16 @@ productive	produktivan		h	capable of producing something
 productivity	produktivnost		h	state of being productive
 professional	profesionalac		h	person who belongs to a profession
 profile	profil		h	outermost shape
+profound	dubok		h	descending below the surface
 progressive	progresivan		h	favouring or promoting progress; advanced
+projection	projekcija		h	something which projects
 prominent	istaknut		h	projecting, protuberant
+promised	obećan		h	predicted; expected
 promising	obećavajući		h	showing promise, and likely to develop in a desirable fashion
 promote	unaprijediti		h	raise someone to a more important, responsible, or remunerative job or rank
 promotion	unapređenje		h	advancement in position
 prompt	brz		h	quick
+prop	podupirač		h	object placed against or under another, to support it
 proper	pravi		h	fit, suitable
 properly	pravilno		h	in a proper manner
 proportion	udio		h	quantity that is part of the whole
@@ -1793,13 +1888,17 @@ publication	objavljivanje		h	act of publishing
 publicity	publicitet		h	advertising or other activity designed to rouse public interest in something
 publicly	javno		h	in an open and public manner — see also in public
 publish	objaviti		h	to issue something (usually printed work) for sale and distribution
+publishing	izdavaštvo		h	the industry of publishing
 pulled	razvlačeno		l	of fine pieces of cooked meat torn from the bone.
+pulp	pulpa		l	center of a fruit
+pun	praviti igru riječi		h	to make or tell a pun
 purchase	kupovina		h	the acquisition of title to, or property in, anything for a price
 pure	čist		h	free of flaws or imperfections
 purity	čistoća		h	the state of being pure
 pursuit	potjera		h	act of pursuing
 push_up	sklek		h	supporting
 q	dama		l	playing card
+qr_code	QR kod		h	2-D barcode
 quail	uplašiti se		l	to shrink or waver; to become fearful or doubtful
 qualified	kvalifikovan		h	meeting requirements
 qualify	opisati		l	to describe or characterize something by listing its qualities
@@ -1812,6 +1911,7 @@ quarterly	tromjesečni		h	occurring once every quarter year
 queensland	Kvinslend		h	Australian state
 queer	kvir		h	slang: of sexual or gender minorities
 quest	potraga		h	journey or effort in pursuit of a goal
+quezon_city	Quezon City		l	city in Metro Manila, Philippines
 quit	otići		l	to leave
 quite	sasvim		h	to the greatest extent; completely
 racial	rasni		h	of or relating to a race (or a people)
@@ -1826,6 +1926,7 @@ rank	smrdljiv		l	having a very strong and bad odor
 ranking	rangiran		l	having a specified rank
 rapid	brz		h	Very swift or quick
 rapidly	brzo		h	with speed
+rapper	reper		h	performer of rap music, or one who raps
 rash	nagao		h	acting too quickly without considering the consequences and risks — see also hasty, crazy, impulsive, inconsiderate, precipitate, imprudent, precipitous
 rate	stopa		h	the proportional relationship between one amount, value etc. and another
 rates	općinski porez		l	a local government tax on property
@@ -1878,6 +1979,7 @@ related	povezan		h	standing in relation or connection
 relation	relacija		h	mathematics: set of ordered tuples, a Boolean function of two or more arguments
 relatively	relativno		h	proportionally
 relax	opustiti		h	(transitive) to make something loose
+relaxed	opušten		h	having an easy-going mood
 release	oslobađanje		h	event of setting free
 relevant	relevantan		h	directly related, connected, or pertinent to a topic
 reliability	pouzdanost		h	quality of being reliable
@@ -1888,10 +1990,12 @@ remaining	preostali		h	which remains
 remains	posmrtni ostaci		h	what is left after a person (or any organism) dies; a corpse
 remarkable	izvanredan		h	worthy of being remarked
 remedy	lijek		h	something that corrects or counteracts
+remix	remiks		h	rearrangement of an older piece of music
 removal	uklanjanje		h	the process of moving, or the fact of being removed
 remove	ukloniti		h	to take away
 renaissance	renesansa		h	14th-century revival
 render	učiniti		h	to cause to become
+renovation	renoviranje		h	act or process of renovating
 renowned	renomiran		h	famous
 repeated	ponovljen		h	said or done again
 repeatedly	više puta		h	done several times
@@ -1911,6 +2015,7 @@ resign	dati ostavku		h	quit a job or position
 resist	odoljeti		h	to withstand actions or effects of
 resolution	rezolucija		h	statement of intent
 resolve	riješiti		h	to find a solution to
+respectful	pun poštovanja		h	characterized by respect
 respective	odnosni		h	referencing two or more things as individuals
 respectively	odnosno		h	in a relative manner
 respond	odgovoriti		h	to say something in return
@@ -1932,10 +2037,12 @@ rick	plast		h	stack or pile, of straw, hay etc.
 rid	osloboditi		h	to free (oneself or someone, or a place) from an annoyance or hindrance
 ridge	greben		h	line along which two sloping surfaces meet
 ridiculous	smiješan		h	foolish, absurd
+rigid	krut		h	rigorous, unbending
 rip	razderati		h	to divide or separate the parts of
 rise	dizati se		h	to move upwards
 rising	ustanak		h	rebellion
 ritual	ritualni		h	related to a rite
+rivalry	suparništvo		h	competition
 rob	opljačkati		h	to steal from, using violence
 robust	robustan		h	evincing strength
 rock_music	rok muzika		h	popular music genre
@@ -1954,6 +2061,7 @@ rookie	novajlija		h	inexperienced recruit in military or police
 roommate	cimer		h	a person with whom one shares a room
 rotation	rotacija		h	act of turning around a centre
 roughly	otprilike		h	in a rough manner
+roulette	rulet		h	game of chance
 round	okrugao		h	circular or cylindrical
 roundabout	zaobilazan		h	circuitous
 routine	rutina		h	course of action to be followed regularly; a standard procedure
@@ -1978,6 +2086,7 @@ san_salvador	San Salvador		h	capital of El Salvador
 sanctuary	utočište		h	place of safety or protection
 sandy	pjeskovit		h	covered with sand
 sap	sok		h	juice of plant
+sarah	Sara		h	Translations
 sarcasm	sarkazam		h	derision, facetiousness
 sat	sub.		h	abbreviation of Saturday
 satellite	satelit		h	a body orbiting a larger one
@@ -1993,6 +2102,7 @@ science_fiction	naučna fantastika		h	fiction genre
 scoop	žlica		l	any cup- or bowl-shaped object
 scope	opseg		h	breadth, depth or reach of a subject; extent of applicability or relevance
 scotch	škotski jezik		l	Lowland Scots language
+scots	škotski jezik		h	Lowland Scots language
 scrap	komadić		h	small piece, fragment
 scratch	ogrebati		h	rub a surface with a sharp object
 script	tekst		l	writing; written document
@@ -2015,6 +2125,7 @@ selected	odabran		h	that have been selected or chosen
 selling	prodaja		h	action of the verb "to sell"
 semi	polu erekcija		l	semi-erection
 semiconductor	poluprovodnik		h	substance with electrical properties between conductor and insulator
+seminar	seminar		h	class held for advanced studies
 senior	stariji		h	older
 sensible	razuman		h	acting with or showing good judgement
 sensitivity	osjetljivost		h	the ability of an organism or organ to respond to external stimuli
@@ -2069,6 +2180,7 @@ sick	bolestan		h	ill, used as a substantive: sick people, collectively
 signed	potpisan		h	having a signature, endorsed
 significantly	značajno		h	in a significant manner: notably
 sim_card	SIM kartica		h	small, removable card which stores mobile phone data
+simulation	simulacija		h	something which simulates
 since	od tada		h	from a specified time in the past
 singles	pojedinačno		h	sports: game between two individuals
 singular	jedinstven		l	being only one of larger population
@@ -2085,25 +2197,30 @@ sketch	skicirati		h	to make a basic drawing
 skilled	vješt		h	having or showing skill
 skin_cancer	rak kože		h	malignant growth on the skin
 skip	skakutati		h	move by hopping on alternate feet
+slam	zalupiti		h	to shut with sudden force and noise
 slap	šamar		h	A blow dealt with the open hand
 slate	škriljac		h	fine-grained homogeneous sedimentary rock
 sleeping	za spavanje		h	used for sleep; used to produce sleep
 slide	klizati		h	to cause to move in continuous contact with a surface
 slightly	blago		h	to a small extent or degree
 slip	okliznuti se		h	to lose one's traction
+small_intestine	tanko crijevo		h	upper part of the intestine
 smallpox	velike boginje		h	disease
 smart	peći		l	to hurt or sting
 smash	tresak		h	sound of a violent impact
 smoking	dimeći		h	giving off smoke
 snap	prasak		h	quick breaking or cracking sound or the action of producing such a sound
+sneak	varalica		h	a cheat; con artist; trickster
 snow_leopard	snježni leopard		h	a large feline mammal, ''Panthera uncia''
 so	da		h	in order that
 so_so	onako		l	neither good nor bad
 so_that	kako bi		h	in order to
 soap_opera	sapunica		h	television serial
+social_distancing	socijalno distanciranje		h	practice of maintaining physical distance between people to reduce the spread of communicable diseases
 soda	soda		h	sodium carbonate
 solar_panel	solarni panel		h	array of connected solar cells
 sole	jedini		h	only
+solitary	samotnjak		h	one who lives alone
 solo	solo		h	piece of music for one
 somali	somalski		h	a language
 someday	jednog dana		h	sometime; at some time in the future
@@ -2114,6 +2231,7 @@ sound	zdrav		h	healthy
 south_korean	Južnokorejac		h	person from or descended from South Korea
 southampton	Sautempton		h	city in England
 soy_sauce	sojin sos		h	a condiment and ingredient made from fermented soybeans
+spacecraft	svemirska letjelica		h	vehicle that travels through space
 span	pedalj		h	Any of various units of length approximating the full width of an open hand
 spare	rezervni		h	being over and above what is necessary
 speaker	govornik		h	one who speaks
@@ -2123,6 +2241,7 @@ specific	specifičan		h	explicit or definite
 specifically	konkretno		h	for a specific purpose or reason
 spectacle	spektakl		h	something exciting or extraordinary
 spectacular	spektakularan		h	amazing or worthy of special attention
+speculation	spekulacija		h	process of thinking or meditation
 spell	čin		l	magical incantation
 spent	potrošen		h	used up
 sperm	spermij		h	cell
@@ -2139,6 +2258,7 @@ sponge_cake	piškotni biskvit		l	type of soft cake made from flour, sugar, bakin
 sponsor	sponzor		h	person or organization with religious, legal, or financial responsibility for another
 sporting	sportski		h	pertaining to sports
 spotlight	reflektor		h	a bright lamp, especially one used to illuminate the center of attention on a stage
+spotted	pjegav		h	discoloured by spots; stained
 spray	sprej		h	fine, gentle, dispersed mist of liquid
 spread	širiti		h	to stretch out, expand
 spring	izbiti		l	to move or burst forth
@@ -2151,7 +2271,9 @@ stability	stabilnost		h	condition of being stable
 stair	stepenik		h	single step
 stall	boks		h	compartment for a single animal in a stable or cattle shed
 stance	stav		h	manner, pose, or posture in which one stands
+standard_deviation	standardna devijacija		h	statistical measure
 standing	stajaći		h	water
+star_anise	zvjezdasti anis		h	a plant, Illicium verum
 star_cluster	zvjezdano jato		h	group of stars
 star_fruit	karambola		h	fruit
 starter	anlaser		h	electric motor that starts an internal-combustion engine
@@ -2177,6 +2299,7 @@ store	skladište		l	place where items may be kept
 straight	iskren		h	direct, truthful, frank
 strain	soj		h	race, lineage, pedigree
 strait	tijesan		l	tight, close, confined
+strait_of_hormuz	Hormuški moreuz		h	strait
 strand	plaža		h	beach
 strap	remen		h	a long, narrow, pliable strip of leather, cloth, or the like
 strategic	strateški		h	of or pertaining to strategy
@@ -2186,6 +2309,7 @@ stressed	pod stresom		h	stressed-out
 stretch	rastegnuti		h	to lengthen by pulling
 strict	strog		h	governed or governing by exact rules
 strike	izbrisati		h	to delete
+stringed_instrument	žičani instrument		h	Translations
 strip	traka		h	long, thin piece of land or material
 stroke	udarac		h	act of hitting — see also blow, hit
 strongly	snažno		h	in a strong or powerful manner
@@ -2199,6 +2323,7 @@ stuff	stvari		h	miscellaneous items; things
 stunning	zapanjujući		h	having an effect that stuns
 sub	podmornica		h	submarine — see also submarine
 subject	podložan		h	likely to be affected by something
+subjective	subjektivan		h	based upon subjective feelings or intuition
 submission	pokornost		h	the act of yielding
 submit	pokoriti se		h	to yield or give way to another
 subsequent	naknadni		h	following in time
@@ -2213,6 +2338,7 @@ successfully	uspješno		h	in a successful manner
 succession	slijed		h	following in sequence
 successor	nasljednik		h	person or thing that immediately follows another
 suck	sisanje		l	instance of drawing something into one's mouth by inhaling
+sucker	sisač		l	someone or something that sucks
 suddenly	iznenada		h	happening quickly and with little or no warning
 sue	tužiti		h	to file a legal action
 suffering	patnički		l	experiencing pain
@@ -2234,11 +2360,13 @@ supreme	vrhovni		h	dominant
 sure	siguran		h	certain, reliable
 surely	sigurno		h	certainly, undoubtedly
 surf	valovi		l	waves that break
+surfing	surfanje		h	sport
 surgical	hirurški		h	of or relating to surgery
 surprised	iznenađen		h	caused to feel surprise
 surprising	iznenađujući		h	that is or are a surprise
 surround	okružiti		h	to encircle something or simultaneously extend in all directions
 surrounding	okružujući		l	gerund of 'surround'
+surroundings	okolina		h	area surrounding someone or something
 surveillance	nadzor		h	observation of individuals or groups of individuals
 survival	opstanak		h	continued existence or life
 suspect	sumnjati		h	imagine or suppose to be true, without proof
@@ -2256,6 +2384,7 @@ symbolic	simboličan		h	pertaining to a symbol
 synthesis	sinteza		h	formation of something complex or coherent
 syrian	sirijski		h	of, from, or pertaining to Syria, the Syrian people or Syrian culture
 systematic	sistematičan		h	carried out using a planned, ordered procedure
+tablet	glinena tablica		h	slab of clay
 tactical	taktički		h	of or relating to tactics
 take_off	skinuti		h	to remove
 taken	zaljubljen		l	infatuated, fond of or attracted to
@@ -2305,6 +2434,7 @@ thirty_seven	trideset sedam		h	37
 thirty_six	trideset šest		h	36
 thirty_three	trideset tri		h	33
 thorough	temeljit		h	detailed
+thoroughly	temeljito		h	in a thorough or complete manner
 those	oni		h	plural of that
 though	ipak		h	however
 threatened	ugrožen		h	at risk of becoming endangered
@@ -2313,7 +2443,9 @@ throughout	širom		h	in every part of; all through
 throw_away	baciti		h	discard or dispose of
 thrust	proboj		l	an attack with a sword
 thus	tako		h	in this way or manner
+thyroid_gland	štitna žlijezda		h	large butterfly-shaped endocrine gland
 tidy	uredan		h	arranged neatly
+tied	povezan		h	closely associated
 tight	čvrst		h	firmly held together
 time_zone	vremenska zona		h	range of longitudes where a common standard time is used
 times	puta		h	multiplied by
@@ -2331,6 +2463,7 @@ tomato_sauce	paradajz sos		h	pasta sauce
 tone	ton		h	specific pitch, quality and duration; a note
 tony	otmjen		l	stylish, high-toned, upscale
 toronto	Toronto		h	city in Canada
+torque	obrtni moment		h	a rotational or twisting force
 toss	bacanje		h	throw, a lob, of a ball
 total	ukupno		h	amount
 totally	potpuno		h	In a total manner; completely
@@ -2367,8 +2500,10 @@ tropical	tropski		h	of or pertaining to the tropics
 trouble	nevolja		h	distressful or dangerous situation
 truly	zaista		h	in accordance with the facts
 trying	naporan		h	Difficult to endure; arduous
+tub	čabar		l	broad, flat-bottomed vessel
 tuition	školarina		l	training or instruction provided by a teacher or tutor
 tuna	tuna		h	fish
+turmeric	kurkuma		h	plant
 turn_off	isključiti		h	switch off appliance or light
 turning	skretanje		h	A turn or deviation from a straight course
 tweet	cvrkut		h	sound
@@ -2399,6 +2534,7 @@ understood	shvaćen		h	comprehended
 underwater	podvodni		h	beneath the water surface
 underworld	podzemlje		h	world of the dead
 unfortunate	nesrećan		h	not favored by fortune
+unidentified_flying_object	neidentificirani leteći objekt		h	anything in the air not readily explainable
 united_nations_general_assembly	Generalna skupština Ujedinjenih nacija		h	one of the six principal organs of the United Nations
 universal	univerzalan		h	of or pertaining to the universe
 unlike	različit		h	dissimilar
@@ -2406,10 +2542,13 @@ unlikely	malo vjerovatan		h	not likely
 unlimited	neograničen		h	limitless or without bounds; unrestricted
 unnecessary	nepotreban		h	not necessary
 unprecedented	bez presedana		h	never before seen or done, without precedent
+unstable	nestabilan		h	not stable
 unusual	neobičan		h	not usual
 up	gore		h	away from earth’s surface
 upgrade	nadogradnja		h	an improved component or replacement item
+ups	besprekidno napajanje		l	(initialism) uninterruptible power supply
 upside_down	naopako		h	inverted
+upstairs	gornji		l	located on a higher floor of a building
 usage	upotreba		h	habit or accepted practice
 used	korišten		h	that is or has or have been used
 used_to	naviknut		h	accustomed to
@@ -2420,6 +2559,7 @@ utter	potpun		h	to the furthest or most extreme extent — see also absolute, to
 vacant	slobodan		h	not occupied
 vaccine	vakcinski		l	of, pertaining to, caused by, or characteristic of cowpox
 vague	nejasan		h	not clearly expressed
+vain	taštan		h	overly proud of one's appearance
 valuable	vrijedan		h	having a great value
 variable	promjenljiv		h	able to vary
 variant	varijantan		l	showing variety, diverse
@@ -2434,15 +2574,18 @@ vengeance	osveta		h	revenge taken for an insult, injury, or other wrong
 venture	poduhvat		h	a risky or daring undertaking or journey
 venue	mjesto održavanja		h	place, especially the one where a given event is to happen
 verify	provjeriti		h	to substantiate or prove the truth of something
+vermiform_appendix	crvuljak		l	blind tube projecting from the caecum
 vermont	Vermont		h	a state in the United States
 vest	potkošulja		h	garment worn under a shirt
 veteran	veteran		h	person with long experience
 via	prolazna rupa		l	small hole in a printed circuit board
 vicinity	blizina		h	proximity, or the state of being near
+victorian	viktorijanski		h	of or relating to the reign of Queen Victoria or that period
 vinyl	vinil		h	univalent radical
 viola	ljubičica		h	botany: any of several flowering plants
 violate	kršiti		h	to break or fail to act by rules
 violation	kršenje		h	act or instance of violating
+viper	guja		h	a poisonous snake in the family Viperidae
 viral	virusni		h	relating to a virus in biological sense
 virginia	Virdžinija		h	state
 virtual	virtuelan		h	in effect or essence, rather than in fact or reality
@@ -2455,6 +2598,7 @@ volatile	hlapljiv		h	evaporating or vaporizing readily under normal conditions
 volcanic_ash	vulkanski pepeo		h	fragments of pulverized rock, minerals and volcanic glass
 voluntary	dobrovoljan		h	done, given, or acting of one's own free will
 vote	glasanje		h	formalised choice
+vowel_harmony	vokalna harmonija		h	phonological process
 w	zapad		h	west
 waiting	čekanje		h	the act of staying or remaining in expectation
 waiting_room	čekaonica		h	room
@@ -2466,12 +2610,14 @@ ward	općinska četvrt		l	administrative subdivision of cities
 warfare	ratovanje		h	the waging of war or armed conflict against an enemy
 warmth	toplina		h	moderate heat; sensation of being warm
 warren	zečja jazbina		h	the system of burrows where rabbits live
+wary	oprezan		h	cautious of danger; timorously or suspiciously prudent; circumspect; scrupulous
 washer	perač		h	something that washes
 washing	pranje		h	action of the verb "to wash"
 way	način		h	method or manner
 wealthy	bogat		h	rich
 wearing	za nošenje		l	intended to be worn
 web	mreža		h	any interconnected set of persons, places, or things
+weekday	radni dan		h	day of the week, excluding weekends
 weekly	sedmično		h	once every week
 weigh	vagati		h	to determine the weight of an object
 weird	čudan		h	having an unusually strange character or behaviour
@@ -2495,13 +2641,16 @@ will	željeti		h	to wish or desire
 will_you_marry_me	Hoćeš li se udati za mene		h	marriage proposal
 willing	voljan		h	ready to do something that is not a matter of course
 windows	Windows		h	Microsoft Windows
+winnie_the_pooh	Vini Pu		h	the fictional bear
 winning	pobjednički		h	that constitutes a win
 winter	zima		h	fourth season, marked by short days and the lowest temperatures
 wisconsin	Wisconsin		h	state of the United States of America
+wit	duhovitost		h	Spoken humour, particularly that thought of quickly
 withdrawal	povlačenje		l	receiving from someone's care what one has earlier entrusted to them
 within	unutar		h	spatially enclosed by
 women	En-Nisa		l	4th sura of the Qur'an
 won	von		h	currency of Korea
+wont	navika		h	habitual way of doing things
 words	prepirka		l	angry debate or conversation
 working	rad		h	operation; action
 workout	trening		h	an exercise session; a period of physical exercise
@@ -2525,6 +2674,7 @@ x	nepoznata		l	unknown quantity or unknown value
 xbox	Xbox		h	video game console manufactured and distributed by Microsoft
 xi	ksi		h	Greek letter
 ya	ja		l	a letter of the Cyrillic alphabet "Я/я"
+yahoo	Yahoo!		h	a popular web portal
 yearly	godišnji		h	happening once every year
 yell	vikati		h	shout (verb)
 yep	da		h	informal "yes"
@@ -2537,4 +2687,6 @@ younger_brother	mlađi brat		h	single-word translations
 youngest	najmlađi		h	superlative form of young
 yours	vaš		h	possessive pronoun, singular
 yourself	sebe		h	(reflexive) your own self
+zen	zen		h	denomination of Buddhism
 zombie	zombi		h	the undead
+zoom	zujanje		h	humming noise from something moving very fast

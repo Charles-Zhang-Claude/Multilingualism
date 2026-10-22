@@ -5,7 +5,7 @@
   "words": 9852,
   "languages": 108,
   "wiktionary": 519230,
-  "machine": 44430
+  "machine": 289971
  },
  "regions": [
   {
@@ -162,7 +162,7 @@
    "native": "Afrikaans",
    "region": "african",
    "wiktionary": 3829,
-   "machine": 2475,
+   "machine": 4964,
    "controlAgreement": {
     "checked": 40,
     "matched": 33
@@ -174,7 +174,11 @@
    "native": "Shqip",
    "region": "european",
    "wiktionary": 5274,
-   "machine": 0
+   "machine": 2473,
+   "controlAgreement": {
+    "checked": 40,
+    "matched": 27
+   }
   },
   {
    "code": "am",
@@ -182,10 +186,10 @@
    "native": "አማርኛ",
    "region": "african",
    "wiktionary": 1655,
-   "machine": 1216,
+   "machine": 4717,
    "controlAgreement": {
-    "checked": 20,
-    "matched": 15
+    "checked": 40,
+    "matched": 28
    }
   },
   {
@@ -195,10 +199,10 @@
    "region": "middle-eastern",
    "rtl": true,
    "wiktionary": 8001,
-   "machine": 1198,
+   "machine": 1840,
    "controlAgreement": {
-    "checked": 29,
-    "matched": 25
+    "checked": 40,
+    "matched": 34
    }
   },
   {
@@ -207,7 +211,11 @@
    "native": "Հայերեն",
    "region": "european",
    "wiktionary": 7258,
-   "machine": 0
+   "machine": 2581,
+   "controlAgreement": {
+    "checked": 40,
+    "matched": 36
+   }
   },
   {
    "code": "az",
@@ -215,10 +223,10 @@
    "native": "Azərbaycanca",
    "region": "middle-eastern",
    "wiktionary": 6034,
-   "machine": 1452,
+   "machine": 3792,
    "controlAgreement": {
-    "checked": 26,
-    "matched": 21
+    "checked": 40,
+    "matched": 32
    }
   },
   {
@@ -227,10 +235,10 @@
    "native": "Euskara",
    "region": "european",
    "wiktionary": 3455,
-   "machine": 1945,
+   "machine": 4964,
    "controlAgreement": {
-    "checked": 33,
-    "matched": 26
+    "checked": 40,
+    "matched": 30
    }
   },
   {
@@ -239,10 +247,10 @@
    "native": "Беларуская",
    "region": "european",
    "wiktionary": 7168,
-   "machine": 1454,
+   "machine": 2664,
    "controlAgreement": {
-    "checked": 23,
-    "matched": 19
+    "checked": 40,
+    "matched": 34
    }
   },
   {
@@ -251,7 +259,7 @@
    "native": "বাংলা",
    "region": "asian",
    "wiktionary": 4068,
-   "machine": 2477,
+   "machine": 4716,
    "controlAgreement": {
     "checked": 40,
     "matched": 31
@@ -263,7 +271,7 @@
    "native": "Bosanski",
    "region": "european",
    "wiktionary": 7217,
-   "machine": 2468,
+   "machine": 2620,
    "controlAgreement": {
     "checked": 40,
     "matched": 32
@@ -299,10 +307,10 @@
    "native": "Cebuano",
    "region": "austronesian",
    "wiktionary": 1073,
-   "machine": 1753,
+   "machine": 4968,
    "controlAgreement": {
-    "checked": 26,
-    "matched": 23
+    "checked": 40,
+    "matched": 30
    }
   },
   {
@@ -311,7 +319,11 @@
    "native": "Chichewa",
    "region": "african",
    "wiktionary": 568,
-   "machine": 0
+   "machine": 2482,
+   "controlAgreement": {
+    "checked": 40,
+    "matched": 27
+   }
   },
   {
    "code": "zh-Hans",
@@ -319,7 +331,11 @@
    "native": "简体中文",
    "region": "asian",
    "wiktionary": 8727,
-   "machine": 0
+   "machine": 1116,
+   "controlAgreement": {
+    "checked": 39,
+    "matched": 30
+   }
   },
   {
    "code": "zh-Hant",
@@ -327,7 +343,11 @@
    "native": "繁體中文",
    "region": "asian",
    "wiktionary": 8726,
-   "machine": 0
+   "machine": 1117,
+   "controlAgreement": {
+    "checked": 40,
+    "matched": 34
+   }
   },
   {
    "code": "co",
@@ -335,7 +355,7 @@
    "native": "Corsu",
    "region": "european",
    "wiktionary": 696,
-   "machine": 2481,
+   "machine": 4970,
    "controlAgreement": {
     "checked": 40,
     "matched": 27
@@ -347,7 +367,11 @@
    "native": "Hrvatski",
    "region": "european",
    "wiktionary": 7217,
-   "machine": 0
+   "machine": 2620,
+   "controlAgreement": {
+    "checked": 40,
+    "matched": 32
+   }
   },
   {
    "code": "cs",
@@ -379,7 +403,11 @@
    "native": "Nederlands",
    "region": "european",
    "wiktionary": 8813,
-   "machine": 0
+   "machine": 1028,
+   "controlAgreement": {
+    "checked": 40,
+    "matched": 40
+   }
   },
   {
    "code": "eo",
@@ -399,7 +427,7 @@
    "native": "Eesti",
    "region": "european",
    "wiktionary": 6193,
-   "machine": 2471,
+   "machine": 3642,
    "controlAgreement": {
     "checked": 40,
     "matched": 33
@@ -411,10 +439,10 @@
    "native": "Filipino",
    "region": "austronesian",
    "wiktionary": 4860,
-   "machine": 974,
+   "machine": 4967,
    "controlAgreement": {
-    "checked": 18,
-    "matched": 11
+    "checked": 40,
+    "matched": 25
    }
   },
   {
@@ -447,10 +475,10 @@
    "native": "Frysk",
    "region": "european",
    "wiktionary": 1768,
-   "machine": 977,
+   "machine": 4966,
    "controlAgreement": {
-    "checked": 16,
-    "matched": 11
+    "checked": 40,
+    "matched": 27
    }
   },
   {
@@ -459,10 +487,10 @@
    "native": "Galego",
    "region": "european",
    "wiktionary": 6706,
-   "machine": 1470,
+   "machine": 3126,
    "controlAgreement": {
-    "checked": 15,
-    "matched": 11
+    "checked": 40,
+    "matched": 32
    }
   },
   {
@@ -471,7 +499,11 @@
    "native": "ქართული",
    "region": "european",
    "wiktionary": 7052,
-   "machine": 0
+   "machine": 2782,
+   "controlAgreement": {
+    "checked": 40,
+    "matched": 32
+   }
   },
   {
    "code": "de",
@@ -491,10 +523,10 @@
    "native": "Ελληνικά",
    "region": "european",
    "wiktionary": 8150,
-   "machine": 1204,
+   "machine": 1693,
    "controlAgreement": {
-    "checked": 28,
-    "matched": 26
+    "checked": 40,
+    "matched": 36
    }
   },
   {
@@ -503,10 +535,10 @@
    "native": "ગુજરાતી",
    "region": "asian",
    "wiktionary": 1697,
-   "machine": 482,
+   "machine": 4966,
    "controlAgreement": {
-    "checked": 14,
-    "matched": 8
+    "checked": 40,
+    "matched": 27
    }
   },
   {
@@ -515,7 +547,11 @@
    "native": "Kreyòl ayisyen",
    "region": "other",
    "wiktionary": 1278,
-   "machine": 0
+   "machine": 4469,
+   "controlAgreement": {
+    "checked": 40,
+    "matched": 34
+   }
   },
   {
    "code": "ha",
@@ -523,7 +559,11 @@
    "native": "Hausa",
    "region": "african",
    "wiktionary": 697,
-   "machine": 489
+   "machine": 4971,
+   "controlAgreement": {
+    "checked": 40,
+    "matched": 29
+   }
   },
   {
    "code": "haw",
@@ -531,7 +571,11 @@
    "native": "ʻŌlelo Hawaiʻi",
    "region": "austronesian",
    "wiktionary": 1351,
-   "machine": 0
+   "machine": 3475,
+   "controlAgreement": {
+    "checked": 40,
+    "matched": 21
+   }
   },
   {
    "code": "he",
@@ -540,7 +584,11 @@
    "region": "middle-eastern",
    "rtl": true,
    "wiktionary": 6854,
-   "machine": 242
+   "machine": 2985,
+   "controlAgreement": {
+    "checked": 40,
+    "matched": 30
+   }
   },
   {
    "code": "hi",
@@ -548,7 +596,11 @@
    "native": "हिन्दी",
    "region": "asian",
    "wiktionary": 7041,
-   "machine": 0
+   "machine": 2800,
+   "controlAgreement": {
+    "checked": 40,
+    "matched": 28
+   }
   },
   {
    "code": "hmn",
@@ -556,7 +608,11 @@
    "native": "Hmoob",
    "region": "asian",
    "wiktionary": 417,
-   "machine": 0
+   "machine": 4971,
+   "controlAgreement": {
+    "checked": 40,
+    "matched": 23
+   }
   },
   {
    "code": "hu",
@@ -564,7 +620,11 @@
    "native": "Magyar",
    "region": "european",
    "wiktionary": 8609,
-   "machine": 0
+   "machine": 1232,
+   "controlAgreement": {
+    "checked": 40,
+    "matched": 33
+   }
   },
   {
    "code": "is",
@@ -572,7 +632,11 @@
    "native": "Íslenska",
    "region": "european",
    "wiktionary": 5973,
-   "machine": 0
+   "machine": 3859,
+   "controlAgreement": {
+    "checked": 40,
+    "matched": 34
+   }
   },
   {
    "code": "ig",
@@ -580,7 +644,11 @@
    "native": "Igbo",
    "region": "african",
    "wiktionary": 257,
-   "machine": 0
+   "machine": 3225,
+   "controlAgreement": {
+    "checked": 40,
+    "matched": 20
+   }
   },
   {
    "code": "id",
@@ -588,7 +656,11 @@
    "native": "Bahasa Indonesia",
    "region": "austronesian",
    "wiktionary": 5793,
-   "machine": 0
+   "machine": 4036,
+   "controlAgreement": {
+    "checked": 40,
+    "matched": 33
+   }
   },
   {
    "code": "ga",
@@ -596,10 +668,10 @@
    "native": "Gaeilge",
    "region": "european",
    "wiktionary": 6394,
-   "machine": 485,
+   "machine": 3438,
    "controlAgreement": {
-    "checked": 10,
-    "matched": 6
+    "checked": 40,
+    "matched": 23
    }
   },
   {
@@ -608,7 +680,11 @@
    "native": "Italiano",
    "region": "european",
    "wiktionary": 9060,
-   "machine": 0
+   "machine": 788,
+   "controlAgreement": {
+    "checked": 40,
+    "matched": 36
+   }
   },
   {
    "code": "ja",
@@ -616,7 +692,7 @@
    "native": "日本語",
    "region": "asian",
    "wiktionary": 8610,
-   "machine": 1044,
+   "machine": 1233,
    "controlAgreement": {
     "checked": 40,
     "matched": 30
@@ -628,7 +704,11 @@
    "native": "Basa Jawa",
    "region": "austronesian",
    "wiktionary": 1114,
-   "machine": 0
+   "machine": 4971,
+   "controlAgreement": {
+    "checked": 40,
+    "matched": 23
+   }
   },
   {
    "code": "kn",
@@ -636,7 +716,11 @@
    "native": "ಕನ್ನಡ",
    "region": "asian",
    "wiktionary": 1445,
-   "machine": 0
+   "machine": 3972,
+   "controlAgreement": {
+    "checked": 40,
+    "matched": 30
+   }
   },
   {
    "code": "kk",
@@ -644,7 +728,11 @@
    "native": "Қазақ",
    "region": "asian",
    "wiktionary": 5244,
-   "machine": 0
+   "machine": 3212,
+   "controlAgreement": {
+    "checked": 40,
+    "matched": 34
+   }
   },
   {
    "code": "km",
@@ -652,7 +740,11 @@
    "native": "ខ្មែរ",
    "region": "asian",
    "wiktionary": 4622,
-   "machine": 0
+   "machine": 2720,
+   "controlAgreement": {
+    "checked": 40,
+    "matched": 18
+   }
   },
   {
    "code": "rw",
@@ -660,7 +752,7 @@
    "native": "Ikinyarwanda",
    "region": "african",
    "wiktionary": 183,
-   "machine": 2388,
+   "machine": 4877,
    "controlAgreement": {
     "checked": 40,
     "matched": 23
@@ -672,7 +764,11 @@
    "native": "한국어",
    "region": "asian",
    "wiktionary": 7857,
-   "machine": 0
+   "machine": 1980,
+   "controlAgreement": {
+    "checked": 40,
+    "matched": 32
+   }
   },
   {
    "code": "kmr",
@@ -680,7 +776,11 @@
    "native": "Kurdî",
    "region": "middle-eastern",
    "wiktionary": 2851,
-   "machine": 0
+   "machine": 3222,
+   "controlAgreement": {
+    "checked": 40,
+    "matched": 23
+   }
   },
   {
    "code": "ky",
@@ -688,7 +788,11 @@
    "native": "Кыргызча",
    "region": "asian",
    "wiktionary": 4299,
-   "machine": 0
+   "machine": 3218,
+   "controlAgreement": {
+    "checked": 40,
+    "matched": 34
+   }
   },
   {
    "code": "lo",
@@ -696,7 +800,11 @@
    "native": "ລາວ",
    "region": "asian",
    "wiktionary": 3662,
-   "machine": 0
+   "machine": 2721,
+   "controlAgreement": {
+    "checked": 40,
+    "matched": 13
+   }
   },
   {
    "code": "la",
@@ -704,7 +812,11 @@
    "native": "Latina",
    "region": "other",
    "wiktionary": 5838,
-   "machine": 0
+   "machine": 3991,
+   "controlAgreement": {
+    "checked": 40,
+    "matched": 27
+   }
   },
   {
    "code": "lv",
@@ -712,7 +824,11 @@
    "native": "Latviešu",
    "region": "european",
    "wiktionary": 6072,
-   "machine": 0
+   "machine": 2715,
+   "controlAgreement": {
+    "checked": 40,
+    "matched": 36
+   }
   },
   {
    "code": "lt",
@@ -720,7 +836,11 @@
    "native": "Lietuvių",
    "region": "european",
    "wiktionary": 5834,
-   "machine": 0
+   "machine": 2726,
+   "controlAgreement": {
+    "checked": 40,
+    "matched": 33
+   }
   },
   {
    "code": "lb",
@@ -728,7 +848,11 @@
    "native": "Lëtzebuergesch",
    "region": "european",
    "wiktionary": 1834,
-   "machine": 0
+   "machine": 3470,
+   "controlAgreement": {
+    "checked": 40,
+    "matched": 30
+   }
   },
   {
    "code": "mk",
@@ -736,7 +860,11 @@
    "native": "Македонски",
    "region": "european",
    "wiktionary": 7145,
-   "machine": 0
+   "machine": 2473,
+   "controlAgreement": {
+    "checked": 40,
+    "matched": 32
+   }
   },
   {
    "code": "mg",
@@ -744,7 +872,11 @@
    "native": "Malagasy",
    "region": "african",
    "wiktionary": 730,
-   "machine": 0
+   "machine": 2481,
+   "controlAgreement": {
+    "checked": 40,
+    "matched": 27
+   }
   },
   {
    "code": "ms",
@@ -752,7 +884,11 @@
    "native": "Bahasa Melayu",
    "region": "austronesian",
    "wiktionary": 5522,
-   "machine": 0
+   "machine": 2472,
+   "controlAgreement": {
+    "checked": 40,
+    "matched": 37
+   }
   },
   {
    "code": "ml",
@@ -760,7 +896,11 @@
    "native": "മലയാളം",
    "region": "asian",
    "wiktionary": 2805,
-   "machine": 0
+   "machine": 2474,
+   "controlAgreement": {
+    "checked": 40,
+    "matched": 28
+   }
   },
   {
    "code": "mt",
@@ -768,7 +908,11 @@
    "native": "Malti",
    "region": "european",
    "wiktionary": 2669,
-   "machine": 0
+   "machine": 2475,
+   "controlAgreement": {
+    "checked": 40,
+    "matched": 30
+   }
   },
   {
    "code": "mi",
@@ -776,7 +920,11 @@
    "native": "Te reo Māori",
    "region": "austronesian",
    "wiktionary": 4962,
-   "machine": 0
+   "machine": 2472,
+   "controlAgreement": {
+    "checked": 40,
+    "matched": 12
+   }
   },
   {
    "code": "mr",
@@ -784,7 +932,11 @@
    "native": "मराठी",
    "region": "asian",
    "wiktionary": 2611,
-   "machine": 0
+   "machine": 2477,
+   "controlAgreement": {
+    "checked": 40,
+    "matched": 29
+   }
   },
   {
    "code": "mn",
@@ -792,7 +944,11 @@
    "native": "Монгол",
    "region": "asian",
    "wiktionary": 4044,
-   "machine": 0
+   "machine": 2475,
+   "controlAgreement": {
+    "checked": 40,
+    "matched": 31
+   }
   },
   {
    "code": "my",
@@ -800,7 +956,11 @@
    "native": "မြန်မာ",
    "region": "asian",
    "wiktionary": 3798,
-   "machine": 0
+   "machine": 2476,
+   "controlAgreement": {
+    "checked": 40,
+    "matched": 25
+   }
   },
   {
    "code": "ne",
@@ -808,7 +968,11 @@
    "native": "नेपाली",
    "region": "asian",
    "wiktionary": 1227,
-   "machine": 0
+   "machine": 2477,
+   "controlAgreement": {
+    "checked": 40,
+    "matched": 25
+   }
   },
   {
    "code": "no",
@@ -816,7 +980,11 @@
    "native": "Norsk",
    "region": "european",
    "wiktionary": 7668,
-   "machine": 0
+   "machine": 2168,
+   "controlAgreement": {
+    "checked": 40,
+    "matched": 37
+   }
   },
   {
    "code": "or",
@@ -824,7 +992,11 @@
    "native": "ଓଡ଼ିଆ",
    "region": "asian",
    "wiktionary": 971,
-   "machine": 0
+   "machine": 2479,
+   "controlAgreement": {
+    "checked": 40,
+    "matched": 27
+   }
   },
   {
    "code": "ps",
@@ -833,7 +1005,11 @@
    "region": "middle-eastern",
    "rtl": true,
    "wiktionary": 2384,
-   "machine": 0
+   "machine": 2475,
+   "controlAgreement": {
+    "checked": 40,
+    "matched": 20
+   }
   },
   {
    "code": "fa",
@@ -842,10 +1018,10 @@
    "region": "middle-eastern",
    "rtl": true,
    "wiktionary": 7041,
-   "machine": 968,
+   "machine": 2794,
    "controlAgreement": {
-    "checked": 19,
-    "matched": 15
+    "checked": 40,
+    "matched": 30
    }
   },
   {
@@ -854,7 +1030,11 @@
    "native": "Polski",
    "region": "european",
    "wiktionary": 9113,
-   "machine": 0
+   "machine": 734,
+   "controlAgreement": {
+    "checked": 40,
+    "matched": 37
+   }
   },
   {
    "code": "pt",
@@ -862,7 +1042,11 @@
    "native": "Português",
    "region": "european",
    "wiktionary": 9396,
-   "machine": 0
+   "machine": 451,
+   "controlAgreement": {
+    "checked": 40,
+    "matched": 33
+   }
   },
   {
    "code": "pa",
@@ -870,7 +1054,11 @@
    "native": "ਪੰਜਾਬੀ",
    "region": "asian",
    "wiktionary": 1613,
-   "machine": 0
+   "machine": 2479,
+   "controlAgreement": {
+    "checked": 40,
+    "matched": 23
+   }
   },
   {
    "code": "ro",
@@ -878,7 +1066,11 @@
    "native": "Română",
    "region": "european",
    "wiktionary": 8081,
-   "machine": 0
+   "machine": 1755,
+   "controlAgreement": {
+    "checked": 40,
+    "matched": 31
+   }
   },
   {
    "code": "ru",
@@ -886,7 +1078,11 @@
    "native": "Русский",
    "region": "european",
    "wiktionary": 9535,
-   "machine": 0
+   "machine": 313,
+   "controlAgreement": {
+    "checked": 40,
+    "matched": 35
+   }
   },
   {
    "code": "sm",
@@ -894,7 +1090,11 @@
    "native": "Gagana Sāmoa",
    "region": "austronesian",
    "wiktionary": 527,
-   "machine": 0
+   "machine": 2482,
+   "controlAgreement": {
+    "checked": 40,
+    "matched": 21
+   }
   },
   {
    "code": "gd",
@@ -902,7 +1102,11 @@
    "native": "Gàidhlig",
    "region": "european",
    "wiktionary": 4080,
-   "machine": 489
+   "machine": 3969,
+   "controlAgreement": {
+    "checked": 40,
+    "matched": 22
+   }
   },
   {
    "code": "sr",
@@ -910,7 +1114,11 @@
    "native": "Српски",
    "region": "european",
    "wiktionary": 7038,
-   "machine": 0
+   "machine": 2468,
+   "controlAgreement": {
+    "checked": 40,
+    "matched": 30
+   }
   },
   {
    "code": "st",
@@ -918,7 +1126,11 @@
    "native": "Sesotho",
    "region": "african",
    "wiktionary": 382,
-   "machine": 0
+   "machine": 2482,
+   "controlAgreement": {
+    "checked": 40,
+    "matched": 19
+   }
   },
   {
    "code": "sn",
@@ -926,7 +1138,11 @@
    "native": "chiShona",
    "region": "african",
    "wiktionary": 188,
-   "machine": 0
+   "machine": 2481,
+   "controlAgreement": {
+    "checked": 40,
+    "matched": 21
+   }
   },
   {
    "code": "sd",
@@ -935,7 +1151,11 @@
    "region": "asian",
    "rtl": true,
    "wiktionary": 429,
-   "machine": 0
+   "machine": 2483,
+   "controlAgreement": {
+    "checked": 40,
+    "matched": 20
+   }
   },
   {
    "code": "si",
@@ -943,7 +1163,11 @@
    "native": "සිංහල",
    "region": "asian",
    "wiktionary": 1364,
-   "machine": 0
+   "machine": 2477,
+   "controlAgreement": {
+    "checked": 40,
+    "matched": 24
+   }
   },
   {
    "code": "sk",
@@ -951,7 +1175,11 @@
    "native": "Slovenčina",
    "region": "european",
    "wiktionary": 6948,
-   "machine": 0
+   "machine": 2468,
+   "controlAgreement": {
+    "checked": 40,
+    "matched": 36
+   }
   },
   {
    "code": "sl",
@@ -959,7 +1187,11 @@
    "native": "Slovenščina",
    "region": "european",
    "wiktionary": 6435,
-   "machine": 0
+   "machine": 2468,
+   "controlAgreement": {
+    "checked": 40,
+    "matched": 38
+   }
   },
   {
    "code": "so",
@@ -967,7 +1199,11 @@
    "native": "Soomaali",
    "region": "african",
    "wiktionary": 707,
-   "machine": 0
+   "machine": 2480,
+   "controlAgreement": {
+    "checked": 40,
+    "matched": 24
+   }
   },
   {
    "code": "es",
@@ -987,7 +1223,11 @@
    "native": "Basa Sunda",
    "region": "austronesian",
    "wiktionary": 622,
-   "machine": 0
+   "machine": 2483,
+   "controlAgreement": {
+    "checked": 40,
+    "matched": 17
+   }
   },
   {
    "code": "sw",
@@ -995,7 +1235,11 @@
    "native": "Kiswahili",
    "region": "african",
    "wiktionary": 3530,
-   "machine": 0
+   "machine": 2475,
+   "controlAgreement": {
+    "checked": 40,
+    "matched": 30
+   }
   },
   {
    "code": "sv",
@@ -1003,7 +1247,11 @@
    "native": "Svenska",
    "region": "european",
    "wiktionary": 8786,
-   "machine": 0
+   "machine": 1055,
+   "controlAgreement": {
+    "checked": 40,
+    "matched": 35
+   }
   },
   {
    "code": "tg",
@@ -1011,7 +1259,11 @@
    "native": "Тоҷикӣ",
    "region": "asian",
    "wiktionary": 4365,
-   "machine": 0
+   "machine": 2473,
+   "controlAgreement": {
+    "checked": 40,
+    "matched": 33
+   }
   },
   {
    "code": "ta",
@@ -1019,7 +1271,11 @@
    "native": "தமிழ்",
    "region": "asian",
    "wiktionary": 3176,
-   "machine": 0
+   "machine": 2475,
+   "controlAgreement": {
+    "checked": 40,
+    "matched": 28
+   }
   },
   {
    "code": "tt",
@@ -1027,7 +1283,11 @@
    "native": "Татар",
    "region": "european",
    "wiktionary": 2372,
-   "machine": 0
+   "machine": 2474,
+   "controlAgreement": {
+    "checked": 40,
+    "matched": 30
+   }
   },
   {
    "code": "te",
@@ -1035,7 +1295,11 @@
    "native": "తెలుగు",
    "region": "asian",
    "wiktionary": 2968,
-   "machine": 0
+   "machine": 2474,
+   "controlAgreement": {
+    "checked": 40,
+    "matched": 20
+   }
   },
   {
    "code": "th",
@@ -1043,7 +1307,11 @@
    "native": "ไทย",
    "region": "asian",
    "wiktionary": 6301,
-   "machine": 0
+   "machine": 2470,
+   "controlAgreement": {
+    "checked": 40,
+    "matched": 29
+   }
   },
   {
    "code": "tr",
@@ -1051,7 +1319,11 @@
    "native": "Türkçe",
    "region": "middle-eastern",
    "wiktionary": 7980,
-   "machine": 0
+   "machine": 1857,
+   "controlAgreement": {
+    "checked": 40,
+    "matched": 33
+   }
   },
   {
    "code": "tk",
@@ -1059,7 +1331,11 @@
    "native": "Türkmençe",
    "region": "asian",
    "wiktionary": 3283,
-   "machine": 0
+   "machine": 2475,
+   "controlAgreement": {
+    "checked": 40,
+    "matched": 28
+   }
   },
   {
    "code": "uk",
@@ -1067,7 +1343,11 @@
    "native": "Українська",
    "region": "european",
    "wiktionary": 8253,
-   "machine": 0
+   "machine": 1587,
+   "controlAgreement": {
+    "checked": 40,
+    "matched": 38
+   }
   },
   {
    "code": "ur",
@@ -1076,7 +1356,11 @@
    "region": "asian",
    "rtl": true,
    "wiktionary": 4613,
-   "machine": 0
+   "machine": 2470,
+   "controlAgreement": {
+    "checked": 40,
+    "matched": 25
+   }
   },
   {
    "code": "ug",
@@ -1085,7 +1369,11 @@
    "region": "asian",
    "rtl": true,
    "wiktionary": 3061,
-   "machine": 0
+   "machine": 2475,
+   "controlAgreement": {
+    "checked": 40,
+    "matched": 30
+   }
   },
   {
    "code": "uz",
@@ -1093,7 +1381,11 @@
    "native": "Oʻzbekcha",
    "region": "asian",
    "wiktionary": 4524,
-   "machine": 0
+   "machine": 2473,
+   "controlAgreement": {
+    "checked": 40,
+    "matched": 29
+   }
   },
   {
    "code": "vi",
@@ -1101,7 +1393,11 @@
    "native": "Tiếng Việt",
    "region": "asian",
    "wiktionary": 6696,
-   "machine": 0
+   "machine": 2471,
+   "controlAgreement": {
+    "checked": 40,
+    "matched": 23
+   }
   },
   {
    "code": "cy",
@@ -1109,7 +1405,7 @@
    "native": "Cymraeg",
    "region": "european",
    "wiktionary": 5028,
-   "machine": 2475,
+   "machine": 4804,
    "controlAgreement": {
     "checked": 40,
     "matched": 31
@@ -1121,7 +1417,11 @@
    "native": "isiXhosa",
    "region": "african",
    "wiktionary": 307,
-   "machine": 0
+   "machine": 2481,
+   "controlAgreement": {
+    "checked": 40,
+    "matched": 16
+   }
   },
   {
    "code": "yi",
@@ -1130,7 +1430,11 @@
    "region": "other",
    "rtl": true,
    "wiktionary": 3829,
-   "machine": 0
+   "machine": 2474,
+   "controlAgreement": {
+    "checked": 40,
+    "matched": 25
+   }
   },
   {
    "code": "yo",
@@ -1138,7 +1442,11 @@
    "native": "Yorùbá",
    "region": "african",
    "wiktionary": 833,
-   "machine": 0
+   "machine": 2481,
+   "controlAgreement": {
+    "checked": 40,
+    "matched": 25
+   }
   },
   {
    "code": "zu",
@@ -1146,7 +1454,11 @@
    "native": "isiZulu",
    "region": "african",
    "wiktionary": 669,
-   "machine": 0
+   "machine": 2482,
+   "controlAgreement": {
+    "checked": 40,
+    "matched": 18
+   }
   }
  ],
  "sources": [
