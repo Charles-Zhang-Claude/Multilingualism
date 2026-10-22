@@ -50,6 +50,10 @@ Requires Python 3.11+ with `orjson`, `wordfreq` and `nltk` (WordNet corpus).
 
 A Wiktionary translation always takes precedence over a machine translation for the same word and language, so improving Wiktionary and rebuilding improves the site. `pipeline/devserver.py` serves a local preview at `http://127.0.0.1:8765`.
 
+## Corrections
+
+Spotted a wrong or awkward translation? Use “Suggest a correction” at the bottom of any page, which opens a [GitHub issue](https://github.com/Charles-Zhang-Claude/Multilingualism/issues) prefilled with the word or language you were looking at. Fixes to machine translations land in `sources/machine/`; fixes to Wiktionary-sourced translations are best made on Wiktionary itself, and arrive here on the next rebuild.
+
 ## Licence
 
 The data (`data/`, `sources/`) is licensed [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), as required by Wiktionary's licence; please credit “Multilingualism, from Wiktionary contributors”. The code (`app/`, `pipeline/`) is MIT licensed. See `LICENSE`.

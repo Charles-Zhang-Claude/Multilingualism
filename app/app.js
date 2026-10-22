@@ -136,6 +136,36 @@
     if (h) { h.setAttribute("tabindex", "-1"); h.focus({ preventScroll: true }); }
   }
 
+  /* Footer "Suggest a correction": opens a new GitHub issue, prefilled with the word or language being viewed. */
+  const ISSUES = "https://github.com/Charles-Zhang-Claude/Multilingualism/issues/new";
+  function setSuggestLink(name, arg) {
+    const a = document.getElementById("suggest-fix");
+    if (!a) return;
+    const h = main.querySelector("h1");
+    let subject = h ? h.textContent.trim() : "";
+    if (name === "lang") {
+      const l = (parseLangs(arg) || [])[0];
+      if (l) subject = LANG_BY_CODE.get(l).name;
+    }
+    const page = location.origin + location.pathname + location.search;
+    let title = "Correction: ";
+    let body = "";
+    if (name === "word" && subject) {
+      title += subject;
+      body = `Word: ${subject}\nLanguage: \nShown translation: \nSuggested translation: \nNotes (source, region, why): \n\nPage: ${page}\n`;
+    } else if (name === "lang" && subject) {
+      title += `${subject} translations`;
+      body = `Language: ${subject}\nWord: \nShown translation: \nSuggested translation: \nNotes (source, region, why): \n\nPage: ${page}\n`;
+    } else {
+      title = "";
+      body = `Word: \nLanguage: \nShown translation: \nSuggested translation: \nNotes (source, region, why): \n\nPage: ${page}\n`;
+    }
+    const q = new URLSearchParams();
+    if (title) q.set("title", title);
+    q.set("body", body);
+    a.href = `${ISSUES}?${q.toString()}`;
+  }
+
   let routeSeq = 0;
   async function route() {
     const seq = ++routeSeq;
@@ -171,6 +201,7 @@
       const fn = VIEWS[name];
       await fn(arg, langs, p, seq);
       if (seq !== routeSeq) return;
+      setSuggestLink(name, arg);
       if (!url.hash) window.scrollTo(0, 0);
       else { const t = document.getElementById(url.hash.slice(1)); if (t) t.scrollIntoView(); }
       if (name !== "home") focusMain();
