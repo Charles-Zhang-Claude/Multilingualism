@@ -25,7 +25,7 @@
   const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
   const slugify = (s) => String(s || "").toLowerCase().replace(/[^a-z0-9]+/g, "_").replace(/^_+|_+$/g, "");
   const fmt = (n) => Number(n).toLocaleString("en");
-  const norm = (s) => String(s || "").toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g, "").trim();
+  const norm = (s) => String(s || "").toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "").trim();
   const store = {
     get(k, d) { try { const v = localStorage.getItem(k); return v ? JSON.parse(v) : d; } catch (e) { return d; } },
     set(k, v) { try { localStorage.setItem(k, JSON.stringify(v)); } catch (e) { /* storage unavailable */ } },
@@ -697,7 +697,7 @@
       <p>Where Wiktionary has no translation for a language, the gap is filled by machine translation (${fmt(m.counts.machine)} entries) and labelled “Machine translation” on the page and <code>"src": "ai"</code> in the data. Translations the model flagged as uncertain say so. Treat these as a starting point, especially for languages with few online resources.</p>
       <p>Headwords were chosen by everyday frequency (from <a href="https://github.com/rspeer/wordfreq" rel="noopener">wordfreq</a>) among Wiktionary entries that have translation tables, plus common phrases. Categories come from <a href="https://wordnet.princeton.edu/" rel="noopener">Princeton WordNet</a>.</p>
       ${ag.length ? `<h2>How reliable are the machine translations?</h2>
-      <p>To check, the machine translator was also given a hidden sample of words that Wiktionary already covers. The table shows how often its single answer exactly matched one of Wiktionary's translations. A mismatch is often still a valid synonym, so these numbers are a floor, not an error rate.</p>
+      <p>To check, the machine translator was also given a hidden sample of words that Wiktionary already covers. The table shows how often its single answer matched one of Wiktionary's translations, ignoring punctuation, accents and short inflectional endings. A mismatch is often still a valid synonym or spelling, so these numbers are a floor, not an error rate.</p>
       <table class="ref"><thead><tr><th>Language</th><th>Matched</th></tr></thead><tbody>
       ${ag.map((l) => `<tr><td><a href="/lang/${l.code}">${esc(l.name)}</a></td><td>${l.controlAgreement.matched} of ${l.controlAgreement.checked}</td></tr>`).join("")}</tbody></table>` : ""}
       <h2>Corrections</h2>
