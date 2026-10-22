@@ -22,8 +22,8 @@ async def main():
             errs = []
             page.on("console", lambda m: errs.append(m.text) if m.type == "error" else None)
             page.on("pageerror", lambda e: errs.append(str(e)))
-            await page.goto(base + path, wait_until="networkidle")
-            await page.wait_for_timeout(700)
+            await page.goto(base + path, wait_until="load", timeout=90000)
+            await page.wait_for_timeout(4000)
             name = (path.strip("/").replace("/", "_").replace("?", "_").replace("&", "_").replace("=", "-") or "home") + f"_{width}{'_dark' if dark else ''}.png"
             await page.screenshot(path=f"{out}/{name}", full_page=False)
             print(name, "errors:", errs[:3])
