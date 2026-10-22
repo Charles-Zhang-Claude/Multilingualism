@@ -9,12 +9,14 @@ base, out = sys.argv[1].rstrip("/"), sys.argv[2]
 
 async def main():
     async with async_playwright() as p:
-        b = await p.chromium.launch()
+        import os
+        px = os.environ.get("HTTPS_PROXY") or os.environ.get("https_proxy")
+        b = await p.chromium.launch(proxy={"server": px} if px and not base.startswith("http://127.") else None)
         for spec in sys.argv[3:]:
             parts = spec.split("|")
             path, width = parts[0], int(parts[1]) if len(parts) > 1 else 1280
             dark = len(parts) > 2 and parts[2] == "dark"
-            ctx = await b.new_context(viewport={"width": width, "height": 900}, color_scheme="dark" if dark else "light",
+            ctx = await b.new_context(ignore_https_errors=True, viewport={"width": width, "height": 900}, color_scheme="dark" if dark else "light",
                                       device_scale_factor=1)
             page = await ctx.new_page()
             errs = []

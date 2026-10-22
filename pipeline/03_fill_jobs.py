@@ -48,7 +48,7 @@ for f in (jobs / "out").glob("*.tsv"):
     code = f.name.split(".")[0]
     with open(f, encoding="utf-8") as fh:
         for row in csv.reader(fh, delimiter="\t", quoting=csv.QUOTE_NONE):
-            if row and row[0] != "id" and len(row) > 1 and row[1].strip():
+            if row and row[0] != "id" and len(row) > 1 and any(ch.isalpha() for ch in row[1]):
                 slug = OLD_IDS.get(row[0], row[0])
                 if MEANINGS.get(code, {}).get(slug) == current.get(slug):
                     done.setdefault(code, set()).add(slug)

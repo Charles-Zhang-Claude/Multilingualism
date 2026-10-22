@@ -157,7 +157,7 @@ for f in sorted((jobs / "out").glob("*.tsv")):
             if not row or row[0] == "id" or len(row) < 2:
                 continue
             w = row[1].strip().strip('"')
-            if not w:
+            if not w or not any(ch.isalpha() for ch in w):  # placeholders such as "-" or "?"
                 continue
             r = row[2].strip() if len(row) > 2 else ""
             conf = row[3].strip().lower()[:1] if len(row) > 3 else "h"

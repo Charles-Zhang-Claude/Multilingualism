@@ -545,11 +545,12 @@
     const region = META.regions.find((r) => r.id === L.region);
     let rows = d.rows.map((r) => ({ slug: r[0], t: r[1], r: r[2], ai: r[3], w: BY_SLUG.get(r[0]) }))
       .filter((x) => x.w);
+    const hasRom = rows.some((x) => x.r);
     main.innerHTML = `
       <div class="page-head">
         <p class="crumbs"><a href="/languages">Languages</a> / ${esc(region ? region.name : "")}</p>
         <h1 class="headword" lang="${langAttr(code)}" dir="auto" style="font-family:var(--text);font-weight:650">${esc(L.native)}</h1>
-        <p class="lede">${esc(L.name)}: ${fmt(total)} English words and phrases translated, ${fmt(wk)} from Wiktionary and ${fmt(ai)} by machine translation${agree ? ` (in a spot check, machine translations matched Wiktionary for ${agree.matched} of ${agree.checked} words)` : ""}.</p>
+        <p class="lede">${esc(L.name)}: ${fmt(total)} English words and phrases translated, ${ai ? `${fmt(wk)} from Wiktionary and ${fmt(ai)} by machine translation${agree ? ` (in a spot check, machine translations matched Wiktionary for ${agree.matched} of ${agree.checked} words)` : ""}` : "all from Wiktionary so far"}.</p>
         <p class="small links"><a href="?format=json">View as JSON</a><a href="${esc(dataURL("langs/" + code + ".json"))}" rel="noopener">Raw data file</a></p>
       </div>
       <div class="list-tools">
@@ -557,7 +558,7 @@
         <input type="search" id="lf" placeholder="Filter English or ${esc(L.name)}">
         <label>Order <select id="lo"><option value="az">A to Z</option><option value="common">Most common first</option></select></label>
       </div>
-      <table class="words"><thead><tr><th scope="col">English</th><th scope="col">${esc(L.name)}</th><th scope="col">Romanization</th></tr></thead><tbody id="lt"></tbody></table>
+      <table class="words"><thead><tr><th scope="col">English</th><th scope="col">${esc(L.name)}</th>${hasRom ? `<th scope="col">Romanization</th>` : ""}</tr></thead><tbody id="lt"></tbody></table>
       <p class="more" id="lm"></p>`;
     const tbody = document.getElementById("lt"), moreEl = document.getElementById("lm");
     const lf = document.getElementById("lf"), lo = document.getElementById("lo");
@@ -571,7 +572,7 @@
     }
     function more() {
       tbody.insertAdjacentHTML("beforeend", view.slice(shown, shown + PAGE).map((x) =>
-        `<tr><td><a href="/word/${x.slug}">${esc(x.w.word)}</a></td><td class="t" lang="${langAttr(code)}" dir="${dir}">${esc(x.t)}${x.ai ? `<span class="mt" title="Machine translation">machine</span>` : ""}</td><td class="r">${esc(x.r)}</td></tr>`).join(""));
+        `<tr><td><a href="/word/${x.slug}">${esc(x.w.word)}</a></td><td class="t" lang="${langAttr(code)}" dir="${dir}">${esc(x.t)}${x.ai ? `<span class="mt" title="Machine translation">machine</span>` : ""}</td>${hasRom ? `<td class="r">${esc(x.r)}</td>` : ""}</tr>`).join(""));
       shown += PAGE;
       moreEl.innerHTML = shown < view.length ? `<button class="btn secondary" type="button">Show more (${fmt(view.length - shown)} left)</button>` : (view.length ? "" : `<span class="muted">Nothing matches that filter.</span>`);
       const b = moreEl.querySelector("button");
