@@ -116,8 +116,18 @@ def primary(rec):
 
 
 def norm_cmp(s):
-    s = unicodedata.normalize("NFD", s.lower())
-    return "".join(ch for ch in s if not unicodedata.combining(ch)).strip(" .!?¡¿")
+    s = unicodedata.normalize("NFKD", s.lower())
+    s = "".join(ch for ch in s if not unicodedata.combining(ch))
+    return re.sub(r"[\s.!?¡¿。？！、,，'’\-]", "", s)
+
+
+def close_match(a, accepted):
+    """Same word, allowing punctuation, accents, and a short inflectional ending (基本的な / 基本的)."""
+    a = norm_cmp(a)
+    for b in map(norm_cmp, accepted):
+        if a == b or (min(len(a), len(b)) >= 2 and (a.startswith(b) or b.startswith(a)) and abs(len(a) - len(b)) <= 2):
+            return True
+    return False
 
 
 def sr_roman(cyr):
@@ -137,7 +147,9 @@ def trim(items):
 
 
 # ---------- AI fills ----------
-fills = collections.defaultdict(dict)   # code -> id -> (w, r, conf)
+IDS = json.loads((jobs / "ids_v1.json").read_text()) if (jobs / "ids_v1.json").exists() else {}  # pilot ids -> slugs
+MEANINGS = json.loads((jobs / "meanings.json").read_text()) if (jobs / "meanings.json").exists() else {}
+fills = collections.defaultdict(dict)   # code -> slug -> (w, r, conf)
 for f in sorted((jobs / "out").glob("*.tsv")):
     code = f.name.split(".")[0]
     with open(f, encoding="utf-8") as fh:
@@ -155,17 +167,22 @@ for f in sorted((jobs / "out").glob("*.tsv")):
                 w = re.sub(r"[֑-ׇ]", "", w)
             if code == "ar":
                 w = re.sub(r"[ً-ْٰـ]", "", w)
-            fills[code][row[0].strip()] = (w, r, conf or "h")
+            fid = row[0].strip()
+            fills[code][IDS.get(fid, fid)] = (w, r, conf or "h")
 
 controls = json.loads((jobs / "controls.json").read_text()) if (jobs / "controls.json").exists() else {}
 agreement = {}
 for code, ctl in controls.items():
-    got = [(fills[code][i][0], acc) for i, acc in ctl.items() if i in fills.get(code, {})]
+    got = [(fills[code][IDS.get(i, i)][0], acc) for i, acc in ctl.items() if IDS.get(i, i) in fills.get(code, {})]
     if len(got) >= 10:
-        hit = sum(1 for w, acc in got if norm_cmp(w) in {norm_cmp(a) for a in acc})
+        hit = sum(1 for w, acc in got if close_match(w, acc))
         agreement[code] = {"checked": len(got), "matched": hit}
 
 # ---------- build ----------
+def clean(t):
+    return (t or "").replace("\t", " ").replace("\n", " ").strip()
+
+stale = 0
 if outdir.exists():
     shutil.rmtree(outdir)
 (outdir / "words").mkdir(parents=True)
@@ -188,8 +205,10 @@ for rec in recs:
         if items:
             tr[code] = trim(items)
             stats[(code, "wikt")] += 1
-        elif str(rec["rank"]) in fills.get(code, {}):
-            w, r, conf = fills[code][str(rec["rank"])]
+        elif slug in fills.get(code, {}) and MEANINGS.get(code, {}).get(slug, None) not in (None, clean(s["gloss"] or (e["defs"][0] if e["defs"] else ""))[:160]):
+            stale += 1  # fill was made for a different meaning; leave for the top-up pass
+        elif slug in fills.get(code, {}):
+            w, r, conf = fills[code][slug]
             it = {"w": w, "src": "ai"}
             if r:
                 it["r"] = r
@@ -260,5 +279,6 @@ meta = {
 (outdir / "index.json").write_text(json.dumps({"columns": ["slug", "word", "pos", "category", "languages"], "rows": index},
                                               ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
 print("words", n, "| wiktionary cells", meta["counts"]["wiktionary"], "| machine cells", meta["counts"]["machine"])
+print("stale fills skipped:", stale)
 print("control agreement:", {k: f"{v['matched']}/{v['checked']}" for k, v in agreement.items()})
 print("categories:", dict(cat_count.most_common()))

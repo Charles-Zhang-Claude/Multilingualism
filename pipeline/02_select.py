@@ -13,7 +13,7 @@ HERE = Path(__file__).parent
 LANGS = json.loads((HERE / "languages.json").read_text())
 src, dst = sys.argv[1], sys.argv[2]
 TARGET = int(sys.argv[3]) if len(sys.argv) > 3 else 10000
-MAX_PHRASES = 1500
+MAX_PHRASES = 1800
 SKIP_POS = {"prefix", "suffix", "infix", "interfix", "affix", "character", "symbol",
             "punct", "abbrev", "circumfix", "combining_form", "contraction", "romanization"}
 
@@ -54,6 +54,13 @@ EXCLUDE_TAGS = {
 }
 BAD_TAGS = {"obsolete", "archaic", "dated", "rare", "vulgar", "offensive", "derogatory",
             "historical", "nonstandard", "proscribed", "misspelling", "Internet", "dialectal"}
+# capitalised tags that mark a standard script or national standard; any other
+# capitalised tag (Alemannic-German, Egyptian-Arabic, Kajkavian...) marks a dialect
+STANDARD_TAGS = {"Cyrillic", "Latin", "Roman", "Gurmukhi", "Rumi", "Brazil", "Portugal", "Spain", "Latin-America",
+                 "Mexico", "Taiwan", "Mainland-China", "China", "US", "UK", "Canada", "Belgium", "Switzerland", "Austria",
+                 "Croatia", "Serbia", "Bosnia", "Ekavian", "Ijekavian", "Croatian", "Serbian", "Bosnian", "France",
+                 "Quebec", "Netherlands", "Germany", "Europe", "Malaysia", "Singapore", "Vietnam", "South-Korea",
+                 "Catholic", "Protestant", "Bokmål", "Hong-Kong"}
 GENDER = {"masculine": "m", "feminine": "f", "neuter": "n", "common-gender": "c"}
 
 SR_CYR = dict(zip("абвгдђежзијклљмнњопрстћуфхцчџш",
@@ -73,6 +80,9 @@ def strip_accents(s, vowels_only=True):
 def norm_word(code, w):
     w = w.strip()
     w = re.sub(r"\s*\((?:[a-z]{2,3}|[a-z]{2}-[A-Za-z]+)\)$", "", w)  # trailing "(ku)" style codes
+    w2 = re.sub(r"\s*\([^()]{1,30}\)$", "", w)  # trailing notes such as "urukundo (uru-kūndo)"
+    if w2:
+        w = w2
     if code in ("sr", "hr", "bs"):
         w = strip_accents(w)
     elif code in ("ru", "uk", "be", "bg", "mk", "rw"):
@@ -128,7 +138,7 @@ def build_items(code, trs):
         g = "".join(GENDER[x] for x in ("masculine", "feminine", "neuter", "common-gender") if x in tags)
         if g:
             it["g"] = g
-        quality = sum(1 for x in tags if x in BAD_TAGS)
+        quality = sum(1 for x in tags if x in BAD_TAGS or (x[:1].isupper() and x not in STANDARD_TAGS))
         if quality:
             it["x"] = 1  # de-prioritised (archaic/rare/etc.)
         items.append(it)
@@ -140,7 +150,8 @@ def build_items(code, trs):
                 if ijekavian_of(a, b):
                     drop.add(b if code == "sr" else a)
         items = [i for i in items if i["w"] not in drop]
-    items.sort(key=lambda i: i.get("x", 0))  # stable: keep Wiktionary order otherwise
+    if any(not i.get("x") for i in items):  # drop dialect/archaic forms when a standard one exists
+        items = [i for i in items if not i.get("x")]
     for i in items:
         i.pop("x", None)
     return items
@@ -165,8 +176,16 @@ for line in open(src, "rb"):
         continue
     groups[w].append(d)
 
+LETTER = re.compile(r"name of the letter|Latin[- ]script letter|letter of the (?:English|Latin|modern English|basic modern Latin) alphabet|written in the Latin script", re.I)
+BLOCK = {"a"}  # the article has no translation table; only the letter/numeral senses do
+
 records = []
 for w, ents in groups.items():
+    if w.lower() in BLOCK:
+        continue
+    if len(ents) > 1:  # don't let an alphabet-letter entry become the primary meaning
+        rest = [d for d in ents if not (d["senses"] and LETTER.search(d["senses"][0]["gloss"]))]
+        ents = rest or ents
     entries = []
     covered = set()
     for d in ents:
@@ -198,7 +217,7 @@ for w, ents in groups.items():
             })
     if not entries:
         continue
-    multi = " " in w.strip()
+    multi = " " in w.strip() or "-" in w.strip(" -")
     z = zipf_frequency(w, "en")
     records.append({"word": w, "zipf": z, "multi": multi, "cov": len(covered), "entries": entries})
 
@@ -212,7 +231,9 @@ def score(r):
 singles = [r for r in records if not r["multi"] and r["cov"] >= 3 and r["zipf"] > 0]
 phrases = [r for r in records if r["multi"] and r["cov"] >= 12]
 singles.sort(key=score, reverse=True)
-phrases.sort(key=lambda r: (r["cov"] + 8 * r["zipf"]), reverse=True)
+# wordfreq inflates multi-part items (it scores them from their parts), so phrases
+# and hyphenated compounds rank mainly by how widely Wiktionary translates them
+phrases.sort(key=lambda r: (r["cov"] + 2 * r["zipf"]), reverse=True)
 phrases = phrases[:MAX_PHRASES]
 chosen = singles[: TARGET - len(phrases)] + phrases
 
@@ -227,7 +248,7 @@ for r in sorted(chosen, key=score, reverse=True):
 out = open(dst, "w", encoding="utf-8")
 total_cells = 0
 for rank, (slug, rs) in enumerate(by_slug.items(), 1):
-    rs.sort(key=lambda r: (r["word"] != r["word"].lower(), -r["zipf"]))
+    rs.sort(key=lambda r: -r["cov"])  # e.g. "I" (pronoun) before "i" (letter), "us" before "US"
     rec = {"slug": slug, "rank": rank, "word": rs[0]["word"],
            "zipf": round(max(r["zipf"] for r in rs), 2),
            "variants": [{"word": r["word"], "entries": r["entries"]} for r in rs]}

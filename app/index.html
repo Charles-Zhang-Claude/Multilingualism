@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Multilingualism: say it in 108 languages</title>
+<meta name="description" content="How to say English words and phrases in 108 languages, with romanizations. Open data from Wiktionary, with a free JSON API.">
+<meta name="color-scheme" content="light dark">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='7' fill='%2316233b'/%3E%3Ctext x='16' y='22.5' font-family='Arial' font-size='17' font-weight='700' text-anchor='middle' fill='%23dde8f7'%3EM%3C/text%3E%3C/svg%3E">
+<link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,700&display=swap">
+<link rel="stylesheet" href="/styles.css">
+<script src="/config.js"></script>
+<script>try{var t=localStorage.getItem("mlg-theme");if(t)document.documentElement.dataset.theme=t;}catch(e){}</script>
+</head>
+<body>
+<a class="sr-only" href="#main">Skip to content</a>
+<header class="top">
+  <div class="top-inner">
+    <a class="brand" href="/">Multilingualism</a>
+    <form class="search" role="search" id="search-form" autocomplete="off">
+      <label class="sr-only" for="q">Search English words and phrases</label>
+      <svg viewBox="0 0 16 16" aria-hidden="true"><circle cx="7" cy="7" r="5.25" fill="none" stroke="currentColor" stroke-width="1.6"/><path d="M11 11l3.5 3.5" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/></svg>
+      <input id="q" name="q" type="search" placeholder="Type an English word or phrase" role="combobox" aria-expanded="false" aria-controls="suggest" aria-autocomplete="list" spellcheck="false">
+      <ul id="suggest" class="suggest" role="listbox" hidden></ul>
+    </form>
+    <nav aria-label="Main">
+      <a href="/languages" data-nav="languages">Languages</a>
+      <a href="/categories" data-nav="categories">Categories</a>
+      <a href="/api" data-nav="api">API</a>
+    </nav>
+  </div>
+</header>
+<main id="main" tabindex="-1"><p class="loading">Loading…</p></main>
+<footer class="site">
+  <p>Translations come from <a href="https://en.wiktionary.org/" rel="noopener">Wiktionary</a> contributors (CC BY-SA 4.0), extracted by <a href="https://kaikki.org/" rel="noopener">kaikki.org</a>. Gaps are filled by machine translation and marked as such. Data and API are free to reuse under <a href="https://creativecommons.org/licenses/by-sa/4.0/" rel="noopener">CC BY-SA 4.0</a>.</p>
+  <p class="links"><a href="/about">About and sources</a><a href="/api">JSON API</a><a href="https://github.com/Charles-Zhang-Claude/Multilingualism" rel="noopener">Source on GitHub</a><button class="linkbtn" id="theme-toggle" type="button">Switch theme</button></p>
+</footer>
+<script src="/app.js"></script>
+</body>
+</html>
